@@ -1,0 +1,54 @@
+# ── Dependencies ─────────────────────────────────────────
+node_modules/
+
+# ── Build output ─────────────────────────────────────────
+dist/
+dist-ssr/
+
+# ── Environment variables  ⚠️  NUNCA commitar credenciais ──
+.env
+.env.local
+.env.*.local
+.env.development
+.env.production
+.env.staging
+.env.test
+
+# ── Garantir que o template de exemplo SEJA commitado ─────────
+!.env.example
+
+# ── Firebase ──────────────────────────────────────────────
+.firebase/
+firebase-debug.log
+firestore-debug.log
+ui-debug.log
+cors.json
+
+# ── Logs ──────────────────────────────────────────────────
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ── Editor ────────────────────────────────────────────────
+.vscode/*
+!.vscode/extensions.json
+.vscode/settings.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ── OS ────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Misc ──────────────────────────────────────────────────
+coverage/
+*.local
