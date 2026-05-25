@@ -5,7 +5,7 @@ const stats = [
   { icon: BookOpen, value: "200+", label: "Prompts prontos" },
   { icon: Layers, value: "100+", label: "Categorias" },
   { icon: Star, value: "10+", label: "Setores cobertos" },
-  { icon: Copy, value: "1-clique", label: "Para copiar e usar" },
+  { icon: Copy, value: "1 clique", label: "Para copiar e usar" },
 ];
 
 const promptExamples = [

@@ -6,6 +6,7 @@ import { LogoMirante } from "@/components/LogoMirante";
 
 const navLinks = [
   { label: "Recursos",    href: "#recursos"       },
+  { label: "Começar",     href: "#comecar"        },
   { label: "Ferramentas", href: "#ferramentas"     },
   { label: "Portais IA",  href: "#implementacoes"  },
   { label: "Criações",    href: "#criacoes"        },

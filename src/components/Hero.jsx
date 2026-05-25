@@ -37,6 +37,7 @@ export function Hero() {
         <div className="hero-blob hero-blob-1" />
         <div className="hero-blob hero-blob-2" />
         <div className="hero-blob hero-blob-3" />
+        <div className="hero-blob hero-blob-4" />
         <div className="dot-grid absolute inset-0" />
       </div>
 

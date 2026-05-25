@@ -151,27 +151,27 @@
   pointer-events: none;
 }
 
-/* Light mode blobs — Stripe-style pastel */
+/* Light mode blobs — vivid, clearly visible on white */
 .hero-blob-1 {
-  width: 700px;
-  height: 700px;
-  background: radial-gradient(circle, oklch(0.68 0.20 264 / 0.18), transparent 70%);
-  top: -180px;
-  left: -120px;
+  width: 800px;
+  height: 800px;
+  background: radial-gradient(circle, oklch(0.52 0.28 264 / 0.45), transparent 70%);
+  top: -200px;
+  left: -150px;
   animation: blob-drift-1 12s ease-in-out infinite alternate;
 }
 .hero-blob-2 {
-  width: 500px;
-  height: 500px;
-  background: radial-gradient(circle, oklch(0.65 0.24 295 / 0.14), transparent 70%);
-  top: 60px;
-  right: -80px;
+  width: 600px;
+  height: 600px;
+  background: radial-gradient(circle, oklch(0.50 0.30 310 / 0.36), transparent 70%);
+  top: 40px;
+  right: -100px;
   animation: blob-drift-2 15s ease-in-out infinite alternate;
 }
 .hero-blob-3 {
-  width: 400px;
-  height: 400px;
-  background: radial-gradient(circle, oklch(0.68 0.20 230 / 0.12), transparent 70%);
+  width: 500px;
+  height: 500px;
+  background: radial-gradient(circle, oklch(0.55 0.26 230 / 0.30), transparent 70%);
   bottom: -80px;
   left: 30%;
   animation: blob-drift-3 10s ease-in-out infinite alternate;
@@ -186,6 +186,19 @@
 }
 .dark .hero-blob-3 {
   background: radial-gradient(circle, oklch(0.60 0.22 230 / 0.18), transparent 70%);
+}
+
+/* Extra blob — visible in both modes for extra depth */
+.hero-blob-4 {
+  width: 450px;
+  height: 450px;
+  background: radial-gradient(circle, oklch(0.58 0.28 340 / 0.22), transparent 70%);
+  top: 40%;
+  left: -80px;
+  animation: blob-drift-2 18s ease-in-out infinite alternate-reverse;
+}
+.dark .hero-blob-4 {
+  background: radial-gradient(circle, oklch(0.55 0.26 340 / 0.16), transparent 70%);
 }
 
 @keyframes blob-drift-1 {
@@ -203,7 +216,7 @@
 
 /* ── Dot grid pattern ───────────────────────────────────── */
 .dot-grid {
-  background-image: radial-gradient(circle, oklch(0.19 0.08 240 / 0.055) 1px, transparent 1px);
+  background-image: radial-gradient(circle, oklch(0.40 0.18 264 / 0.18) 1px, transparent 1px);
   background-size: 28px 28px;
 }
 .dark .dot-grid {

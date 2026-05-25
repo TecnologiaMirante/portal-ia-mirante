@@ -345,13 +345,18 @@ export function CreationForm() {
       const video  = document.createElement("video");
       const objUrl = URL.createObjectURL(videoFile);
       let done        = false;
-      let seekStarted = false; // track if we already issued a seek
+      let seekStarted = false;
 
       const finish = (blob) => {
         if (done) return;
         done = true;
-        URL.revokeObjectURL(objUrl);
+        video.onloadedmetadata = null;
+        video.onloadeddata     = null;
+        video.onseeked         = null;
+        video.oncanplay        = null;
+        video.onerror          = null;
         video.src = "";
+        URL.revokeObjectURL(objUrl);
         resolve(blob);
       };
 
@@ -368,39 +373,44 @@ export function CreationForm() {
       };
 
       const doSeek = () => {
-        if (seekStarted) return;
+        if (seekStarted || done) return;
         seekStarted = true;
-        video.currentTime = 0.1;
+        // Seek to 10% of duration or 0.5s — whichever is smaller — to get a real frame
+        const target = video.duration && isFinite(video.duration)
+          ? Math.min(video.duration * 0.1, 0.5)
+          : 0.1;
+        video.currentTime = Math.max(target, 0.05);
       };
 
       const timeout = setTimeout(() => {
-        console.warn("[extractFirstFrame] timeout — skipping thumbnail");
-        // last-ditch: if we have a frame at whatever position, capture it
+        console.warn("[extractFirstFrame] timeout — capturing current frame");
         if (video.videoWidth > 0) capture(); else finish(null);
-      }, 12_000);
+      }, 15_000);
 
-      video.muted        = true;
-      video.playsInline  = true;
-      video.preload      = "auto";
-      video.crossOrigin  = "anonymous";
+      // ⚠️ crossOrigin MUST NOT be set for blob: URLs — it breaks canvas capture
+      video.muted       = true;
+      video.playsInline = true;
+      video.preload     = "metadata"; // "metadata" is enough to trigger loadedmetadata faster
 
-      // onloadeddata: at least one frame available — start seek
-      video.onloadeddata = () => {
-        if (video.videoWidth > 0) doSeek(); else finish(null);
+      // 1. loadedmetadata → we know the duration, safe to seek
+      video.onloadedmetadata = () => {
+        if (video.videoWidth > 0) doSeek();
       };
 
-      // onseeked: seek completed — capture the frame
+      // 2. loadeddata fallback → frame data available
+      video.onloadeddata = () => {
+        if (!seekStarted && video.videoWidth > 0) doSeek();
+      };
+
+      // 3. seeked → frame is at the seeked position, capture it
       video.onseeked = () => {
         clearTimeout(timeout);
         capture();
       };
 
-      // oncanplay fallback: fires if browser skips onloadeddata
-      // Only use if seek hasn't started yet, meaning onloadeddata didn't fire
+      // 4. canplay last-resort fallback
       video.oncanplay = () => {
-        if (!done && !seekStarted && video.readyState >= 3 && video.videoWidth > 0) {
-          doSeek();
-        }
+        if (!done && !seekStarted && video.videoWidth > 0) doSeek();
       };
 
       video.onerror = () => { clearTimeout(timeout); finish(null); };

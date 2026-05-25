@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Navigate, Outlet, useLocation, Link } from "react-router-dom";
-import { LogOut, Sun, Moon, ChevronRight, LayoutDashboard, Plus, Edit2 } from "lucide-react";
+import { LogOut, Sun, Moon, ChevronRight, LayoutDashboard, Plus, Edit2, ArrowLeft } from "lucide-react";
 import { LogoMirante } from "@/components/LogoMirante";
 import { useAuth }       from "@/hooks/useAuth";
 import { useTheme }      from "@/hooks/useTheme";
@@ -61,6 +61,14 @@ export function AdminLayout() {
 
             {/* Right */}
             <div className="flex items-center gap-2">
+              <Link
+                to="/"
+                className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-medium text-muted-foreground hover:text-foreground hover:bg-accent border border-transparent hover:border-border transition-all"
+              >
+                <ArrowLeft className="w-3.5 h-3.5" />
+                <span className="hidden sm:inline">Voltar ao Portal</span>
+              </Link>
+
               <span className="text-xs text-muted-foreground hidden sm:block truncate max-w-[160px]">
                 {user.email}
               </span>
