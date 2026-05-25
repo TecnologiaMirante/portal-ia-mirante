@@ -14,8 +14,9 @@ import { AuthProvider } from "@/hooks/useAuth";
 import { Navbar }        from "@/components/Navbar";
 import { Hero }          from "@/components/Hero";
 import { Features }      from "@/components/Features";
-import { AIToolsBanner } from "@/components/AIToolsBanner";
-import { MiranteAIs }    from "@/components/MiranteAIs";
+import { AIToolsBanner }   from "@/components/AIToolsBanner";
+import { GettingStarted }  from "@/components/GettingStarted";
+import { MiranteAIs }      from "@/components/MiranteAIs";
 import { AICreations }   from "@/components/AICreations";
 import { PromptBankCTA } from "@/components/PromptBankCTA";
 import { AIAward }       from "@/components/AIAward";
@@ -29,7 +30,6 @@ import { AdminDashboard } from "@/components/admin/AdminDashboard";
 import { CreationForm }   from "@/components/admin/CreationForm";
 
 /* Visual effects */
-import { CursorFX }       from "@/components/effects/CursorFX";
 import { ScrollProgress } from "@/components/effects/ScrollProgress";
 import { ScrollSpy }      from "@/components/effects/ScrollSpy";
 import { ClickRipple }    from "@/components/effects/ClickRipple";
@@ -47,7 +47,6 @@ function PortalPage() {
     <div className="min-h-screen bg-background text-foreground antialiased">
       <ScrollProgress />
       <ScrollSpy />
-      <CursorFX />
       <ClickRipple />
       <BackToTop />
 
@@ -56,6 +55,7 @@ function PortalPage() {
       <main>
         <Hero />
         <Features />
+        <GettingStarted />
         <AIToolsBanner />
         <MiranteAIs />
         <AICreations />
@@ -63,7 +63,7 @@ function PortalPage() {
         <AIAward />
       </main>
 
-      <Footer />
+      <Footer onOpenPolicy={() => setPolicyOpen(true)} />
 
       <PolicyModal open={policyOpen} onClose={() => setPolicyOpen(false)} />
     </div>

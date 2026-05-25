@@ -2,14 +2,13 @@
  * AICreations — live gallery connected to Firestore
  * Supports: video (YouTube / direct), image, and audio creations
  */
-import { useEffect, useState, useCallback, useMemo } from "react";
+import { useEffect, useState, useCallback, useMemo, useRef } from "react";
 import { collection, onSnapshot } from "firebase/firestore";
 import { db } from "@infra/firebase";
 import {
-  Play,
+  Play, Pause,
   Film,
   X,
-  ExternalLink,
   CalendarDays,
   MapPin,
   User,
@@ -22,10 +21,11 @@ import {
   Music,
   Image as ImageIcon,
   ZoomIn,
-  Copy,
-  Check,
+  Volume2,
+  VolumeX,
+  Maximize2,
+  Minimize2,
 } from "lucide-react";
-import { toast } from "sonner";
 import { TiltCard } from "@/components/effects/TiltCard";
 import { aiTools } from "@/data/aiTools";
 
@@ -117,11 +117,335 @@ function FilterChip({ label, active, color, onClick }) {
   );
 }
 
+/* ─── CustomVideoPlayer ──────────────────────────────────── */
+function CustomVideoPlayer({ src, poster }) {
+  const videoRef     = useRef(null);
+  const containerRef = useRef(null);
+  const hideTimer    = useRef(null);
+  const progressRef  = useRef(null);
+  const playingRef   = useRef(false);
+
+  const [playing,     setPlaying]     = useState(false);
+  const [ended,       setEnded]       = useState(false);
+  const [currentTime, setCurrentTime] = useState(0);
+  const [duration,    setDuration]    = useState(0);
+  const [buffered,    setBuffered]    = useState(0);
+  const [volume,      setVolume]      = useState(1);
+  const [muted,       setMuted]       = useState(false);
+  const [loading,     setLoading]     = useState(true);
+  const [showCtrl,    setShowCtrl]    = useState(true);
+  const [isFS,        setIsFS]        = useState(false);
+  const [seekTip,     setSeekTip]     = useState({ visible: false, x: 0, time: 0 });
+
+  useEffect(() => { playingRef.current = playing; }, [playing]);
+
+  /* auto-hide controls after 3s of inactivity */
+  const reveal = useCallback(() => {
+    setShowCtrl(true);
+    clearTimeout(hideTimer.current);
+    hideTimer.current = setTimeout(() => {
+      if (playingRef.current) setShowCtrl(false);
+    }, 3000);
+  }, []);
+
+  /* attach video events */
+  useEffect(() => {
+    const v = videoRef.current;
+    if (!v) return;
+    const onPlay     = () => { setPlaying(true);  setEnded(false); };
+    const onPause    = () => { setPlaying(false); setShowCtrl(true); };
+    const onTime     = () => setCurrentTime(v.currentTime);
+    const onMeta     = () => { setDuration(v.duration); setLoading(false); };
+    const onProgress = () => {
+      if (v.buffered.length > 0 && v.duration)
+        setBuffered((v.buffered.end(v.buffered.length - 1) / v.duration) * 100);
+    };
+    const onWait  = () => setLoading(true);
+    const onCan   = () => setLoading(false);
+    const onEnd   = () => { setPlaying(false); setEnded(true); setShowCtrl(true); };
+    const onFS    = () => setIsFS(!!document.fullscreenElement);
+
+    v.addEventListener("play",             onPlay);
+    v.addEventListener("pause",            onPause);
+    v.addEventListener("timeupdate",       onTime);
+    v.addEventListener("loadedmetadata",   onMeta);
+    v.addEventListener("progress",         onProgress);
+    v.addEventListener("waiting",          onWait);
+    v.addEventListener("canplay",          onCan);
+    v.addEventListener("ended",            onEnd);
+    document.addEventListener("fullscreenchange", onFS);
+    v.play().catch(() => {});
+    return () => {
+      v.removeEventListener("play",           onPlay);
+      v.removeEventListener("pause",          onPause);
+      v.removeEventListener("timeupdate",     onTime);
+      v.removeEventListener("loadedmetadata", onMeta);
+      v.removeEventListener("progress",       onProgress);
+      v.removeEventListener("waiting",        onWait);
+      v.removeEventListener("canplay",        onCan);
+      v.removeEventListener("ended",          onEnd);
+      document.removeEventListener("fullscreenchange", onFS);
+      clearTimeout(hideTimer.current);
+    };
+  }, []);
+
+  /* keyboard shortcuts */
+  useEffect(() => {
+    const el = containerRef.current;
+    if (!el) return;
+    const onKey = (e) => {
+      const v = videoRef.current;
+      if (!v) return;
+      if (e.target !== el && !el.contains(e.target)) return;
+      if (e.key === " " || e.key === "k") {
+        e.preventDefault();
+        playing ? v.pause() : v.play().catch(() => {});
+        reveal();
+      }
+      if (e.key === "ArrowRight") { e.preventDefault(); v.currentTime = Math.min(v.currentTime + 5, v.duration); reveal(); }
+      if (e.key === "ArrowLeft")  { e.preventDefault(); v.currentTime = Math.max(v.currentTime - 5, 0);           reveal(); }
+      if (e.key === "m") { e.preventDefault(); toggleMute(); }
+      if (e.key === "f") { e.preventDefault(); toggleFS(); }
+    };
+    el.setAttribute("tabindex", "0");
+    el.addEventListener("keydown", onKey);
+    return () => el.removeEventListener("keydown", onKey);
+  }, [playing, reveal]); // eslint-disable-line
+
+  const togglePlay = () => {
+    const v = videoRef.current;
+    if (!v) return;
+    if (ended) { v.currentTime = 0; v.play().catch(() => {}); setEnded(false); reveal(); return; }
+    playing ? v.pause() : v.play().catch(() => {});
+    reveal();
+  };
+
+  const seek = (e) => {
+    const v = videoRef.current;
+    if (!v || !duration) return;
+    const r = progressRef.current.getBoundingClientRect();
+    v.currentTime = Math.max(0, Math.min(((e.clientX - r.left) / r.width) * duration, duration));
+    reveal();
+  };
+
+  const onProgressHover = (e) => {
+    if (!duration || !progressRef.current) return;
+    const r = progressRef.current.getBoundingClientRect();
+    const pct = Math.max(0, Math.min((e.clientX - r.left) / r.width, 1));
+    setSeekTip({ visible: true, x: pct * 100, time: pct * duration });
+  };
+
+  const toggleMute = () => {
+    const v = videoRef.current;
+    if (!v) return;
+    v.muted = !v.muted;
+    setMuted(v.muted);
+  };
+
+  const changeVolume = (e) => {
+    const v = videoRef.current;
+    if (!v) return;
+    const val = parseFloat(e.target.value);
+    v.volume = val;
+    v.muted  = val === 0;
+    setVolume(val);
+    setMuted(val === 0);
+  };
+
+  const toggleFS = () => {
+    if (!document.fullscreenElement) containerRef.current?.requestFullscreen?.();
+    else document.exitFullscreen?.();
+  };
+
+  const fmt = (s) => {
+    if (!isFinite(s) || s < 0) return "0:00";
+    const h = Math.floor(s / 3600);
+    const m = Math.floor((s % 3600) / 60);
+    const sec = String(Math.floor(s % 60)).padStart(2, "0");
+    return h > 0 ? `${h}:${String(m).padStart(2, "0")}:${sec}` : `${m}:${sec}`;
+  };
+
+  const pct = duration > 0 ? (currentTime / duration) * 100 : 0;
+  const volPct = muted ? 0 : volume * 100;
+
+  return (
+    <div
+      ref={containerRef}
+      className="relative w-full aspect-video bg-black select-none outline-none"
+      onMouseMove={reveal}
+      onMouseLeave={() => { if (playingRef.current) setShowCtrl(false); setSeekTip(t => ({ ...t, visible: false })); }}
+    >
+      {/* video — no context menu, no download */}
+      <video
+        ref={videoRef}
+        src={src}
+        poster={poster}
+        className="w-full h-full object-contain"
+        onClick={togglePlay}
+        onContextMenu={(e) => e.preventDefault()}
+        controlsList="nodownload noremoteplayback"
+        disablePictureInPicture
+        playsInline
+        style={{ cursor: showCtrl ? "default" : "none" }}
+      />
+
+      {/* Loading spinner */}
+      {loading && (
+        <div className="absolute inset-0 flex items-center justify-center pointer-events-none">
+          <div className="w-11 h-11 rounded-full border-[3px] border-white/10 border-t-white/70 animate-spin" />
+        </div>
+      )}
+
+      {/* Centre overlay: play / pause flash / replay */}
+      <button
+        className={[
+          "absolute inset-0 flex items-center justify-center transition-opacity duration-200",
+          (!playing && !loading) ? "opacity-100" : "opacity-0 pointer-events-none",
+        ].join(" ")}
+        onClick={togglePlay}
+        tabIndex={-1}
+      >
+        <div
+          className="w-[72px] h-[72px] rounded-full flex items-center justify-center transition-all duration-200 hover:scale-110 active:scale-95"
+          style={{
+            background: "oklch(0.52 0.28 264 / 0.88)",
+            boxShadow: "0 0 0 12px oklch(0.52 0.28 264 / 0.18), 0 0 40px oklch(0.52 0.28 264 / 0.40)",
+          }}
+        >
+          {ended
+            ? <svg className="w-7 h-7 text-white" viewBox="0 0 24 24" fill="currentColor"><path d="M12 5V1L7 6l5 5V7c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6H4c0 4.42 3.58 8 8 8s8-3.58 8-8-3.58-8-8-8z"/></svg>
+            : <Play className="w-8 h-8 text-white fill-white ml-1" />
+          }
+        </div>
+      </button>
+
+      {/* Controls bar */}
+      <div className={[
+        "absolute inset-x-0 bottom-0 transition-all duration-300",
+        showCtrl ? "opacity-100 translate-y-0" : "opacity-0 translate-y-2 pointer-events-none",
+      ].join(" ")}>
+        {/* deep gradient behind controls */}
+        <div className="absolute bottom-0 inset-x-0 h-36 bg-gradient-to-t from-black/95 via-black/60 to-transparent pointer-events-none" />
+
+        <div className="relative px-4 pb-4 pt-1 flex flex-col gap-3">
+
+          {/* ── Progress bar ─────────────────────────────── */}
+          <div
+            ref={progressRef}
+            className="group/prog w-full cursor-pointer flex items-center"
+            style={{ height: "20px" }}
+            onClick={seek}
+            onMouseMove={onProgressHover}
+            onMouseLeave={() => setSeekTip(t => ({ ...t, visible: false }))}
+          >
+            {/* seek time tooltip */}
+            {seekTip.visible && (
+              <div
+                className="absolute bottom-full mb-1 -translate-x-1/2 px-2 py-0.5 rounded-md bg-black/80 text-white text-[11px] font-mono pointer-events-none"
+                style={{ left: `${seekTip.x}%` }}
+              >
+                {fmt(seekTip.time)}
+              </div>
+            )}
+
+            <div className="w-full relative rounded-full overflow-visible"
+              style={{ height: "4px", transition: "height 0.15s" }}
+            >
+              {/* track */}
+              <div className="absolute inset-0 bg-white/15 rounded-full" />
+              {/* buffered */}
+              <div className="absolute left-0 top-0 h-full bg-white/25 rounded-full transition-all duration-300"
+                style={{ width: `${buffered}%` }} />
+              {/* played */}
+              <div
+                className="absolute left-0 top-0 h-full rounded-full"
+                style={{
+                  width: `${pct}%`,
+                  background: "linear-gradient(90deg, oklch(0.65 0.28 264), oklch(0.62 0.26 295))",
+                  boxShadow: "0 0 8px oklch(0.62 0.26 264 / 0.60)",
+                }}
+              />
+              {/* thumb */}
+              <div
+                className="absolute top-1/2 -translate-y-1/2 w-4 h-4 rounded-full bg-white shadow-lg opacity-0 group-hover/prog:opacity-100 transition-opacity scale-0 group-hover/prog:scale-100"
+                style={{
+                  left: `calc(${pct}% - 8px)`,
+                  boxShadow: "0 0 0 3px oklch(0.62 0.26 264 / 0.40)",
+                  transitionProperty: "opacity, transform",
+                  transitionDuration: "150ms",
+                }}
+              />
+            </div>
+          </div>
+
+          {/* ── Controls row ─────────────────────────────── */}
+          <div className="flex items-center gap-1">
+
+            {/* Play / Pause / Replay */}
+            <button onClick={togglePlay}
+              className="w-9 h-9 rounded-full flex items-center justify-center text-white hover:bg-white/12 transition-colors shrink-0"
+            >
+              {ended
+                ? <svg className="w-4 h-4" viewBox="0 0 24 24" fill="white"><path d="M12 5V1L7 6l5 5V7c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6H4c0 4.42 3.58 8 8 8s8-3.58 8-8-3.58-8-8-8z"/></svg>
+                : playing
+                  ? <Pause className="w-4 h-4 fill-white" />
+                  : <Play className="w-4 h-4 fill-white ml-0.5" />}
+            </button>
+
+            {/* Volume group */}
+            <div className="group/vol flex items-center gap-1.5 shrink-0">
+              <button onClick={toggleMute}
+                className="w-8 h-8 rounded-full flex items-center justify-center text-white/70 hover:text-white hover:bg-white/12 transition-colors"
+              >
+                {muted || volPct === 0
+                  ? <VolumeX className="w-4 h-4" />
+                  : <Volume2 className="w-4 h-4" />}
+              </button>
+              {/* volume slider */}
+              <div className="w-0 group-hover/vol:w-16 overflow-hidden transition-all duration-200">
+                <input
+                  type="range" min="0" max="1" step="0.05"
+                  value={muted ? 0 : volume}
+                  onChange={changeVolume}
+                  className="w-16 h-1 appearance-none rounded-full cursor-pointer"
+                  style={{
+                    background: `linear-gradient(90deg, white ${volPct}%, rgba(255,255,255,0.25) ${volPct}%)`,
+                    accentColor: "white",
+                  }}
+                />
+              </div>
+            </div>
+
+            {/* time */}
+            <span className="text-white/55 text-[11px] font-mono tabular-nums flex-1 select-none px-2">
+              {fmt(currentTime)}
+              <span className="text-white/20 mx-1.5">/</span>
+              {fmt(duration)}
+            </span>
+
+            {/* keyboard hint */}
+            <span className="hidden sm:flex items-center gap-1 text-white/20 text-[10px] mr-1 select-none">
+              <kbd className="px-1 py-0.5 rounded border border-white/15 font-mono">Space</kbd>
+              <kbd className="px-1 py-0.5 rounded border border-white/15 font-mono">←→</kbd>
+            </span>
+
+            {/* Fullscreen */}
+            <button onClick={toggleFS}
+              className="w-8 h-8 rounded-full flex items-center justify-center text-white/70 hover:text-white hover:bg-white/12 transition-colors shrink-0"
+            >
+              {isFS ? <Minimize2 className="w-4 h-4" /> : <Maximize2 className="w-4 h-4" />}
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
 /* ─── MediaModal ─────────────────────────────────────────── */
 function MediaModal({ creation, onClose }) {
   const type = getMediaType(creation);
   const ytId = type === "video" ? getYouTubeId(creation.videoUrl) : null;
-  const [copied, setCopied] = useState(false);
 
   useEffect(() => {
     const prev = document.body.style.overflow;
@@ -135,140 +459,142 @@ function MediaModal({ creation, onClose }) {
     return () => document.removeEventListener("keydown", h);
   }, [onClose]);
 
-  function handleCopy() {
-    const url = creation.videoUrl ?? window.location.href;
-    navigator.clipboard?.writeText(url).catch(() => {});
-    setCopied(true);
-    toast.success("Link copiado!", { duration: 2000 });
-    setTimeout(() => setCopied(false), 2000);
-  }
+  /* accent color per type */
+  const accent = type === "audio" ? "oklch(0.55 0.28 264)" : type === "image" ? "oklch(0.60 0.22 230)" : "oklch(0.55 0.28 264)";
 
   return (
     <div
-      className="fixed inset-0 z-[90] flex items-center justify-center p-4 sm:p-8 animate-in fade-in duration-200"
-      style={{ background: "rgba(0,0,0,0.80)", backdropFilter: "blur(6px)" }}
+      className="fixed inset-0 z-[90] flex items-center justify-center p-4 sm:p-6 animate-in fade-in duration-200"
+      style={{ background: "rgba(0,0,0,0.82)", backdropFilter: "blur(8px)" }}
       onClick={onClose}
     >
       <div
-        className="relative w-full max-w-3xl animate-in zoom-in-95 fade-in duration-200 flex flex-col rounded-2xl overflow-hidden bg-card border border-border shadow-2xl"
+        className="relative w-full max-w-3xl animate-in zoom-in-95 fade-in duration-200 flex flex-col rounded-3xl overflow-hidden bg-card border border-border/80"
+        style={{ boxShadow: `0 0 0 1px ${accent.replace(")", "/0.20)")}, 0 24px 80px rgba(0,0,0,0.55), 0 0 60px ${accent.replace(")", "/0.12)")}` }}
         onClick={(e) => e.stopPropagation()}
       >
+        {/* top accent strip */}
+        <div className="h-[3px] w-full shrink-0"
+          style={{ background: `linear-gradient(90deg, ${accent}, ${accent.replace("264)", "295)")}, transparent)` }}
+        />
+
+        {/* close button */}
         <button
           onClick={onClose}
           aria-label="Fechar"
-          className="absolute top-3 right-3 z-20 w-8 h-8 rounded-full bg-black/50 backdrop-blur-sm flex items-center justify-center text-white/80 hover:text-white hover:bg-black/70 transition-colors"
+          className="absolute top-4 right-4 z-20 w-8 h-8 rounded-full bg-black/50 backdrop-blur-sm border border-white/10 flex items-center justify-center text-white/70 hover:text-white hover:bg-black/75 transition-all"
         >
           <X className="w-4 h-4" />
         </button>
 
         {/* ── media area ─────────────────────────────────────── */}
         {type === "image" ? (
-          <div className="w-full bg-black/90 flex items-center justify-center">
+          <div className="w-full bg-black flex items-center justify-center"
+            style={{ minHeight: "240px", maxHeight: "65vh" }}>
             <img
               src={creation.videoUrl}
               alt={creation.title}
               className="max-h-[65vh] w-auto max-w-full object-contain"
             />
           </div>
+
         ) : type === "audio" ? (
-          <div className="w-full p-8 bg-gradient-to-br from-primary/10 via-transparent to-primary/5 flex flex-col items-center gap-5">
-            <div className="w-20 h-20 rounded-3xl bg-primary/15 border border-primary/25 flex items-center justify-center">
-              <Music className="w-9 h-9 text-primary" strokeWidth={1.5} />
+          <div className="w-full px-8 py-10 flex flex-col items-center gap-5"
+            style={{ background: "linear-gradient(135deg, oklch(0.55 0.28 264 / 0.10), oklch(0.58 0.26 295 / 0.06), transparent)" }}>
+            {/* animated rings */}
+            <div className="relative flex items-center justify-center">
+              <div className="absolute w-28 h-28 rounded-full animate-ping opacity-10"
+                style={{ background: "oklch(0.55 0.28 264)" }} />
+              <div className="absolute w-20 h-20 rounded-full animate-pulse opacity-15"
+                style={{ background: "oklch(0.55 0.28 264)" }} />
+              <div className="relative w-16 h-16 rounded-2xl flex items-center justify-center border"
+                style={{ background: "oklch(0.55 0.28 264 / 0.15)", borderColor: "oklch(0.55 0.28 264 / 0.30)" }}>
+                <Music className="w-7 h-7 text-primary" strokeWidth={1.5} />
+              </div>
             </div>
-            <p className="text-sm font-semibold text-foreground text-center max-w-sm leading-snug">
-              {creation.title}
-            </p>
-            <audio
-              src={creation.videoUrl}
-              controls
-              autoPlay
-              className="w-full max-w-sm"
-            />
+            {/* equalizer bars */}
+            <div className="flex items-end gap-1 h-8">
+              {[0.4, 0.7, 1, 0.6, 0.9, 0.5, 0.8, 0.3, 0.7, 1, 0.5].map((h, i) => (
+                <div
+                  key={i}
+                  className="w-1.5 rounded-full"
+                  style={{
+                    height: `${h * 100}%`,
+                    background: "oklch(0.55 0.28 264)",
+                    opacity: 0.6,
+                    animation: `equalizer ${0.8 + i * 0.1}s ease-in-out infinite alternate`,
+                    animationDelay: `${i * 0.08}s`,
+                  }}
+                />
+              ))}
+            </div>
+            <audio src={creation.videoUrl} controls autoPlay className="w-full max-w-md" />
           </div>
+
         ) : (
-          <div className="aspect-video bg-black w-full">
+          /* video */
+          <div className="w-full bg-black">
             {ytId ? (
-              <iframe
-                src={`https://www.youtube.com/embed/${ytId}?autoplay=1&rel=0&modestbranding=1`}
-                allow="autoplay; fullscreen; picture-in-picture"
-                allowFullScreen
-                className="w-full h-full border-0"
-                title={creation.title}
-              />
+              <div className="aspect-video">
+                <iframe
+                  src={`https://www.youtube.com/embed/${ytId}?autoplay=1&rel=0&modestbranding=1&color=white`}
+                  allow="autoplay; fullscreen; picture-in-picture"
+                  allowFullScreen
+                  className="w-full h-full border-0"
+                  title={creation.title}
+                />
+              </div>
             ) : creation.videoUrl ? (
-              <video
+              <CustomVideoPlayer
                 src={creation.videoUrl}
-                controls
-                autoPlay
-                className="w-full h-full"
+                poster={creation.thumbnailUrl ?? undefined}
               />
             ) : (
-              <div className="w-full h-full flex items-center justify-center">
-                <Film className="w-12 h-12 text-white/20" />
+              <div className="aspect-video flex items-center justify-center">
+                <Film className="w-12 h-12 text-white/15" />
               </div>
             )}
           </div>
         )}
 
-        {/* ── info ───────────────────────────────────────────── */}
+        {/* ── info panel ─────────────────────────────────────── */}
         <div className="p-5 flex flex-col gap-3">
-          <div className="flex items-start gap-2">
-            <h3 className="font-bold text-foreground text-base leading-snug flex-1">
-              {creation.title}
-            </h3>
-            {/* copy link */}
-            {creation.videoUrl && (
-              <button
-                onClick={handleCopy}
-                title="Copiar link da mídia"
-                className="shrink-0 mt-0.5 w-7 h-7 rounded-lg border border-border flex items-center justify-center text-muted-foreground hover:text-primary hover:border-primary/40 transition-colors"
-              >
-                {copied
-                  ? <Check className="w-3.5 h-3.5 text-emerald-400" />
-                  : <Copy className="w-3.5 h-3.5" />
-                }
-              </button>
-            )}
-            {/* open in new tab */}
-            {creation.videoUrl && type !== "audio" && (
-              <a
-                href={creation.videoUrl}
-                target="_blank"
-                rel="noopener noreferrer"
-                title="Abrir em nova aba"
-                className="shrink-0 mt-0.5 w-7 h-7 rounded-lg border border-border flex items-center justify-center text-muted-foreground hover:text-primary hover:border-primary/40 transition-colors"
-              >
-                <ExternalLink className="w-3.5 h-3.5" />
-              </a>
-            )}
-          </div>
+          {/* title */}
+          <h3 className="font-bold text-foreground text-base leading-snug">
+            {creation.title}
+          </h3>
+
           {creation.description && (
             <p className="text-sm text-muted-foreground leading-relaxed">
               {creation.description}
             </p>
           )}
+
+          {/* meta */}
           <div className="flex items-center flex-wrap gap-x-4 gap-y-1.5 text-xs text-muted-foreground">
             {creation.where && (
-              <span className="flex items-center gap-1">
-                <MapPin className="w-3 h-3 shrink-0 text-primary/60" />
+              <span className="flex items-center gap-1.5">
+                <MapPin className="w-3 h-3 shrink-0 text-primary/50" />
                 {creation.where}
               </span>
             )}
             {creation.author && (
-              <span className="flex items-center gap-1">
-                <User className="w-3 h-3 shrink-0 text-primary/60" />
+              <span className="flex items-center gap-1.5">
+                <User className="w-3 h-3 shrink-0 text-primary/50" />
                 {creation.author}
               </span>
             )}
             {creation.date && (
-              <span className="flex items-center gap-1">
-                <CalendarDays className="w-3 h-3 shrink-0 text-primary/60" />
+              <span className="flex items-center gap-1.5">
+                <CalendarDays className="w-3 h-3 shrink-0 text-primary/50" />
                 {formatDate(creation.date, true)}
               </span>
             )}
           </div>
+
+          {/* AI badges */}
           {(creation.aiUsed ?? []).length > 0 && (
-            <div className="flex flex-wrap gap-1.5 pt-1 border-t border-border/60">
+            <div className="flex flex-wrap gap-1.5 pt-2 border-t border-border/50">
               {creation.aiUsed.map((t) => (
                 <AiBadge key={t} name={t} />
               ))}

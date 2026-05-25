@@ -47,10 +47,10 @@ export function NeuralBg() {
       ctx.clearRect(0, 0, w, h);
 
       const dark = document.documentElement.classList.contains("dark");
-      const nodeAlpha = dark ? 0.45 : 0.20;
-      const lineAlpha = dark ? 0.18 : 0.07;
-      const nodeRGB = dark ? "129,140,248" : "99,91,255";
-      const lineRGB = dark ? "139,92,246" : "99,91,255";
+      const nodeAlpha = dark ? 0.45 : 0.75;
+      const lineAlpha = dark ? 0.18 : 0.38;
+      const nodeRGB = dark ? "129,140,248" : "85,75,255";
+      const lineRGB = dark ? "139,92,246" : "99,60,240";
 
       nodes.forEach((n) => {
         /* Mouse repulsion */

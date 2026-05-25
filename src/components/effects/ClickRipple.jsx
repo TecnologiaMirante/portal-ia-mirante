@@ -9,7 +9,7 @@ export function ClickRipple() {
       const dark = document.documentElement.classList.contains("dark");
       const color = dark
         ? "rgba(99,91,255,0.30)"
-        : "rgba(99,91,255,0.18)";
+        : "rgba(85,75,255,0.40)";
 
       const el = document.createElement("div");
       Object.assign(el.style, {

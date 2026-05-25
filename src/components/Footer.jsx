@@ -1,4 +1,4 @@
-import { ExternalLink } from "lucide-react";
+import { ExternalLink, ShieldCheck } from "lucide-react";
 import { LogoMirante } from "@/components/LogoMirante";
 
 const footerLinks = [
@@ -79,7 +79,7 @@ const footerLinks = [
   },
 ];
 
-export function Footer() {
+export function Footer({ onOpenPolicy }) {
   const year = new Date().getFullYear();
 
   return (
@@ -94,7 +94,7 @@ export function Footer() {
                 Mirante <span className="gradient-text font-bold">IA</span>
               </span>
             </div>
-            <p className="text-sm text-muted-foreground leading-relaxed max-w-[200px]">
+            <p className="text-sm text-muted-foreground leading-relaxed max-w-50">
               O portal de Inteligência Artificial da Mirante — para equipes que
               fazem mais.
             </p>
@@ -122,6 +122,18 @@ export function Footer() {
                     </a>
                   </li>
                 ))}
+                {/* Botão Política de IA — só na coluna Empresa */}
+                {col.title === "Empresa" && (
+                  <li>
+                    <button
+                      onClick={onOpenPolicy}
+                      className="inline-flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground transition-colors"
+                    >
+                      <ShieldCheck className="w-3.5 h-3.5" />
+                      Política de IA
+                    </button>
+                  </li>
+                )}
               </ul>
             </div>
           ))}
