@@ -53,7 +53,7 @@ function PortalPage() {
       <Navbar onOpenPolicy={() => setPolicyOpen(true)} />
 
       <main>
-        <Hero />
+        <Hero onOpenPolicy={() => setPolicyOpen(true)} />
         <Features />
         <GettingStarted />
         <AIToolsBanner />
