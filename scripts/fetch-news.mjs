@@ -16,21 +16,35 @@ const OUTPUT    = path.join(__dirname, "..", "public", "news.json");
 
 /* ── Fontes RSS ─────────────────────────────────────────── */
 const SOURCES = [
-  { url: "https://oglobo.globo.com/blogs/iai/rss.xml",    name: "O Globo IAI"   },
-  { url: "https://www.aidrop.news/feed",                  name: "AIDrop"        },
-  { url: "https://www.aidrop.news/rss.xml",               name: "AIDrop"        },
-  { url: "https://canaltech.com.br/rss.xml",              name: "Canaltech"     },
-  { url: "https://tecnoblog.net/feed/",                   name: "Tecnoblog"     },
-  { url: "https://olhardigital.com.br/feed/",             name: "Olhar Digital" },
-  { url: "https://www.tecmundo.com.br/rss/news.xml",      name: "TecMundo"      },
+  // Sub-feeds específicos de IA (maior precisão)
+  { url: "https://canaltech.com.br/rss/inteligencia-artificial/", name: "Canaltech IA"   },
+  { url: "https://tecnoblog.net/tag/inteligencia-artificial/feed/", name: "Tecnoblog IA" },
+  { url: "https://www.tecmundo.com.br/rss/inteligencia-artificial.xml", name: "TecMundo IA" },
+
+  // Feeds gerais de tech (filtrados por palavras-chave)
+  { url: "https://canaltech.com.br/rss.xml",              name: "Canaltech"      },
+  { url: "https://tecnoblog.net/feed/",                   name: "Tecnoblog"      },
+
+  // Internacional em inglês (AI-focused)
+  { url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", name: "The Verge AI" },
+  { url: "https://techcrunch.com/category/artificial-intelligence/feed/",     name: "TechCrunch AI" },
 ];
 
 /* ── Palavras-chave para filtrar IA ─────────────────────── */
 const AI_KW = [
-  "intelig", "chatgpt", "openai", "gpt-", " gpt", "gemini", "copilot",
-  "claude", "automação", "machine learning", "deep learning", "llm",
-  "ia generativa", "algoritmo", "neural", "generativa", "automat",
-  "robô inteligente", "inteligência artificial",
+  // Português
+  "intelig", "chatgpt", "openai", "gpt", "gemini", "copilot",
+  "claude", "automação", "automaç", "machine learning", "deep learning",
+  "llm", "ia generativa", "algoritmo", "neural", "generativa",
+  "robô", "inteligência", "aprendizado de máquina", "visão computacional",
+  "processamento de linguagem", "modelo de linguagem", "anthropic",
+  "meta ai", "midjourney", "stable diffusion", "dall-e", "sora",
+  "assistente virtual", "assistente de ia", "chatbot",
+  // Inglês (feeds internacionais)
+  "artificial intelligence", "ai model", "ai tool", "ai system",
+  "language model", "generative ai", "openai", "google ai",
+  "microsoft ai", "ai startup", "machine learning", "deep learning",
+  "chatbot", "ai assistant", "neural network", "foundation model",
 ];
 
 function isAI(title = "", desc = "") {
@@ -208,7 +222,7 @@ async function main() {
     try { prev = JSON.parse(fs.readFileSync(OUTPUT, "utf8")).articles || []; } catch (_) {}
   }
 
-  const final = tagged.length >= 5 ? tagged : prev;
+  const final = tagged.length >= 1 ? tagged : prev;
 
   const payload = {
     updatedAt: new Date().toISOString(),
