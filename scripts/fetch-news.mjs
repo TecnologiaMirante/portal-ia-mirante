@@ -158,9 +158,12 @@ function parseRSS(xml, sourceName) {
     const description = stripHtml(rawDesc).slice(0, 280);
 
     // link — pode vir como <link>URL ou <link href="URL"
-    const link = (between(block, "<link>", "</link>") ||
-                  block.match(/<link[^>]+href=["']([^"']+)["']/i)?.[1] ||
-                  between(block, "<guid>", "</guid>")).trim();
+    const rawLink = between(block, "<link>", "</link>") ||
+                    block.match(/<link[^>]+href=["']([^"']+)["']/i)?.[1] ||
+                    between(block, "<guid>", "</guid>");
+    const link = rawLink
+      .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1")
+      .trim();
 
     const pubDate = between(block, "<pubDate>", "</pubDate>")
                  || between(block, "<published>", "</published>")
