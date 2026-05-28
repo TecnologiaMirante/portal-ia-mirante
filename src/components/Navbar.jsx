@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { Button } from "@/components/ui/button";
-import { Menu, X, Sun, Moon, BookOpen, ShieldCheck } from "lucide-react";
+import { Menu, X, Sun, Moon, BookOpen, ShieldCheck, Newspaper } from "lucide-react";
 import { useTheme } from "@/hooks/useTheme";
 import { LogoMirante } from "@/components/LogoMirante";
 
@@ -55,6 +55,15 @@ export function Navbar({ onOpenPolicy }) {
 
           {/* ── Actions ──────────────────────────────────── */}
           <div className="hidden lg:flex items-center gap-2">
+            {/* Notícias IA */}
+            <a
+              href="/noticias"
+              className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-medium text-muted-foreground hover:text-foreground hover:bg-accent border border-transparent hover:border-border transition-colors"
+            >
+              <Newspaper className="w-3.5 h-3.5" />
+              Notícias IA
+            </a>
+
             {/* Política de IA */}
             <button
               onClick={onOpenPolicy}
@@ -117,6 +126,14 @@ export function Navbar({ onOpenPolicy }) {
                 {link.label}
               </a>
             ))}
+            <a
+              href="/noticias"
+              className="flex items-center gap-1.5 px-3 py-2 rounded-lg text-sm text-muted-foreground hover:text-foreground hover:bg-accent transition-colors"
+              onClick={() => setMobileOpen(false)}
+            >
+              <Newspaper className="w-3.5 h-3.5" />
+              Notícias IA
+            </a>
             <button
               onClick={() => { onOpenPolicy(); setMobileOpen(false); }}
               className="flex items-center gap-1.5 px-3 py-2 rounded-lg text-sm text-muted-foreground hover:text-foreground hover:bg-accent transition-colors text-left"
