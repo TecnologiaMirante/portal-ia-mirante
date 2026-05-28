@@ -35,6 +35,9 @@ import { ScrollSpy }      from "@/components/effects/ScrollSpy";
 import { ClickRipple }    from "@/components/effects/ClickRipple";
 import { BackToTop }      from "@/components/effects/BackToTop";
 
+/* Pages */
+import { NewsPage } from "@/pages/NewsPage";
+
 /* Error boundary + 404 */
 import { ErrorBoundary } from "@/components/ErrorBoundary";
 import { NotFound }      from "@/components/NotFound";
@@ -109,6 +112,9 @@ function App() {
                 <Route path="new"      element={<CreationForm />} />
                 <Route path="edit/:id" element={<CreationForm />} />
               </Route>
+
+              {/* ── Notícias ──────────────────────────── */}
+              <Route path="/noticias" element={<NewsPage />} />
 
               {/* ── 404 ───────────────────────────────── */}
               <Route path="*" element={<NotFound />} />
