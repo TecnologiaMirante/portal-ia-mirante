@@ -1,4 +1,11 @@
-import { ArrowRight, BookOpen, Sparkles, Zap, Compass, ShieldCheck } from "lucide-react";
+import {
+  ArrowRight,
+  BookOpen,
+  Sparkles,
+  Zap,
+  Compass,
+  ShieldCheck,
+} from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { NeuralBg } from "@/components/effects/NeuralBg";
 import { CountUp } from "@/components/CountUp";
@@ -7,11 +14,18 @@ import { LogoMirante } from "@/components/LogoMirante";
 const stats = [
   { value: "200+", label: "Prompts prontos" },
   { value: "100+", label: "Categorias" },
-  { value: "10+",  label: "Ferramentas de IA" },
+  { value: "10+", label: "Ferramentas de IA" },
   { value: "100%", label: "Gratuito para a equipe" },
 ];
 
-const toolPills = ["ChatGPT", "Claude", "Gemini", "HeyGen", "elevenLabs", "Veo"];
+const toolPills = [
+  "ChatGPT",
+  "Claude",
+  "Gemini",
+  "HeyGen",
+  "elevenLabs",
+  "Veo",
+];
 
 export function Hero({ onOpenPolicy }) {
   return (
@@ -21,7 +35,10 @@ export function Hero({ onOpenPolicy }) {
     >
       {/* ── Bg layers ───────────────────────────────── */}
       <NeuralBg />
-      <div className="absolute inset-0 overflow-hidden pointer-events-none" style={{ zIndex: 1 }}>
+      <div
+        className="absolute inset-0 overflow-hidden pointer-events-none"
+        style={{ zIndex: 1 }}
+      >
         <div className="hero-blob hero-blob-1" />
         <div className="hero-blob hero-blob-2" />
         <div className="hero-blob hero-blob-3" />
@@ -51,22 +68,44 @@ export function Hero({ onOpenPolicy }) {
 
         {/* Subtext */}
         <p className="text-base sm:text-lg text-muted-foreground max-w-xl leading-relaxed">
-          Ferramentas, prompts e recursos de IA desenvolvidos para as equipes da Mirante.
+          Ferramentas, prompts e recursos de IA desenvolvidos para as equipes da
+          Mirante.
         </p>
 
         {/* CTAs principais */}
         <div className="flex flex-wrap items-center justify-center gap-3">
           <Button
             className="btn-xl bg-primary hover:bg-primary/90 text-primary-foreground shadow-lg shadow-primary/25 hover:shadow-primary/40 hover:scale-[1.02] transition-all"
-            onClick={() => document.getElementById("ferramentas")?.scrollIntoView({ behavior: "smooth" })}
+            onClick={() =>
+              document
+                .getElementById("ferramentas")
+                ?.scrollIntoView({ behavior: "smooth" })
+            }
           >
             <Sparkles className="w-4 h-4" />
             Explorar Ferramentas
           </Button>
           <Button
-            variant="outline"
-            className="btn-xl border-border hover:border-primary/40 hover:bg-accent hover:scale-[1.02] transition-all"
-            onClick={() => window.open("https://bancodeprompts-mirante.onrender.com", "_blank")}
+            className="btn-xl text-white hover:scale-[1.02] transition-all shadow-lg hover:shadow-xl"
+            style={{
+              background:
+                "linear-gradient(135deg, #7c3aed 0%, #4f46e5 60%, #2563eb 100%)",
+              boxShadow: "0 4px 20px rgba(99,91,255,0.35)",
+            }}
+            onMouseEnter={(e) =>
+              (e.currentTarget.style.boxShadow =
+                "0 6px 28px rgba(99,91,255,0.55)")
+            }
+            onMouseLeave={(e) =>
+              (e.currentTarget.style.boxShadow =
+                "0 4px 20px rgba(99,91,255,0.35)")
+            }
+            onClick={() =>
+              window.open(
+                "https://bancodeprompts-mirante.onrender.com",
+                "_blank",
+              )
+            }
           >
             <BookOpen className="w-4 h-4" />
             Banco de Prompts
@@ -76,7 +115,6 @@ export function Hero({ onOpenPolicy }) {
 
         {/* Cards secundários — lado a lado */}
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 w-full max-w-2xl">
-
           {/* Política de IA */}
           <div
             onClick={onOpenPolicy}
@@ -90,7 +128,9 @@ export function Hero({ onOpenPolicy }) {
             </div>
             <div className="flex-1 text-left min-w-0">
               <div className="flex items-center gap-1.5 mb-0.5">
-                <span className="text-[9px] font-bold uppercase tracking-widest text-amber-600 dark:text-amber-400">Leitura obrigatória</span>
+                <span className="text-[9px] font-bold uppercase tracking-widest text-amber-600 dark:text-amber-400">
+                  Leitura obrigatória
+                </span>
                 <span className="relative flex h-1.5 w-1.5">
                   <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-amber-400 opacity-75" />
                   <span className="relative inline-flex rounded-full h-1.5 w-1.5 bg-amber-500" />
@@ -105,7 +145,11 @@ export function Hero({ onOpenPolicy }) {
 
           {/* Por onde começar */}
           <button
-            onClick={() => document.getElementById("comecar")?.scrollIntoView({ behavior: "smooth" })}
+            onClick={() =>
+              document
+                .getElementById("comecar")
+                ?.scrollIntoView({ behavior: "smooth" })
+            }
             className="group flex items-center gap-3 p-3.5 rounded-2xl border border-primary/20 bg-primary/5 hover:bg-primary/10 hover:border-primary/40 transition-all duration-300 hover:shadow-lg hover:shadow-primary/10 hover:-translate-y-0.5"
           >
             <div className="w-9 h-9 rounded-xl bg-primary/15 border border-primary/20 flex items-center justify-center shrink-0 group-hover:bg-primary/25 transition-colors">
@@ -117,7 +161,9 @@ export function Hero({ onOpenPolicy }) {
                   <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-primary opacity-60" />
                   <span className="relative inline-flex rounded-full h-1.5 w-1.5 bg-primary" />
                 </span>
-                <span className="text-[9px] font-semibold uppercase tracking-widest text-muted-foreground">Novo por aqui?</span>
+                <span className="text-[9px] font-semibold uppercase tracking-widest text-muted-foreground">
+                  Novo por aqui?
+                </span>
               </div>
               <div className="text-sm font-semibold text-foreground group-hover:text-primary transition-colors leading-tight truncate">
                 Comece em 5 passos simples
@@ -125,7 +171,6 @@ export function Hero({ onOpenPolicy }) {
             </div>
             <ArrowRight className="w-3.5 h-3.5 text-primary/50 group-hover:text-primary group-hover:translate-x-1 transition-all shrink-0" />
           </button>
-
         </div>
 
         {/* Stats */}
@@ -135,7 +180,9 @@ export function Hero({ onOpenPolicy }) {
               <span className="text-xl sm:text-2xl font-bold gradient-text">
                 <CountUp value={stat.value} duration={1800} />
               </span>
-              <span className="text-[10px] text-muted-foreground leading-tight text-center">{stat.label}</span>
+              <span className="text-[10px] text-muted-foreground leading-tight text-center">
+                {stat.label}
+              </span>
             </div>
           ))}
         </div>
