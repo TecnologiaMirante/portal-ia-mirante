@@ -40,9 +40,12 @@ O Portal IA Mirante é uma **Single Page Application** (SPA) com três áreas di
 
 ### Portal Público (`/`)
 - **Hero** com animação neural de fundo, blobs animados e dot-grid
+  - Botão primário: **"Notícias de IA"** (scroll para a seção de notícias)
+  - Botão secundário: **"Banco de Prompts"** (abre portal externo)
 - **Ferramentas de IA** — carrossel com ferramentas homologadas, drag-to-scroll, logos com fallback para iniciais
 - **Criações com IA** — galeria com suporte a vídeo, imagem e áudio; modal de visualização; filtros por área/ferramenta/tipo
 - **Banco de Prompts CTA** — link para o portal de prompts interno
+- **Notícias de IA** — seção `#noticias-ia` com os 3 artigos mais recentes e CTA para `/noticias`
 - **Política de IA** — modal com a política oficial de uso de IA da empresa
 - **Por onde começar** — guia de 5 passos para novos usuários
 - **Tema claro/escuro** — alternância persistida em localStorage
@@ -298,6 +301,7 @@ portal-ia-mirante/
 │   ├── news.json                 # Feed de notícias gerado automaticamente (não editar manualmente)
 │   └── ...                       # Outros assets estáticos
 │
+│
 ├── firebaseClient/
 │   └── index.js                  # Inicialização do Firebase (auth, db, storage)
 │
@@ -323,21 +327,22 @@ portal-ia-mirante/
 │   │   ├── Features.jsx
 │   │   ├── Footer.jsx
 │   │   ├── GettingStarted.jsx
-│   │   ├── Hero.jsx
+│   │   ├── Hero.jsx              # Botão 1: Notícias de IA → #noticias-ia | Botão 2: Banco de Prompts
 │   │   ├── MiranteAIs.jsx
-│   │   ├── Navbar.jsx            # Inclui link "Notícias IA" → /noticias
+│   │   ├── Navbar.jsx            # Links de scroll em ordem: Recursos→Começar→Ferramentas→Portais IA→Criações→Notícias IA→Prêmio IA
+│   │   ├── NewsPreview.jsx       # Seção #noticias-ia — 3 artigos recentes + CTA para /noticias
 │   │   ├── PolicyModal.jsx
 │   │   ├── PortalPreview.jsx
 │   │   └── PromptBankCTA.jsx
 │   │
 │   ├── hooks/
 │   │   ├── useAuth.jsx           # Contexto de autenticação Firebase
-│   │   ├── useNews.js            # Lê /news.json com cache localStorage (TTL 1h)
+│   │   ├── useNews.js            # Lê /news.json com cache localStorage (TTL 1h); limpa CDATA das datas
 │   │   ├── useScrollReveal.js
 │   │   └── useTheme.jsx          # Contexto de tema claro/escuro
 │   │
 │   ├── pages/
-│   │   └── NewsPage.jsx          # Página /noticias — feed, filtros por setor, modal leitor
+│   │   └── NewsPage.jsx          # Página /noticias — feed completo, filtros por setor, modal leitor com conteúdo
 │   │
 │   ├── data/
 │   │   ├── aiTools.js

@@ -29,12 +29,9 @@ const DEPT = {
 const ALL_DEPTS = Object.keys(DEPT);
 
 /* ── Helpers ────────────────────────────────────────────── */
-function cleanDate(raw = "") {
-  // Remove CDATA residual: <![CDATA[Thu, 28 May 2026 ...]]>
-  return raw.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1").trim();
-}
+// Datas já chegam limpas do useNews (CDATA removido no hook)
 function timeAgo(d) {
-  const date = new Date(cleanDate(String(d)));
+  const date = new Date(String(d));
   if (isNaN(date)) return "";
   const diff = Date.now() - date.getTime();
   const m = Math.floor(diff / 60000), h = Math.floor(m / 60), day = Math.floor(h / 24);
@@ -47,7 +44,7 @@ function readingTime(text = "") {
   return Math.max(1, Math.round(text.trim().split(/\s+/).length / 200));
 }
 function fmtDate(d) {
-  const date = new Date(cleanDate(String(d)));
+  const date = new Date(String(d));
   if (isNaN(date)) return "";
   return date.toLocaleDateString("pt-BR", { day: "numeric", month: "long", year: "numeric" });
 }
@@ -281,47 +278,45 @@ function ArticleModal({ article, onClose }) {
         </div>
 
         {/* ══ FOOTER CTA ════════════════════════════════════ */}
-        <div className="shrink-0 px-4 sm:px-5 py-3 sm:py-4 border-t border-border bg-card">
-          {/* Mobile: botão full width */}
+        <div className="shrink-0 px-4 sm:px-6 pt-3 pb-4 sm:pb-5 border-t border-border bg-card space-y-3">
+          {/* Fonte */}
+          <div className="flex items-center justify-between text-[10px] text-muted-foreground/50">
+            <span className="uppercase tracking-widest font-semibold">Fonte</span>
+            <span className="font-bold text-foreground/60 truncate max-w-[200px]">{src}</span>
+          </div>
+
+          {/* Botão principal — full width, grande, animado */}
           <a
             href={article.url}
             target="_blank"
             rel="noopener noreferrer"
-            className="flex sm:hidden items-center justify-center gap-2 w-full py-3 rounded-2xl
-              font-bold text-[13px] text-white tracking-wide mb-2
-              transition-all duration-200 active:scale-[0.98]"
+            className="group relative flex items-center justify-center gap-3 w-full py-4 rounded-2xl
+              font-extrabold text-[15px] text-white tracking-wide overflow-hidden
+              transition-all duration-300 hover:scale-[1.02] hover:-translate-y-0.5 active:scale-[0.98]"
             style={{
-              background: "linear-gradient(135deg, #7c3aed 0%, #635bff 55%, #2563eb 100%)",
-              boxShadow: "0 4px 20px oklch(0.55 0.28 264 / 0.3)",
+              background: "linear-gradient(135deg, #7c3aed 0%, #635bff 50%, #2563eb 100%)",
+              boxShadow: "0 8px 32px oklch(0.55 0.28 264 / 0.45), inset 0 1px 0 rgba(255,255,255,0.18)",
+            }}
+            onMouseEnter={(e) => {
+              e.currentTarget.style.boxShadow = "0 12px 40px oklch(0.55 0.28 264 / 0.65), inset 0 1px 0 rgba(255,255,255,0.2)";
+            }}
+            onMouseLeave={(e) => {
+              e.currentTarget.style.boxShadow = "0 8px 32px oklch(0.55 0.28 264 / 0.45), inset 0 1px 0 rgba(255,255,255,0.18)";
             }}
           >
-            <ExternalLink className="w-4 h-4" />
-            Ler matéria completa
-          </a>
-          <p className="sm:hidden text-center text-[10px] text-muted-foreground/50">Fonte: {src}</p>
-
-          {/* Desktop: fonte à esq + botão à dir */}
-          <div className="hidden sm:flex items-center gap-3">
-            <div className="flex-1 min-w-0">
-              <p className="text-[10px] text-muted-foreground/60 uppercase tracking-widest font-semibold">Fonte</p>
-              <p className="text-xs font-bold text-foreground/80 truncate">{src}</p>
-            </div>
-            <a
-              href={article.url}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="shrink-0 inline-flex items-center gap-2 px-5 py-3 rounded-2xl
-                font-bold text-[13px] text-white tracking-wide
-                transition-all duration-200 hover:opacity-90 hover:scale-[1.02] active:scale-[0.98]"
+            {/* Shine animado */}
+            <span
+              className="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-500"
               style={{
-                background: "linear-gradient(135deg, #7c3aed 0%, #635bff 55%, #2563eb 100%)",
-                boxShadow: "0 4px 20px oklch(0.55 0.28 264 / 0.3), inset 0 1px 0 rgba(255,255,255,0.15)",
+                background: "linear-gradient(105deg, transparent 30%, rgba(255,255,255,0.15) 50%, transparent 70%)",
+                backgroundSize: "200% 100%",
+                animation: "shimmer 1.5s ease infinite",
               }}
-            >
-              <ExternalLink className="w-4 h-4" />
-              Ler matéria completa
-            </a>
-          </div>
+            />
+            <ExternalLink className="w-5 h-5 relative z-10 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform duration-200" />
+            <span className="relative z-10">Ler matéria completa no site original</span>
+            <ChevronRight className="w-5 h-5 relative z-10 opacity-70 group-hover:translate-x-1 transition-transform duration-200" />
+          </a>
         </div>
       </div>
     </div>

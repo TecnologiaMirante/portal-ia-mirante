@@ -1,13 +1,15 @@
 import { useEffect, useState } from "react";
 
 const SECTIONS = [
-  { id: "hero",            label: "Início" },
-  { id: "recursos",        label: "Recursos" },
-  { id: "ferramentas",     label: "Ferramentas" },
-  { id: "implementacoes",  label: "Portais IA" },
-  { id: "criacoes",        label: "Criações" },
-  { id: "banco-prompts",   label: "Banco de Prompts" },
-  { id: "premio-ia",       label: "Prêmio IA" },
+  { id: "hero",            label: "Início"          },
+  { id: "recursos",        label: "Recursos"        },
+  { id: "comecar",         label: "Começar"         },
+  { id: "ferramentas",     label: "Ferramentas"     },
+  { id: "implementacoes",  label: "Portais IA"      },
+  { id: "criacoes",        label: "Criações"        },
+  { id: "banco-prompts",   label: "Banco de Prompts"},
+  { id: "noticias-ia",     label: "Notícias IA"     },
+  { id: "premio-ia",       label: "Prêmio IA"       },
 ];
 
 export function ScrollSpy() {
