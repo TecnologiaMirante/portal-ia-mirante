@@ -120,6 +120,10 @@
     @apply font-sans;
     scroll-behavior: smooth;
   }
+  /* Compensa a navbar fixa (h-14 = 56px) em todos os anchors */
+  section[id] {
+    scroll-margin-top: 4rem;
+  }
 }
 
 /* ── Gradient text ──────────────────────────────────────── */

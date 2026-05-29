@@ -33,6 +33,7 @@ import { CreationForm }   from "@/components/admin/CreationForm";
 /* Visual effects */
 import { ScrollProgress } from "@/components/effects/ScrollProgress";
 import { ScrollSpy }      from "@/components/effects/ScrollSpy";
+import { ScrollToTop }    from "@/components/effects/ScrollToTop";
 import { ClickRipple }    from "@/components/effects/ClickRipple";
 import { BackToTop }      from "@/components/effects/BackToTop";
 
@@ -103,6 +104,7 @@ function App() {
         <AuthProvider>
           <ErrorBoundary>
             <Toaster />
+            <ScrollToTop />
             <Routes>
               {/* ── Portal principal ──────────────────── */}
               <Route path="/" element={<PortalPage />} />
