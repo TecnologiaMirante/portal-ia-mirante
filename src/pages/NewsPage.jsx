@@ -2,11 +2,11 @@
  * NewsPage — /noticias
  * Feed diário de notícias de IA curadas para todos os setores da Mirante.
  */
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import {
   RefreshCw, ExternalLink, Clock, Newspaper,
-  Sparkles, AlertCircle, ArrowLeft, Rss,
+  Sparkles, AlertCircle, ArrowLeft, Rss, X,
 } from "lucide-react";
 import { useNews }  from "@/hooks/useNews";
 import { useTheme } from "@/hooks/useTheme";
@@ -65,13 +65,135 @@ function SkeletonCard() {
   );
 }
 
+/* ── Modal leitor ───────────────────────────────────────── */
+function ArticleModal({ article, onClose }) {
+  // Fecha com Escape
+  useEffect(() => {
+    const handler = (e) => { if (e.key === "Escape") onClose(); };
+    document.addEventListener("keydown", handler);
+    document.body.style.overflow = "hidden";
+    return () => {
+      document.removeEventListener("keydown", handler);
+      document.body.style.overflow = "";
+    };
+  }, [onClose]);
+
+  const paragraphs = article.content?.split("\n\n").filter(Boolean) ?? [];
+
+  return (
+    <div
+      className="fixed inset-0 z-50 flex items-end sm:items-center justify-center p-0 sm:p-4"
+      onClick={(e) => { if (e.target === e.currentTarget) onClose(); }}
+    >
+      {/* Backdrop */}
+      <div className="absolute inset-0 bg-black/60 backdrop-blur-sm" onClick={onClose} />
+
+      {/* Painel */}
+      <div className="relative z-10 w-full sm:max-w-2xl max-h-[92dvh] sm:max-h-[88dvh] flex flex-col
+        bg-background border border-border rounded-t-3xl sm:rounded-3xl shadow-2xl overflow-hidden">
+
+        {/* Imagem do topo */}
+        {article.image && (
+          <div className="h-48 sm:h-56 shrink-0 overflow-hidden">
+            <img
+              src={article.image}
+              alt={article.title}
+              className="w-full h-full object-cover"
+              onError={(e) => { e.currentTarget.parentElement.style.display = "none"; }}
+            />
+          </div>
+        )}
+
+        {/* Header */}
+        <div className="flex items-start justify-between gap-3 px-6 pt-5 pb-1 shrink-0">
+          <div className="flex flex-col gap-2 flex-1 min-w-0">
+            {/* Fonte + tempo */}
+            <div className="flex items-center gap-2 text-xs text-muted-foreground flex-wrap">
+              <span className="font-semibold text-foreground/70">{article.source?.name ?? article.source}</span>
+              <span className="text-muted-foreground/40">·</span>
+              <Clock className="w-3 h-3 shrink-0" />
+              <span>{timeAgo(article.publishedAt)}</span>
+              {article.depts?.slice(0, 2).map((d) => (
+                <span key={d} className={`text-[10px] font-semibold px-2 py-0.5 rounded-full border ${DEPT_STYLE[d]}`}>{d}</span>
+              ))}
+            </div>
+            {/* Título */}
+            <h2 className="text-lg sm:text-xl font-bold text-foreground leading-snug">
+              {article.title}
+            </h2>
+          </div>
+
+          {/* Fechar */}
+          <button
+            onClick={onClose}
+            className="shrink-0 p-2 rounded-xl text-muted-foreground hover:text-foreground hover:bg-accent transition-colors"
+          >
+            <X className="w-5 h-5" />
+          </button>
+        </div>
+
+        {/* Corpo scrollável */}
+        <div className="overflow-y-auto flex-1 px-6 py-4 space-y-4">
+          {/* Resumo RSS */}
+          {article.description && (
+            <p className="text-sm text-muted-foreground leading-relaxed italic border-l-2 border-primary/30 pl-3">
+              {article.description}
+            </p>
+          )}
+
+          {/* Conteúdo scraped */}
+          {paragraphs.length > 0 ? (
+            <div className="space-y-4">
+              {paragraphs.map((p, i) => (
+                <p key={i} className="text-sm text-foreground/90 leading-relaxed">
+                  {p}
+                </p>
+              ))}
+            </div>
+          ) : (
+            <div className="flex flex-col items-center gap-3 py-8 text-center">
+              <p className="text-sm text-muted-foreground">
+                Não foi possível extrair o conteúdo completo desta matéria.
+              </p>
+              <a
+                href={article.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-1.5 text-sm font-semibold text-primary hover:text-primary/80 transition-colors"
+              >
+                Ler no site original <ExternalLink className="w-3.5 h-3.5" />
+              </a>
+            </div>
+          )}
+        </div>
+
+        {/* Footer com link original */}
+        <div className="shrink-0 border-t border-border px-6 py-4 flex items-center justify-between gap-3">
+          <span className="text-xs text-muted-foreground">
+            Fonte: {article.source?.name ?? article.source}
+          </span>
+          <a
+            href={article.url}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-1.5 text-xs font-semibold text-primary hover:text-primary/80 transition-colors"
+          >
+            Ver original <ExternalLink className="w-3 h-3" />
+          </a>
+        </div>
+      </div>
+    </div>
+  );
+}
+
 /* ── Artigo card ────────────────────────────────────────── */
-function NewsCard({ article, featured = false }) {
+function NewsCard({ article, featured = false, onClick }) {
   const hasImage = !!article.image;
 
   return (
     <article
-      className={`group flex flex-col rounded-2xl border border-border bg-card overflow-hidden
+      onClick={onClick}
+      className={`group flex flex-col rounded-2xl border border-border bg-card overflow-hidden cursor-pointer
         hover:-translate-y-1 hover:shadow-xl hover:shadow-primary/8 hover:border-primary/25
         transition-all duration-300 ${featured ? "md:flex-row" : ""}`}
     >
@@ -109,7 +231,7 @@ function NewsCard({ article, featured = false }) {
         {/* Fonte + tempo */}
         <div className="flex items-center gap-2 text-xs text-muted-foreground">
           <span className="font-semibold text-foreground/70 truncate max-w-[140px]">
-            {article.source?.name}
+            {article.source?.name ?? article.source}
           </span>
           <span className="text-muted-foreground/40">·</span>
           <Clock className="w-3 h-3 shrink-0" />
@@ -141,15 +263,10 @@ function NewsCard({ article, featured = false }) {
         )}
 
         {/* CTA */}
-        <a
-          href={article.url}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="inline-flex items-center gap-1.5 text-sm font-semibold text-primary hover:text-primary/80 transition-colors mt-auto pt-1 group/link"
-        >
-          Ler artigo completo
-          <ExternalLink className="w-3.5 h-3.5 group-hover/link:translate-x-0.5 group-hover/link:-translate-y-0.5 transition-transform" />
-        </a>
+        <div className="inline-flex items-center gap-1.5 text-sm font-semibold text-primary group-hover:text-primary/80 transition-colors mt-auto pt-1">
+          Ler matéria
+          <ExternalLink className="w-3.5 h-3.5 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform" />
+        </div>
       </div>
     </article>
   );
@@ -214,7 +331,8 @@ function NetworkErrorState({ onRetry, errorMsg }) {
 export function NewsPage() {
   const { articles, loading, error, lastUpdated, refresh } = useNews();
   const { dark, toggle } = useTheme();
-  const [activeFilter, setActiveFilter] = useState("Todos");
+  const [activeFilter, setActiveFilter]     = useState("Todos");
+  const [selectedArticle, setSelectedArticle] = useState(null);
 
   /* Filtragem */
   const filtered = activeFilter === "Todos"
@@ -232,6 +350,9 @@ export function NewsPage() {
 
   return (
     <div className="min-h-screen bg-background text-foreground antialiased">
+      {selectedArticle && (
+        <ArticleModal article={selectedArticle} onClose={() => setSelectedArticle(null)} />
+      )}
 
       {/* ── Navbar ──────────────────────────────────────── */}
       <header className="sticky top-0 z-50 border-b border-border bg-background/80 backdrop-blur-md">
@@ -362,7 +483,7 @@ export function NewsPage() {
                 <p className="text-xs font-semibold uppercase tracking-widest text-primary mb-3">
                   Em destaque
                 </p>
-                <NewsCard article={featured} featured />
+                <NewsCard article={featured} featured onClick={() => setSelectedArticle(featured)} />
               </div>
             )}
 
@@ -374,7 +495,7 @@ export function NewsPage() {
                 </p>
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
                   {rest.map((article, i) => (
-                    <NewsCard key={article.url ?? i} article={article} />
+                    <NewsCard key={article.url ?? i} article={article} onClick={() => setSelectedArticle(article)} />
                   ))}
                 </div>
               </div>

@@ -179,6 +179,46 @@ function parseRSS(xml, sourceName) {
   return items;
 }
 
+/* ── Scraper de conteúdo completo ───────────────────────── */
+async function fetchContent(url) {
+  try {
+    const html = await fetchUrl(url);
+
+    // Tenta pegar a zona principal do artigo
+    const articleMatch = html.match(/<article[^>]*>([\s\S]*?)<\/article>/i);
+    const mainMatch    = html.match(/<main[^>]*>([\s\S]*?)<\/main>/i);
+    const zone         = articleMatch?.[1] || mainMatch?.[1] || html;
+
+    // Extrai parágrafos com texto real (> 60 chars)
+    const pRe = /<p[^>]*>([\s\S]*?)<\/p>/gi;
+    const paragraphs = [];
+    let pm;
+    while ((pm = pRe.exec(zone)) !== null) {
+      const text = stripHtml(pm[1]);
+      if (text.length > 60) paragraphs.push(text);
+    }
+
+    if (paragraphs.length === 0) return null;
+    return paragraphs.slice(0, 14).join("\n\n");
+  } catch {
+    return null;
+  }
+}
+
+/* ── Executa tarefas com limite de concorrência ─────────── */
+async function withConcurrency(items, limit, fn) {
+  const results = new Array(items.length);
+  let idx = 0;
+  async function worker() {
+    while (idx < items.length) {
+      const i = idx++;
+      results[i] = await fn(items[i], i);
+    }
+  }
+  await Promise.all(Array.from({ length: limit }, worker));
+  return results;
+}
+
 /* ── Main ───────────────────────────────────────────────── */
 async function main() {
   console.log("📡 Buscando notícias de IA...\n");
@@ -218,6 +258,14 @@ async function main() {
     .map((a) => ({ ...a, depts: tagDepts(a.title, a.description) }))
     .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
     .slice(0, 40);
+
+  // Scrape do conteúdo completo (5 em paralelo)
+  console.log(`\n🔍 Buscando conteúdo dos artigos (concorrência 5)...`);
+  await withConcurrency(tagged, 5, async (article, i) => {
+    process.stdout.write(`  [${i + 1}/${tagged.length}] ${article.title.slice(0, 60)}... `);
+    article.content = await fetchContent(article.url);
+    console.log(article.content ? `✓ (${article.content.length} chars)` : "– sem conteúdo");
+  });
 
   // Preserva artigos anteriores se não tiver novos
   let prev = [];
