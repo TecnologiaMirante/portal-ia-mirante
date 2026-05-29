@@ -54,21 +54,69 @@ function isAI(title = "", desc = "") {
 
 /* ── Tags por setor ─────────────────────────────────────── */
 const DEPTS = {
-  Marketing:  ["marketing", "publicidade", "campanha", "anúncio", "conteúdo", "mídia", "redes sociais", "marca", "consumidor"],
-  RH:         ["rh", "recursos humanos", "emprego", "carreira", "funcionário", "contratação", "trabalhador", "talento"],
-  Financeiro: ["banco", "crédito", "pagamento", "fraude", "investimento", "economia", "financeiro", "custo", "seguro"],
-  Comercial:  ["vendas", "cliente", "crm", "negócio", "proposta", "contrato", "parceria", "lead"],
-  Jurídico:   ["lei", "regulação", "lgpd", "privacidade", "direito", "tribunal", "legislação", "conformidade", "gdpr"],
-  Gestão:     ["gestão", "produtividade", "automação", "processo", "eficiência", "decisão", "estratégia", "liderança"],
-  Saúde:      ["saúde", "medicina", "hospital", "diagnóstico", "médico", "paciente", "tratamento"],
-  Educação:   ["educação", "escola", "ensino", "aprendizagem", "aluno", "professor", "curso", "treinamento"],
+  Marketing:  ["marketing", "publicidade", "campanha", "anúncio", "conteúdo", "mídia", "redes sociais",
+               "marca", "consumidor", "criativo", "social media", "instagram", "tiktok", "influencer",
+               "advertising", "content", "brand", "audience"],
+  RH:         ["rh", "recursos humanos", "emprego", "carreira", "funcionário", "contratação",
+               "trabalhador", "talento", "recrutamento", "demissão", "trabalho", "profissional",
+               "workforce", "hiring", "employee", "job", "skills"],
+  Financeiro: ["banco", "crédito", "pagamento", "fraude", "investimento", "economia", "financeiro",
+               "custo", "seguro", "fintech", "bolsa", "mercado financeiro", "receita", "lucro",
+               "finance", "banking", "revenue", "budget"],
+  Comercial:  ["vendas", "cliente", "crm", "negócio", "proposta", "contrato", "parceria", "lead",
+               "e-commerce", "loja", "produto", "serviço", "b2b", "b2c", "sales", "customer",
+               "retail", "commerce"],
+  Jurídico:   ["lei", "regulação", "lgpd", "privacidade", "direito", "tribunal", "legislação",
+               "conformidade", "gdpr", "compliance", "regulatório", "norma", "auditoria",
+               "regulation", "legal", "policy", "copyright", "lawsuit"],
+  Gestão:     ["gestão", "produtividade", "automação", "processo", "eficiência", "decisão",
+               "estratégia", "liderança", "rotina", "agenda", "tarefa", "organização", "foco",
+               "reunião", "reuniões", "workflow", "prioridade", "planejamento", "gerenciamento",
+               "productivity", "management", "workflow", "efficiency", "operations"],
+  Saúde:      ["saúde", "medicina", "hospital", "diagnóstico", "médico", "paciente", "tratamento",
+               "doença", "clínica", "farmácia", "mental", "bem-estar", "health", "medical",
+               "clinical", "therapy", "disease"],
+  Educação:   ["educação", "escola", "ensino", "aprendizagem", "aluno", "professor", "curso",
+               "treinamento", "universidade", "faculdade", "aprender", "estudo", "habilidade",
+               "education", "learning", "student", "training", "skill"],
 };
 
-function tagDepts(title = "", desc = "") {
-  const t = `${title} ${desc}`.toLowerCase();
+function tagDepts(title = "", desc = "", content = "") {
+  // Usa título + descrição com peso maior; content como suporte
+  const t = `${title} ${title} ${desc} ${content.slice(0, 1000)}`.toLowerCase();
   return Object.entries(DEPTS)
     .filter(([, kws]) => kws.some((k) => t.includes(k)))
     .map(([d]) => d);
+}
+
+/* ── Filtro de parágrafos lixo ──────────────────────────── */
+const JUNK_RE = [
+  /assine a newsletter/i,
+  /continua após a publicidade/i,
+  /^por .{0,80}editado por/i,
+  /^por .{0,60}[•|]/i,
+  /termos de uso/i,
+  /política de privacidade/i,
+  /inscreva.se/i,
+  /newsletter do/i,
+  /receba notícias/i,
+  /^whatsapp/i,
+  /cadastre.se/i,
+  /você também pode/i,
+  /leia (mais|também)/i,
+  /confira (também|mais)/i,
+  /acesse o site/i,
+  /clique aqui/i,
+  /saiba mais/i,
+];
+
+function cleanContent(text) {
+  if (!text) return null;
+  const paragraphs = text
+    .split("\n\n")
+    .map((p) => p.trim())
+    .filter((p) => p.length > 80 && !JUNK_RE.some((re) => re.test(p)));
+  return paragraphs.length >= 2 ? paragraphs.join("\n\n") : null;
 }
 
 /* ── HTTP fetch simples ─────────────────────────────────── */
@@ -156,8 +204,8 @@ function parseRSS(xml, sourceName) {
     const rawFull = between(block, "<content:encoded>", "</content:encoded>");
     const rawDesc = between(block, "<description>", "</description>");
     const description = stripHtml(rawDesc || rawFull).slice(0, 280);
-    // Conteúdo completo do feed (content:encoded), até 6000 chars
-    const rssContent = rawFull ? stripHtml(rawFull).slice(0, 6000) || null : null;
+    // Conteúdo completo do feed (content:encoded), limpo e sem lixo
+    const rssContent = rawFull ? cleanContent(stripHtml(rawFull).slice(0, 8000)) : null;
 
     // link — pode vir como <link>URL ou <link href="URL"
     const rawLink = between(block, "<link>", "</link>") ||
@@ -167,9 +215,11 @@ function parseRSS(xml, sourceName) {
       .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1")
       .trim();
 
-    const pubDate = between(block, "<pubDate>", "</pubDate>")
-                 || between(block, "<published>", "</published>")
-                 || new Date().toISOString();
+    const rawPub = between(block, "<pubDate>", "</pubDate>")
+               || between(block, "<published>", "</published>");
+    const pubDate = rawPub
+      ? rawPub.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1").trim()
+      : new Date().toISOString();
 
     const image = extractImage(block);
 
@@ -201,7 +251,7 @@ async function fetchContent(url) {
     }
 
     if (paragraphs.length === 0) return null;
-    return paragraphs.slice(0, 14).join("\n\n");
+    return cleanContent(paragraphs.slice(0, 14).join("\n\n"));
   } catch {
     return null;
   }
@@ -255,9 +305,9 @@ async function main() {
 
   console.log(`🤖 Relacionados a IA: ${aiItems.length}`);
 
-  // Adiciona tags e ordena por data
+  // Adiciona tags (usa content também) e ordena por data
   const tagged = aiItems
-    .map((a) => ({ ...a, depts: tagDepts(a.title, a.description) }))
+    .map((a) => ({ ...a, depts: tagDepts(a.title, a.description, a.content || "") }))
     .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
     .slice(0, 40);
 
