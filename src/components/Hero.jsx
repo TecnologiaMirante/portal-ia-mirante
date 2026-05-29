@@ -1,7 +1,7 @@
 import {
   ArrowRight,
   BookOpen,
-  Sparkles,
+  Newspaper,
   Zap,
   Compass,
   ShieldCheck,
@@ -75,31 +75,29 @@ export function Hero({ onOpenPolicy }) {
         {/* CTAs principais */}
         <div className="flex flex-wrap items-center justify-center gap-3">
           <Button
-            className="btn-xl bg-primary hover:bg-primary/90 text-primary-foreground shadow-lg shadow-primary/25 hover:shadow-primary/40 hover:scale-[1.02] transition-all"
-            onClick={() =>
-              document
-                .getElementById("ferramentas")
-                ?.scrollIntoView({ behavior: "smooth" })
-            }
-          >
-            <Sparkles className="w-4 h-4" />
-            Explorar Ferramentas
-          </Button>
-          <Button
             className="btn-xl text-white hover:scale-[1.02] transition-all shadow-lg hover:shadow-xl"
             style={{
-              background:
-                "linear-gradient(135deg, #7c3aed 0%, #4f46e5 60%, #2563eb 100%)",
+              background: "linear-gradient(135deg, #7c3aed 0%, #635bff 55%, #2563eb 100%)",
               boxShadow: "0 4px 20px rgba(99,91,255,0.35)",
             }}
             onMouseEnter={(e) =>
-              (e.currentTarget.style.boxShadow =
-                "0 6px 28px rgba(99,91,255,0.55)")
+              (e.currentTarget.style.boxShadow = "0 6px 28px rgba(99,91,255,0.55)")
             }
             onMouseLeave={(e) =>
-              (e.currentTarget.style.boxShadow =
-                "0 4px 20px rgba(99,91,255,0.35)")
+              (e.currentTarget.style.boxShadow = "0 4px 20px rgba(99,91,255,0.35)")
             }
+            onClick={() =>
+              document
+                .getElementById("noticias-ia")
+                ?.scrollIntoView({ behavior: "smooth" })
+            }
+          >
+            <Newspaper className="w-4 h-4" />
+            Notícias de IA
+            <ArrowRight className="w-4 h-4 ml-1" />
+          </Button>
+          <Button
+            className="btn-xl bg-primary hover:bg-primary/90 text-primary-foreground shadow-lg shadow-primary/25 hover:shadow-primary/40 hover:scale-[1.02] transition-all"
             onClick={() =>
               window.open(
                 "https://bancodeprompts-mirante.onrender.com",
@@ -109,7 +107,6 @@ export function Hero({ onOpenPolicy }) {
           >
             <BookOpen className="w-4 h-4" />
             Banco de Prompts
-            <ArrowRight className="w-4 h-4 ml-1" />
           </Button>
         </div>
 

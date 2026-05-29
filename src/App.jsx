@@ -19,6 +19,7 @@ import { GettingStarted }  from "@/components/GettingStarted";
 import { MiranteAIs }      from "@/components/MiranteAIs";
 import { AICreations }   from "@/components/AICreations";
 import { PromptBankCTA } from "@/components/PromptBankCTA";
+import { NewsPreview }   from "@/components/NewsPreview";
 import { AIAward }       from "@/components/AIAward";
 import { Footer }        from "@/components/Footer";
 import { PolicyModal }   from "@/components/PolicyModal";
@@ -63,6 +64,7 @@ function PortalPage() {
         <MiranteAIs />
         <AICreations />
         <PromptBankCTA />
+        <NewsPreview />
         <AIAward />
       </main>
 

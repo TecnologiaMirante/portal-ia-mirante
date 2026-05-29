@@ -39,8 +39,14 @@ export function useNews() {
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const json = await res.json();
 
-      const data = json.articles || [];
-      const ts   = Date.now();
+      // Limpa CDATA residual do publishedAt em dados antigos
+      const data = (json.articles || []).map((a) => ({
+        ...a,
+        publishedAt: a.publishedAt
+          ? String(a.publishedAt).replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1").trim()
+          : a.publishedAt,
+      }));
+      const ts = Date.now();
 
       if (data.length > 0) {
         localStorage.setItem(CACHE_KEY, JSON.stringify({ data, ts }));
