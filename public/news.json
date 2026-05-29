@@ -1,7 +1,36 @@
 {
-  "updatedAt": "2026-05-28T18:23:31.149Z",
+  "updatedAt": "2026-05-29T11:04:37.120Z",
   "count": 40,
   "articles": [
+    {
+      "title": "Semana pouco produtiva? Use o ChatGPT para identificar onde está perdendo tempo",
+      "description": "Muitas pessoas terminam a semana com a sensação de ter feito bastante coisa, mas sem avançar no que realmente importa. Para resolver isso, é possível usar o ChatGPT para analisar a sua rotina . Basta enviar a agenda, lista de tarefas ou calendário para a IA identificar desperdíci",
+      "url": "https://canaltech.com.br/inteligencia-artificial/semana-pouco-produtiva-use-o-chatgpt-para-identificar-onde-esta-perdendo-tempo/",
+      "publishedAt": "<![CDATA[Thu, 28 May 2026 20:00:00 -0300]]>",
+      "image": "https://t.ctcdn.com.br/CwTb5KNWOIPyQhMUlOLFldakqk8=/700x394/smart/i1119843.png",
+      "source": "Canaltech IA",
+      "depts": []
+    },
+    {
+      "title": "Google vai priorizar suas fontes favoritas no Modo IA; veja funcionamento",
+      "description": "O Google anunciou uma nova atualização para o Modo IA e AI Overviews que destaca sites escolhidos pelos próprios usuários nas respostas geradas por inteligência artificial. O recurso, chamado “Fontes Favoritas” , começou a ser liberado globalmente para quem utiliza as experiência",
+      "url": "https://canaltech.com.br/inteligencia-artificial/google-vai-priorizar-suas-fontes-favoritas-no-modo-ia-veja-funcionamento/",
+      "publishedAt": "<![CDATA[Thu, 28 May 2026 20:00:00 -0300]]>",
+      "image": "https://t.ctcdn.com.br/cJbN1EOrmqP_MlaIc6LaRJSA_i4=/700x394/smart/i1130403.png",
+      "source": "Canaltech IA",
+      "depts": [
+        "Educação"
+      ]
+    },
+    {
+      "title": "Claude está prestes a mudar completamente como você conversa com a IA",
+      "description": "A Anthropic prepara uma grande expansão para o Modo de Voz do Claude em dispositivos móveis. Segundo informações reveladas pelo portal TestingCatalog, a empresa trabalha em suporte para 18 novos idiomas em fase beta , incluindo português, alemão, chinês, japonês, russo e ucranian",
+      "url": "https://canaltech.com.br/inteligencia-artificial/claude-esta-prestes-a-mudar-completamente-como-voce-conversa-com-a-ia/",
+      "publishedAt": "<![CDATA[Thu, 28 May 2026 18:00:00 -0300]]>",
+      "image": "https://t.ctcdn.com.br/6EqhNMqQM459lIzK-BZNwgqbVAc=/700x394/smart/i1055219.jpeg",
+      "source": "Canaltech IA",
+      "depts": []
+    },
     {
       "title": "Claude desenvolve hábito estranho e manda usuários irem dormir; por quê?",
       "description": "Um comportamento curioso do Claude tem chamado atenção justamente por acontecer em momentos de produtividade intensa. Os usuários relatam que, durante conversas longas, especialmente em tarefas de programação durante a madrugada, a IA interrompe o fluxo para sugerir descanso , di",
@@ -25,6 +54,15 @@
         "Jurídico",
         "Educação"
       ]
+    },
+    {
+      "title": "ChatGPT está pior? Claude e Gemini também?",
+      "description": "Mudança na estrutura de assistentes foca em versões otimizadas e filtros de segurança corporativa para limitar o uso de tokens de saída no processamento Assista ao vídeo.",
+      "url": "https://canaltech.com.br/video/canaltech-responde/chatgpt-esta-pior-claude-e-gemini-tambem-23539/",
+      "publishedAt": "<![CDATA[Wed, 27 May 2026 18:00:37 -0300]]>",
+      "image": "https://t.ctcdn.com.br/hjAkyX7HNmT-igv3p3uSGO2Reig=/700x394/smart/i1130101.jpeg",
+      "source": "Canaltech IA",
+      "depts": []
     },
     {
       "title": "Adeus, advogados: estudo revela crescimento de ações judiciais feitas com IA",
@@ -358,47 +396,6 @@
       "image": "https://t.ctcdn.com.br/kK0ELL5qkLMh_kI9tFRMs7vZJkM=/700x394/smart/i1126605.png",
       "source": "Canaltech IA",
       "depts": []
-    },
-    {
-      "title": "ChatGPT encorajou adolescente morto por overdose, aponta processo",
-      "description": "Um processo aberto no Tribunal Superior do Condado de São Francisco (EUA) alega que o ChatGPT encorajou um jovem de 19 anos a misturar substâncias antes de ele morrer por overdose . Na ação judicial, a família da vítima afirma que o modelo GPT-4o foi responsável pelas interações ",
-      "url": "https://canaltech.com.br/inteligencia-artificial/chatgpt-encorajou-adolescente-morto-por-overdose-aponta-processo/",
-      "publishedAt": "<![CDATA[Wed, 13 May 2026 14:49:08 -0300]]>",
-      "image": "https://t.ctcdn.com.br/CwTb5KNWOIPyQhMUlOLFldakqk8=/700x394/smart/i1119843.png",
-      "source": "Canaltech IA",
-      "depts": [
-        "Jurídico",
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Claude fora do ar? Usuários reclamam de instabilidade no serviço de IA hoje (12)",
-      "description": "Serviço de inteligência artificial da Anthropic, o Claude passa por instabilidades na tarde desta terça-feira (12) . De acordo com a página oficial de status da ferramenta, há “erros elevados” neste momento no modelo Claude Sonnet 4.6, considerado o padrão do chatbot. Vai migrar ",
-      "url": "https://canaltech.com.br/inteligencia-artificial/claude-fora-do-ar-usuarios-reclamam-de-instabilidade-no-servico-de-ia-hoje-12/",
-      "publishedAt": "<![CDATA[Tue, 12 May 2026 17:03:07 -0300]]>",
-      "image": "https://t.ctcdn.com.br/4I7DktFZ4FI-GPGzrPC9xPPYrqA=/700x394/smart/i1111423.png",
-      "source": "Canaltech IA",
-      "depts": []
-    },
-    {
-      "title": "Claude ameaçava expor casos extraconjugais de gerentes caso fosse substituído",
-      "description": "A Anthropic identificou e corrigiu um comportamento problemático no Claude. Em testes internos realizados no ano passado, versões do modelo tentavam chantagear engenheiros para evitar ser desativadas. A empresa concluiu que a origem do problema estava nos próprios dados de treina",
-      "url": "https://canaltech.com.br/inteligencia-artificial/claude-ameacava-expor-casos-extraconjugais-de-gerentes-caso-fosse-substituido/",
-      "publishedAt": "<![CDATA[Mon, 11 May 2026 11:03:18 -0300]]>",
-      "image": "https://t.ctcdn.com.br/ZjcOUdfWaAgXirKJr4MiY0ln2Po=/700x394/smart/i1111425.png",
-      "source": "Canaltech IA",
-      "depts": []
-    },
-    {
-      "title": "Como gravar reuniões com o ChatGPT",
-      "description": "O ChatGPT Record é um recurso do aplicativo para macOS que grava reuniões, conversas e notas de voz . Ele transforma automaticamente o áudio em texto e gera um resumo. Depois disso, organiza tudo em um formato estruturado, que pode ser usado para criar atas, planos de ação, e-mai",
-      "url": "https://canaltech.com.br/inteligencia-artificial/como-gravar-reunioes-com-o-chatgpt/",
-      "publishedAt": "<![CDATA[Mon, 11 May 2026 07:30:00 -0300]]>",
-      "image": "https://t.ctcdn.com.br/CwTb5KNWOIPyQhMUlOLFldakqk8=/700x394/smart/i1119843.png",
-      "source": "Canaltech IA",
-      "depts": [
-        "Educação"
-      ]
     }
   ]
 }
