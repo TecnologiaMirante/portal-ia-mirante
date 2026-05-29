@@ -65,6 +65,54 @@ function SkeletonCard() {
   );
 }
 
+/* ── Embed via iframe ───────────────────────────────────── */
+function IframeEmbed({ url }) {
+  const [status, setStatus] = useState("loading"); // loading | ok | blocked
+
+  useEffect(() => {
+    // Timeout: se o iframe não carregar em 6s, consideramos bloqueado
+    const t = setTimeout(() => setStatus((s) => s === "loading" ? "blocked" : s), 6000);
+    return () => clearTimeout(t);
+  }, [url]);
+
+  return (
+    <div className="flex flex-col gap-2">
+      <p className="text-xs text-muted-foreground italic">
+        Visualização incorporada — alguns sites bloqueiam esta exibição.
+      </p>
+      <div className="relative rounded-xl overflow-hidden border border-border bg-muted/20" style={{ height: 480 }}>
+        {status === "loading" && (
+          <div className="absolute inset-0 flex items-center justify-center">
+            <RefreshCw className="w-6 h-6 text-primary animate-spin" />
+          </div>
+        )}
+        {status === "blocked" && (
+          <div className="absolute inset-0 flex flex-col items-center justify-center gap-3 text-center p-6">
+            <p className="text-sm text-muted-foreground">Este site não permite visualização incorporada.</p>
+            <a
+              href={url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-1.5 text-sm font-semibold text-primary hover:text-primary/80 transition-colors"
+            >
+              Abrir no site original <ExternalLink className="w-3.5 h-3.5" />
+            </a>
+          </div>
+        )}
+        <iframe
+          src={url}
+          title="Conteúdo do artigo"
+          className="w-full h-full border-0"
+          sandbox="allow-same-origin allow-scripts allow-popups"
+          onLoad={() => setStatus("ok")}
+          onError={() => setStatus("blocked")}
+          style={{ opacity: status === "ok" ? 1 : 0 }}
+        />
+      </div>
+    </div>
+  );
+}
+
 /* ── Modal leitor ───────────────────────────────────────── */
 function ArticleModal({ article, onClose }) {
   // Fecha com Escape
@@ -141,7 +189,7 @@ function ArticleModal({ article, onClose }) {
             </p>
           )}
 
-          {/* Conteúdo scraped */}
+          {/* Conteúdo */}
           {paragraphs.length > 0 ? (
             <div className="space-y-4">
               {paragraphs.map((p, i) => (
@@ -151,19 +199,7 @@ function ArticleModal({ article, onClose }) {
               ))}
             </div>
           ) : (
-            <div className="flex flex-col items-center gap-3 py-8 text-center">
-              <p className="text-sm text-muted-foreground">
-                Não foi possível extrair o conteúdo completo desta matéria.
-              </p>
-              <a
-                href={article.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center gap-1.5 text-sm font-semibold text-primary hover:text-primary/80 transition-colors"
-              >
-                Ler no site original <ExternalLink className="w-3.5 h-3.5" />
-              </a>
-            </div>
+            <IframeEmbed url={article.url} />
           )}
         </div>
 

@@ -153,9 +153,11 @@ function parseRSS(xml, sourceName) {
                   || between(block, "<title><![CDATA[", "]]></title>");
     const title   = stripHtml(rawTitle);
 
-    const rawDesc = between(block, "<description>", "</description>")
-                 || between(block, "<content:encoded>", "</content:encoded>");
-    const description = stripHtml(rawDesc).slice(0, 280);
+    const rawFull = between(block, "<content:encoded>", "</content:encoded>");
+    const rawDesc = between(block, "<description>", "</description>");
+    const description = stripHtml(rawDesc || rawFull).slice(0, 280);
+    // Conteúdo completo do feed (content:encoded), até 6000 chars
+    const rssContent = rawFull ? stripHtml(rawFull).slice(0, 6000) || null : null;
 
     // link — pode vir como <link>URL ou <link href="URL"
     const rawLink = between(block, "<link>", "</link>") ||
@@ -172,7 +174,7 @@ function parseRSS(xml, sourceName) {
     const image = extractImage(block);
 
     if (title && link) {
-      items.push({ title, description, url: link, publishedAt: pubDate, image, source: sourceName });
+      items.push({ title, description, url: link, publishedAt: pubDate, image, source: sourceName, content: rssContent });
     }
   }
 
@@ -259,13 +261,17 @@ async function main() {
     .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
     .slice(0, 40);
 
-  // Scrape do conteúdo completo (5 em paralelo)
-  console.log(`\n🔍 Buscando conteúdo dos artigos (concorrência 5)...`);
-  await withConcurrency(tagged, 5, async (article, i) => {
-    process.stdout.write(`  [${i + 1}/${tagged.length}] ${article.title.slice(0, 60)}... `);
-    article.content = await fetchContent(article.url);
-    console.log(article.content ? `✓ (${article.content.length} chars)` : "– sem conteúdo");
-  });
+  // Scrape: só para artigos sem conteúdo do RSS (5 em paralelo)
+  const needsScrape = tagged.filter((a) => !a.content || a.content.length < 200);
+  console.log(`\n🔍 Artigos com conteúdo RSS: ${tagged.length - needsScrape.length} | Scrape necessário: ${needsScrape.length}`);
+  if (needsScrape.length > 0) {
+    await withConcurrency(needsScrape, 5, async (article, i) => {
+      process.stdout.write(`  [${i + 1}/${needsScrape.length}] ${article.title.slice(0, 55)}... `);
+      const scraped = await fetchContent(article.url);
+      if (scraped) article.content = scraped;
+      console.log(scraped ? `✓ (${scraped.length} chars)` : "– bloqueado");
+    });
+  }
 
   // Preserva artigos anteriores se não tiver novos
   let prev = [];
