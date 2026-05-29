@@ -1,8 +1,8 @@
 # Portal IA Mirante
 
-Portal interno da **Mirante Tecnologia** para centralizar e divulgar o uso de Inteligência Artificial na empresa — ferramentas homologadas, criações feitas com IA, cases de uso e recursos educativos.
+Portal interno da **Mirante Tecnologia** para centralizar e divulgar o uso de Inteligência Artificial na empresa — ferramentas homologadas, criações feitas com IA, cases de uso, recursos educativos e notícias diárias de IA.
 
-> **Stack:** React 19 · Vite 8 · Tailwind CSS v4 · Firebase 12 (Auth + Firestore + Storage)
+> **Stack:** React 19 · Vite 8 · Tailwind CSS v4 · Firebase 12 (Auth + Firestore + Storage) · GitHub Actions
 
 ---
 
@@ -14,8 +14,7 @@ Portal interno da **Mirante Tecnologia** para centralizar e divulgar o uso de In
 - [Instalação e Configuração](#instalação-e-configuração)
 - [Variáveis de Ambiente](#variáveis-de-ambiente)
 - [Firebase — Configuração Inicial](#firebase--configuração-inicial)
-  - [Firestore Rules](#firestore-rules)
-  - [Storage Rules](#storage-rules)
+- [Notícias de IA — Sistema Automático](#notícias-de-ia--sistema-automático)
 - [Scripts Disponíveis](#scripts-disponíveis)
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Área Admin](#área-admin)
@@ -27,41 +26,48 @@ Portal interno da **Mirante Tecnologia** para centralizar e divulgar o uso de In
 
 ## Visão Geral
 
-O Portal IA Mirante é uma **Single Page Application** (SPA) com duas áreas distintas:
+O Portal IA Mirante é uma **Single Page Application** (SPA) com três áreas distintas:
 
 | Área | Rota | Acesso |
 |------|------|--------|
 | Portal público | `/` | Todos os colaboradores |
+| Notícias de IA | `/noticias` | Todos os colaboradores |
 | Painel administrativo | `/admin` | Usuários autenticados via Firebase Auth |
-
-A página principal exibe seções de apresentação, ferramentas de IA homologadas, criações feitas com IA pelos colaboradores, CTA para o Banco de Prompts e outras informações institucionais.
 
 ---
 
 ## Funcionalidades
 
-### Portal Público
-- **Hero** com animação neural de fundo e efeitos visuais (cursor, ripple, scroll progress)
-- **Ferramentas de IA** — carrossel com 10 ferramentas homologadas, drag-to-scroll, logos via lobehub/simpleicons CDN com fallback para iniciais
-- **Criações com IA** — galeria de cards com suporte a vídeo, imagem e áudio; modal de visualização completa; filtros por área/ferramenta/tipo de mídia; scroll horizontal no mobile
+### Portal Público (`/`)
+- **Hero** com animação neural de fundo, blobs animados e dot-grid
+- **Ferramentas de IA** — carrossel com ferramentas homologadas, drag-to-scroll, logos com fallback para iniciais
+- **Criações com IA** — galeria com suporte a vídeo, imagem e áudio; modal de visualização; filtros por área/ferramenta/tipo
 - **Banco de Prompts CTA** — link para o portal de prompts interno
+- **Política de IA** — modal com a política oficial de uso de IA da empresa
+- **Por onde começar** — guia de 5 passos para novos usuários
 - **Tema claro/escuro** — alternância persistida em localStorage
 
+### Notícias de IA (`/noticias`)
+- Feed diário atualizado automaticamente via GitHub Actions às **07h BRT**
+- Notícias de **7 fontes RSS** (Canaltech, Tecnoblog, TecMundo, The Verge, TechCrunch e outros)
+- **Filtro por setor** — Marketing, RH, Financeiro, Comercial, Jurídico, Gestão, Saúde, Educação
+- **Modal leitor** — abre o artigo diretamente no portal com resumo e conteúdo completo quando disponível
+- **Zero dependência de API** — os dados são um JSON estático servido pelo próprio servidor
+
 ### Painel Admin (`/admin`)
-- **Dashboard** com lista de criações, thumbnails, badges de tipo de mídia, pesquisa em tempo real e prévia rápida (QuickViewModal)
-- **Criação/Edição** de publicações com suporte a upload de **vídeo** (até 500 MB), **imagem** (até 20 MB, comprimida automaticamente) e **áudio** (até 100 MB)
-- **Geração automática de thumbnail** para vídeos (primeiro frame via Canvas API)
-- **Deleção de arquivos antigos** do Storage ao substituir mídia
-- **Validação** de campos obrigatórios, incluindo mídia
+- Dashboard com lista de criações, thumbnails, pesquisa em tempo real e QuickView
+- Criação/Edição de publicações com upload de vídeo (500 MB), imagem (20 MB) e áudio (100 MB)
+- Geração automática de thumbnail para vídeos (primeiro frame via Canvas API)
+- Deleção de arquivos antigos do Storage ao substituir mídia
 
 ---
 
 ## Pré-requisitos
 
-- **Node.js** ≥ 18 (recomendado: 20 LTS)
-- **npm** ≥ 9 (ou pnpm/yarn equivalente)
+- **Node.js** ≥ 18 (recomendado: 20 LTS ou 24)
+- **npm** ≥ 9
 - Conta no **Firebase** com projeto criado
-- Acesso ao **Firebase Console** para configurar Auth, Firestore e Storage
+- Repositório no **GitHub** (para o sistema de notícias automático)
 
 ---
 
@@ -114,16 +120,12 @@ No Firebase Console → **Authentication** → **Sign-in method**:
 
 ### 2. Firestore Database
 
-Crie o banco no modo **Produção** e aplique as regras abaixo.
-
-#### Firestore Rules
+Crie o banco no modo **Produção** e aplique as regras abaixo:
 
 ```js
 rules_version = '2';
 service cloud.firestore {
   match /databases/{database}/documents {
-
-    // Criações — leitura pública, escrita apenas autenticada
     match /creations/{docId} {
       allow read: if true;
       allow write: if request.auth != null;
@@ -134,41 +136,138 @@ service cloud.firestore {
 
 ### 3. Cloud Storage
 
-Crie o bucket (região sugerida: `us-central1`) e aplique as regras abaixo.
-
-#### Storage Rules
+Crie o bucket (região sugerida: `us-central1`) e aplique as regras abaixo:
 
 ```js
 rules_version = '2';
 service firebase.storage {
   match /b/{bucket}/o {
-
-    // Vídeos — leitura pública, upload/deleção apenas autenticado
-    match /videos/{fileName} {
-      allow read: if true;
-      allow write: if request.auth != null;
-    }
-
-    // Imagens
-    match /images/{fileName} {
-      allow read: if true;
-      allow write: if request.auth != null;
-    }
-
-    // Áudios
-    match /audio/{fileName} {
-      allow read: if true;
-      allow write: if request.auth != null;
-    }
-
-    // Thumbnails gerados automaticamente para vídeos
-    match /thumbnails/{fileName} {
-      allow read: if true;
-      allow write: if request.auth != null;
-    }
+    match /videos/{fileName}    { allow read: if true; allow write: if request.auth != null; }
+    match /images/{fileName}    { allow read: if true; allow write: if request.auth != null; }
+    match /audio/{fileName}     { allow read: if true; allow write: if request.auth != null; }
+    match /thumbnails/{fileName}{ allow read: if true; allow write: if request.auth != null; }
   }
 }
 ```
+
+---
+
+## Notícias de IA — Sistema Automático
+
+### Como funciona
+
+O sistema de notícias **não usa nenhuma API paga** e não tem custo. O fluxo completo é:
+
+```
+GitHub Actions (cron 07h BRT)
+        ↓
+scripts/fetch-news.mjs
+  → Busca 7 feeds RSS em paralelo
+  → Filtra artigos relacionados a IA (≈30 palavras-chave)
+  → Remove duplicatas por URL
+  → Faz scrape do conteúdo completo de cada artigo
+  → Limpa parágrafos irrelevantes (newsletter, publicidade, etc.)
+  → Classifica por setor (Marketing, RH, Financeiro, etc.)
+  → Ordena por data, mantém os 40 mais recentes
+        ↓
+public/news.json  ← commitado automaticamente no repositório
+        ↓
+Render detecta o commit e faz deploy automático
+        ↓
+Frontend lê /news.json (arquivo estático, zero CORS)
+  → Cache local de 1h no localStorage do usuário
+```
+
+### Agendamento
+
+O arquivo `.github/workflows/fetch-news.yml` configura o GitHub Actions para rodar todo dia:
+
+```yaml
+on:
+  schedule:
+    - cron: '0 10 * * *'   # 10:00 UTC = 07:00 BRT
+  workflow_dispatch:         # também pode ser disparado manualmente
+```
+
+Para **verificar ou disparar manualmente**:
+1. Vá em **GitHub → seu repositório → aba Actions**
+2. Clique em **"Atualizar Notícias de IA"** no painel esquerdo
+3. Clique em **"Run workflow"** → **"Run workflow"**
+
+### Fontes de notícias
+
+| Fonte | Feed | Idioma |
+|-------|------|--------|
+| Canaltech IA | `canaltech.com.br/rss/inteligencia-artificial/` | PT-BR |
+| Tecnoblog IA | `tecnoblog.net/tag/inteligencia-artificial/feed/` | PT-BR |
+| TecMundo IA | `tecmundo.com.br/rss/inteligencia-artificial.xml` | PT-BR |
+| Canaltech (geral) | `canaltech.com.br/rss.xml` | PT-BR |
+| Tecnoblog (geral) | `tecnoblog.net/feed/` | PT-BR |
+| The Verge AI | `theverge.com/rss/ai-artificial-intelligence/index.xml` | EN |
+| TechCrunch AI | `techcrunch.com/category/artificial-intelligence/feed/` | EN |
+
+#### Adicionar uma nova fonte
+
+Abra `scripts/fetch-news.mjs` e adicione um item ao array `SOURCES`:
+
+```js
+const SOURCES = [
+  // ...fontes existentes...
+  { url: "https://exemplo.com/rss/ia.xml", name: "Exemplo IA" },
+];
+```
+
+### Classificação por setor
+
+Cada artigo é automaticamente rotulado com os setores da empresa com base em palavras-chave presentes no título, descrição e conteúdo. Os setores e suas palavras-chave estão em `scripts/fetch-news.mjs` no objeto `DEPTS`:
+
+| Setor | Exemplos de palavras-chave |
+|-------|---------------------------|
+| **Marketing** | marketing, publicidade, campanha, social media, marca, conteúdo |
+| **RH** | emprego, carreira, contratação, workforce, skills, talento |
+| **Financeiro** | banco, fraude, investimento, fintech, receita, pagamento |
+| **Comercial** | vendas, cliente, CRM, e-commerce, lead, parceria |
+| **Jurídico** | LGPD, regulação, privacidade, GDPR, compliance, lei |
+| **Gestão** | produtividade, rotina, processo, reunião, workflow, organização |
+| **Saúde** | saúde, medicina, diagnóstico, hospital, tratamento |
+| **Educação** | educação, curso, ensino, aprendizagem, treinamento |
+
+### Estrutura do `public/news.json`
+
+```json
+{
+  "updatedAt": "2026-05-29T10:00:00.000Z",
+  "count": 40,
+  "articles": [
+    {
+      "title": "Título do artigo",
+      "description": "Resumo curto (até 280 chars)",
+      "url": "https://fonte.com/artigo",
+      "publishedAt": "Thu, 29 May 2026 10:00:00 -0300",
+      "image": "https://cdn.fonte.com/imagem.jpg",
+      "source": "Canaltech IA",
+      "content": "Conteúdo completo do artigo (múltiplos parágrafos)...",
+      "depts": ["Gestão", "Educação"]
+    }
+  ]
+}
+```
+
+> O campo `content` é preenchido via `<content:encoded>` do RSS ou, quando ausente, via scrape HTTP da página do artigo. Parágrafos de baixa qualidade (CTAs de newsletter, rodapés, "Continua após a publicidade") são removidos automaticamente.
+
+### Cache no frontend
+
+O hook `src/hooks/useNews.js` armazena os dados no `localStorage` com TTL de 1 hora. Isso evita múltiplas requisições ao mesmo arquivo. Para forçar atualização: clique no botão **⟳** na navbar da página `/noticias`.
+
+### Prevenção de loop de deploy
+
+O commit automático do Action usa o sufixo `[skip ci]` na mensagem:
+
+```
+chore: atualizar notícias de IA 29/05/2026 [skip ci]
+```
+
+Isso garante que o Render **não acione um novo deploy** apenas por causa da atualização do `news.json`, evitando loops infinitos.
 
 ---
 
@@ -176,10 +275,11 @@ service firebase.storage {
 
 | Comando | Descrição |
 |---------|-----------|
-| `npm run dev` | Inicia o servidor de desenvolvimento com HMR (porta 5173) |
-| `npm run build` | Gera o build de produção em `dist/` |
+| `npm run dev` | Servidor de desenvolvimento com HMR (porta 5173) |
+| `npm run build` | Build de produção em `dist/` |
 | `npm run preview` | Serve o build de produção localmente |
 | `npm run lint` | Executa o ESLint no código-fonte |
+| `node scripts/fetch-news.mjs` | Roda o scraper de notícias localmente (gera `public/news.json`) |
 
 ---
 
@@ -187,55 +287,76 @@ service firebase.storage {
 
 ```
 portal-ia-mirante/
+├── .github/
+│   └── workflows/
+│       └── fetch-news.yml        # GitHub Action — atualiza notícias todo dia às 07h BRT
+│
+├── scripts/
+│   └── fetch-news.mjs            # Script Node.js de coleta, filtragem e scrape de notícias
+│
+├── public/
+│   ├── news.json                 # Feed de notícias gerado automaticamente (não editar manualmente)
+│   └── ...                       # Outros assets estáticos
+│
 ├── firebaseClient/
-│   └── index.js              # Inicialização do Firebase (auth, db, storage)
+│   └── index.js                  # Inicialização do Firebase (auth, db, storage)
+│
 ├── src/
-│   ├── assets/               # Logos e imagens estáticas
+│   ├── assets/                   # Logos e imagens estáticas
+│   │
 │   ├── components/
 │   │   ├── admin/
-│   │   │   ├── AdminDashboard.jsx   # Lista de criações + QuickViewModal
-│   │   │   ├── AdminLayout.jsx      # Layout protegido da área admin
-│   │   │   ├── AdminLogin.jsx       # Tela de login
-│   │   │   └── CreationForm.jsx     # Formulário criar/editar criação (upload de mídia)
+│   │   │   ├── AdminDashboard.jsx
+│   │   │   ├── AdminLayout.jsx
+│   │   │   ├── AdminLogin.jsx
+│   │   │   └── CreationForm.jsx
 │   │   ├── effects/
+│   │   │   ├── NeuralBg.jsx      # Canvas animado com nós e conexões (fundo do Hero e modais)
 │   │   │   ├── BackToTop.jsx
 │   │   │   ├── ClickRipple.jsx
-│   │   │   ├── CursorFX.jsx
-│   │   │   ├── NeuralBg.jsx
 │   │   │   ├── ScrollProgress.jsx
 │   │   │   ├── ScrollSpy.jsx
 │   │   │   └── TiltCard.jsx
-│   │   ├── ui/               # Componentes base (shadcn/ui)
-│   │   ├── AICreations.jsx   # Galeria pública de criações com IA
-│   │   ├── AIToolsBanner.jsx # Carrossel de ferramentas homologadas
+│   │   ├── ui/                   # Componentes base (shadcn/ui)
+│   │   ├── AICreations.jsx
+│   │   ├── AIToolsBanner.jsx
 │   │   ├── Features.jsx
 │   │   ├── Footer.jsx
+│   │   ├── GettingStarted.jsx
 │   │   ├── Hero.jsx
 │   │   ├── MiranteAIs.jsx
-│   │   ├── Navbar.jsx
+│   │   ├── Navbar.jsx            # Inclui link "Notícias IA" → /noticias
 │   │   ├── PolicyModal.jsx
+│   │   ├── PortalPreview.jsx
 │   │   └── PromptBankCTA.jsx
-│   ├── data/
-│   │   ├── aiTools.js        # Dados das 10 ferramentas de IA homologadas
-│   │   └── mirante.js        # Dados institucionais da Mirante
+│   │
 │   ├── hooks/
-│   │   ├── useAuth.jsx       # Contexto de autenticação Firebase
+│   │   ├── useAuth.jsx           # Contexto de autenticação Firebase
+│   │   ├── useNews.js            # Lê /news.json com cache localStorage (TTL 1h)
 │   │   ├── useScrollReveal.js
-│   │   └── useTheme.jsx      # Contexto de tema claro/escuro
+│   │   └── useTheme.jsx          # Contexto de tema claro/escuro
+│   │
+│   ├── pages/
+│   │   └── NewsPage.jsx          # Página /noticias — feed, filtros por setor, modal leitor
+│   │
+│   ├── data/
+│   │   ├── aiTools.js
+│   │   └── mirante.js
+│   │
 │   ├── lib/
-│   │   └── utils.js          # Utilitários (cn helper)
-│   ├── App.jsx               # Roteamento principal (BrowserRouter)
-│   ├── App.css
-│   ├── index.css             # Variáveis de design e estilos globais
+│   │   └── utils.js
+│   │
+│   ├── App.jsx                   # Roteamento: /, /noticias, /admin/*
+│   ├── index.css                 # Variáveis de design, blobs, dot-grid, shimmer-text
 │   └── main.jsx
-├── .env                      # ⚠️ Não commitado — credenciais reais
-├── .env.example              # Template público de variáveis de ambiente
+│
+├── .env                          # ⚠️ NÃO commitado — credenciais reais
+├── .env.example                  # Template público de variáveis
 ├── .gitignore
-├── eslint.config.js
 ├── index.html
 ├── package.json
 ├── README.md
-└── vite.config.js            # Aliases @/ e @infra/firebase
+└── vite.config.js
 ```
 
 ---
@@ -252,14 +373,14 @@ Navegue até `/admin/login` e autentique com e-mail e senha cadastrados no Fireb
 2. Preencha: **Título**, **Autor**, **Área**, **Ferramentas usadas**, **Descrição**
 3. Escolha o tipo de mídia:
    - **URL** — cole um link do YouTube
-   - **Upload** — envie um arquivo de vídeo, imagem ou áudio
+   - **Upload** — envie vídeo, imagem ou áudio
 4. Clique em **Publicar**
 
 ### Editando uma Publicação
 
 - A mídia atual é exibida em tempo real no formulário
 - Para substituir: faça upload de um novo arquivo (o arquivo antigo é deletado automaticamente do Storage)
-- Para remover sem substituir: clique em **Remover mídia** e então adicione uma nova antes de salvar
+- Para remover sem substituir: clique em **Remover mídia** e adicione uma nova antes de salvar
 
 ---
 
@@ -276,24 +397,23 @@ Navegue até `/admin/login` e autentique com e-mail e senha cadastrados no Fireb
 
 ## Deploy
 
-O projeto é uma SPA com React Router — certifique-se de configurar o servidor para redirecionar todas as rotas para `index.html`.
+O projeto é uma SPA com React Router — o servidor precisa redirecionar todas as rotas para `index.html`.
 
-### Firebase Hosting (recomendado)
+### Render (configuração atual)
+
+O projeto está hospedado no **Render**. A cada push na branch `main`, o Render detecta as mudanças e faz deploy automático.
+
+> ⚠️ O commit diário do `news.json` usa `[skip ci]` na mensagem para **não disparar** um novo deploy desnecessário.
+
+### Firebase Hosting
 
 ```bash
-# Instale o Firebase CLI (uma vez)
 npm install -g firebase-tools
-
-# Login
 firebase login
-
-# Inicialize o Hosting no projeto
 firebase init hosting
 # → Public directory: dist
 # → Single-page app: Yes
-# → GitHub Actions: opcional
 
-# Build + deploy
 npm run build
 firebase deploy --only hosting
 ```
@@ -302,19 +422,22 @@ firebase deploy --only hosting
 
 | Plataforma | Configuração |
 |------------|-------------|
-| **Vercel** | Importar repositório; framework preset: Vite. Rewrites são configurados automaticamente. |
-| **Netlify** | Adicionar `_redirects` em `public/`: `/* /index.html 200` |
+| **Vercel** | Importar repositório; framework preset: Vite. Rewrites automáticos. |
+| **Netlify** | Adicionar `public/_redirects`: `/* /index.html 200` |
 | **Nginx** | `try_files $uri $uri/ /index.html;` no bloco `location /` |
 
 ---
 
 ## Variáveis de Ambiente em Produção
 
-Em qualquer plataforma de deploy, configure as mesmas variáveis do `.env` no painel de configuração de ambiente da plataforma (nunca no repositório).
+Configure as variáveis do `.env` no painel da plataforma de deploy — nunca no repositório.
 
-- **Firebase Hosting** → Não aplica (o build já embute os valores em tempo de build; configure antes de `npm run build`)
-- **Vercel** → Project Settings → Environment Variables
-- **Netlify** → Site configuration → Environment variables
+| Plataforma | Onde configurar |
+|------------|----------------|
+| **Render** | Dashboard → seu serviço → **Environment** |
+| **Vercel** | Project Settings → **Environment Variables** |
+| **Netlify** | Site configuration → **Environment variables** |
+| **Firebase Hosting** | Configurar antes de `npm run build` (valores embutidos no bundle) |
 
 ---
 
