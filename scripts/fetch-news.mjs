@@ -324,6 +324,65 @@ async function fetchContent(url) {
 /* ── Delay simples ──────────────────────────────────────── */
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
+/* ── Revisão com Gemini ─────────────────────────────────── */
+async function reviewWithGemini(rawText, title) {
+  const apiKey = process.env.GEMINI_API_KEY;
+  if (!apiKey || rawText.length < 100) return rawText;
+
+  const prompt = `Você é um editor de jornalismo digital especializado em tecnologia.
+Recebeu o texto bruto de uma matéria sobre Inteligência Artificial extraído automaticamente de um site de notícias.
+
+Sua tarefa:
+- Reescreva como matéria informativa limpa, clara e fluida em português brasileiro
+- REMOVA completamente: chamadas de podcast, newsletter, CTA ("assine", "ouça", "confira também", "leia mais", "saiba mais"), assinaturas de autor, datas no início, emojis de promoção, frases como "a conversa completa está disponível em..."
+- MANTENHA: todos os fatos, dados, números, citações e informações relevantes da notícia
+- NÃO adicione informações que não estão no texto original
+- Retorne APENAS o texto final em parágrafos corridos, sem título, sem markdown, sem emojis
+
+Título da matéria: ${title}
+
+Texto bruto:
+${rawText.slice(0, 4500)}`;
+
+  const body = JSON.stringify({
+    contents: [{ parts: [{ text: prompt }] }],
+    generationConfig: { temperature: 0.3, maxOutputTokens: 1800, topP: 0.85 },
+  });
+
+  return new Promise((resolve) => {
+    const req = https.request(
+      {
+        hostname: "generativelanguage.googleapis.com",
+        path:     `/v1beta/models/gemini-1.5-flash:generateContent?key=${apiKey}`,
+        method:   "POST",
+        headers:  {
+          "Content-Type":   "application/json",
+          "Content-Length": Buffer.byteLength(body),
+        },
+        timeout: 25000,
+      },
+      (res) => {
+        let data = "";
+        res.setEncoding("utf8");
+        res.on("data", (c) => (data += c));
+        res.on("end", () => {
+          try {
+            const json    = JSON.parse(data);
+            const revised = json.candidates?.[0]?.content?.parts?.[0]?.text?.trim();
+            resolve(revised && revised.length > 100 ? revised : rawText);
+          } catch {
+            resolve(rawText);
+          }
+        });
+      }
+    );
+    req.on("error",   () => resolve(rawText));
+    req.on("timeout", () => { req.destroy(); resolve(rawText); });
+    req.write(body);
+    req.end();
+  });
+}
+
 /* ── Executa tarefas com limite de concorrência ─────────── */
 async function withConcurrency(items, limit, fn) {
   const results = new Array(items.length);
@@ -412,7 +471,22 @@ async function main() {
     }
   }
 
-  // Re-taggeia com texto já traduzido
+  // ── Revisão com Gemini (limpa lixo, melhora texto) ──
+  const withContent = tagged.filter((a) => a.content && a.content.length > 100);
+  if (process.env.GEMINI_API_KEY) {
+    console.log(`\n✨ Revisando ${withContent.length} artigos com Gemini 1.5 Flash...`);
+    for (let i = 0; i < withContent.length; i++) {
+      const a = withContent[i];
+      process.stdout.write(`  [${i + 1}/${withContent.length}] ${a.title.slice(0, 52)}... `);
+      a.content = await reviewWithGemini(a.content, a.title);
+      console.log(`✓ (${a.content.length}ch)`);
+      await sleep(600); // evita rate-limit do free tier
+    }
+  } else {
+    console.log("\n⚠️  GEMINI_API_KEY não definida — revisão pulada.");
+  }
+
+  // Re-taggeia com texto já traduzido e revisado
   tagged.forEach((a) => {
     a.depts = tagDepts(a.title, a.description, a.content || "");
   });

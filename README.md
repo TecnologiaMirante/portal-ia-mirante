@@ -2,7 +2,7 @@
 
 Portal interno da **Mirante Tecnologia** para centralizar e divulgar o uso de Inteligência Artificial na empresa — ferramentas homologadas, criações feitas com IA, cases de uso, recursos educativos e notícias diárias de IA.
 
-> **Stack:** React 19 · Vite 8 · Tailwind CSS v4 · Firebase 12 (Auth + Firestore + Storage) · GitHub Actions
+> **Stack:** React 19 · Vite 8 · Tailwind CSS v4 · Firebase 12 (Auth + Firestore + Storage) · GitHub Actions · Gemini AI
 
 ---
 
@@ -52,10 +52,12 @@ O Portal IA Mirante é uma **Single Page Application** (SPA) com três áreas di
 
 ### Notícias de IA (`/noticias`)
 - Feed diário atualizado automaticamente via GitHub Actions às **07h BRT**
-- Notícias de **7 fontes RSS** (Canaltech, Tecnoblog, TecMundo, The Verge, TechCrunch e outros)
+- Notícias de **7 fontes RSS** (Canaltech, Tecnoblog, TecMundo, The Verge, TechCrunch)
+- Artigos em inglês (Verge, TechCrunch) **traduzidos automaticamente para PT-BR**
+- **Conteúdo completo lido dentro do portal** — sem redirecionamento para sites externos
 - **Filtro por setor** — Marketing, RH, Financeiro, Comercial, Jurídico, Gestão, Saúde, Educação
-- **Modal leitor** — abre o artigo diretamente no portal com resumo e conteúdo completo quando disponível
-- **Zero dependência de API** — os dados são um JSON estático servido pelo próprio servidor
+- **Modal leitor** — título, resumo, texto completo revisado por IA e link para o original
+- **Zero rebuild no Render** — frontend lê `news.json` direto do GitHub, sem necessidade de redeploy
 
 ### Painel Admin (`/admin`)
 - Dashboard com lista de criações, thumbnails, pesquisa em tempo real e QuickView
@@ -71,6 +73,7 @@ O Portal IA Mirante é uma **Single Page Application** (SPA) com três áreas di
 - **npm** ≥ 9
 - Conta no **Firebase** com projeto criado
 - Repositório no **GitHub** (para o sistema de notícias automático)
+- Chave do **Google Gemini** (gratuita em [aistudio.google.com/apikey](https://aistudio.google.com/apikey))
 
 ---
 
@@ -81,7 +84,7 @@ O Portal IA Mirante é uma **Single Page Application** (SPA) com três áreas di
 git clone https://github.com/sua-org/portal-ia-mirante.git
 cd portal-ia-mirante
 
-# 2. Instale as dependências
+# 2. Instale as dependências (inclui @mozilla/readability e jsdom)
 npm install
 
 # 3. Configure as variáveis de ambiente
@@ -159,26 +162,31 @@ service firebase.storage {
 
 ### Como funciona
 
-O sistema de notícias **não usa nenhuma API paga** e não tem custo. O fluxo completo é:
+O fluxo completo de coleta, processamento e entrega das notícias:
 
 ```
 GitHub Actions (cron 07h BRT)
         ↓
 scripts/fetch-news.mjs
-  → Busca 7 feeds RSS em paralelo
-  → Filtra artigos relacionados a IA (≈30 palavras-chave)
-  → Remove duplicatas por URL
-  → Faz scrape do conteúdo completo de cada artigo
-  → Limpa parágrafos irrelevantes (newsletter, publicidade, etc.)
-  → Classifica por setor (Marketing, RH, Financeiro, etc.)
-  → Ordena por data, mantém os 40 mais recentes
+  1. Busca 7 feeds RSS em paralelo
+  2. Filtra artigos relacionados a IA (~30 palavras-chave)
+  3. Remove duplicatas por URL
+  4. Readability (Mozilla) extrai o corpo do artigo de cada página
+     → Remove ads, sidebar, navegação, CTAs automaticamente
+     → Fallback regex para sites que bloqueiam o parser
+  5. og:image extraída para artigos sem imagem no RSS
+  6. Tradução EN→PT-BR via Google Translate (artigos do Verge e TechCrunch)
+  7. Gemini 1.5 Flash revisa e reescreve o texto
+     → Remove: podcasts, newsletters, assinaturas, emojis promocionais
+     → Mantém: todos os fatos, dados e citações da matéria
+  8. Classifica por setor (Marketing, RH, Financeiro, etc.)
+  9. Ordena por data, salva os 40 mais recentes
         ↓
 public/news.json  ← commitado automaticamente no repositório
         ↓
-Render detecta o commit e faz deploy automático
-        ↓
-Frontend lê /news.json (arquivo estático, zero CORS)
-  → Cache local de 1h no localStorage do usuário
+Frontend em produção lê direto do GitHub raw (sem rebuild no Render)
+Frontend em dev lê do /public local
+  → Cache inteligente: só rebusca se o updatedAt do servidor for diferente
 ```
 
 ### Agendamento
@@ -197,17 +205,30 @@ Para **verificar ou disparar manualmente**:
 2. Clique em **"Atualizar Notícias de IA"** no painel esquerdo
 3. Clique em **"Run workflow"** → **"Run workflow"**
 
+### Configuração do GitHub Secrets
+
+O script precisa de uma chave do Gemini para revisar os artigos. Configure uma vez:
+
+1. Acesse [aistudio.google.com/apikey](https://aistudio.google.com/apikey) e gere uma chave gratuita
+2. No GitHub → seu repositório → **Settings → Secrets and variables → Actions**
+3. Clique em **New repository secret**
+4. Nome: `GEMINI_API_KEY` | Valor: sua chave
+
+> ⚠️ **Nunca** coloque a chave diretamente no código ou no chat. O GitHub injeta ela apenas no momento em que o Action roda, invisível para qualquer pessoa que acesse o repositório.
+
+Se `GEMINI_API_KEY` não estiver configurada, o script ainda funciona — apenas pula a etapa de revisão com IA e salva o texto bruto do Readability.
+
 ### Fontes de notícias
 
-| Fonte | Feed | Idioma |
-|-------|------|--------|
-| Canaltech IA | `canaltech.com.br/rss/inteligencia-artificial/` | PT-BR |
-| Tecnoblog IA | `tecnoblog.net/tag/inteligencia-artificial/feed/` | PT-BR |
-| TecMundo IA | `tecmundo.com.br/rss/inteligencia-artificial.xml` | PT-BR |
-| Canaltech (geral) | `canaltech.com.br/rss.xml` | PT-BR |
-| Tecnoblog (geral) | `tecnoblog.net/feed/` | PT-BR |
-| The Verge AI | `theverge.com/rss/ai-artificial-intelligence/index.xml` | EN |
-| TechCrunch AI | `techcrunch.com/category/artificial-intelligence/feed/` | EN |
+| Fonte | Feed | Idioma | Traduzido |
+|-------|------|--------|-----------|
+| Canaltech IA | `canaltech.com.br/rss/inteligencia-artificial/` | PT-BR | — |
+| Tecnoblog IA | `tecnoblog.net/tag/inteligencia-artificial/feed/` | PT-BR | — |
+| TecMundo IA | `tecmundo.com.br/rss/inteligencia-artificial.xml` | PT-BR | — |
+| Canaltech (geral) | `canaltech.com.br/rss.xml` | PT-BR | — |
+| Tecnoblog (geral) | `tecnoblog.net/feed/` | PT-BR | — |
+| The Verge AI | `theverge.com/rss/ai-artificial-intelligence/index.xml` | EN | ✅ Auto |
+| TechCrunch AI | `techcrunch.com/category/artificial-intelligence/feed/` | EN | ✅ Auto |
 
 #### Adicionar uma nova fonte
 
@@ -216,13 +237,14 @@ Abra `scripts/fetch-news.mjs` e adicione um item ao array `SOURCES`:
 ```js
 const SOURCES = [
   // ...fontes existentes...
-  { url: "https://exemplo.com/rss/ia.xml", name: "Exemplo IA" },
+  { url: "https://exemplo.com/rss/ia.xml", name: "Exemplo IA", lang: "pt" },
+  // lang: "en" para fontes em inglês (serão traduzidas automaticamente)
 ];
 ```
 
 ### Classificação por setor
 
-Cada artigo é automaticamente rotulado com os setores da empresa com base em palavras-chave presentes no título, descrição e conteúdo. Os setores e suas palavras-chave estão em `scripts/fetch-news.mjs` no objeto `DEPTS`:
+Cada artigo é automaticamente rotulado com base em palavras-chave presentes no título, descrição e conteúdo. A classificação acontece **após** a tradução, garantindo que artigos em inglês também sejam tagueados corretamente.
 
 | Setor | Exemplos de palavras-chave |
 |-------|---------------------------|
@@ -243,24 +265,39 @@ Cada artigo é automaticamente rotulado com os setores da empresa com base em pa
   "count": 40,
   "articles": [
     {
-      "title": "Título do artigo",
-      "description": "Resumo curto (até 280 chars)",
+      "title": "Título do artigo (já traduzido se EN)",
+      "description": "Resumo curto (até 300 chars)",
       "url": "https://fonte.com/artigo",
       "publishedAt": "Thu, 29 May 2026 10:00:00 -0300",
       "image": "https://cdn.fonte.com/imagem.jpg",
       "source": "Canaltech IA",
-      "content": "Conteúdo completo do artigo (múltiplos parágrafos)...",
+      "content": "Texto completo revisado pelo Gemini, em parágrafos limpos...",
+      "lang": "pt",
       "depts": ["Gestão", "Educação"]
     }
   ]
 }
 ```
 
-> O campo `content` é preenchido via `<content:encoded>` do RSS ou, quando ausente, via scrape HTTP da página do artigo. Parágrafos de baixa qualidade (CTAs de newsletter, rodapés, "Continua após a publicidade") são removidos automaticamente.
-
 ### Cache no frontend
 
-O hook `src/hooks/useNews.js` armazena os dados no `localStorage` com TTL de 1 hora. Isso evita múltiplas requisições ao mesmo arquivo. Para forçar atualização: clique no botão **⟳** na navbar da página `/noticias`.
+O hook `src/hooks/useNews.js` usa um cache inteligente baseado no campo `updatedAt`:
+
+- Ao carregar, busca o `news.json` do servidor e compara o `updatedAt` com o cache local
+- Se forem **iguais** e o cache tiver menos de 1h → usa o cache (evita request desnecessário)
+- Se forem **diferentes** → busca os dados frescos imediatamente, sem esperar o TTL expirar
+- Em caso de **falha de rede** → usa o cache local como fallback, mesmo que antigo
+
+Isso garante que produção e local sempre mostram os mesmos dados, sem necessidade de limpar o cache manualmente. Para forçar atualização: clique no botão **⟳** na navbar de `/noticias`.
+
+### Onde o `news.json` é lido
+
+| Ambiente | URL |
+|----------|-----|
+| **Desenvolvimento** (`npm run dev`) | `/news.json` (arquivo local em `public/`) |
+| **Produção** (Render) | `raw.githubusercontent.com/.../main/public/news.json` |
+
+Em produção o frontend lê diretamente do GitHub, sem precisar de rebuild no Render a cada atualização diária.
 
 ### Prevenção de loop de deploy
 
@@ -270,7 +307,7 @@ O commit automático do Action usa o sufixo `[skip ci]` na mensagem:
 chore: atualizar notícias de IA 29/05/2026 [skip ci]
 ```
 
-Isso garante que o Render **não acione um novo deploy** apenas por causa da atualização do `news.json`, evitando loops infinitos.
+Isso garante que o Render **não acione um novo deploy** apenas por causa da atualização do `news.json`.
 
 ---
 
@@ -282,7 +319,7 @@ Isso garante que o Render **não acione um novo deploy** apenas por causa da atu
 | `npm run build` | Build de produção em `dist/` |
 | `npm run preview` | Serve o build de produção localmente |
 | `npm run lint` | Executa o ESLint no código-fonte |
-| `node scripts/fetch-news.mjs` | Roda o scraper de notícias localmente (gera `public/news.json`) |
+| `node scripts/fetch-news.mjs` | Roda o scraper localmente (requer `GEMINI_API_KEY` no ambiente) |
 
 ---
 
@@ -293,14 +330,14 @@ portal-ia-mirante/
 ├── .github/
 │   └── workflows/
 │       └── fetch-news.yml        # GitHub Action — atualiza notícias todo dia às 07h BRT
+│                                 # Requer secret: GEMINI_API_KEY
 │
 ├── scripts/
-│   └── fetch-news.mjs            # Script Node.js de coleta, filtragem e scrape de notícias
+│   └── fetch-news.mjs            # Script de coleta, Readability, tradução, revisão Gemini
 │
 ├── public/
 │   ├── news.json                 # Feed de notícias gerado automaticamente (não editar manualmente)
 │   └── ...                       # Outros assets estáticos
-│
 │
 ├── firebaseClient/
 │   └── index.js                  # Inicialização do Firebase (auth, db, storage)
@@ -315,11 +352,12 @@ portal-ia-mirante/
 │   │   │   ├── AdminLogin.jsx
 │   │   │   └── CreationForm.jsx
 │   │   ├── effects/
-│   │   │   ├── NeuralBg.jsx      # Canvas animado com nós e conexões (fundo do Hero e modais)
+│   │   │   ├── NeuralBg.jsx      # Canvas animado com nós e conexões
 │   │   │   ├── BackToTop.jsx
 │   │   │   ├── ClickRipple.jsx
 │   │   │   ├── ScrollProgress.jsx
-│   │   │   ├── ScrollSpy.jsx
+│   │   │   ├── ScrollSpy.jsx     # Navegação lateral por seções (inclui #noticias-ia)
+│   │   │   ├── ScrollToTop.jsx   # Reseta scroll ao trocar de rota (React Router)
 │   │   │   └── TiltCard.jsx
 │   │   ├── ui/                   # Componentes base (shadcn/ui)
 │   │   ├── AICreations.jsx
@@ -329,7 +367,7 @@ portal-ia-mirante/
 │   │   ├── GettingStarted.jsx
 │   │   ├── Hero.jsx              # Botão 1: Notícias de IA → #noticias-ia | Botão 2: Banco de Prompts
 │   │   ├── MiranteAIs.jsx
-│   │   ├── Navbar.jsx            # Links de scroll em ordem: Recursos→Começar→Ferramentas→Portais IA→Criações→Notícias IA→Prêmio IA
+│   │   ├── Navbar.jsx            # Recursos→Começar→Ferramentas→Portais IA→Criações→Notícias IA→Prêmio IA
 │   │   ├── NewsPreview.jsx       # Seção #noticias-ia — 3 artigos recentes + CTA para /noticias
 │   │   ├── PolicyModal.jsx
 │   │   ├── PortalPreview.jsx
@@ -337,12 +375,12 @@ portal-ia-mirante/
 │   │
 │   ├── hooks/
 │   │   ├── useAuth.jsx           # Contexto de autenticação Firebase
-│   │   ├── useNews.js            # Lê /news.json com cache localStorage (TTL 1h); limpa CDATA das datas
+│   │   ├── useNews.js            # Cache baseado em updatedAt; lê GitHub raw em produção
 │   │   ├── useScrollReveal.js
 │   │   └── useTheme.jsx          # Contexto de tema claro/escuro
 │   │
 │   ├── pages/
-│   │   └── NewsPage.jsx          # Página /noticias — feed completo, filtros por setor, modal leitor com conteúdo
+│   │   └── NewsPage.jsx          # Página /noticias — feed, filtros, modal leitor
 │   │
 │   ├── data/
 │   │   ├── aiTools.js
@@ -351,15 +389,15 @@ portal-ia-mirante/
 │   ├── lib/
 │   │   └── utils.js
 │   │
-│   ├── App.jsx                   # Roteamento: /, /noticias, /admin/*
-│   ├── index.css                 # Variáveis de design, blobs, dot-grid, shimmer-text
+│   ├── App.jsx                   # Roteamento: /, /noticias, /admin/* + ScrollToTop
+│   ├── index.css                 # Variáveis de design, blobs, dot-grid, shimmer-text, scroll-margin-top
 │   └── main.jsx
 │
 ├── .env                          # ⚠️ NÃO commitado — credenciais reais
 ├── .env.example                  # Template público de variáveis
 ├── .gitignore
 ├── index.html
-├── package.json
+├── package.json                  # Inclui @mozilla/readability e jsdom (usados pelo script)
 ├── README.md
 └── vite.config.js
 ```
@@ -408,7 +446,7 @@ O projeto é uma SPA com React Router — o servidor precisa redirecionar todas 
 
 O projeto está hospedado no **Render**. A cada push na branch `main`, o Render detecta as mudanças e faz deploy automático.
 
-> ⚠️ O commit diário do `news.json` usa `[skip ci]` na mensagem para **não disparar** um novo deploy desnecessário.
+> O commit diário do `news.json` usa `[skip ci]` na mensagem. Além disso, o frontend em produção lê o `news.json` direto do GitHub raw — sem precisar de rebuild para ver as notícias atualizadas.
 
 ### Firebase Hosting
 
@@ -443,6 +481,8 @@ Configure as variáveis do `.env` no painel da plataforma de deploy — nunca no
 | **Vercel** | Project Settings → **Environment Variables** |
 | **Netlify** | Site configuration → **Environment variables** |
 | **Firebase Hosting** | Configurar antes de `npm run build` (valores embutidos no bundle) |
+
+A chave `GEMINI_API_KEY` **não vai aqui** — ela fica exclusivamente nos **GitHub Secrets** (usada apenas pelo Action, nunca exposta ao frontend).
 
 ---
 

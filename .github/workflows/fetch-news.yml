@@ -28,6 +28,8 @@ jobs:
         run: npm ci
 
       - name: Buscar notícias
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: node scripts/fetch-news.mjs
 
       - name: Commitar se houver mudanças
