@@ -10,6 +10,11 @@
  */
 import { useState, useEffect } from "react";
 
+// Em dev lê o arquivo local; em produção busca direto do GitHub (sem rebuild)
+const NEWS_URL = import.meta.env.DEV
+  ? "/news.json"
+  : "https://raw.githubusercontent.com/TecnologiaMirante/portal-ia-mirante/main/public/news.json";
+
 const CACHE_KEY = "mirante_news_v4";
 const CACHE_TTL = 60 * 60 * 1000; // 1h — segurança máxima
 
@@ -34,7 +39,7 @@ export function useNews() {
 
     try {
       /* 1. Lê o JSON completo do servidor (com cache-buster) */
-      const res = await fetch(`/news.json?t=${Date.now()}`);
+      const res = await fetch(`${NEWS_URL}?t=${Date.now()}`);
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const json = await res.json();
 
