@@ -2,7 +2,7 @@
  * fetch-news.mjs
  * Roda no GitHub Actions todo dia às 07h BRT.
  * Busca RSS de fontes de IA, filtra por relevância,
- * tagueia por setor e salva em public/news.json.
+ * tagueia por setor, traduz artigos em inglês e salva em public/news.json.
  */
 
 import https from "node:https";
@@ -16,23 +16,20 @@ const OUTPUT    = path.join(__dirname, "..", "public", "news.json");
 
 /* ── Fontes RSS ─────────────────────────────────────────── */
 const SOURCES = [
-  // Sub-feeds específicos de IA (maior precisão)
-  { url: "https://canaltech.com.br/rss/inteligencia-artificial/", name: "Canaltech IA"   },
-  { url: "https://tecnoblog.net/tag/inteligencia-artificial/feed/", name: "Tecnoblog IA" },
-  { url: "https://www.tecmundo.com.br/rss/inteligencia-artificial.xml", name: "TecMundo IA" },
-
-  // Feeds gerais de tech (filtrados por palavras-chave)
-  { url: "https://canaltech.com.br/rss.xml",              name: "Canaltech"      },
-  { url: "https://tecnoblog.net/feed/",                   name: "Tecnoblog"      },
-
-  // Internacional em inglês (AI-focused)
-  { url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", name: "The Verge AI" },
-  { url: "https://techcrunch.com/category/artificial-intelligence/feed/",     name: "TechCrunch AI" },
+  // PT-BR — sub-feeds específicos de IA
+  { url: "https://canaltech.com.br/rss/inteligencia-artificial/",    name: "Canaltech IA",  lang: "pt" },
+  { url: "https://tecnoblog.net/tag/inteligencia-artificial/feed/",  name: "Tecnoblog IA",  lang: "pt" },
+  { url: "https://www.tecmundo.com.br/rss/inteligencia-artificial.xml", name: "TecMundo IA", lang: "pt" },
+  // PT-BR — feeds gerais filtrados
+  { url: "https://canaltech.com.br/rss.xml",                         name: "Canaltech",     lang: "pt" },
+  { url: "https://tecnoblog.net/feed/",                               name: "Tecnoblog",     lang: "pt" },
+  // EN — serão traduzidos automaticamente para PT-BR
+  { url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", name: "The Verge AI",  lang: "en" },
+  { url: "https://techcrunch.com/category/artificial-intelligence/feed/",     name: "TechCrunch AI", lang: "en" },
 ];
 
 /* ── Palavras-chave para filtrar IA ─────────────────────── */
 const AI_KW = [
-  // Português
   "intelig", "chatgpt", "openai", "gpt", "gemini", "copilot",
   "claude", "automação", "automaç", "machine learning", "deep learning",
   "llm", "ia generativa", "algoritmo", "neural", "generativa",
@@ -40,11 +37,9 @@ const AI_KW = [
   "processamento de linguagem", "modelo de linguagem", "anthropic",
   "meta ai", "midjourney", "stable diffusion", "dall-e", "sora",
   "assistente virtual", "assistente de ia", "chatbot",
-  // Inglês (feeds internacionais)
   "artificial intelligence", "ai model", "ai tool", "ai system",
-  "language model", "generative ai", "openai", "google ai",
-  "microsoft ai", "ai startup", "machine learning", "deep learning",
-  "chatbot", "ai assistant", "neural network", "foundation model",
+  "language model", "generative ai", "google ai", "microsoft ai",
+  "ai startup", "chatbot", "ai assistant", "neural network", "foundation model",
 ];
 
 function isAI(title = "", desc = "") {
@@ -72,7 +67,7 @@ const DEPTS = {
   Gestão:     ["gestão", "produtividade", "automação", "processo", "eficiência", "decisão",
                "estratégia", "liderança", "rotina", "agenda", "tarefa", "organização", "foco",
                "reunião", "reuniões", "workflow", "prioridade", "planejamento", "gerenciamento",
-               "productivity", "management", "workflow", "efficiency", "operations"],
+               "productivity", "management", "efficiency", "operations"],
   Saúde:      ["saúde", "medicina", "hospital", "diagnóstico", "médico", "paciente", "tratamento",
                "doença", "clínica", "farmácia", "mental", "bem-estar", "health", "medical",
                "clinical", "therapy", "disease"],
@@ -82,7 +77,6 @@ const DEPTS = {
 };
 
 function tagDepts(title = "", desc = "", content = "") {
-  // Usa título + descrição com peso maior; content como suporte
   const t = `${title} ${title} ${desc} ${content.slice(0, 1000)}`.toLowerCase();
   return Object.entries(DEPTS)
     .filter(([, kws]) => kws.some((k) => t.includes(k)))
@@ -108,6 +102,14 @@ const JUNK_RE = [
   /acesse o site/i,
   /clique aqui/i,
   /saiba mais/i,
+  // EN junk
+  /subscribe to/i,
+  /sign up for/i,
+  /newsletter/i,
+  /^read more/i,
+  /^see also/i,
+  /terms of service/i,
+  /privacy policy/i,
 ];
 
 function cleanContent(text) {
@@ -119,24 +121,26 @@ function cleanContent(text) {
   return paragraphs.length >= 2 ? paragraphs.join("\n\n") : null;
 }
 
-/* ── HTTP fetch simples ─────────────────────────────────── */
-function fetchUrl(url, redirects = 5) {
+/* ── HTTP fetch ─────────────────────────────────────────── */
+function fetchUrl(url, redirects = 5, extraHeaders = {}) {
   return new Promise((resolve, reject) => {
     if (redirects === 0) return reject(new Error("Too many redirects"));
     const lib = url.startsWith("https") ? https : http;
     const req = lib.get(
       url,
       {
-        timeout: 12000,
+        timeout: 15000,
         headers: {
           "User-Agent":
-            "Mozilla/5.0 (compatible; MiranteNewsBot/1.0; +https://portalia-mirante.onrender.com)",
-          Accept: "application/rss+xml, application/xml, text/xml, */*",
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+          Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+          "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+          ...extraHeaders,
         },
       },
       (res) => {
         if ([301, 302, 307, 308].includes(res.statusCode) && res.headers.location) {
-          return resolve(fetchUrl(res.headers.location, redirects - 1));
+          return resolve(fetchUrl(res.headers.location, redirects - 1, extraHeaders));
         }
         if (res.statusCode !== 200) {
           res.resume();
@@ -151,6 +155,20 @@ function fetchUrl(url, redirects = 5) {
     req.on("error",   reject);
     req.on("timeout", () => { req.destroy(); reject(new Error("Timeout")); });
   });
+}
+
+/* ── Tradução PT-BR via Google Translate (gratuito) ─────── */
+async function translateText(text) {
+  if (!text?.trim() || text.trim().length < 10) return text;
+  try {
+    const q   = encodeURIComponent(text.slice(0, 4800));
+    const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=pt-BR&dt=t&q=${q}`;
+    const raw = await fetchUrl(url, 3, { Accept: "application/json, */*" });
+    const json = JSON.parse(raw);
+    return json[0].map(([t]) => t).join("").trim() || text;
+  } catch {
+    return text; // fallback silencioso
+  }
 }
 
 /* ── Parser RSS/Atom ────────────────────────────────────── */
@@ -173,7 +191,7 @@ function stripHtml(s = "") {
 }
 
 function extractImage(block) {
-  // enclosure
+  // enclosure image
   const enc = block.match(/<enclosure[^>]+url=["']([^"']+)["'][^>]*type=["']image/i)?.[1]
            || block.match(/<enclosure[^>]+type=["']image[^"']*["'][^>]+url=["']([^"']+)["']/i)?.[1];
   if (enc) return enc;
@@ -182,14 +200,22 @@ function extractImage(block) {
   const media = block.match(/<media:content[^>]+url=["']([^"']+)["']/i)?.[1];
   if (media) return media;
 
-  // img src in description/content
+  // media:thumbnail (TechCrunch, Verge)
+  const thumb = block.match(/<media:thumbnail[^>]+url=["']([^"']+)["']/i)?.[1];
+  if (thumb) return thumb;
+
+  // img src na description/content
   const img = block.match(/<img[^>]+src=["']([^"']+\.(?:jpg|jpeg|png|webp|gif))[^"']*["']/i)?.[1];
   if (img) return img;
+
+  // img src sem extensão explícita (CDNs como i.guim.co.uk, etc.)
+  const imgAny = block.match(/<img[^>]+src=["'](https?:\/\/[^"']+)["']/i)?.[1];
+  if (imgAny && !imgAny.includes("pixel") && !imgAny.includes("tracking")) return imgAny;
 
   return null;
 }
 
-function parseRSS(xml, sourceName) {
+function parseRSS(xml, sourceName, lang = "pt") {
   const items = [];
   const re    = /<item[^>]*>([\s\S]*?)<\/item>/gi;
   let m;
@@ -199,15 +225,13 @@ function parseRSS(xml, sourceName) {
 
     const rawTitle = between(block, "<title>", "</title>")
                   || between(block, "<title><![CDATA[", "]]></title>");
-    const title   = stripHtml(rawTitle);
+    const title    = stripHtml(rawTitle);
 
-    const rawFull = between(block, "<content:encoded>", "</content:encoded>");
-    const rawDesc = between(block, "<description>", "</description>");
-    const description = stripHtml(rawDesc || rawFull).slice(0, 280);
-    // Conteúdo completo do feed (content:encoded), limpo e sem lixo
-    const rssContent = rawFull ? cleanContent(stripHtml(rawFull).slice(0, 8000)) : null;
+    const rawFull  = between(block, "<content:encoded>", "</content:encoded>");
+    const rawDesc  = between(block, "<description>", "</description>");
+    const description = stripHtml(rawDesc || rawFull).slice(0, 300);
+    const rssContent  = rawFull ? cleanContent(stripHtml(rawFull).slice(0, 8000)) : null;
 
-    // link — pode vir como <link>URL ou <link href="URL"
     const rawLink = between(block, "<link>", "</link>") ||
                     block.match(/<link[^>]+href=["']([^"']+)["']/i)?.[1] ||
                     between(block, "<guid>", "</guid>");
@@ -224,24 +248,43 @@ function parseRSS(xml, sourceName) {
     const image = extractImage(block);
 
     if (title && link) {
-      items.push({ title, description, url: link, publishedAt: pubDate, image, source: sourceName, content: rssContent });
+      items.push({
+        title, description, url: link, publishedAt: pubDate,
+        image, source: sourceName, content: rssContent, lang,
+      });
     }
   }
 
   return items;
 }
 
-/* ── Scraper de conteúdo completo ───────────────────────── */
+/* ── Scraper de conteúdo + og:image ─────────────────────── */
 async function fetchContent(url) {
   try {
     const html = await fetchUrl(url);
 
-    // Tenta pegar a zona principal do artigo
-    const articleMatch = html.match(/<article[^>]*>([\s\S]*?)<\/article>/i);
-    const mainMatch    = html.match(/<main[^>]*>([\s\S]*?)<\/main>/i);
-    const zone         = articleMatch?.[1] || mainMatch?.[1] || html;
+    // og:image como fallback de imagem
+    const ogImage =
+      html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i)?.[1] ||
+      html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i)?.[1] ||
+      null;
 
-    // Extrai parágrafos com texto real (> 60 chars)
+    // Zona de conteúdo — tenta seletores em ordem de especificidade
+    const ZONE_PATTERNS = [
+      /<article[^>]*>([\s\S]*?)<\/article>/i,
+      /class=["'][^"']*(?:entry-content|post-content|article-body|article__content|post-body|td-post-content|single-content)[^"']*["'][^>]*>([\s\S]*?)<div\s+class=["'][^"']*(?:related|share|tags|footer|sidebar)/i,
+      /class=["'][^"']*(?:entry-content|post-content|article-body|article__content|post-body|td-post-content|single-content)[^"']*["'][^>]*>([\s\S]{300,})/i,
+      /<main[^>]*>([\s\S]*?)<\/main>/i,
+    ];
+
+    let zone = null;
+    for (const pat of ZONE_PATTERNS) {
+      const match = html.match(pat);
+      if (match?.[1]?.length > 300) { zone = match[1]; break; }
+    }
+    if (!zone) zone = html;
+
+    // Extrai parágrafos
     const pRe = /<p[^>]*>([\s\S]*?)<\/p>/gi;
     const paragraphs = [];
     let pm;
@@ -250,12 +293,18 @@ async function fetchContent(url) {
       if (text.length > 60) paragraphs.push(text);
     }
 
-    if (paragraphs.length === 0) return null;
-    return cleanContent(paragraphs.slice(0, 14).join("\n\n"));
+    const content = paragraphs.length > 0
+      ? cleanContent(paragraphs.slice(0, 14).join("\n\n"))
+      : null;
+
+    return { content, ogImage };
   } catch {
-    return null;
+    return { content: null, ogImage: null };
   }
 }
+
+/* ── Delay simples ──────────────────────────────────────── */
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 /* ── Executa tarefas com limite de concorrência ─────────── */
 async function withConcurrency(items, limit, fn) {
@@ -279,9 +328,9 @@ async function main() {
   const results = await Promise.allSettled(
     SOURCES.map(async (s) => {
       try {
-        console.log(`  → ${s.name}: ${s.url}`);
-        const xml   = await fetchUrl(s.url);
-        const items = parseRSS(xml, s.name);
+        console.log(`  → [${s.lang.toUpperCase()}] ${s.name}: ${s.url}`);
+        const xml   = await fetchUrl(s.url, 5, { Accept: "application/rss+xml, application/xml, text/xml, */*" });
+        const items = parseRSS(xml, s.name, s.lang);
         console.log(`     ✓ ${items.length} itens`);
         return items;
       } catch (err) {
@@ -305,23 +354,50 @@ async function main() {
 
   console.log(`🤖 Relacionados a IA: ${aiItems.length}`);
 
-  // Adiciona tags (usa content também) e ordena por data
+  // Adiciona tags e ordena por data
   const tagged = aiItems
     .map((a) => ({ ...a, depts: tagDepts(a.title, a.description, a.content || "") }))
     .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
     .slice(0, 40);
 
-  // Scrape: só para artigos sem conteúdo do RSS (5 em paralelo)
-  const needsScrape = tagged.filter((a) => !a.content || a.content.length < 200);
-  console.log(`\n🔍 Artigos com conteúdo RSS: ${tagged.length - needsScrape.length} | Scrape necessário: ${needsScrape.length}`);
+  // ── Scrape: conteúdo + og:image para artigos sem imagem ou sem conteúdo ──
+  const needsScrape = tagged.filter(
+    (a) => !a.content || a.content.length < 200 || !a.image
+  );
+  console.log(`\n🔍 Artigos com conteúdo RSS: ${tagged.length - needsScrape.filter(a => !a.content || a.content.length < 200).length} | Scrape necessário: ${needsScrape.length}`);
+
   if (needsScrape.length > 0) {
-    await withConcurrency(needsScrape, 5, async (article, i) => {
-      process.stdout.write(`  [${i + 1}/${needsScrape.length}] ${article.title.slice(0, 55)}... `);
-      const scraped = await fetchContent(article.url);
-      if (scraped) article.content = scraped;
-      console.log(scraped ? `✓ (${scraped.length} chars)` : "– bloqueado");
+    await withConcurrency(needsScrape, 4, async (article, i) => {
+      process.stdout.write(`  [${i + 1}/${needsScrape.length}] ${article.title.slice(0, 50)}... `);
+      const { content, ogImage } = await fetchContent(article.url);
+      if (content  && (!article.content || article.content.length < 200)) article.content = content;
+      if (ogImage  && !article.image) article.image = ogImage;
+      console.log([
+        content  ? `✓ conteúdo (${content.length}ch)` : "– sem conteúdo",
+        ogImage  && !article.image ? " + imagem og" : "",
+      ].join(""));
     });
   }
+
+  // ── Tradução de artigos em inglês ──
+  const enArticles = tagged.filter((a) => a.lang === "en");
+  if (enArticles.length > 0) {
+    console.log(`\n🌐 Traduzindo ${enArticles.length} artigos (EN → PT-BR)...`);
+    for (let i = 0; i < enArticles.length; i++) {
+      const a = enArticles[i];
+      process.stdout.write(`  [${i + 1}/${enArticles.length}] ${a.title.slice(0, 50)}... `);
+      a.title       = await translateText(a.title);
+      a.description = await translateText(a.description);
+      if (a.content) a.content = await translateText(a.content);
+      console.log("✓");
+      if (i < enArticles.length - 1) await sleep(400); // evita rate-limit
+    }
+  }
+
+  // Re-taggeia com texto já traduzido
+  tagged.forEach((a) => {
+    a.depts = tagDepts(a.title, a.description, a.content || "");
+  });
 
   // Preserva artigos anteriores se não tiver novos
   let prev = [];
