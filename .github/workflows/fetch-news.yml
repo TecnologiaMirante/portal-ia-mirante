@@ -24,6 +24,9 @@ jobs:
         with:
           node-version: '24'
 
+      - name: Instalar dependências
+        run: npm ci
+
       - name: Buscar notícias
         run: node scripts/fetch-news.mjs
 

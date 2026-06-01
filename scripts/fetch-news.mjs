@@ -10,6 +10,8 @@ import http  from "node:http";
 import fs    from "node:fs";
 import path  from "node:path";
 import { fileURLToPath } from "node:url";
+import { Readability } from "@mozilla/readability";
+import { JSDOM }       from "jsdom";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const OUTPUT    = path.join(__dirname, "..", "public", "news.json");
@@ -258,44 +260,60 @@ function parseRSS(xml, sourceName, lang = "pt") {
   return items;
 }
 
-/* ── Scraper de conteúdo + og:image ─────────────────────── */
+/* ── Scraper com Readability (Mozilla) + fallback regex ─── */
 async function fetchContent(url) {
   try {
     const html = await fetchUrl(url);
 
-    // og:image como fallback de imagem
+    // og:image para artigos sem imagem no RSS
     const ogImage =
       html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i)?.[1] ||
       html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i)?.[1] ||
       null;
 
-    // Zona de conteúdo — tenta seletores em ordem de especificidade
-    const ZONE_PATTERNS = [
-      /<article[^>]*>([\s\S]*?)<\/article>/i,
-      /class=["'][^"']*(?:entry-content|post-content|article-body|article__content|post-body|td-post-content|single-content)[^"']*["'][^>]*>([\s\S]*?)<div\s+class=["'][^"']*(?:related|share|tags|footer|sidebar)/i,
-      /class=["'][^"']*(?:entry-content|post-content|article-body|article__content|post-body|td-post-content|single-content)[^"']*["'][^>]*>([\s\S]{300,})/i,
-      /<main[^>]*>([\s\S]*?)<\/main>/i,
-    ];
+    // ── Readability (modo leitura do Firefox) ──
+    let content = null;
+    try {
+      const dom     = new JSDOM(html, { url });
+      const reader  = new Readability(dom.window.document, { charThreshold: 100 });
+      const article = reader.parse();
 
-    let zone = null;
-    for (const pat of ZONE_PATTERNS) {
-      const match = html.match(pat);
-      if (match?.[1]?.length > 300) { zone = match[1]; break; }
+      if (article?.content) {
+        // Extrai parágrafos limpos do HTML retornado pelo Readability
+        const cDom  = new JSDOM(article.content);
+        const paras = Array.from(cDom.window.document.querySelectorAll("p, li"))
+          .map((el) => el.textContent.trim())
+          .filter((t) => t.length > 60 && !JUNK_RE.some((re) => re.test(t)));
+
+        if (paras.length >= 2) {
+          content = cleanContent(paras.slice(0, 16).join("\n\n"));
+        }
+      }
+    } catch { /* segue para fallback */ }
+
+    // ── Fallback regex (caso Readability falhe) ──
+    if (!content) {
+      const ZONE_PATTERNS = [
+        /<article[^>]*>([\s\S]*?)<\/article>/i,
+        /class=["'][^"']*(?:entry-content|post-content|article-body|article__content|post-body|td-post-content|single-content)[^"']*["'][^>]*>([\s\S]{300,})/i,
+        /<main[^>]*>([\s\S]*?)<\/main>/i,
+      ];
+      let zone = null;
+      for (const pat of ZONE_PATTERNS) {
+        const m = html.match(pat);
+        if (m?.[1]?.length > 300) { zone = m[1]; break; }
+      }
+      if (zone) {
+        const pRe = /<p[^>]*>([\s\S]*?)<\/p>/gi;
+        const paras = [];
+        let pm;
+        while ((pm = pRe.exec(zone)) !== null) {
+          const t = stripHtml(pm[1]);
+          if (t.length > 60) paras.push(t);
+        }
+        if (paras.length > 0) content = cleanContent(paras.slice(0, 14).join("\n\n"));
+      }
     }
-    if (!zone) zone = html;
-
-    // Extrai parágrafos
-    const pRe = /<p[^>]*>([\s\S]*?)<\/p>/gi;
-    const paragraphs = [];
-    let pm;
-    while ((pm = pRe.exec(zone)) !== null) {
-      const text = stripHtml(pm[1]);
-      if (text.length > 60) paragraphs.push(text);
-    }
-
-    const content = paragraphs.length > 0
-      ? cleanContent(paragraphs.slice(0, 14).join("\n\n"))
-      : null;
 
     return { content, ogImage };
   } catch {
