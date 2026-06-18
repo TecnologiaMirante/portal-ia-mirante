@@ -1,4 +1,3 @@
-import * as React from "react";
 import { DayPicker } from "react-day-picker";
 import { ptBR } from "react-day-picker/locale";
 import { ChevronLeft, ChevronRight } from "lucide-react";

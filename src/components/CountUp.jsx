@@ -24,6 +24,7 @@ export function CountUp({ value, duration = 1600 }) {
   useEffect(() => {
     /* If no numeric part, just show as-is */
     if (target === null) {
+      // eslint-disable-next-line react-hooks/set-state-in-effect
       setDisplay(String(value));
       return;
     }

@@ -1,5 +1,6 @@
 import { useState } from "react";
-import { Trophy, Zap, Share2, Medal, ArrowRight, Bell, X, Sparkles } from "lucide-react";
+import { Link } from "react-router-dom";
+import { Trophy, Zap, Share2, Medal, ArrowRight, Bell, X, Sparkles, ExternalLink } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 const steps = [
@@ -210,14 +211,25 @@ export function AIAward() {
                 </div>
               ))}
 
-              <div className="reveal reveal-delay-4 mt-2">
+              <div className="reveal reveal-delay-4 mt-2 flex flex-col sm:flex-row gap-3">
+                {/* CTA principal — abre a página completa */}
+                <Link
+                  to="/premio-ia"
+                  className="inline-flex items-center justify-center gap-2 px-5 py-2.5 rounded-xl font-semibold text-sm text-white transition-all shadow-md shadow-amber-500/25 hover:shadow-amber-500/40 hover:-translate-y-0.5"
+                  style={{ background: "linear-gradient(135deg, oklch(0.72 0.19 60), oklch(0.60 0.22 30))" }}
+                >
+                  <Trophy className="w-4 h-4" />
+                  Acessar Prêmio IA
+                  <ExternalLink className="w-3.5 h-3.5" />
+                </Link>
+
+                {/* Saiba mais — abre modal */}
                 <Button
                   variant="outline"
                   onClick={() => setModalOpen(true)}
-                  className="btn-xl border-amber-300 text-amber-600 hover:bg-amber-50 hover:border-amber-400 dark:border-amber-500/30 dark:text-amber-400 dark:hover:bg-amber-500/10 dark:hover:border-amber-500/50 transition-all"
+                  className="border-amber-300 text-amber-600 hover:bg-amber-50 hover:border-amber-400 dark:border-amber-500/30 dark:text-amber-400 dark:hover:bg-amber-500/10 dark:hover:border-amber-500/50 transition-all"
                 >
-                  <Trophy className="w-4 h-4" />
-                  Saiba mais sobre o prêmio
+                  Saiba mais
                   <ArrowRight className="w-4 h-4 ml-1" />
                 </Button>
               </div>

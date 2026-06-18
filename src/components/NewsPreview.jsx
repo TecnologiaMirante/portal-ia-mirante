@@ -5,7 +5,7 @@
  * glass-card, TiltCard, reveal).
  */
 import { Link } from "react-router-dom";
-import { Newspaper, Clock, ArrowRight, Sparkles, Rss, ExternalLink } from "lucide-react";
+import { Newspaper, Clock, ArrowRight, Sparkles, Rss } from "lucide-react";
 import { useNews }    from "@/hooks/useNews";
 import { TiltCard }   from "@/components/effects/TiltCard";
 

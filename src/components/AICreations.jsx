@@ -25,6 +25,8 @@ import {
   VolumeX,
   Maximize2,
   Minimize2,
+  Copy,
+  Check,
 } from "lucide-react";
 import { TiltCard } from "@/components/effects/TiltCard";
 import { aiTools } from "@/data/aiTools";
@@ -204,13 +206,15 @@ function CustomVideoPlayer({ src, poster }) {
       }
       if (e.key === "ArrowRight") { e.preventDefault(); v.currentTime = Math.min(v.currentTime + 5, v.duration); reveal(); }
       if (e.key === "ArrowLeft")  { e.preventDefault(); v.currentTime = Math.max(v.currentTime - 5, 0);           reveal(); }
+      // eslint-disable-next-line react-hooks/immutability
       if (e.key === "m") { e.preventDefault(); toggleMute(); }
+      // eslint-disable-next-line react-hooks/immutability
       if (e.key === "f") { e.preventDefault(); toggleFS(); }
     };
     el.setAttribute("tabindex", "0");
     el.addEventListener("keydown", onKey);
     return () => el.removeEventListener("keydown", onKey);
-  }, [playing, reveal]); // eslint-disable-line
+  }, [playing, reveal]);
 
   const togglePlay = () => {
     const v = videoRef.current;
@@ -442,6 +446,45 @@ function CustomVideoPlayer({ src, poster }) {
   );
 }
 
+/* ─── CopyPromptBtn ──────────────────────────────────────── */
+function CopyPromptBtn({ text }) {
+  const [copied, setCopied] = useState(false);
+  const copy = async () => {
+    let ok = false;
+    /* tenta clipboard moderna (HTTPS / localhost) */
+    try {
+      await navigator.clipboard.writeText(text);
+      ok = true;
+    } catch {
+      /* fallback via execCommand para HTTP local */
+      try {
+        const el = document.createElement("textarea");
+        el.value = text;
+        el.style.cssText = "position:fixed;top:-9999px;left:-9999px";
+        document.body.appendChild(el);
+        el.focus();
+        el.select();
+        ok = document.execCommand("copy");
+        document.body.removeChild(el);
+      } catch { ok = false; }
+    }
+    if (ok) { setCopied(true); setTimeout(() => setCopied(false), 2000); }
+  };
+  return (
+    <button
+      onClick={copy}
+      className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold border transition-all duration-200 shrink-0"
+      style={copied
+        ? { background: "oklch(0.55 0.20 150 / 0.12)", borderColor: "oklch(0.55 0.20 150 / 0.40)", color: "oklch(0.55 0.20 150)" }
+        : { background: "oklch(0.55 0.28 264 / 0.08)", borderColor: "oklch(0.55 0.28 264 / 0.30)", color: "oklch(0.55 0.28 264)" }
+      }
+    >
+      {copied ? <Check className="w-3 h-3" /> : <Copy className="w-3 h-3" />}
+      {copied ? "Copiado!" : "Copiar Prompt"}
+    </button>
+  );
+}
+
 /* ─── MediaModal ─────────────────────────────────────────── */
 function MediaModal({ creation, onClose }) {
   const type = getMediaType(creation);
@@ -469,7 +512,7 @@ function MediaModal({ creation, onClose }) {
       onClick={onClose}
     >
       <div
-        className="relative w-full max-w-3xl animate-in zoom-in-95 fade-in duration-200 flex flex-col rounded-3xl overflow-hidden bg-card border border-border/80"
+        className="relative w-full max-w-3xl animate-in zoom-in-95 fade-in duration-200 flex flex-col rounded-3xl bg-card border border-border/80 max-h-[90vh] overflow-y-auto"
         style={{ boxShadow: `0 0 0 1px ${accent.replace(")", "/0.20)")}, 0 24px 80px rgba(0,0,0,0.55), 0 0 60px ${accent.replace(")", "/0.12)")}` }}
         onClick={(e) => e.stopPropagation()}
       >
@@ -489,12 +532,19 @@ function MediaModal({ creation, onClose }) {
 
         {/* ── media area ─────────────────────────────────────── */}
         {type === "image" ? (
-          <div className="w-full bg-black flex items-center justify-center"
-            style={{ minHeight: "240px", maxHeight: "65vh" }}>
+          <div className="w-full relative flex items-center justify-center overflow-hidden"
+            style={{ minHeight: "200px", maxHeight: "50vh", background: "#000" }}>
+            {/* fundo borrado */}
+            <img
+              src={creation.videoUrl}
+              aria-hidden="true"
+              className="absolute inset-0 w-full h-full object-cover scale-110 blur-2xl opacity-30 pointer-events-none"
+            />
+            {/* imagem real contida */}
             <img
               src={creation.videoUrl}
               alt={creation.title}
-              className="max-h-[65vh] w-auto max-w-full object-contain"
+              className="relative z-10 max-h-[50vh] w-auto max-w-full object-contain"
             />
           </div>
 
@@ -592,6 +642,19 @@ function MediaModal({ creation, onClose }) {
             )}
           </div>
 
+          {/* Prompt */}
+          {creation.prompt && (
+            <div className="flex flex-col gap-2 pt-2 border-t border-border/50">
+              <div className="flex items-center justify-between gap-2">
+                <span className="text-[11px] font-semibold text-muted-foreground uppercase tracking-wide">Prompt</span>
+                <CopyPromptBtn text={creation.prompt} />
+              </div>
+              <pre className="text-[11px] text-muted-foreground leading-relaxed whitespace-pre-wrap font-mono bg-muted/30 rounded-xl p-3 border border-border/50 max-h-40 overflow-y-auto">
+                {creation.prompt}
+              </pre>
+            </div>
+          )}
+
           {/* AI badges */}
           {(creation.aiUsed ?? []).length > 0 && (
             <div className="flex flex-wrap gap-1.5 pt-2 border-t border-border/50">
@@ -609,7 +672,7 @@ function MediaModal({ creation, onClose }) {
 /* ─── CreationCard ───────────────────────────────────────── */
 function CreationCard({ creation, index, onClick }) {
   const type     = getMediaType(creation);
-  const isVideo  = type === "video";
+  void (type === "video"); // isVideo: not used in this card variant
   const isImage  = type === "image";
   const isAudio  = type === "audio";
   const thumb    = getThumbnail(creation);
@@ -642,12 +705,29 @@ function CreationCard({ creation, index, onClick }) {
               </div>
             </div>
           ) : thumb ? (
-            <img
-              src={thumb}
-              alt={creation.title}
-              loading="lazy"
-              className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-[1.04]"
-            />
+            isImage ? (
+              /* Imagem vertical: fundo borrado + imagem contida */
+              <div className="w-full h-full relative">
+                <img
+                  src={thumb}
+                  aria-hidden="true"
+                  className="absolute inset-0 w-full h-full object-cover scale-110 blur-lg opacity-40 pointer-events-none"
+                />
+                <img
+                  src={thumb}
+                  alt={creation.title}
+                  loading="lazy"
+                  className="relative w-full h-full object-contain transition-transform duration-500 group-hover:scale-[1.03]"
+                />
+              </div>
+            ) : (
+              <img
+                src={thumb}
+                alt={creation.title}
+                loading="lazy"
+                className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-[1.04]"
+              />
+            )
           ) : (
             /* No thumbnail fallback */
             <div className={`w-full h-full bg-gradient-to-br ${gradient} flex items-center justify-center`}>
@@ -808,6 +888,7 @@ export function AICreations() {
   const hasMore = visibleCount < filtered.length;
 
   useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     setVisibleCount(PAGE_SIZE);
   }, [filterArea, filterTools, filterType, search, sortOrder]);
 

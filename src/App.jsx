@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route, useLocation } from "react-router-dom";
 
 /* Theme */
 import { ThemeProvider } from "@/hooks/useTheme";
@@ -21,14 +21,19 @@ import { AICreations }   from "@/components/AICreations";
 import { PromptBankCTA } from "@/components/PromptBankCTA";
 import { NewsPreview }   from "@/components/NewsPreview";
 import { AIAward }       from "@/components/AIAward";
+import { NewsCarousel }  from "@/components/NewsCarousel";
+import { ComunicadosBanner } from "@/components/ComunicadosBanner";
 import { Footer }        from "@/components/Footer";
 import { PolicyModal }   from "@/components/PolicyModal";
 
 /* Admin */
-import { AdminLayout }    from "@/components/admin/AdminLayout";
-import { AdminLogin }     from "@/components/admin/AdminLogin";
-import { AdminDashboard } from "@/components/admin/AdminDashboard";
-import { CreationForm }   from "@/components/admin/CreationForm";
+import { Comunicados }           from "@/components/admin/Comunicados";
+import { AdminLayout }           from "@/components/admin/AdminLayout";
+import { AdminLogin }            from "@/components/admin/AdminLogin";
+import { AdminDashboard }        from "@/components/admin/AdminDashboard";
+import { CreationForm }          from "@/components/admin/CreationForm";
+import { PremioInscricoes }      from "@/components/admin/PremioInscricoes";
+import { PremioInscricaoDetail } from "@/components/admin/PremioInscricaoDetail";
 
 /* Visual effects */
 import { ScrollProgress } from "@/components/effects/ScrollProgress";
@@ -38,13 +43,49 @@ import { ClickRipple }    from "@/components/effects/ClickRipple";
 import { BackToTop }      from "@/components/effects/BackToTop";
 
 /* Pages */
-import { NewsPage } from "@/pages/NewsPage";
+import { NewsPage }     from "@/pages/NewsPage";
+import { PremioIAPage }     from "@/pages/PremioIAPage";
+import { PremioIAEditPage } from "@/pages/PremioIAEditPage";
 
 /* Error boundary + 404 */
 import { ErrorBoundary } from "@/components/ErrorBoundary";
 import { NotFound }      from "@/components/NotFound";
 
-/* ── Portal page ─────────────────────────────────────────────── */
+/* ── Scroll reveal — re-observa a cada troca de rota ────── */
+function ScrollReveal() {
+  const location = useLocation();
+
+  useEffect(() => {
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add("visible");
+            observer.unobserve(entry.target);
+          }
+        });
+      },
+      { threshold: 0.08 },
+    );
+
+    const observe = () =>
+      document.querySelectorAll(".reveal:not(.visible)").forEach((el) => observer.observe(el));
+
+    observe();
+    const t1 = setTimeout(observe, 100);
+    const t2 = setTimeout(observe, 400);
+
+    return () => {
+      observer.disconnect();
+      clearTimeout(t1);
+      clearTimeout(t2);
+    };
+  }, [location.pathname]);
+
+  return null;
+}
+
+/* ── Portal page ─────────────────────────────────────────── */
 function PortalPage() {
   const [policyOpen, setPolicyOpen] = useState(false);
 
@@ -58,7 +99,9 @@ function PortalPage() {
       <Navbar onOpenPolicy={() => setPolicyOpen(true)} />
 
       <main>
+        <ComunicadosBanner />
         <Hero onOpenPolicy={() => setPolicyOpen(true)} />
+        <NewsCarousel />
         <Features />
         <GettingStarted />
         <AIToolsBanner />
@@ -76,28 +119,8 @@ function PortalPage() {
   );
 }
 
-/* ── App root ────────────────────────────────────────────────── */
+/* ── App root ────────────────────────────────────────────── */
 function App() {
-  /* Scroll reveal */
-  useEffect(() => {
-    const observer = new IntersectionObserver(
-      (entries) => {
-        entries.forEach((entry) => {
-          if (entry.isIntersecting) {
-            entry.target.classList.add("visible");
-            observer.unobserve(entry.target);
-          }
-        });
-      },
-      { threshold: 0.12 },
-    );
-    const observe = () =>
-      document.querySelectorAll(".reveal:not(.visible)").forEach((el) => observer.observe(el));
-    observe();
-    const t = setTimeout(observe, 300);
-    return () => { observer.disconnect(); clearTimeout(t); };
-  }, []);
-
   return (
     <BrowserRouter>
       <ThemeProvider>
@@ -105,6 +128,7 @@ function App() {
           <ErrorBoundary>
             <Toaster />
             <ScrollToTop />
+            <ScrollReveal />
             <Routes>
               {/* ── Portal principal ──────────────────── */}
               <Route path="/" element={<PortalPage />} />
@@ -112,13 +136,20 @@ function App() {
               {/* ── Admin ─────────────────────────────── */}
               <Route path="/admin/login" element={<AdminLogin />} />
               <Route path="/admin" element={<AdminLayout />}>
-                <Route index           element={<AdminDashboard />} />
-                <Route path="new"      element={<CreationForm />} />
-                <Route path="edit/:id" element={<CreationForm />} />
+                <Route index                element={<AdminDashboard />}        />
+                <Route path="new"           element={<CreationForm />}          />
+                <Route path="edit/:id"      element={<CreationForm />}          />
+                <Route path="inscricoes"    element={<PremioInscricoes />}      />
+                <Route path="inscricoes/:id" element={<PremioInscricaoDetail />} />
+                <Route path="comunicados"   element={<Comunicados />}           />
               </Route>
 
               {/* ── Notícias ──────────────────────────── */}
               <Route path="/noticias" element={<NewsPage />} />
+
+              {/* ── Prêmio IA ─────────────────────────── */}
+              <Route path="/premio-ia"              element={<PremioIAPage />}     />
+              <Route path="/premio-ia/editar/:id"   element={<PremioIAEditPage />} />
 
               {/* ── 404 ───────────────────────────────── */}
               <Route path="*" element={<NotFound />} />

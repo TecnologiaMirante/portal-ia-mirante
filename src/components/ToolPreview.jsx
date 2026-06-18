@@ -2,7 +2,7 @@
  * ToolPreview — unique animated preview for each AI tool type
  * Types: "chat" | "code" | "video" | "audio" | "music" | "workflow"
  */
-import { Play, Mic, Code2, Pause, SkipForward, Music2, Zap } from "lucide-react";
+import { Play, Mic, Code2, SkipForward, Zap } from "lucide-react";
 
 /* ── Shared typing dots ─────────────────────────────────── */
 function TypingDots({ color }) {
@@ -344,6 +344,7 @@ export function AudioPreview({ tool }) {
 /* ── 5. MUSIC preview (Suno) ────────────────────────────── */
 const MUSIC_BARS = [40, 72, 55, 88, 45, 78, 62, 92, 50, 82, 36, 66, 56, 76, 46, 90, 62, 72, 42, 80, 56, 66, 48, 84, 38];
 
+// eslint-disable-next-line no-unused-vars
 export function MusicPreview({ tool }) {
   return (
     <div className="relative w-full h-full rounded-xl overflow-hidden border border-rose-800/30">

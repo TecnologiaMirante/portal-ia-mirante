@@ -1,11 +1,11 @@
-import * as React from "react";
 import { Select as SelectPrimitive } from "radix-ui";
 import { Check, ChevronDown, ChevronUp } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 /* ── Root ─────────────────────────────────────────────────── */
-function Select(props) {
-  return <SelectPrimitive.Root data-slot="select" {...props} />;
+// modal={false} disables Radix scroll-lock so navigating away never leaves body overflow:hidden
+function Select({ modal = false, ...props }) {
+  return <SelectPrimitive.Root data-slot="select" modal={modal} {...props} />;
 }
 
 /* ── Trigger ─────────────────────────────────────────────── */

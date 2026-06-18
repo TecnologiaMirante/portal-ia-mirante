@@ -11,7 +11,7 @@ const navLinks = [
   { label: "Portais IA",  href: "#implementacoes"  },
   { label: "Criações",    href: "#criacoes"        },
   { label: "Notícias IA", href: "#noticias-ia"     },
-  { label: "Prêmio IA",   href: "#premio-ia"       },
+  { label: "🏆 Prêmio IA", href: "#premio-ia"      },
 ];
 
 export function Navbar({ onOpenPolicy }) {
@@ -47,7 +47,11 @@ export function Navbar({ onOpenPolicy }) {
               <a
                 key={link.href}
                 href={link.href}
-                className="px-3 py-1.5 text-sm text-muted-foreground hover:text-foreground rounded-lg hover:bg-accent transition-colors whitespace-nowrap"
+                className={`px-3 py-1.5 text-sm rounded-lg transition-colors whitespace-nowrap ${
+                  link.href === "#premio-ia"
+                    ? "text-amber-600 dark:text-amber-400 font-semibold hover:bg-amber-50 dark:hover:bg-amber-500/10"
+                    : "text-muted-foreground hover:text-foreground hover:bg-accent"
+                }`}
               >
                 {link.label}
               </a>
@@ -112,7 +116,11 @@ export function Navbar({ onOpenPolicy }) {
               <a
                 key={link.href}
                 href={link.href}
-                className="px-3 py-2 text-sm text-muted-foreground hover:text-foreground rounded-lg hover:bg-accent transition-colors"
+                className={`px-3 py-2 text-sm rounded-lg transition-colors ${
+                  link.href === "#premio-ia"
+                    ? "text-amber-600 dark:text-amber-400 font-semibold hover:bg-amber-50 dark:hover:bg-amber-500/10"
+                    : "text-muted-foreground hover:text-foreground hover:bg-accent"
+                }`}
                 onClick={() => setMobileOpen(false)}
               >
                 {link.label}

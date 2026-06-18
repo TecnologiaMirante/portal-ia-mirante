@@ -13,7 +13,8 @@ export const mirantePortals = [
       {
         name: "Mara",
         role: "Analista de BI",
-        description: "Responde perguntas sobre dados, gera insights e interpreta métricas de negócio em linguagem natural.",
+        description:
+          "Responde perguntas sobre dados, gera insights e interpreta métricas de negócio em linguagem natural.",
         tags: ["BI", "Dados", "Insights"],
       },
     ],
@@ -37,13 +38,15 @@ export const mirantePortals = [
       {
         name: "Criador de Roteiros",
         role: "Assistente de IA",
-        description: "Cria roteiros completos para vídeos e campanhas a partir de um briefing.",
+        description:
+          "Cria roteiros completos para vídeos e campanhas a partir de um briefing.",
         tags: ["Roteiro", "Criação", "Vídeo"],
       },
       {
         name: "Analista de Pautas",
         role: "Assistente de IA",
-        description: "Analisa e dá feedback estruturado sobre pautas e roteiros existentes.",
+        description:
+          "Analisa e dá feedback estruturado sobre pautas e roteiros existentes.",
         tags: ["Análise", "Pauta", "Feedback"],
       },
     ],
@@ -67,7 +70,8 @@ export const mirantePortals = [
       {
         name: "Analista Comercial",
         role: "Analista de IA",
-        description: "Analisa planos comerciais, identifica oportunidades e gera relatórios estratégicos.",
+        description:
+          "Analisa planos comerciais, identifica oportunidades e gera relatórios estratégicos.",
         tags: ["Comercial", "Planos", "Estratégia"],
       },
     ],
@@ -75,42 +79,6 @@ export const mirantePortals = [
       user: "Analise este plano para o cliente X",
       ai: "Detectei 3 oportunidades: expansão de licenças, suporte premium e upsell de módulo de BI.",
     },
-    url: "http://produtosesolucoes.mirante.com.br",
-  },
-];
-
-export const aiCreations = [
-  {
-    id: 1,
-    title: "Vídeo de Apresentação Mirante IA",
-    description: "Apresentação institucional do Programa de IA da Mirante criada com HeyGen e ElevenLabs.",
-    tools: ["HeyGen", "ElevenLabs"],
-    toolColors: ["bg-violet-500/20 text-violet-300", "bg-emerald-500/20 text-emerald-300"],
-    thumbnail: null,
-    videoUrl: null,
-    date: "2025",
-    placeholder: true,
-  },
-  {
-    id: 2,
-    title: "Trilha Sonora para Campanha",
-    description: "Música original criada com Suno AI para campanha interna de inovação.",
-    tools: ["Suno"],
-    toolColors: ["bg-rose-500/20 text-rose-300"],
-    thumbnail: null,
-    videoUrl: null,
-    date: "2025",
-    placeholder: true,
-  },
-  {
-    id: 3,
-    title: "Treinamento com Avatar IA",
-    description: "Vídeo de onboarding produzido com avatar virtual — sem câmera, sem estúdio.",
-    tools: ["HeyGen", "Suno"],
-    toolColors: ["bg-violet-500/20 text-violet-300", "bg-rose-500/20 text-rose-300"],
-    thumbnail: null,
-    videoUrl: null,
-    date: "2025",
-    placeholder: true,
+    url: "https://produtosesolucoes.mirante.com.br",
   },
 ];
