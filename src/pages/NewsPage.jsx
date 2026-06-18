@@ -75,6 +75,7 @@ function Skeleton({ h = "h-64" }) {
    ═══════════════════════════════════════════════════════════ */
 function ArticleModal({ article, onClose }) {
   const [visible, setVisible] = useState(false);
+  const scrollRef = useRef(null);
 
   useEffect(() => {
     requestAnimationFrame(() => setVisible(true));
@@ -84,239 +85,205 @@ function ArticleModal({ article, onClose }) {
     return () => { document.removeEventListener("keydown", esc); document.body.style.overflow = ""; };
   }, []);
 
-  function close() { setVisible(false); setTimeout(onClose, 320); }
+  function close() { setVisible(false); setTimeout(onClose, 280); }
 
   const JUNK = [
-    /assine a newsletter/i, /continua após a publicidade/i,
+    /assine (a newsletter|o)/i, /continua após a publicidade/i,
     /^por .{0,80}editado por/i, /termos de uso/i,
-    /política de privacidade/i, /inscreva.se/i, /newsletter do/i,
-    /receba notícias/i, /^whatsapp/i, /cadastre.se/i,
-    /leia (mais|também)/i, /confira (também|mais)/i, /clique aqui/i,
+    /política de privacidade/i, /inscreva.se/i, /newsletter/i,
+    /receba (notícias|artigos)/i, /^whatsapp/i, /cadastre.se/i,
+    /leia (mais|também|a seguir)/i, /confira (também|mais)/i,
+    /veja (também|mais|a seguir)/i, /clique aqui/i, /saiba mais/i,
+    /se você gostou/i, /talvez (também )?se interesse/i,
+    /pode te interessar/i, /você também pode/i,
+    /o prompt abaixo/i, /a lista (abaixo|completa)/i,
+    /ouça o podcast/i, /disponível no episódio/i,
+    /spotify|deezer|apple podcasts/i,
+    /está no whatsapp/i, /entre no canal/i,
+    /acompanhe (notícias|dicas|conteúdo)/i,
   ];
   const paragraphs = (article.content?.split("\n\n") ?? [])
     .map((p) => p.trim())
-    .filter((p) => p.length > 80 && !JUNK.some((re) => re.test(p)));
-  const hasContent  = paragraphs.length > 0;
-  const mins        = hasContent ? readingTime(article.content) : null;
-  const src         = article.source?.name ?? article.source ?? "";
-  const fullDate    = fmtDate(article.publishedAt);
+    .filter((p) => p.length > 60 && !JUNK.some((re) => re.test(p)));
+
+  const [lead, ...body] = paragraphs;
+  const hasContent = paragraphs.length > 0;
+  const mins       = hasContent ? readingTime(article.content) : null;
+  const src        = article.source?.name ?? article.source ?? "";
+  const fullDate   = fmtDate(article.publishedAt);
 
   return (
     <div
-      className="fixed inset-0 z-50 flex items-end sm:items-center justify-center sm:p-4 md:p-8"
+      className="fixed inset-0 z-50 flex items-end sm:items-center justify-center"
+      style={{
+        background: visible ? "rgba(0,0,0,0.7)" : "rgba(0,0,0,0)",
+        backdropFilter: visible ? "blur(8px)" : "blur(0px)",
+        transition: "background 280ms ease, backdrop-filter 280ms ease",
+      }}
       onClick={(e) => { if (e.target === e.currentTarget) close(); }}
     >
-      {/* ── Backdrop ── */}
+      {/* ── Reader panel — full screen on mobile, tall centered on desktop ── */}
       <div
-        className="absolute inset-0 backdrop-blur-md transition-opacity duration-300"
-        style={{ background: "rgba(0,0,0,0.65)", opacity: visible ? 1 : 0 }}
-        onClick={close}
-      />
-
-      {/* ── Painel ── */}
-      <div
-        className="relative z-10 w-full sm:max-w-2xl max-h-[97dvh] sm:max-h-[90dvh]
-          flex flex-col rounded-t-[2rem] sm:rounded-[1.75rem] overflow-hidden
-          bg-card border border-border"
+        className="relative w-full sm:max-w-3xl h-[100dvh] sm:h-[94dvh] flex flex-col
+          bg-background sm:rounded-3xl overflow-hidden border-0 sm:border sm:border-border"
         style={{
-          boxShadow: "0 40px 100px rgba(0,0,0,0.4), 0 0 0 1px rgba(99,91,255,0.07)",
-          transform: visible ? "translateY(0) scale(1)" : "translateY(52px) scale(0.96)",
+          boxShadow: "0 40px 120px rgba(0,0,0,0.5)",
+          transform: visible ? "translateY(0)" : "translateY(60px)",
           opacity:   visible ? 1 : 0,
-          transition: "transform 350ms cubic-bezier(0.34,1.2,0.64,1), opacity 280ms ease",
+          transition: "transform 320ms cubic-bezier(0.34,1.1,0.64,1), opacity 260ms ease",
         }}
       >
 
-        {/* Handle mobile */}
-        <div className="sm:hidden flex justify-center pt-3 shrink-0">
-          <div className="w-10 h-1 rounded-full bg-border" />
-        </div>
+        {/* ══ TOPBAR ════════════════════════════════════════ */}
+        <div className="shrink-0 flex items-center justify-between gap-3
+          px-4 sm:px-6 h-14 border-b border-border bg-background/95 backdrop-blur-sm">
 
-        {/* ══ HERO ══════════════════════════════════════════ */}
-        <div className="relative shrink-0 overflow-hidden bg-muted"
-          style={{ height: "clamp(180px, 30vh, 260px)" }}>
-
-          {/* Neural Bg sempre de fundo */}
-          <div className="absolute inset-0 opacity-60 dark:opacity-100"><NeuralBg /></div>
-
-          {/* Blobs */}
-          <div className="absolute inset-0 pointer-events-none overflow-hidden">
-            <div className="absolute -top-20 -left-20 w-72 h-72 rounded-full blur-3xl opacity-20 dark:opacity-35"
-              style={{ background: "radial-gradient(circle, oklch(0.55 0.28 264), transparent 70%)" }} />
-            <div className="absolute -bottom-10 right-0 w-56 h-56 rounded-full blur-3xl opacity-15 dark:opacity-25"
-              style={{ background: "radial-gradient(circle, oklch(0.55 0.26 310), transparent 70%)" }} />
-          </div>
-
-          {/* Imagem */}
-          {article.image && (
-            <img
-              src={article.image} alt={article.title}
-              className="absolute inset-0 w-full h-full object-cover"
-              onError={(e) => { e.currentTarget.style.display = "none"; }}
-            />
-          )}
-
-          {/* Fade p/ bg-card em cima e embaixo */}
-          <div className="absolute inset-x-0 top-0 h-16 bg-gradient-to-b from-card/80 to-transparent" />
-          <div className="absolute inset-x-0 bottom-0 h-24 bg-gradient-to-t from-card to-transparent" />
-
-          {/* Botão fechar */}
-          <button
-            onClick={close}
-            className="absolute top-3 right-3 z-20 w-8 h-8 rounded-full
-              flex items-center justify-center
-              bg-background/70 border border-border backdrop-blur-sm
-              text-muted-foreground hover:text-foreground hover:bg-background
-              transition-all duration-200 hover:scale-110"
-          >
-            <X className="w-3.5 h-3.5" />
-          </button>
-
-          {/* Dept pills */}
-          {article.depts?.length > 0 && (
-            <div className="absolute top-3 left-3 z-20 flex flex-wrap gap-1.5">
-              {article.depts.map((d) => <Pill key={d} dept={d} />)}
-            </div>
-          )}
-        </div>
-
-        {/* ══ CABEÇALHO DA MATÉRIA ══════════════════════════ */}
-        <div className="shrink-0 px-6 pt-3 pb-4 border-b border-border space-y-3">
-
-          {/* Fonte + data + leitura */}
-          <div className="flex flex-wrap items-center gap-x-3 gap-y-1.5">
-            {/* Source chip */}
-            <span className="inline-flex items-center gap-1.5 text-[11px] font-bold uppercase tracking-widest
-              text-primary bg-primary/10 border border-primary/20 px-2.5 py-1 rounded-full">
+          {/* Esq: fonte + data */}
+          <div className="flex items-center gap-2.5 min-w-0">
+            <span className="inline-flex items-center gap-1.5 text-[10px] font-bold uppercase tracking-widest
+              text-primary bg-primary/10 border border-primary/20 px-2.5 py-1 rounded-full shrink-0">
               <Rss className="w-2.5 h-2.5" />
               {src}
             </span>
-
-            <div className="flex items-center gap-2 text-[11px] text-muted-foreground">
+            <span className="hidden sm:flex items-center gap-1.5 text-[11px] text-muted-foreground">
               <Clock className="w-3 h-3 shrink-0" />
-              <span>{fullDate}</span>
-              <span className="text-border">·</span>
-              <span className="text-muted-foreground/70">{timeAgo(article.publishedAt)}</span>
-            </div>
-
-            {mins && (
-              <div className="flex items-center gap-1.5 text-[11px] text-muted-foreground">
-                <BookOpen className="w-3 h-3" />
-                <span>{mins} min de leitura</span>
-              </div>
-            )}
+              {fullDate}
+              {mins && <><span className="text-border">·</span><BookOpen className="w-3 h-3" />{mins} min</>}
+            </span>
           </div>
 
-          {/* Título completo */}
-          <h2 className="text-xl sm:text-2xl font-extrabold text-foreground leading-[1.2] tracking-tight">
-            {article.title}
-          </h2>
+          {/* Dir: link original + fechar */}
+          <div className="flex items-center gap-2 shrink-0">
+            <a
+              href={article.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hidden sm:inline-flex items-center gap-1.5 text-[11px] font-semibold
+                text-muted-foreground hover:text-primary transition-colors"
+            >
+              <ExternalLink className="w-3.5 h-3.5" />
+              Ver original
+            </a>
+            <button
+              onClick={close}
+              className="w-8 h-8 rounded-full flex items-center justify-center
+                bg-muted hover:bg-accent text-muted-foreground hover:text-foreground
+                transition-colors border border-border"
+            >
+              <X className="w-4 h-4" />
+            </button>
+          </div>
         </div>
 
-        {/* ══ CORPO SCROLLÁVEL ══════════════════════════════ */}
-        <div className="overflow-y-auto flex-1 px-6 py-5 space-y-6">
+        {/* ══ CONTEÚDO SCROLLÁVEL ═══════════════════════════ */}
+        <div ref={scrollRef} className="overflow-y-auto flex-1">
 
-          {/* Resumo em destaque */}
-          {article.description && (
-            <div className="flex gap-3 p-4 rounded-2xl bg-primary/5 border border-primary/15">
-              <div className="shrink-0 mt-1 w-1 self-stretch rounded-full bg-primary/50" />
-              <p className="text-[14px] font-medium leading-relaxed text-foreground/80">
-                {article.description}
-              </p>
+          {/* Imagem hero */}
+          {article.image && (
+            <div className="w-full overflow-hidden" style={{ maxHeight: "360px" }}>
+              <img
+                src={article.image}
+                alt={article.title}
+                className="w-full h-full object-cover"
+                style={{ maxHeight: "360px" }}
+                onError={(e) => { e.currentTarget.parentElement.style.display = "none"; }}
+              />
             </div>
           )}
 
-          {/* Conteúdo completo */}
-          {hasContent ? (
-            <div className="space-y-1">
-              {/* Divisor */}
-              <div className="flex items-center gap-3 pb-4">
-                <div className="h-px flex-1 bg-border" />
-                <span className="text-[9px] font-bold uppercase tracking-[0.18em] text-muted-foreground/50">
-                  Conteúdo
-                </span>
-                <div className="h-px flex-1 bg-border" />
-              </div>
+          {/* Área de leitura — max-width para conforto */}
+          <div className="max-w-2xl mx-auto px-5 sm:px-8 py-8 sm:py-10">
 
-              <div className="space-y-4">
-                {paragraphs.map((p, i) => (
-                  <p key={i}
-                    className={`leading-[1.85] text-foreground/85 tracking-[0.01em]
-                      ${i === 0 ? "text-[15px] font-medium" : "text-[14px]"}`}>
-                    {p}
-                  </p>
-                ))}
-              </div>
-            </div>
-          ) : (
-            /* Sem conteúdo scraped — mostra mensagem elegante */
-            <div className="flex flex-col items-center text-center gap-4 py-6">
-              <div className="w-12 h-12 rounded-2xl bg-muted flex items-center justify-center">
-                <ExternalLink className="w-5 h-5 text-muted-foreground" />
-              </div>
-              <div>
-                <p className="text-sm font-semibold text-foreground mb-1">Conteúdo disponível no site original</p>
-                <p className="text-xs text-muted-foreground leading-relaxed max-w-xs">
-                  Esta fonte não disponibiliza o texto completo via RSS. Clique abaixo para ler a matéria completa.
-                </p>
-              </div>
-            </div>
-          )}
-
-          {/* Tags completas no final */}
-          {article.depts?.length > 0 && (
-            <div className="pt-2 border-t border-border">
-              <p className="text-[10px] font-bold uppercase tracking-widest text-muted-foreground/50 mb-2.5">
-                Setores relacionados
-              </p>
-              <div className="flex flex-wrap gap-2">
+            {/* Tags de setor */}
+            {article.depts?.length > 0 && (
+              <div className="flex flex-wrap gap-1.5 mb-5">
                 {article.depts.map((d) => <Pill key={d} dept={d} />)}
               </div>
+            )}
+
+            {/* Título */}
+            <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-foreground
+              leading-[1.15] tracking-tight mb-5">
+              {article.title}
+            </h1>
+
+            {/* Meta mobile */}
+            <div className="flex sm:hidden items-center gap-2 text-[11px] text-muted-foreground mb-6">
+              <Clock className="w-3 h-3 shrink-0" />
+              <span>{fullDate}</span>
+              {mins && <><span>·</span><BookOpen className="w-3 h-3" /><span>{mins} min de leitura</span></>}
             </div>
-          )}
 
-          <div className="h-2" />
-        </div>
+            {hasContent ? (
+              <div className="space-y-0">
+                {/* Lead — parágrafo de abertura, maior e em destaque */}
+                <p className="text-lg sm:text-xl text-foreground/90 leading-[1.75] font-medium mb-7
+                  border-l-[3px] border-primary pl-4">
+                  {lead}
+                </p>
 
-        {/* ══ FOOTER CTA ════════════════════════════════════ */}
-        <div className="shrink-0 px-4 sm:px-6 pt-3 pb-4 sm:pb-5 border-t border-border bg-card space-y-3">
-          {/* Fonte */}
-          <div className="flex items-center justify-between text-[10px] text-muted-foreground/50">
-            <span className="uppercase tracking-widest font-semibold">Fonte</span>
-            <span className="font-bold text-foreground/60 truncate max-w-[200px]">{src}</span>
+                {/* Separador */}
+                {body.length > 0 && (
+                  <div className="flex items-center gap-3 my-7">
+                    <div className="h-px flex-1 bg-border" />
+                    <div className="w-1.5 h-1.5 rounded-full bg-primary/40" />
+                    <div className="h-px flex-1 bg-border" />
+                  </div>
+                )}
+
+                {/* Corpo */}
+                <div className="space-y-5">
+                  {body.map((p, i) => (
+                    <p key={i} className="text-base sm:text-[17px] text-foreground/80
+                      leading-[1.85] tracking-[0.01em]">
+                      {p}
+                    </p>
+                  ))}
+                </div>
+              </div>
+            ) : (
+              /* Sem conteúdo */
+              <div className="flex flex-col items-center text-center gap-4 py-12">
+                <div className="w-14 h-14 rounded-2xl bg-muted flex items-center justify-center">
+                  <Newspaper className="w-6 h-6 text-muted-foreground" />
+                </div>
+                <div>
+                  <p className="font-semibold text-foreground mb-1.5">
+                    Conteúdo disponível no site original
+                  </p>
+                  <p className="text-sm text-muted-foreground leading-relaxed max-w-xs">
+                    Esta fonte não disponibiliza o texto completo. Acesse a matéria original para ler tudo.
+                  </p>
+                </div>
+              </div>
+            )}
+
+            {/* Rodapé do artigo */}
+            <div className="mt-10 pt-6 border-t border-border flex flex-col sm:flex-row
+              items-start sm:items-center justify-between gap-4">
+              <div className="text-[11px] text-muted-foreground">
+                <span className="uppercase tracking-widest font-semibold block mb-0.5">Publicado por</span>
+                <span className="font-bold text-foreground/70">{src}</span>
+              </div>
+              <a
+                href={article.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl
+                  font-semibold text-sm text-white transition-all duration-200
+                  hover:opacity-90 hover:scale-[1.02] active:scale-[0.98]"
+                style={{
+                  background: "linear-gradient(135deg, #7c3aed 0%, #635bff 50%, #2563eb 100%)",
+                  boxShadow: "0 4px 16px oklch(0.55 0.28 264 / 0.35)",
+                }}
+              >
+                <ExternalLink className="w-4 h-4" />
+                Ler matéria original
+              </a>
+            </div>
+
+            <div className="h-8" />
           </div>
-
-          {/* Botão principal — full width, grande, animado */}
-          <a
-            href={article.url}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="group relative flex items-center justify-center gap-3 w-full py-4 rounded-2xl
-              font-extrabold text-[15px] text-white tracking-wide overflow-hidden
-              transition-all duration-300 hover:scale-[1.02] hover:-translate-y-0.5 active:scale-[0.98]"
-            style={{
-              background: "linear-gradient(135deg, #7c3aed 0%, #635bff 50%, #2563eb 100%)",
-              boxShadow: "0 8px 32px oklch(0.55 0.28 264 / 0.45), inset 0 1px 0 rgba(255,255,255,0.18)",
-            }}
-            onMouseEnter={(e) => {
-              e.currentTarget.style.boxShadow = "0 12px 40px oklch(0.55 0.28 264 / 0.65), inset 0 1px 0 rgba(255,255,255,0.2)";
-            }}
-            onMouseLeave={(e) => {
-              e.currentTarget.style.boxShadow = "0 8px 32px oklch(0.55 0.28 264 / 0.45), inset 0 1px 0 rgba(255,255,255,0.18)";
-            }}
-          >
-            {/* Shine animado */}
-            <span
-              className="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-500"
-              style={{
-                background: "linear-gradient(105deg, transparent 30%, rgba(255,255,255,0.15) 50%, transparent 70%)",
-                backgroundSize: "200% 100%",
-                animation: "shimmer 1.5s ease infinite",
-              }}
-            />
-            <ExternalLink className="w-5 h-5 relative z-10 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform duration-200" />
-            <span className="relative z-10">Ler matéria completa no site original</span>
-            <ChevronRight className="w-5 h-5 relative z-10 opacity-70 group-hover:translate-x-1 transition-transform duration-200" />
-          </a>
         </div>
       </div>
     </div>

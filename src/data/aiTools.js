@@ -75,7 +75,7 @@ export const aiTools = [
     url: "https://gemini.google.com",
     previewType: "chat",
     sampleChat: {
-      user: "Quais as tendências de IA em 2025?",
+      user: "Quais as tendências de IA em 2026?",
       ai: "Segundo fontes recentes: agentes autônomos, IA multimodal e modelos menores são destaque.",
     },
   },

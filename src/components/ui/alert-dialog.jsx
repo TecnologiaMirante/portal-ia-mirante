@@ -12,7 +12,6 @@
  *   variant        "destructive" | "default"   (default "destructive")
  *   loading        boolean  (mostra spinner no botão confirmar)
  */
-import { useState } from "react";
 import { AlertDialog } from "radix-ui";
 import { AlertTriangle, Info, Loader2 } from "lucide-react";
 

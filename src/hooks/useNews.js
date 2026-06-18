@@ -61,7 +61,7 @@ export function useNews() {
               return;
             }
           }
-        } catch (_) {}
+        } catch { /* ignore cache read errors */ }
       }
 
       /* 3. Cache desatualizado ou forçado — usa dados frescos */
@@ -90,7 +90,7 @@ export function useNews() {
             return;
           }
         }
-      } catch (_) {}
+      } catch { /* ignore cache read errors */ }
 
       setError(err.message);
       console.error("[useNews]", err);

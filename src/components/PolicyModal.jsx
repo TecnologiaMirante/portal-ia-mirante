@@ -13,6 +13,7 @@ export function PolicyModal({ open, onClose }) {
 
   /* Reset when opened */
   useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     if (open) setStatus("loading");
   }, [open]);
 

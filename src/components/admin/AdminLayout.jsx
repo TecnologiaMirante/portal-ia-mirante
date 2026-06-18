@@ -1,44 +1,97 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Navigate, Outlet, useLocation, Link } from "react-router-dom";
-import { LogOut, Sun, Moon, ChevronRight, LayoutDashboard, Plus, Edit2, ArrowLeft } from "lucide-react";
-import { LogoMirante } from "@/components/LogoMirante";
-import { useAuth }       from "@/hooks/useAuth";
-import { useTheme }      from "@/hooks/useTheme";
+import {
+  LogOut, Sun, Moon, ChevronRight, LayoutDashboard,
+  Plus, Edit2, ArrowLeft, Trophy, FileText, Megaphone,
+} from "lucide-react";
+import { LogoMirante }  from "@/components/LogoMirante";
+import { useAuth }      from "@/hooks/useAuth";
+import { useTheme }     from "@/hooks/useTheme";
 import { ConfirmDialog } from "@/components/ui/alert-dialog";
 
-/* ── Breadcrumb config ───────────────────────────────────────── */
+/* ── Breadcrumb config ───────────────────────────────────── */
 function useBreadcrumb(pathname) {
   if (pathname === "/admin" || pathname === "/admin/") {
-    return [{ label: "Dashboard", icon: LayoutDashboard }];
+    return [{ label: "Criações", icon: LayoutDashboard }];
   }
   if (pathname === "/admin/new") {
     return [
-      { label: "Dashboard", icon: LayoutDashboard, href: "/admin" },
+      { label: "Criações", icon: LayoutDashboard, href: "/admin" },
       { label: "Nova Criação", icon: Plus },
     ];
   }
   if (pathname.startsWith("/admin/edit/")) {
     return [
-      { label: "Dashboard", icon: LayoutDashboard, href: "/admin" },
+      { label: "Criações", icon: LayoutDashboard, href: "/admin" },
       { label: "Editar Criação", icon: Edit2 },
     ];
+  }
+  if (pathname === "/admin/inscricoes" || pathname === "/admin/inscricoes/") {
+    return [{ label: "Inscrições Prêmio IA", icon: Trophy }];
+  }
+  if (pathname.startsWith("/admin/inscricoes/")) {
+    return [
+      { label: "Inscrições Prêmio IA", icon: Trophy, href: "/admin/inscricoes" },
+      { label: "Detalhes da Inscrição", icon: FileText },
+    ];
+  }
+  if (pathname === "/admin/comunicados") {
+    return [{ label: "Comunicados", icon: Megaphone }];
   }
   return [{ label: "Admin", icon: LayoutDashboard }];
 }
 
-/* ═══════════════════════════════════════════════════════════════
+/* ── Tab nav ─────────────────────────────────────────────── */
+function AdminTabs({ pathname }) {
+  const tabs = [
+    { label: "Criações",               href: "/admin",             active: pathname === "/admin" || pathname.startsWith("/admin/new") || pathname.startsWith("/admin/edit/") },
+    { label: "🏆 Inscrições Prêmio IA", href: "/admin/inscricoes",  active: pathname.startsWith("/admin/inscricoes") },
+    { label: "📢 Comunicados",          href: "/admin/comunicados", active: pathname.startsWith("/admin/comunicados") },
+  ];
+
+  return (
+    <div className="border-b border-border/60">
+      <div className="max-w-4xl mx-auto px-4 sm:px-6">
+        <nav className="flex gap-0" aria-label="Seções do admin">
+          {tabs.map((tab) => (
+            <Link
+              key={tab.href}
+              to={tab.href}
+              className={`px-4 py-2.5 text-sm font-medium border-b-2 transition-colors whitespace-nowrap ${
+                tab.active
+                  ? "border-primary text-primary"
+                  : "border-transparent text-muted-foreground hover:text-foreground hover:border-border"
+              }`}
+            >
+              {tab.label}
+            </Link>
+          ))}
+        </nav>
+      </div>
+    </div>
+  );
+}
+
+/* ═══════════════════════════════════════════════════════════
    AdminLayout
-   ═══════════════════════════════════════════════════════════════ */
+   ═══════════════════════════════════════════════════════════ */
 export function AdminLayout() {
-  const { user, signOut }  = useAuth();
-  const { dark, toggle }   = useTheme();
-  const { pathname }       = useLocation();
-  const crumbs             = useBreadcrumb(pathname);
+  const { user, signOut } = useAuth();
+  const { dark, toggle }  = useTheme();
+  const { pathname }      = useLocation();
+  const crumbs            = useBreadcrumb(pathname);
 
   const [signOutOpen, setSignOutOpen] = useState(false);
 
+  /* Garante que Radix não deixe body travado ao navegar entre páginas */
+  useEffect(() => {
+    document.body.removeAttribute("data-scroll-locked");
+    document.body.style.removeProperty("overflow");
+    document.body.style.removeProperty("padding-right");
+  }, [pathname]);
+
   /* Not authenticated → login */
-  if (user === null)      return <Navigate to="/admin/login" replace />;
+  if (user === null) return <Navigate to="/admin/login" replace />;
 
   /* Still loading auth state */
   if (user === undefined) return (
@@ -90,10 +143,15 @@ export function AdminLayout() {
               </button>
             </div>
           </div>
+        </div>
 
-          {/* ── Breadcrumb ─────────────────────────────────── */}
-          {crumbs.length > 1 && (
-            <div className="flex items-center gap-1.5 pb-2.5 text-xs text-muted-foreground">
+        {/* ── Tab navigation ───────────────────────────────── */}
+        <AdminTabs pathname={pathname} />
+
+        {/* ── Breadcrumb ─────────────────────────────────── */}
+        {crumbs.length > 1 && (
+          <div className="max-w-4xl mx-auto px-4 sm:px-6">
+            <div className="flex items-center gap-1.5 py-2 text-xs text-muted-foreground">
               {crumbs.map((crumb, i) => {
                 const isLast = i === crumbs.length - 1;
                 const Icon   = crumb.icon;
@@ -118,8 +176,8 @@ export function AdminLayout() {
                 );
               })}
             </div>
-          )}
-        </div>
+          </div>
+        )}
       </header>
 
       {/* ── Page content ───────────────────────────────────── */}
