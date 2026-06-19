@@ -1,7 +1,8 @@
-import { useRef } from "react";
+import { useState, useRef } from "react";
 import { Link } from "react-router-dom";
 import { Newspaper, ArrowRight, ChevronLeft, ChevronRight, Rss } from "lucide-react";
 import { useNews } from "@/hooks/useNews";
+import { ArticleModal } from "@/components/ArticleModal";
 
 /* ── Limpa tags HTML ─────────────────────────────────────── */
 function stripHtml(str = "") {
@@ -31,18 +32,16 @@ function getSourceStyle(source = "") {
 }
 
 /* ── Card ────────────────────────────────────────────────── */
-function NewsCard({ article }) {
+function NewsCard({ article, onClick }) {
   const ss   = getSourceStyle(article.source);
   const ago  = timeAgo(article.publishedAt);
   const desc = stripHtml(article.description ?? "");
 
   return (
-    <a
-      href={article.url}
-      target="_blank"
-      rel="noopener noreferrer"
+    <div
+      onClick={onClick}
       draggable={false}
-      className="group flex flex-col glass-card rounded-2xl overflow-hidden shrink-0 w-[280px] sm:w-[300px] hover:-translate-y-0.5 transition-transform duration-200"
+      className="group flex flex-col glass-card rounded-2xl overflow-hidden shrink-0 w-[280px] sm:w-[300px] hover:-translate-y-0.5 transition-transform duration-200 cursor-pointer"
     >
       {/* Imagem ou placeholder */}
       <div className="relative h-36 overflow-hidden bg-muted shrink-0">
@@ -90,13 +89,14 @@ function NewsCard({ article }) {
           </span>
         </div>
       </div>
-    </a>
+    </div>
   );
 }
 
 /* ── Carrossel ────────────────────────────────────────────── */
 export function NewsCarousel() {
   const { articles, loading } = useNews();
+  const [selected, setSelected] = useState(null);
   const scrollRef  = useRef(null);
   const isDragging = useRef(false);
 
@@ -189,9 +189,13 @@ export function NewsCarousel() {
         }}
       >
         {items.map((article, i) => (
-          <NewsCard key={i} article={article} />
+          <NewsCard key={i} article={article} onClick={() => !isDragging.current && setSelected(article)} />
         ))}
       </div>
+
+      {selected && (
+        <ArticleModal article={selected} onClose={() => setSelected(null)} />
+      )}
     </section>
   );
 }
