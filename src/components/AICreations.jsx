@@ -503,24 +503,33 @@ function FullscreenImageViewer({ items, startIdx, onClose }) {
   const lastPos = useRef({ x: 0, y: 0 });
   const containerRef = useRef(null);
 
+  // refs para evitar stale closure nos listeners de touch/wheel
+  const scaleRef = useRef(1);
+  const isZoomedRef = useRef(false);
+  const panRef = useRef({ x: 0, y: 0 });
+  const idxRef = useRef(startIdx);
+  useEffect(() => { scaleRef.current = scale; isZoomedRef.current = scale > 1; }, [scale]);
+  useEffect(() => { panRef.current = pan; }, [pan]);
+  useEffect(() => { idxRef.current = idx; }, [idx]);
+
   const item = items[idx] ?? items[0];
   const isZoomed = scale > 1;
 
   const resetZoom = useCallback(() => { setScale(1); setPan({ x: 0, y: 0 }); }, []);
 
-  // Keyboard: capture phase so Escape doesn't bubble to modal
+  // Keyboard — capture phase
   useEffect(() => {
     const h = (e) => {
       if (e.key === "Escape") { e.stopImmediatePropagation(); onClose(); return; }
-      if (isZoomed) return;
-      if (e.key === "ArrowLeft") { e.stopImmediatePropagation(); setIdx(i => (i - 1 + items.length) % items.length); setScale(1); setPan({ x: 0, y: 0 }); }
+      if (isZoomedRef.current) return;
+      if (e.key === "ArrowLeft")  { e.stopImmediatePropagation(); setIdx(i => (i - 1 + items.length) % items.length); setScale(1); setPan({ x: 0, y: 0 }); }
       if (e.key === "ArrowRight") { e.stopImmediatePropagation(); setIdx(i => (i + 1) % items.length); setScale(1); setPan({ x: 0, y: 0 }); }
     };
     document.addEventListener("keydown", h, true);
     return () => document.removeEventListener("keydown", h, true);
-  }, [isZoomed, items.length, onClose]);
+  }, [items.length, onClose]);
 
-  // Wheel zoom (non-passive so we can preventDefault)
+  // Wheel zoom
   const handleWheel = useCallback((e) => {
     e.preventDefault();
     const factor = e.deltaY < 0 ? 1.12 : 0.9;
@@ -537,6 +546,79 @@ function FullscreenImageViewer({ items, startIdx, onClose }) {
     return () => el.removeEventListener("wheel", handleWheel);
   }, [handleWheel]);
 
+  // Touch events — pinch-to-zoom + drag + swipe navigation
+  useEffect(() => {
+    const el = containerRef.current;
+    if (!el) return;
+
+    const touch = {
+      initialDist: 0,
+      initialScale: 1,
+      startX: 0,
+      startY: 0,
+      moved: false,
+    };
+
+    const onTouchStart = (e) => {
+      touch.moved = false;
+      if (e.touches.length === 2) {
+        const dx = e.touches[1].clientX - e.touches[0].clientX;
+        const dy = e.touches[1].clientY - e.touches[0].clientY;
+        touch.initialDist  = Math.hypot(dx, dy);
+        touch.initialScale = scaleRef.current;
+      } else if (e.touches.length === 1) {
+        touch.startX = e.touches[0].clientX;
+        touch.startY = e.touches[0].clientY;
+        lastPos.current = { x: e.touches[0].clientX, y: e.touches[0].clientY };
+      }
+    };
+
+    const onTouchMove = (e) => {
+      e.preventDefault();
+      touch.moved = true;
+      if (e.touches.length === 2) {
+        // Pinch-to-zoom
+        const dx = e.touches[1].clientX - e.touches[0].clientX;
+        const dy = e.touches[1].clientY - e.touches[0].clientY;
+        const dist = Math.hypot(dx, dy);
+        const ns = Math.max(1, Math.min(6, touch.initialScale * (dist / touch.initialDist)));
+        setScale(ns);
+        if (ns <= 1) setPan({ x: 0, y: 0 });
+      } else if (e.touches.length === 1) {
+        if (isZoomedRef.current) {
+          // Drag para mover a imagem quando com zoom
+          const dx = e.touches[0].clientX - lastPos.current.x;
+          const dy = e.touches[0].clientY - lastPos.current.y;
+          lastPos.current = { x: e.touches[0].clientX, y: e.touches[0].clientY };
+          setPan(p => ({ x: p.x + dx, y: p.y + dy }));
+        }
+      }
+    };
+
+    const onTouchEnd = (e) => {
+      if (touch.moved) return;
+      // Tap único sem arrastar
+      if (e.changedTouches.length === 1 && !isZoomedRef.current) {
+        const dx = e.changedTouches[0].clientX - touch.startX;
+        // Swipe horizontal para navegar entre imagens (sem zoom)
+        if (Math.abs(dx) > 50 && items.length > 1) {
+          if (dx < 0) setIdx(i => (i + 1) % items.length);
+          else        setIdx(i => (i - 1 + items.length) % items.length);
+        }
+      }
+    };
+
+    el.addEventListener("touchstart", onTouchStart, { passive: true });
+    el.addEventListener("touchmove",  onTouchMove,  { passive: false });
+    el.addEventListener("touchend",   onTouchEnd,   { passive: true });
+    return () => {
+      el.removeEventListener("touchstart", onTouchStart);
+      el.removeEventListener("touchmove",  onTouchMove);
+      el.removeEventListener("touchend",   onTouchEnd);
+    };
+  }, [items.length]); // eslint-disable-line
+
+  // Mouse drag (desktop)
   const onMouseDown = (e) => {
     if (!isZoomed) return;
     e.preventDefault();
@@ -724,20 +806,19 @@ function MediaModal({ creation, onClose }) {
 
           {/* close button */}
           <button
-            onClick={onClose}
+            onClick={(e) => { e.stopPropagation(); onClose(); }}
             aria-label="Fechar"
             className="absolute top-4 right-4 z-20 w-8 h-8 rounded-full bg-black/50 backdrop-blur-sm border border-white/10 flex items-center justify-center text-white/70 hover:text-white hover:bg-black/75 transition-all"
           >
-          <X className="w-4 h-4" />
-        </button>
+            <X className="w-4 h-4" />
+          </button>
 
           {/* ── media area ─────────────────────────────────────── */}
           <div className="relative">
             {type === "image" ? (
               <div
-                className="w-full relative flex items-center justify-center overflow-hidden cursor-pointer group"
+                className="w-full relative flex items-center justify-center overflow-hidden group"
                 style={{ minHeight: "200px", maxHeight: "50vh", background: "#000" }}
-                onClick={openFullscreen}
               >
                 <img src={item.url} aria-hidden="true"
                   className="absolute inset-0 w-full h-full object-cover scale-110 blur-2xl opacity-30 pointer-events-none"
@@ -745,12 +826,15 @@ function MediaModal({ creation, onClose }) {
                 <img src={item.url} alt={creation.title}
                   className="relative z-10 max-h-[50vh] w-auto max-w-full object-contain"
                 />
-                <div className="absolute top-3 right-3 z-20 w-8 h-8 rounded-full bg-black/60 backdrop-blur-sm flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity">
-                  <Maximize2 className="w-4 h-4 text-white" />
-                </div>
-                <p className="absolute bottom-8 left-1/2 -translate-x-1/2 z-20 text-white/70 text-[11px] bg-black/50 backdrop-blur-sm px-2.5 py-1 rounded-full opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap">
-                  Clique para tela cheia
-                </p>
+                {/* botão fullscreen dedicado — evita conflito com o X de fechar no tablet */}
+                <button
+                  onClick={(e) => { e.stopPropagation(); openFullscreen(); }}
+                  aria-label="Ver em tela cheia"
+                  className="absolute bottom-3 right-3 z-20 flex items-center gap-1.5 px-2.5 py-1.5 rounded-full bg-black/60 backdrop-blur-sm border border-white/15 text-white/70 hover:text-white hover:bg-black/80 transition-all text-[11px] font-medium"
+                >
+                  <Maximize2 className="w-3.5 h-3.5" />
+                  <span>Tela cheia</span>
+                </button>
               </div>
             ) : type === "audio" ? (
               <div className="w-full px-8 py-10 flex flex-col items-center gap-5"

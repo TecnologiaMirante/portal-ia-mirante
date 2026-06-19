@@ -34,37 +34,35 @@ export function useNews() {
   const [lastUpdated, setLastUpdated] = useState(null);
 
   const fetchNews = async (force = false) => {
-    setLoading(true);
     setError(null);
 
+    /* 1. Mostra o cache imediatamente — sem esperar rede */
+    if (!force) {
+      try {
+        const raw = localStorage.getItem(CACHE_KEY);
+        if (raw) {
+          const { data, updatedAt: cachedUpdatedAt, ts } = JSON.parse(raw);
+          if (data?.length) {
+            setArticles(data);
+            setLastUpdated(cachedUpdatedAt ? new Date(cachedUpdatedAt) : new Date(ts));
+            setLoading(false);
+
+            /* Cache recente (< 1h) → não precisa verificar rede */
+            if (Date.now() - ts < CACHE_TTL) return;
+          }
+        }
+      } catch { /* ignora erro de leitura */ }
+    }
+
+    /* 2. Cache ausente, antigo ou refresh forçado → busca na rede */
+    setLoading(true);
+
     try {
-      /* 1. Lê o JSON completo do servidor (com cache-buster) */
       const res = await fetch(`${NEWS_URL}?t=${Date.now()}`);
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const json = await res.json();
 
       const serverUpdatedAt = json.updatedAt ?? null;
-
-      /* 2. Verifica cache local */
-      if (!force) {
-        try {
-          const raw = localStorage.getItem(CACHE_KEY);
-          if (raw) {
-            const { data, updatedAt: cachedUpdatedAt, ts } = JSON.parse(raw);
-            const cacheRecent = Date.now() - ts < CACHE_TTL;
-            const sameVersion = serverUpdatedAt && cachedUpdatedAt === serverUpdatedAt;
-
-            if (cacheRecent && sameVersion && data?.length) {
-              setArticles(data);
-              setLastUpdated(cachedUpdatedAt ? new Date(cachedUpdatedAt) : new Date(ts));
-              setLoading(false);
-              return;
-            }
-          }
-        } catch { /* ignore cache read errors */ }
-      }
-
-      /* 3. Cache desatualizado ou forçado — usa dados frescos */
       const data = cleanArticles(json.articles || []);
 
       if (data.length > 0) {
@@ -73,26 +71,12 @@ export function useNews() {
           updatedAt: serverUpdatedAt,
           ts: Date.now(),
         }));
+        setArticles(data);
+        setLastUpdated(serverUpdatedAt ? new Date(serverUpdatedAt) : null);
       }
-
-      setArticles(data);
-      setLastUpdated(serverUpdatedAt ? new Date(serverUpdatedAt) : null);
     } catch (err) {
-      /* 4. Falha de rede — tenta usar cache mesmo que antigo */
-      try {
-        const raw = localStorage.getItem(CACHE_KEY);
-        if (raw) {
-          const { data, updatedAt: cachedUpdatedAt } = JSON.parse(raw);
-          if (data?.length) {
-            setArticles(data);
-            setLastUpdated(cachedUpdatedAt ? new Date(cachedUpdatedAt) : null);
-            setLoading(false);
-            return;
-          }
-        }
-      } catch { /* ignore cache read errors */ }
-
-      setError(err.message);
+      /* Falha de rede — mantém o que já estava na tela (do cache acima) */
+      if (!articles.length) setError(err.message);
       console.error("[useNews]", err);
     } finally {
       setLoading(false);
