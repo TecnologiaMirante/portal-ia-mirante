@@ -286,22 +286,18 @@ export function CreationForm() {
 
   const [form, setForm] = useState(EMPTY);
   const [mediaMode, setMediaMode] = useState("url"); // "url" | "upload"
-  const [file, setFile] = useState(null);
+  const [files, setFiles] = useState([]); // new File[] queued for upload
   const [dragging, setDragging] = useState(false);
-  const [progress, setProgress] = useState(0);
+  const [progresses, setProgresses] = useState({}); // { [idx]: 0-100 }
   const [uploadError, setUploadError] = useState(null);
   const [saving, setSaving] = useState(false);
   const [saved, setSaved] = useState(false);
   const [loadingDoc, setLoadingDoc] = useState(isEdit);
   const [cancelDialogOpen, setCancelDialogOpen] = useState(false);
 
-  /* Track the original uploaded URLs so we can delete them on replace */
-  const [originalMedia, setOriginalMedia] = useState({
-    url: null,
-    thumbnailUrl: null,
-  });
-  /* Whether user explicitly removed the current media */
-  const [mediaRemoved, setMediaRemoved] = useState(false);
+  /* Existing media items loaded from Firestore (edit mode) */
+  const [existingItems, setExistingItems] = useState([]);
+  const [originalExistingItems, setOriginalExistingItems] = useState([]);
 
   /* Load existing document for edit */
   useEffect(() => {
@@ -310,10 +306,12 @@ export function CreationForm() {
       if (snap.exists()) {
         const data = { ...EMPTY, ...snap.data() };
         setForm(data);
-        setOriginalMedia({
-          url: data.videoUrl ?? null,
-          thumbnailUrl: data.thumbnailUrl ?? null,
-        });
+        // Derive existing media items (new format or legacy)
+        const loaded = data.mediaItems?.length > 0
+          ? data.mediaItems
+          : (data.videoUrl ? [{ type: data.mediaType ?? "video", url: data.videoUrl, thumbnailUrl: data.thumbnailUrl ?? null }] : []);
+        setExistingItems(loaded);
+        setOriginalExistingItems(loaded);
       }
       setLoadingDoc(false);
     });
@@ -329,14 +327,9 @@ export function CreationForm() {
         : [...form.aiUsed, name],
     );
 
-  /* ── Handle "remove current media" ──────────────────────── */
-  function handleRemoveMedia() {
-    setMediaRemoved(true);
-    setForm((f) => ({ ...f, videoUrl: "", thumbnailUrl: null }));
-    setMediaMode("upload"); // default to upload after removing
-    setFile(null);
-    setProgress(0);
-    setUploadError(null);
+  /* ── Remove one existing item ────────────────────────────── */
+  function removeExistingItem(idx) {
+    setExistingItems(prev => prev.filter((_, i) => i !== idx));
   }
 
   /* ── auto-switch to upload when user drags a file ─────────── */
@@ -348,35 +341,34 @@ export function CreationForm() {
     return () => window.removeEventListener("dragenter", onDragEnter);
   }, []);
 
-  /* ── file picker with validation ──────────────────────────── */
-  function pickFile(f) {
-    if (!f) return;
-    const category = getMimeCategory(f);
-    if (!category) {
-      toast.error("Formato inválido", {
-        description:
-          "Envie um vídeo (MP4, MOV), imagem (JPG, PNG, WebP) ou áudio (MP3, WAV, OGG).",
-      });
-      return;
+  /* ── file picker with validation (multi) ──────────────────── */
+  function pickFiles(newFiles) {
+    if (!newFiles?.length) return;
+    const valid = [];
+    for (const f of newFiles) {
+      const category = getMimeCategory(f);
+      if (!category) {
+        toast.error("Formato inválido", { description: `${f.name} — envie vídeo, imagem ou áudio.` });
+        continue;
+      }
+      const limitMB = SIZE_LIMITS[category];
+      if (f.size > limitMB * 1024 * 1024) {
+        const labels = { video: "vídeos", image: "imagens", audio: "áudios" };
+        toast.error("Arquivo muito grande", { description: `${f.name} — limite ${labels[category]} é ${limitMB} MB.` });
+        continue;
+      }
+      valid.push(f);
     }
-    const limitMB = SIZE_LIMITS[category];
-    if (f.size > limitMB * 1024 * 1024) {
-      const labels = { video: "vídeos", image: "imagens", audio: "áudios" };
-      toast.error("Arquivo muito grande", {
-        description: `O limite para ${labels[category]} é ${limitMB} MB.`,
-      });
-      return;
+    if (valid.length) {
+      setFiles(prev => [...prev, ...valid]);
+      setUploadError(null);
     }
-    setFile(f);
-    set("mediaType", category);
-    setProgress(0);
-    setUploadError(null);
   }
 
   function handleDrop(e) {
     e.preventDefault();
     setDragging(false);
-    pickFile(e.dataTransfer.files?.[0]);
+    pickFiles(Array.from(e.dataTransfer.files ?? []));
   }
 
   /* ── compress image before upload ──────────────────────────── */
@@ -510,69 +502,43 @@ export function CreationForm() {
     });
   }
 
-  /* ── upload media to Storage ────────────────────────────────── */
-  async function uploadMedia() {
-    if (!file)
-      return { videoUrl: form.videoUrl, thumbnailUrl: form.thumbnailUrl };
-
-    setUploadError(null);
-    const toastId = "upload";
-    const category = getMimeCategory(file) ?? form.mediaType ?? "video";
-
+  /* ── upload one file to Storage ──────────────────────────── */
+  async function uploadOneFile(file, fileIdx) {
+    const category = getMimeCategory(file) ?? "video";
     const STORAGE_ERRORS = {
-      "storage/unauthorized":
-        "Sem permissão. Verifique as regras do Firebase Storage.",
+      "storage/unauthorized": "Sem permissão. Verifique as regras do Firebase Storage.",
       "storage/canceled": "Upload cancelado.",
-      "storage/retry-limit-exceeded":
-        "Upload falhou — CORS não configurado. Rode: gsutil cors set cors.json gs://SEU-BUCKET",
-      "storage/cannot-slice-blob":
-        "Não foi possível ler o arquivo. Tente novamente.",
+      "storage/retry-limit-exceeded": "Upload falhou — CORS não configurado.",
+      "storage/cannot-slice-blob": "Não foi possível ler o arquivo. Tente novamente.",
     };
-
     const folderMap = { video: "videos", image: "images", audio: "audio" };
-    const labelMap = {
-      video: "Enviando vídeo…",
-      image: "Enviando imagem…",
-      audio: "Enviando áudio…",
-    };
+    const labelMap = { video: "Enviando vídeo…", image: "Enviando imagem…", audio: "Enviando áudio…" };
     const folder = folderMap[category] ?? "videos";
-    const loadMsg = labelMap[category] ?? "Enviando arquivo…";
+    const loadMsg = `${labelMap[category] ?? "Enviando…"} (${fileIdx + 1}/${files.length})`;
+    const toastId = `upload-${fileIdx}`;
 
-    // Compress images before upload (max 1920px, JPEG 85%)
     let fileToUpload = file;
     if (category === "image") {
       toast.loading("Comprimindo imagem…", { id: toastId });
       fileToUpload = await compressImage(file);
-      const saved = Math.round((1 - fileToUpload.size / file.size) * 100);
-      if (saved > 5)
-        console.info(
-          `[compress] ${(file.size / 1024).toFixed(0)} KB → ${(fileToUpload.size / 1024).toFixed(0)} KB (−${saved}%)`,
-        );
     }
 
     toast.loading(loadMsg, { id: toastId, description: "0%" });
-    const mediaRef = ref(
-      storage,
-      `${folder}/${Date.now()}_${fileToUpload.name}`,
-    );
+    const mediaRef = ref(storage, `${folder}/${Date.now()}_${fileToUpload.name}`);
 
-    const mediaUrl = await new Promise((resolve, reject) => {
+    const url = await new Promise((resolve, reject) => {
       const task = uploadBytesResumable(mediaRef, fileToUpload);
-      task.on(
-        "state_changed",
+      task.on("state_changed",
         (snap) => {
-          const pct = Math.round(
-            (snap.bytesTransferred / snap.totalBytes) * 100,
-          );
-          setProgress(pct);
+          const pct = Math.round((snap.bytesTransferred / snap.totalBytes) * 100);
+          setProgresses(prev => ({ ...prev, [fileIdx]: pct }));
           toast.loading(loadMsg, { id: toastId, description: `${pct}%` });
         },
         (err) => {
           const msg = STORAGE_ERRORS[err.code] ?? `Erro (${err.code})`;
           toast.error("Falha no upload", { id: toastId, description: msg });
           setUploadError(msg);
-          const wrapped = new Error(msg);
-          wrapped.isStorageError = true;
+          const wrapped = new Error(msg); wrapped.isStorageError = true;
           reject(wrapped);
         },
         () => getDownloadURL(task.snapshot.ref).then(resolve).catch(reject),
@@ -580,44 +546,33 @@ export function CreationForm() {
     });
 
     let thumbnailUrl = null;
-
     if (category === "image") {
-      thumbnailUrl = mediaUrl; // image IS its own thumbnail
-      const savedKB = Math.round((file.size - fileToUpload.size) / 1024);
-      toast.success("Imagem enviada!", {
-        id: toastId,
-        description:
-          savedKB > 10
-            ? `Comprimida — economizou ${savedKB} KB ✓`
-            : "Upload concluído ✓",
-      });
+      thumbnailUrl = url;
+      toast.success("Imagem enviada!", { id: toastId, description: "Upload concluído ✓" });
     } else if (category === "video") {
-      toast.loading("Gerando thumbnail…", {
-        id: toastId,
-        description: "Extraindo primeiro frame…",
-      });
+      toast.loading("Gerando thumbnail…", { id: toastId });
       try {
-        const thumbBlob = await extractFirstFrame(file);
-        if (thumbBlob) {
-          toast.loading("Enviando thumbnail…", { id: toastId });
-          const thumbRef = ref(storage, `thumbnails/${Date.now()}_thumb.jpg`);
-          await uploadBytes(thumbRef, thumbBlob);
-          thumbnailUrl = await getDownloadURL(thumbRef);
+        const blob = await extractFirstFrame(file);
+        if (blob) {
+          const tRef = ref(storage, `thumbnails/${Date.now()}_thumb.jpg`);
+          await uploadBytes(tRef, blob);
+          thumbnailUrl = await getDownloadURL(tRef);
         }
-      } catch (e) {
-        console.warn("[thumb]", e);
-      }
-      toast.success("Vídeo enviado!", {
-        id: toastId,
-        description: thumbnailUrl
-          ? "Thumbnail gerada automaticamente ✓"
-          : "Thumbnail indisponível",
-      });
+      } catch (e) { console.warn("[thumb]", e); }
+      toast.success("Vídeo enviado!", { id: toastId, description: thumbnailUrl ? "Thumbnail gerada ✓" : "Sem thumbnail" });
     } else {
       toast.success("Áudio enviado!", { id: toastId });
     }
+    return { type: category, url, thumbnailUrl };
+  }
 
-    return { videoUrl: mediaUrl, thumbnailUrl };
+  /* ── upload all queued files ──────────────────────────────── */
+  async function uploadAllFiles() {
+    const results = [];
+    for (let i = 0; i < files.length; i++) {
+      results.push(await uploadOneFile(files[i], i));
+    }
+    return results;
   }
 
   /* ── save ──────────────────────────────────────────────────── */
@@ -625,18 +580,13 @@ export function CreationForm() {
     e.preventDefault();
 
     if (!form.where) {
-      toast.error("Campo obrigatório", {
-        description: "Selecione a área onde foi utilizado.",
-      });
+      toast.error("Campo obrigatório", { description: "Selecione a área onde foi utilizado." });
       return;
     }
 
-    // Media is required in all modes
-    const hasMedia = (mediaMode === "url" && form.videoUrl.trim()) || file;
+    const hasMedia = existingItems.length > 0 || files.length > 0 || (mediaMode === "url" && form.videoUrl.trim());
     if (!hasMedia) {
-      toast.error("Mídia obrigatória", {
-        description: "Adicione um vídeo, imagem ou áudio antes de salvar.",
-      });
+      toast.error("Mídia obrigatória", { description: "Adicione pelo menos um vídeo, imagem ou áudio." });
       return;
     }
 
@@ -644,54 +594,44 @@ export function CreationForm() {
     setUploadError(null);
 
     try {
-      let videoUrl = form.videoUrl;
-      let thumbnailUrl = form.thumbnailUrl ?? null;
-      let mediaType = form.mediaType;
+      // Upload new files
+      const newItems = files.length > 0 ? await uploadAllFiles() : [];
 
-      // Upload new file if provided
-      if (file) {
-        ({ videoUrl, thumbnailUrl } = await uploadMedia());
-        mediaType = getMimeCategory(file) ?? mediaType;
+      // Build mediaItems: existing (kept) + new uploads + optional URL item
+      let mediaItems;
+      if (mediaMode === "url" && form.videoUrl.trim() && existingItems.length === 0 && files.length === 0) {
+        mediaItems = [{ type: "video", url: form.videoUrl.trim(), thumbnailUrl: null }];
+      } else {
+        mediaItems = [...existingItems, ...newItems];
       }
 
-      // Only force "video" type when explicitly using URL mode on a new creation
-      // or after the user removed the old media and typed a new URL.
-      // Do NOT overwrite mediaType when editing an existing creation without changing media.
-      if (mediaMode === "url" && !file && (!isEdit || mediaRemoved)) {
-        mediaType = "video";
-      }
-
-      // Delete old Storage files if replacing or removing
-      if (isEdit && originalMedia.url) {
-        const replacing = file !== null; // new file uploaded
-        if (replacing || mediaRemoved) {
-          await deleteStorageFile(originalMedia.url);
-          if (originalMedia.thumbnailUrl)
-            await deleteStorageFile(originalMedia.thumbnailUrl);
+      // Delete storage files that were removed from existingItems
+      for (const orig of originalExistingItems) {
+        const kept = existingItems.some(it => it.url === orig.url);
+        if (!kept) {
+          await deleteStorageFile(orig.url);
+          if (orig.thumbnailUrl) await deleteStorageFile(orig.thumbnailUrl);
         }
       }
 
+      // Legacy fields from first item for backward compat
+      const first = mediaItems[0];
       const payload = {
         ...form,
-        videoUrl,
-        thumbnailUrl,
-        mediaType,
+        mediaItems,
+        videoUrl: first?.url ?? "",
+        thumbnailUrl: first?.thumbnailUrl ?? null,
+        mediaType: first?.type ?? "video",
         updatedAt: serverTimestamp(),
       };
 
       if (isEdit) {
         await updateDoc(doc(db, "creations", id), payload);
       } else {
-        await addDoc(collection(db, "creations"), {
-          ...payload,
-          createdAt: serverTimestamp(),
-        });
+        await addDoc(collection(db, "creations"), { ...payload, createdAt: serverTimestamp() });
       }
 
-      toast.success(isEdit ? "Criação atualizada!" : "Criação publicada! 🎉", {
-        description: form.title,
-        duration: 5000,
-      });
+      toast.success(isEdit ? "Criação atualizada!" : "Criação publicada! 🎉", { description: form.title, duration: 5000 });
       setSaved(true);
       setTimeout(() => navigate("/admin"), 1400);
     } catch (err) {
@@ -713,16 +653,7 @@ export function CreationForm() {
     );
   }
 
-  /* helpers */
-  const fileCategory = file ? getMimeCategory(file) : null;
-  const mediaTypeLabel =
-    fileCategory === "image"
-      ? "imagem"
-      : fileCategory === "audio"
-        ? "áudio"
-        : "vídeo";
-  /* Show current media preview when: edit mode, has URL, user hasn't removed it */
-  const showCurrentMedia = isEdit && form.videoUrl && !mediaRemoved;
+  const showExistingItems = existingItems.length > 0;
 
   return (
     <>
@@ -865,236 +796,156 @@ export function CreationForm() {
           <div className="flex flex-col gap-3">
             <div className="flex items-center gap-2">
               <Label>Mídia</Label>
-              <span className="text-[10px] text-destructive font-medium">
-                obrigatório
-              </span>
+              <span className="text-[10px] text-destructive font-medium">obrigatório</span>
+              {(existingItems.length + files.length) > 0 && (
+                <span className="text-[10px] text-muted-foreground ml-auto">
+                  {existingItems.length + files.length} item(s)
+                </span>
+              )}
             </div>
 
-            {/* ── Current media preview (edit only) ──────── */}
-            {showCurrentMedia ? (
-              <CurrentMediaPreview
-                url={form.videoUrl}
-                thumbnailUrl={form.thumbnailUrl}
-                mediaType={form.mediaType}
-                onRemove={handleRemoveMedia}
-              />
-            ) : (
-              <>
-                {/* ── warning when media was removed ─────── */}
-                {isEdit && mediaRemoved && !file && mediaMode !== "url" && (
-                  <div className="flex items-center gap-2 text-xs text-amber-600 bg-amber-500/8 border border-amber-500/20 rounded-xl px-3 py-2.5">
-                    <span className="w-1.5 h-1.5 rounded-full bg-amber-500 shrink-0" />
-                    Mídia removida. Adicione uma nova para salvar.
-                  </div>
-                )}
-
-                {/* Mode toggle */}
-                <div className="flex gap-2">
-                  <ModeBtn
-                    active={mediaMode === "url"}
-                    icon={Link2}
-                    label="URL (YouTube / link)"
-                    onClick={() => {
-                      setMediaMode("url");
-                      setFile(null);
-                    }}
-                  />
-                  <ModeBtn
-                    active={mediaMode === "upload"}
-                    icon={Upload}
-                    label="Upload de arquivo"
-                    onClick={() => setMediaMode("upload")}
-                  />
-                </div>
-
-                {/* ── URL mode ─────────────────────────────── */}
-                {mediaMode === "url" && (
-                  <Input
-                    value={form.videoUrl}
-                    onChange={(e) => set("videoUrl", e.target.value)}
-                    placeholder="https://youtu.be/... ou URL do vídeo"
-                  />
-                )}
-
-                {/* ── Upload mode ──────────────────────────── */}
-                {mediaMode === "upload" && (
-                  <div className="flex flex-col gap-3">
-                    {/* drop zone */}
-                    <label
-                      className={[
-                        "relative flex flex-col items-center justify-center gap-3",
-                        "border-2 border-dashed rounded-2xl p-8 cursor-pointer",
-                        "transition-all duration-200 text-center select-none",
-                        dragging
-                          ? "border-primary bg-primary/8 scale-[1.01]"
-                          : file
-                            ? "border-primary/40 bg-primary/[0.03]"
-                            : "border-border hover:border-primary/40 hover:bg-primary/[0.03]",
-                      ].join(" ")}
-                      onDragOver={(e) => {
-                        e.preventDefault();
-                        setDragging(true);
-                      }}
-                      onDragEnter={(e) => {
-                        e.preventDefault();
-                        setDragging(true);
-                      }}
-                      onDragLeave={(e) => {
-                        if (!e.currentTarget.contains(e.relatedTarget))
-                          setDragging(false);
-                      }}
-                      onDrop={handleDrop}
+            {/* ── Existing items list (edit mode) ──────── */}
+            {showExistingItems && (
+              <div className="flex flex-col gap-2">
+                {existingItems.map((item, i) => (
+                  <div key={item.url} className="flex items-center gap-3 p-3 rounded-xl border border-border bg-secondary/20">
+                    {/* mini preview */}
+                    {item.type === "image" && (
+                      <div className="w-12 h-12 rounded-lg overflow-hidden border border-border shrink-0 bg-muted">
+                        <img src={item.url} alt="" className="w-full h-full object-cover" />
+                      </div>
+                    )}
+                    {item.type === "video" && (
+                      <div className="w-12 h-12 rounded-lg overflow-hidden border border-border shrink-0 bg-black flex items-center justify-center">
+                        {item.thumbnailUrl
+                          ? <img src={item.thumbnailUrl} alt="" className="w-full h-full object-cover" />
+                          : <Film className="w-5 h-5 text-white/40" />}
+                      </div>
+                    )}
+                    {item.type === "audio" && (
+                      <div className="w-12 h-12 rounded-lg border border-border shrink-0 bg-primary/10 flex items-center justify-center">
+                        <Music className="w-5 h-5 text-primary" />
+                      </div>
+                    )}
+                    <div className="flex-1 min-w-0">
+                      <p className="text-xs font-medium text-foreground capitalize">{item.type}</p>
+                      <p className="text-[11px] text-muted-foreground/60 truncate">{item.url.split("/").pop()?.split("?")[0]}</p>
+                    </div>
+                    <button
+                      type="button"
+                      onClick={() => removeExistingItem(i)}
+                      className="w-7 h-7 rounded-lg border border-border flex items-center justify-center text-muted-foreground hover:text-destructive hover:border-destructive/40 transition-all shrink-0"
                     >
-                      <div
-                        className={[
-                          "w-12 h-12 rounded-2xl flex items-center justify-center transition-colors",
-                          dragging ? "bg-primary/20" : "bg-primary/10",
-                        ].join(" ")}
-                      >
-                        <DropZoneIcon dragging={dragging} file={file} />
+                      <X className="w-3.5 h-3.5" />
+                    </button>
+                  </div>
+                ))}
+              </div>
+            )}
+
+            {/* ── New files queued ─────────────────────── */}
+            {files.length > 0 && (
+              <div className="flex flex-col gap-2">
+                {files.map((f, i) => {
+                  const cat = getMimeCategory(f);
+                  const pct = progresses[i] ?? 0;
+                  return (
+                    <div key={i} className="flex items-center gap-3 p-3 rounded-xl border border-primary/30 bg-primary/[0.03]">
+                      <div className="w-12 h-12 rounded-lg bg-primary/10 flex items-center justify-center shrink-0">
+                        {cat === "image" ? <ImageIcon className="w-5 h-5 text-primary" /> : cat === "audio" ? <Music className="w-5 h-5 text-primary" /> : <Film className="w-5 h-5 text-primary" />}
                       </div>
-
-                      <div>
-                        {dragging ? (
-                          <p className="text-sm font-semibold text-primary">
-                            Solte o arquivo aqui
-                          </p>
-                        ) : file ? (
-                          <>
-                            <p className="text-sm font-semibold text-foreground truncate max-w-xs">
-                              {file.name}
-                            </p>
-                            <p className="text-xs text-muted-foreground/60 mt-0.5">
-                              {(file.size / 1024 / 1024).toFixed(1)} MB ·{" "}
-                              {mediaTypeLabel}
-                            </p>
-                          </>
-                        ) : (
-                          <>
-                            <p className="text-sm font-medium text-foreground">
-                              Arraste um arquivo ou{" "}
-                              <span className="text-primary underline underline-offset-2">
-                                clique para selecionar
-                              </span>
-                            </p>
-                            <p className="text-xs text-muted-foreground/50 mt-0.5">
-                              Vídeo (MP4, MOV · 500 MB) · Imagem (JPG, PNG · 20
-                              MB) · Áudio (MP3, WAV · 100 MB)
-                            </p>
-                          </>
-                        )}
-                      </div>
-
-                      <input
-                        type="file"
-                        accept="video/*,image/*,audio/*"
-                        className="hidden"
-                        onChange={(e) => pickFile(e.target.files?.[0])}
-                      />
-                    </label>
-
-                    {/* image preview */}
-                    {file && getMimeCategory(file) === "image" && (
-                      <div className="rounded-xl overflow-hidden border border-border bg-muted/30 max-h-48 flex items-center justify-center">
-                        <img
-                          src={URL.createObjectURL(file)}
-                          alt="Preview"
-                          className="max-h-48 w-auto object-contain"
-                        />
-                      </div>
-                    )}
-
-                    {/* audio preview */}
-                    {file && getMimeCategory(file) === "audio" && !saving && (
-                      <div className="flex items-center gap-3 p-3 rounded-xl border border-border bg-muted/20">
-                        <div className="w-8 h-8 rounded-lg bg-primary/10 flex items-center justify-center shrink-0">
-                          <Music className="w-4 h-4 text-primary" />
-                        </div>
-                        <audio
-                          src={URL.createObjectURL(file)}
-                          controls
-                          className="flex-1 h-8"
-                        />
-                      </div>
-                    )}
-
-                    {/* upload error */}
-                    {uploadError && (
-                      <div className="flex flex-col gap-2 rounded-xl border border-destructive/25 bg-destructive/8 px-3.5 py-3 text-xs text-destructive">
-                        <div className="flex items-start gap-2">
-                          <AlertCircle className="w-4 h-4 shrink-0 mt-0.5" />
-                          <span className="font-medium">{uploadError}</span>
-                        </div>
-                        {uploadError.includes("CORS") && (
-                          <div className="ml-6 flex flex-col gap-1.5 text-destructive/80">
-                            <p className="font-semibold text-destructive">
-                              Como corrigir:
-                            </p>
-                            <p>
-                              1. Instale o{" "}
-                              <a
-                                href="https://cloud.google.com/storage/docs/gsutil_install"
-                                target="_blank"
-                                rel="noreferrer"
-                                className="underline"
-                              >
-                                Google Cloud SDK
-                              </a>{" "}
-                              e faça login:{" "}
-                              <code className="bg-destructive/10 px-1 rounded">
-                                gcloud auth login
-                              </code>
-                            </p>
-                            <p>
-                              2. Crie um arquivo{" "}
-                              <code className="bg-destructive/10 px-1 rounded">
-                                cors.json
-                              </code>{" "}
-                              e execute:
-                            </p>
-                            <pre className="bg-destructive/10 rounded-lg p-2 text-[10px] overflow-x-auto whitespace-pre">{`gsutil cors set cors.json gs://SEU-PROJETO.appspot.com`}</pre>
+                      <div className="flex-1 min-w-0 flex flex-col gap-1.5">
+                        <p className="text-xs font-medium text-foreground truncate">{f.name}</p>
+                        <p className="text-[11px] text-muted-foreground/60">{(f.size / 1024 / 1024).toFixed(1)} MB</p>
+                        {saving && (
+                          <div className="flex items-center gap-2">
+                            <div className="flex-1 h-1.5 rounded-full bg-secondary overflow-hidden">
+                              <div className="h-full rounded-full bg-primary transition-all duration-300" style={{ width: `${pct}%` }} />
+                            </div>
+                            <span className="text-[11px] font-semibold text-primary tabular-nums w-8 text-right">{pct}%</span>
                           </div>
                         )}
                       </div>
-                    )}
+                      {!saving && (
+                        <button type="button"
+                          onClick={() => setFiles(prev => prev.filter((_, j) => j !== i))}
+                          className="w-7 h-7 rounded-lg border border-border flex items-center justify-center text-muted-foreground hover:text-destructive hover:border-destructive/40 transition-all shrink-0"
+                        >
+                          <X className="w-3.5 h-3.5" />
+                        </button>
+                      )}
+                    </div>
+                  );
+                })}
+              </div>
+            )}
 
-                    {/* progress bar */}
-                    {file && saving && (
-                      <div className="flex items-center gap-3">
-                        <div className="flex-1 h-2 rounded-full bg-secondary overflow-hidden">
-                          <div
-                            className="h-full rounded-full bg-primary transition-all duration-300 ease-out"
-                            style={{ width: `${progress}%` }}
-                          />
-                        </div>
-                        <span className="text-xs font-semibold text-primary tabular-nums w-10 text-right">
-                          {progress}%
-                        </span>
-                      </div>
-                    )}
-
-                    {/* clear file */}
-                    {file && !saving && (
-                      <button
-                        type="button"
-                        onClick={() => {
-                          setFile(null);
-                          setProgress(0);
-                          setUploadError(null);
-                          set(
-                            "mediaType",
-                            originalMedia.url ? form.mediaType : "video",
-                          );
-                        }}
-                        className="flex items-center gap-1.5 self-start text-xs text-muted-foreground hover:text-destructive transition-colors"
-                      >
-                        <X className="w-3.5 h-3.5" />
-                        Remover arquivo
-                      </button>
-                    )}
-                  </div>
+            {/* ── Mode toggle (only when no existing items, or always to add more) ── */}
+            {(!showExistingItems || files.length > 0 || mediaMode === "url") && !saving && (
+              <div className="flex gap-2">
+                {!showExistingItems && (
+                  <ModeBtn active={mediaMode === "url"} icon={Link2} label="URL (YouTube / link)"
+                    onClick={() => { setMediaMode("url"); setFiles([]); }}
+                  />
                 )}
-              </>
+                <ModeBtn active={mediaMode === "upload"} icon={Upload}
+                  label={showExistingItems ? "Adicionar mais arquivos" : "Upload de arquivo"}
+                  onClick={() => setMediaMode("upload")}
+                />
+              </div>
+            )}
+
+            {/* ── URL mode ─────────────────────────────── */}
+            {mediaMode === "url" && !showExistingItems && (
+              <Input
+                value={form.videoUrl}
+                onChange={(e) => set("videoUrl", e.target.value)}
+                placeholder="https://youtu.be/... ou URL do vídeo"
+              />
+            )}
+
+            {/* ── Upload / drop zone ────────────────────── */}
+            {(mediaMode === "upload" || showExistingItems) && !saving && (
+              <label
+                className={[
+                  "relative flex flex-col items-center justify-center gap-3",
+                  "border-2 border-dashed rounded-2xl p-6 cursor-pointer",
+                  "transition-all duration-200 text-center select-none",
+                  dragging ? "border-primary bg-primary/8 scale-[1.01]" : "border-border hover:border-primary/40 hover:bg-primary/[0.03]",
+                ].join(" ")}
+                onDragOver={(e) => { e.preventDefault(); setDragging(true); }}
+                onDragEnter={(e) => { e.preventDefault(); setDragging(true); }}
+                onDragLeave={(e) => { if (!e.currentTarget.contains(e.relatedTarget)) setDragging(false); }}
+                onDrop={handleDrop}
+              >
+                <div className={["w-10 h-10 rounded-2xl flex items-center justify-center transition-colors", dragging ? "bg-primary/20" : "bg-primary/10"].join(" ")}>
+                  <Upload className={`w-5 h-5 ${dragging ? "text-primary" : "text-primary/70"}`} />
+                </div>
+                {dragging ? (
+                  <p className="text-sm font-semibold text-primary">Solte os arquivos aqui</p>
+                ) : (
+                  <>
+                    <p className="text-sm font-medium text-foreground">
+                      Arraste arquivos ou{" "}
+                      <span className="text-primary underline underline-offset-2">clique para selecionar</span>
+                    </p>
+                    <p className="text-xs text-muted-foreground/50">
+                      Múltiplos arquivos · Vídeo (500 MB) · Imagem (20 MB) · Áudio (100 MB)
+                    </p>
+                  </>
+                )}
+                <input type="file" accept="video/*,image/*,audio/*" multiple className="hidden"
+                  onChange={(e) => pickFiles(Array.from(e.target.files ?? []))}
+                />
+              </label>
+            )}
+
+            {/* upload error */}
+            {uploadError && (
+              <div className="flex items-start gap-2 rounded-xl border border-destructive/25 bg-destructive/8 px-3.5 py-3 text-xs text-destructive">
+                <AlertCircle className="w-4 h-4 shrink-0 mt-0.5" />
+                <span className="font-medium">{uploadError}</span>
+              </div>
             )}
           </div>
 

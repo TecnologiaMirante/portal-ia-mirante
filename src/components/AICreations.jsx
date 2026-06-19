@@ -27,6 +27,9 @@ import {
   Minimize2,
   Copy,
   Check,
+  ChevronLeft,
+  ChevronRight,
+  Layers,
 } from "lucide-react";
 import { TiltCard } from "@/components/effects/TiltCard";
 import { aiTools } from "@/data/aiTools";
@@ -42,19 +45,26 @@ function getYouTubeId(url) {
   return m ? m[1] : null;
 }
 
+function getMediaItems(c) {
+  if (c.mediaItems?.length > 0) return c.mediaItems;
+  if (!c.videoUrl) return [];
+  return [{ type: c.mediaType ?? "video", url: c.videoUrl, thumbnailUrl: c.thumbnailUrl ?? null }];
+}
+
 function getMediaType(c) {
-  // explicit field takes priority
-  if (c.mediaType) return c.mediaType;
-  // legacy: if no field, assume video
+  const items = getMediaItems(c);
+  if (items.length > 0) return items[0].type;
   return "video";
 }
 
 function getThumbnail(c) {
-  const type = getMediaType(c);
-  if (type === "image") return c.thumbnailUrl ?? c.videoUrl ?? null;
-  const ytId = getYouTubeId(c.videoUrl);
+  const items = getMediaItems(c);
+  const first = items[0];
+  if (!first) return null;
+  if (first.type === "image") return first.thumbnailUrl ?? first.url ?? null;
+  const ytId = getYouTubeId(first.url);
   if (ytId) return `https://img.youtube.com/vi/${ytId}/hqdefault.jpg`;
-  return c.thumbnailUrl ?? null;
+  return first.thumbnailUrl ?? null;
 }
 
 const fmtShort = new Intl.DateTimeFormat("pt-BR", {
@@ -456,7 +466,6 @@ function CopyPromptBtn({ text }) {
       await navigator.clipboard.writeText(text);
       ok = true;
     } catch {
-      /* fallback via execCommand para HTTP local */
       try {
         const el = document.createElement("textarea");
         el.value = text;
@@ -485,10 +494,169 @@ function CopyPromptBtn({ text }) {
   );
 }
 
+/* ─── FullscreenImageViewer ──────────────────────────────── */
+function FullscreenImageViewer({ items, startIdx, onClose }) {
+  const [idx, setIdx] = useState(startIdx);
+  const [scale, setScale] = useState(1);
+  const [pan, setPan] = useState({ x: 0, y: 0 });
+  const dragging = useRef(false);
+  const lastPos = useRef({ x: 0, y: 0 });
+  const containerRef = useRef(null);
+
+  const item = items[idx] ?? items[0];
+  const isZoomed = scale > 1;
+
+  const resetZoom = useCallback(() => { setScale(1); setPan({ x: 0, y: 0 }); }, []);
+
+  // Keyboard: capture phase so Escape doesn't bubble to modal
+  useEffect(() => {
+    const h = (e) => {
+      if (e.key === "Escape") { e.stopImmediatePropagation(); onClose(); return; }
+      if (isZoomed) return;
+      if (e.key === "ArrowLeft") { e.stopImmediatePropagation(); setIdx(i => (i - 1 + items.length) % items.length); setScale(1); setPan({ x: 0, y: 0 }); }
+      if (e.key === "ArrowRight") { e.stopImmediatePropagation(); setIdx(i => (i + 1) % items.length); setScale(1); setPan({ x: 0, y: 0 }); }
+    };
+    document.addEventListener("keydown", h, true);
+    return () => document.removeEventListener("keydown", h, true);
+  }, [isZoomed, items.length, onClose]);
+
+  // Wheel zoom (non-passive so we can preventDefault)
+  const handleWheel = useCallback((e) => {
+    e.preventDefault();
+    const factor = e.deltaY < 0 ? 1.12 : 0.9;
+    setScale(s => {
+      const ns = Math.max(1, Math.min(6, s * factor));
+      if (ns <= 1) setPan({ x: 0, y: 0 });
+      return ns;
+    });
+  }, []);
+  useEffect(() => {
+    const el = containerRef.current;
+    if (!el) return;
+    el.addEventListener("wheel", handleWheel, { passive: false });
+    return () => el.removeEventListener("wheel", handleWheel);
+  }, [handleWheel]);
+
+  const onMouseDown = (e) => {
+    if (!isZoomed) return;
+    e.preventDefault();
+    dragging.current = true;
+    lastPos.current = { x: e.clientX, y: e.clientY };
+  };
+  const onMouseMove = (e) => {
+    if (!dragging.current) return;
+    const dx = e.clientX - lastPos.current.x;
+    const dy = e.clientY - lastPos.current.y;
+    lastPos.current = { x: e.clientX, y: e.clientY };
+    setPan(p => ({ x: p.x + dx, y: p.y + dy }));
+  };
+  const onMouseUp = () => { dragging.current = false; };
+
+  const handleImgClick = (e) => {
+    e.stopPropagation();
+    if (isZoomed) resetZoom();
+    else setScale(2.5);
+  };
+
+  if (!item) return null;
+
+  return (
+    <div
+      ref={containerRef}
+      className="fixed inset-0 z-[200] bg-black flex items-center justify-center select-none"
+      onClick={onClose}
+      onMouseMove={onMouseMove}
+      onMouseUp={onMouseUp}
+      onMouseLeave={onMouseUp}
+    >
+      {/* Top bar */}
+      <div className="absolute top-0 left-0 right-0 flex items-center justify-between px-5 py-4 z-10 bg-gradient-to-b from-black/70 to-transparent">
+        <span className="text-white/60 text-sm font-medium">
+          {items.length > 1 ? `${idx + 1} / ${items.length}` : ""}
+        </span>
+        <button
+          onClick={(e) => { e.stopPropagation(); onClose(); }}
+          className="w-9 h-9 rounded-full bg-white/10 backdrop-blur-sm border border-white/20 flex items-center justify-center text-white/70 hover:text-white hover:bg-white/20 transition-all"
+        >
+          <X className="w-4 h-4" />
+        </button>
+      </div>
+
+      {/* Image */}
+      <img
+        src={item.url}
+        alt=""
+        className="max-w-full max-h-full object-contain"
+        style={{
+          transform: `scale(${scale}) translate(${pan.x / scale}px, ${pan.y / scale}px)`,
+          cursor: isZoomed ? "grab" : "zoom-in",
+          transition: dragging.current ? "none" : "transform 0.18s ease",
+          userSelect: "none",
+          WebkitUserSelect: "none",
+          touchAction: "none",
+        }}
+        onClick={handleImgClick}
+        onMouseDown={onMouseDown}
+        draggable={false}
+      />
+
+      {/* Nav arrows */}
+      {items.length > 1 && !isZoomed && (
+        <>
+          <button
+            onClick={(e) => { e.stopPropagation(); setIdx(i => (i - 1 + items.length) % items.length); resetZoom(); }}
+            className="absolute left-4 top-1/2 -translate-y-1/2 z-10 w-11 h-11 rounded-full bg-white/10 backdrop-blur-sm border border-white/20 flex items-center justify-center text-white/70 hover:text-white hover:bg-white/20 transition-all"
+          >
+            <ChevronLeft className="w-5 h-5" />
+          </button>
+          <button
+            onClick={(e) => { e.stopPropagation(); setIdx(i => (i + 1) % items.length); resetZoom(); }}
+            className="absolute right-4 top-1/2 -translate-y-1/2 z-10 w-11 h-11 rounded-full bg-white/10 backdrop-blur-sm border border-white/20 flex items-center justify-center text-white/70 hover:text-white hover:bg-white/20 transition-all"
+          >
+            <ChevronRight className="w-5 h-5" />
+          </button>
+        </>
+      )}
+
+      {/* Bottom: dots + hint */}
+      <div className="absolute bottom-0 left-0 right-0 flex flex-col items-center gap-3 py-5 bg-gradient-to-t from-black/70 to-transparent pointer-events-none">
+        {items.length > 1 && (
+          <div className="flex gap-1.5 items-center pointer-events-auto">
+            {items.map((_, i) => (
+              <button
+                key={i}
+                onClick={(e) => { e.stopPropagation(); setIdx(i); resetZoom(); }}
+                className={`rounded-full transition-all duration-200 ${i === idx ? "w-5 h-1.5 bg-white" : "w-1.5 h-1.5 bg-white/35 hover:bg-white/60"}`}
+              />
+            ))}
+          </div>
+        )}
+        <p className="text-white/30 text-[11px] flex items-center gap-2">
+          {!isZoomed ? (
+            <>
+              <span>Clique ou scroll para ampliar</span>
+              {items.length > 1 && <><span>·</span><span>← → para navegar</span></>}
+              <span>·</span><span>Esc para fechar</span>
+            </>
+          ) : (
+            <span>Arraste para mover · Clique ou Esc para sair do zoom</span>
+          )}
+        </p>
+      </div>
+    </div>
+  );
+}
+
 /* ─── MediaModal ─────────────────────────────────────────── */
 function MediaModal({ creation, onClose }) {
-  const type = getMediaType(creation);
-  const ytId = type === "video" ? getYouTubeId(creation.videoUrl) : null;
+  const items = getMediaItems(creation);
+  const [idx, setIdx] = useState(0);
+  const [fsOpen, setFsOpen] = useState(false);
+
+  const item = items[idx] ?? { type: "video", url: creation.videoUrl, thumbnailUrl: creation.thumbnailUrl };
+  const type = item.type;
+  const ytId = type === "video" ? getYouTubeId(item.url) : null;
+  const imageItems = useMemo(() => items.filter(it => it.type === "image"), [items]);
 
   useEffect(() => {
     const prev = document.body.style.overflow;
@@ -496,188 +664,246 @@ function MediaModal({ creation, onClose }) {
     return () => { document.body.style.overflow = prev; };
   }, []);
 
+  // Modal Escape — only when fullscreen is not open
   useEffect(() => {
+    if (fsOpen) return;
     const h = (e) => { if (e.key === "Escape") onClose(); };
     document.addEventListener("keydown", h);
     return () => document.removeEventListener("keydown", h);
-  }, [onClose]);
+  }, [onClose, fsOpen]);
 
-  /* accent color per type */
+  // Carousel arrow keys — only when fullscreen is not open
+  useEffect(() => {
+    if (items.length <= 1 || fsOpen) return;
+    const h = (e) => {
+      if (e.key === "ArrowLeft") setIdx(i => (i - 1 + items.length) % items.length);
+      if (e.key === "ArrowRight") setIdx(i => (i + 1) % items.length);
+    };
+    document.addEventListener("keydown", h);
+    return () => document.removeEventListener("keydown", h);
+  }, [items.length, fsOpen]);
+
+  const prev = () => setIdx(i => (i - 1 + items.length) % items.length);
+  const next = () => setIdx(i => (i + 1) % items.length);
+
+  const openFullscreen = () => {
+    if (imageItems.length === 0) return;
+    setFsOpen(true);
+  };
+
+  // accent color
   const accent = type === "audio" ? "oklch(0.55 0.28 264)" : type === "image" ? "oklch(0.60 0.22 230)" : "oklch(0.55 0.28 264)";
 
-  return (
-    <div
-      className="fixed inset-0 z-[90] flex items-center justify-center p-4 sm:p-6 animate-in fade-in duration-200"
-      style={{ background: "rgba(0,0,0,0.82)", backdropFilter: "blur(8px)" }}
-      onClick={onClose}
-    >
-      <div
-        className="relative w-full max-w-3xl animate-in zoom-in-95 fade-in duration-200 flex flex-col rounded-3xl bg-card border border-border/80 max-h-[90vh] overflow-y-auto"
-        style={{ boxShadow: `0 0 0 1px ${accent.replace(")", "/0.20)")}, 0 24px 80px rgba(0,0,0,0.55), 0 0 60px ${accent.replace(")", "/0.12)")}` }}
-        onClick={(e) => e.stopPropagation()}
-      >
-        {/* top accent strip */}
-        <div className="h-[3px] w-full shrink-0"
-          style={{ background: `linear-gradient(90deg, ${accent}, ${accent.replace("264)", "295)")}, transparent)` }}
-        />
+  // current image index within imageItems (for fullscreen startIdx)
+  const fsStartIdx = imageItems.indexOf(item) >= 0 ? imageItems.indexOf(item) : 0;
 
-        {/* close button */}
-        <button
-          onClick={onClose}
-          aria-label="Fechar"
-          className="absolute top-4 right-4 z-20 w-8 h-8 rounded-full bg-black/50 backdrop-blur-sm border border-white/10 flex items-center justify-center text-white/70 hover:text-white hover:bg-black/75 transition-all"
+  return (
+    <>
+      {fsOpen && (
+        <FullscreenImageViewer
+          items={imageItems}
+          startIdx={fsStartIdx}
+          onClose={() => setFsOpen(false)}
+        />
+      )}
+
+      <div
+        className="fixed inset-0 z-[90] flex items-center justify-center p-4 sm:p-6 animate-in fade-in duration-200"
+        style={{ background: "rgba(0,0,0,0.82)", backdropFilter: "blur(8px)" }}
+        onClick={onClose}
+      >
+        <div
+          className="relative w-full max-w-3xl animate-in zoom-in-95 fade-in duration-200 flex flex-col rounded-3xl bg-card border border-border/80 max-h-[90vh] overflow-y-auto"
+          style={{ boxShadow: `0 0 0 1px ${accent.replace(")", "/0.20)")}, 0 24px 80px rgba(0,0,0,0.55), 0 0 60px ${accent.replace(")", "/0.12)")}` }}
+          onClick={(e) => e.stopPropagation()}
         >
+          {/* top accent strip */}
+          <div className="h-[3px] w-full shrink-0"
+            style={{ background: `linear-gradient(90deg, ${accent}, ${accent.replace("264)", "295)")}, transparent)` }}
+          />
+
+          {/* close button */}
+          <button
+            onClick={onClose}
+            aria-label="Fechar"
+            className="absolute top-4 right-4 z-20 w-8 h-8 rounded-full bg-black/50 backdrop-blur-sm border border-white/10 flex items-center justify-center text-white/70 hover:text-white hover:bg-black/75 transition-all"
+          >
           <X className="w-4 h-4" />
         </button>
 
-        {/* ── media area ─────────────────────────────────────── */}
-        {type === "image" ? (
-          <div className="w-full relative flex items-center justify-center overflow-hidden"
-            style={{ minHeight: "200px", maxHeight: "50vh", background: "#000" }}>
-            {/* fundo borrado */}
-            <img
-              src={creation.videoUrl}
-              aria-hidden="true"
-              className="absolute inset-0 w-full h-full object-cover scale-110 blur-2xl opacity-30 pointer-events-none"
-            />
-            {/* imagem real contida */}
-            <img
-              src={creation.videoUrl}
-              alt={creation.title}
-              className="relative z-10 max-h-[50vh] w-auto max-w-full object-contain"
-            />
-          </div>
-
-        ) : type === "audio" ? (
-          <div className="w-full px-8 py-10 flex flex-col items-center gap-5"
-            style={{ background: "linear-gradient(135deg, oklch(0.55 0.28 264 / 0.10), oklch(0.58 0.26 295 / 0.06), transparent)" }}>
-            {/* animated rings */}
-            <div className="relative flex items-center justify-center">
-              <div className="absolute w-28 h-28 rounded-full animate-ping opacity-10"
-                style={{ background: "oklch(0.55 0.28 264)" }} />
-              <div className="absolute w-20 h-20 rounded-full animate-pulse opacity-15"
-                style={{ background: "oklch(0.55 0.28 264)" }} />
-              <div className="relative w-16 h-16 rounded-2xl flex items-center justify-center border"
-                style={{ background: "oklch(0.55 0.28 264 / 0.15)", borderColor: "oklch(0.55 0.28 264 / 0.30)" }}>
-                <Music className="w-7 h-7 text-primary" strokeWidth={1.5} />
-              </div>
-            </div>
-            {/* equalizer bars */}
-            <div className="flex items-end gap-1 h-8">
-              {[0.4, 0.7, 1, 0.6, 0.9, 0.5, 0.8, 0.3, 0.7, 1, 0.5].map((h, i) => (
-                <div
-                  key={i}
-                  className="w-1.5 rounded-full"
-                  style={{
-                    height: `${h * 100}%`,
-                    background: "oklch(0.55 0.28 264)",
-                    opacity: 0.6,
-                    animation: `equalizer ${0.8 + i * 0.1}s ease-in-out infinite alternate`,
-                    animationDelay: `${i * 0.08}s`,
-                  }}
+          {/* ── media area ─────────────────────────────────────── */}
+          <div className="relative">
+            {type === "image" ? (
+              <div
+                className="w-full relative flex items-center justify-center overflow-hidden cursor-pointer group"
+                style={{ minHeight: "200px", maxHeight: "50vh", background: "#000" }}
+                onClick={openFullscreen}
+              >
+                <img src={item.url} aria-hidden="true"
+                  className="absolute inset-0 w-full h-full object-cover scale-110 blur-2xl opacity-30 pointer-events-none"
                 />
-              ))}
-            </div>
-            <audio src={creation.videoUrl} controls autoPlay className="w-full max-w-md" />
-          </div>
-
-        ) : (
-          /* video */
-          <div className="w-full bg-black">
-            {ytId ? (
-              <div className="aspect-video">
-                <iframe
-                  src={`https://www.youtube.com/embed/${ytId}?autoplay=1&rel=0&modestbranding=1&color=white`}
-                  allow="autoplay; fullscreen; picture-in-picture"
-                  allowFullScreen
-                  className="w-full h-full border-0"
-                  title={creation.title}
+                <img src={item.url} alt={creation.title}
+                  className="relative z-10 max-h-[50vh] w-auto max-w-full object-contain"
                 />
+                <div className="absolute top-3 right-3 z-20 w-8 h-8 rounded-full bg-black/60 backdrop-blur-sm flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity">
+                  <Maximize2 className="w-4 h-4 text-white" />
+                </div>
+                <p className="absolute bottom-8 left-1/2 -translate-x-1/2 z-20 text-white/70 text-[11px] bg-black/50 backdrop-blur-sm px-2.5 py-1 rounded-full opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap">
+                  Clique para tela cheia
+                </p>
               </div>
-            ) : creation.videoUrl ? (
-              <CustomVideoPlayer
-                src={creation.videoUrl}
-                poster={creation.thumbnailUrl ?? undefined}
-              />
+            ) : type === "audio" ? (
+              <div className="w-full px-8 py-10 flex flex-col items-center gap-5"
+                style={{ background: "linear-gradient(135deg, oklch(0.55 0.28 264 / 0.10), oklch(0.58 0.26 295 / 0.06), transparent)" }}>
+                <div className="relative flex items-center justify-center">
+                  <div className="absolute w-28 h-28 rounded-full animate-ping opacity-10" style={{ background: "oklch(0.55 0.28 264)" }} />
+                  <div className="absolute w-20 h-20 rounded-full animate-pulse opacity-15" style={{ background: "oklch(0.55 0.28 264)" }} />
+                  <div className="relative w-16 h-16 rounded-2xl flex items-center justify-center border"
+                    style={{ background: "oklch(0.55 0.28 264 / 0.15)", borderColor: "oklch(0.55 0.28 264 / 0.30)" }}>
+                    <Music className="w-7 h-7 text-primary" strokeWidth={1.5} />
+                  </div>
+                </div>
+                <div className="flex items-end gap-1 h-8">
+                  {[0.4, 0.7, 1, 0.6, 0.9, 0.5, 0.8, 0.3, 0.7, 1, 0.5].map((h, i) => (
+                    <div key={i} className="w-1.5 rounded-full"
+                      style={{ height: `${h * 100}%`, background: "oklch(0.55 0.28 264)", opacity: 0.6,
+                        animation: `equalizer ${0.8 + i * 0.1}s ease-in-out infinite alternate`,
+                        animationDelay: `${i * 0.08}s` }}
+                    />
+                  ))}
+                </div>
+                <audio src={item.url} controls autoPlay className="w-full max-w-md" />
+              </div>
             ) : (
-              <div className="aspect-video flex items-center justify-center">
-                <Film className="w-12 h-12 text-white/15" />
+              <div className="w-full bg-black">
+                {ytId ? (
+                  <div className="aspect-video">
+                    <iframe
+                      src={`https://www.youtube.com/embed/${ytId}?autoplay=1&rel=0&modestbranding=1&color=white`}
+                      allow="autoplay; fullscreen; picture-in-picture"
+                      allowFullScreen
+                      className="w-full h-full border-0"
+                      title={creation.title}
+                    />
+                  </div>
+                ) : item.url ? (
+                  <CustomVideoPlayer src={item.url} poster={item.thumbnailUrl ?? undefined} />
+                ) : (
+                  <div className="aspect-video flex items-center justify-center">
+                    <Film className="w-12 h-12 text-white/15" />
+                  </div>
+                )}
+              </div>
+            )}
+
+            {/* Carousel arrows */}
+            {items.length > 1 && (
+              <>
+                <button
+                  onClick={(e) => { e.stopPropagation(); prev(); }}
+                  className="absolute left-2 top-1/2 -translate-y-1/2 z-20 w-9 h-9 rounded-full bg-black/60 backdrop-blur-sm border border-white/10 flex items-center justify-center text-white/70 hover:text-white hover:bg-black/80 transition-all"
+                >
+                  <ChevronLeft className="w-4 h-4" />
+                </button>
+                <button
+                  onClick={(e) => { e.stopPropagation(); next(); }}
+                  className="absolute right-2 top-1/2 -translate-y-1/2 z-20 w-9 h-9 rounded-full bg-black/60 backdrop-blur-sm border border-white/10 flex items-center justify-center text-white/70 hover:text-white hover:bg-black/80 transition-all"
+                >
+                  <ChevronRight className="w-4 h-4" />
+                </button>
+              </>
+            )}
+
+            {/* Dot indicators */}
+            {items.length > 1 && (
+              <div className="absolute bottom-2 left-0 right-0 flex justify-center gap-1.5 z-20">
+                {items.map((_, i) => (
+                  <button
+                    key={i}
+                    onClick={(e) => { e.stopPropagation(); setIdx(i); }}
+                    className={`rounded-full transition-all duration-200 ${i === idx ? "w-4 h-1.5 bg-white" : "w-1.5 h-1.5 bg-white/40 hover:bg-white/70"}`}
+                  />
+                ))}
               </div>
             )}
           </div>
-        )}
 
-        {/* ── info panel ─────────────────────────────────────── */}
-        <div className="p-5 flex flex-col gap-3">
-          {/* title */}
-          <h3 className="font-bold text-foreground text-base leading-snug">
-            {creation.title}
-          </h3>
-
-          {creation.description && (
-            <p className="text-sm text-muted-foreground leading-relaxed">
-              {creation.description}
-            </p>
-          )}
-
-          {/* meta */}
-          <div className="flex items-center flex-wrap gap-x-4 gap-y-1.5 text-xs text-muted-foreground">
-            {creation.where && (
-              <span className="flex items-center gap-1.5">
-                <MapPin className="w-3 h-3 shrink-0 text-primary/50" />
-                {creation.where}
-              </span>
+          {/* ── info panel ─────────────────────────────────────── */}
+          <div className="p-5 flex flex-col gap-3">
+            {items.length > 1 && (
+              <div className="flex items-center gap-1.5 text-xs text-muted-foreground/60">
+                <Layers className="w-3 h-3" />
+                {idx + 1} de {items.length} itens
+              </div>
             )}
-            {creation.author && (
-              <span className="flex items-center gap-1.5">
-                <User className="w-3 h-3 shrink-0 text-primary/50" />
-                {creation.author}
-              </span>
+
+            <h3 className="font-bold text-foreground text-base leading-snug">
+              {creation.title}
+            </h3>
+
+            {creation.description && (
+              <p className="text-sm text-muted-foreground leading-relaxed">
+                {creation.description}
+              </p>
             )}
-            {creation.date && (
-              <span className="flex items-center gap-1.5">
-                <CalendarDays className="w-3 h-3 shrink-0 text-primary/50" />
-                {formatDate(creation.date, true)}
-              </span>
+
+            <div className="flex items-center flex-wrap gap-x-4 gap-y-1.5 text-xs text-muted-foreground">
+              {creation.where && (
+                <span className="flex items-center gap-1.5">
+                  <MapPin className="w-3 h-3 shrink-0 text-primary/50" />
+                  {creation.where}
+                </span>
+              )}
+              {creation.author && (
+                <span className="flex items-center gap-1.5">
+                  <User className="w-3 h-3 shrink-0 text-primary/50" />
+                  {creation.author}
+                </span>
+              )}
+              {creation.date && (
+                <span className="flex items-center gap-1.5">
+                  <CalendarDays className="w-3 h-3 shrink-0 text-primary/50" />
+                  {formatDate(creation.date, true)}
+                </span>
+              )}
+            </div>
+
+            {creation.prompt && (
+              <div className="flex flex-col gap-2 pt-2 border-t border-border/50">
+                <div className="flex items-center justify-between gap-2">
+                  <span className="text-[11px] font-semibold text-muted-foreground uppercase tracking-wide">Prompt</span>
+                  <CopyPromptBtn text={creation.prompt} />
+                </div>
+                <pre className="text-[11px] text-muted-foreground leading-relaxed whitespace-pre-wrap font-mono bg-muted/30 rounded-xl p-3 border border-border/50 max-h-40 overflow-y-auto">
+                  {creation.prompt}
+                </pre>
+              </div>
+            )}
+
+            {(creation.aiUsed ?? []).length > 0 && (
+              <div className="flex flex-wrap gap-1.5 pt-2 border-t border-border/50">
+                {creation.aiUsed.map((t) => (
+                  <AiBadge key={t} name={t} />
+                ))}
+              </div>
             )}
           </div>
-
-          {/* Prompt */}
-          {creation.prompt && (
-            <div className="flex flex-col gap-2 pt-2 border-t border-border/50">
-              <div className="flex items-center justify-between gap-2">
-                <span className="text-[11px] font-semibold text-muted-foreground uppercase tracking-wide">Prompt</span>
-                <CopyPromptBtn text={creation.prompt} />
-              </div>
-              <pre className="text-[11px] text-muted-foreground leading-relaxed whitespace-pre-wrap font-mono bg-muted/30 rounded-xl p-3 border border-border/50 max-h-40 overflow-y-auto">
-                {creation.prompt}
-              </pre>
-            </div>
-          )}
-
-          {/* AI badges */}
-          {(creation.aiUsed ?? []).length > 0 && (
-            <div className="flex flex-wrap gap-1.5 pt-2 border-t border-border/50">
-              {creation.aiUsed.map((t) => (
-                <AiBadge key={t} name={t} />
-              ))}
-            </div>
-          )}
         </div>
       </div>
-    </div>
+    </>
   );
 }
 
 /* ─── CreationCard ───────────────────────────────────────── */
 function CreationCard({ creation, index, onClick }) {
+  const items    = getMediaItems(creation);
   const type     = getMediaType(creation);
-  void (type === "video"); // isVideo: not used in this card variant
+  void (type === "video");
   const isImage  = type === "image";
   const isAudio  = type === "audio";
   const thumb    = getThumbnail(creation);
   const gradient = GRADIENTS[index % GRADIENTS.length];
-  const hasMedia = Boolean(creation.videoUrl);
+  const hasMedia = items.length > 0;
   const dateStr  = formatDate(creation.date);
 
   return (
@@ -764,6 +990,12 @@ function CreationCard({ creation, index, onClick }) {
           {isImage && (
             <span className="absolute top-2 left-2 text-[10px] font-medium text-white/90 bg-black/50 backdrop-blur-sm rounded-md px-2 py-0.5 leading-tight flex items-center gap-1">
               <ImageIcon className="w-2.5 h-2.5" /> Foto
+            </span>
+          )}
+          {/* multi-item count badge */}
+          {items.length > 1 && (
+            <span className="absolute top-2 right-2 text-[10px] font-semibold text-white/90 bg-black/60 backdrop-blur-sm rounded-md px-1.5 py-0.5 leading-tight flex items-center gap-1">
+              <Layers className="w-2.5 h-2.5" /> {items.length}
             </span>
           )}
 

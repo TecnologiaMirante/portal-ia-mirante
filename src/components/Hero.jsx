@@ -113,9 +113,10 @@ export function Hero({ onOpenPolicy }) {
         {/* Cards secundários — lado a lado */}
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 w-full max-w-2xl">
           {/* Política de IA */}
-          <div
+          <button
+            type="button"
             onClick={onOpenPolicy}
-            className="group cursor-pointer flex items-center gap-3 p-3.5 rounded-2xl border border-amber-400/40 bg-amber-400/8 hover:bg-amber-400/14 hover:border-amber-400/65 transition-all duration-300 hover:shadow-lg hover:shadow-amber-400/10 hover:-translate-y-0.5"
+            className="group text-left flex items-center gap-3 p-3.5 rounded-2xl border border-amber-400/40 bg-amber-400/8 hover:bg-amber-400/14 hover:border-amber-400/65 transition-all duration-300 hover:shadow-lg hover:shadow-amber-400/10 hover:-translate-y-0.5"
           >
             <div className="relative shrink-0">
               <div className="absolute inset-0 rounded-xl bg-amber-400/30 blur-md animate-pulse" />
@@ -138,7 +139,7 @@ export function Hero({ onOpenPolicy }) {
               </div>
             </div>
             <ArrowRight className="w-3.5 h-3.5 text-amber-500/50 group-hover:text-amber-500 group-hover:translate-x-1 transition-all shrink-0" />
-          </div>
+          </button>
 
           {/* Por onde começar */}
           <button

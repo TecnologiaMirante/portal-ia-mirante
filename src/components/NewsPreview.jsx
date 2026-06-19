@@ -4,10 +4,12 @@
  * Segue o padrão visual das demais seções (section-alt, section-divider,
  * glass-card, TiltCard, reveal).
  */
+import { useState } from "react";
 import { Link } from "react-router-dom";
 import { Newspaper, Clock, ArrowRight, Sparkles, Rss } from "lucide-react";
-import { useNews }    from "@/hooks/useNews";
-import { TiltCard }   from "@/components/effects/TiltCard";
+import { useNews }       from "@/hooks/useNews";
+import { TiltCard }      from "@/components/effects/TiltCard";
+import { ArticleModal }  from "@/components/ArticleModal";
 
 /* ── Paleta de setores ──────────────────────────────────── */
 const DEPT_COLOR = {
@@ -34,14 +36,14 @@ function timeAgo(raw = "") {
 }
 
 /* ── Card de artigo ─────────────────────────────────────── */
-function ArticleCard({ article, delay }) {
+function ArticleCard({ article, delay, onOpen }) {
   const dept  = article.depts?.[0];
   const style = DEPT_COLOR[dept];
 
   return (
     <div className={`reveal reveal-delay-${delay} h-full`}>
       <TiltCard className="glass-card group rounded-2xl overflow-hidden cursor-pointer h-full flex flex-col">
-        <Link to="/noticias" className="flex flex-col h-full">
+        <div onClick={onOpen} className="flex flex-col h-full">
 
           {/* Imagem */}
           <div className="relative h-44 overflow-hidden bg-muted shrink-0">
@@ -96,7 +98,7 @@ function ArticleCard({ article, delay }) {
               Ler matéria <ArrowRight className="w-3 h-3" />
             </div>
           </div>
-        </Link>
+        </div>
       </TiltCard>
     </div>
   );
@@ -112,6 +114,7 @@ function SkeletonCard({ delay }) {
 /* ── Seção ──────────────────────────────────────────────── */
 export function NewsPreview() {
   const { articles, loading } = useNews();
+  const [selected, setSelected] = useState(null);
   const preview = articles.slice(0, 3);
 
   if (!loading && articles.length === 0) return null;
@@ -156,7 +159,7 @@ export function NewsPreview() {
           {loading
             ? [1, 2, 3].map((i) => <SkeletonCard key={i} delay={i} />)
             : preview.map((a, i) => (
-                <ArticleCard key={a.url ?? i} article={a} delay={i + 1} />
+                <ArticleCard key={a.url ?? i} article={a} delay={i + 1} onOpen={() => setSelected(a)} />
               ))
           }
         </div>
@@ -197,6 +200,10 @@ export function NewsPreview() {
 
       {/* Divisor base */}
       <div className="section-divider mt-10" />
+
+      {selected && (
+        <ArticleModal article={selected} onClose={() => setSelected(null)} />
+      )}
     </section>
   );
 }

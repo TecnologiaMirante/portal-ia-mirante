@@ -1,6 +1,8 @@
 /**
  * PolicyModal — Política Unificada de Uso de IA do Grupo Mirante
- * Embed PDF em iframe com fallback para abrir em nova aba.
+ * Tenta embed via iframe (funciona em Chrome/Edge desktop e Android Chrome).
+ * Se o iframe não carregar em 10s ou disparar onError, exibe fallback
+ * com link para abrir em nova aba.
  */
 import { useEffect, useState } from "react";
 import { X, ExternalLink, FileText, Loader2 } from "lucide-react";
@@ -11,18 +13,24 @@ const PDF_URL =
 export function PolicyModal({ open, onClose }) {
   const [status, setStatus] = useState("loading"); // loading | ok | blocked
 
-  /* Reset when opened */
+  /* Reset ao abrir */
   useEffect(() => {
-    // eslint-disable-next-line react-hooks/set-state-in-effect
     if (open) setStatus("loading");
   }, [open]);
 
-  /* Timeout fallback — if iframe doesn't load in 6s, show open button */
+  /* Timeout fallback — 2s é suficiente: se o servidor bloqueou o embed
+     (X-Frame-Options / CSP) o browser fica em loading infinito */
   useEffect(() => {
     if (!open || status !== "loading") return;
-    const t = setTimeout(() => setStatus("blocked"), 6000);
+    const t = setTimeout(() => setStatus("blocked"), 2000);
     return () => clearTimeout(t);
   }, [open, status]);
+
+  /* Trava scroll do body enquanto modal está aberto */
+  useEffect(() => {
+    if (open) document.body.style.overflow = "hidden";
+    return () => { document.body.style.overflow = ""; };
+  }, [open]);
 
   /* Close on Escape */
   useEffect(() => {
@@ -110,9 +118,9 @@ export function PolicyModal({ open, onClose }) {
             </div>
           )}
 
-          {/* iframe */}
+          {/* iframe — Android Chrome consegue carregar, mas pode redirecionar */}
           <iframe
-            src={PDF_URL}
+            src={status !== "blocked" ? PDF_URL : ""}
             title="Política de IA Mirante"
             className={`w-full h-full border-0 transition-opacity duration-300 ${
               status === "ok" ? "opacity-100" : "opacity-0 pointer-events-none"

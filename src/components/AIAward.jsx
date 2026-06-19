@@ -212,11 +212,12 @@ export function AIAward() {
               ))}
 
               <div className="reveal reveal-delay-4 mt-2 flex flex-col sm:flex-row gap-3">
-                {/* CTA principal — abre a página completa */}
+                {/* CTA principal — oculto até lançamento oficial */}
                 <Link
                   to="/premio-ia"
-                  className="inline-flex items-center justify-center gap-2 px-5 py-2.5 rounded-xl font-semibold text-sm text-white transition-all shadow-md shadow-amber-500/25 hover:shadow-amber-500/40 hover:-translate-y-0.5"
-                  style={{ background: "linear-gradient(135deg, oklch(0.72 0.19 60), oklch(0.60 0.22 30))" }}
+                  className="hidden"
+                  aria-hidden="true"
+                  tabIndex={-1}
                 >
                   <Trophy className="w-4 h-4" />
                   Acessar Prêmio IA
