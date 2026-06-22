@@ -1,7 +1,72 @@
 {
-  "updatedAt": "2026-06-21T12:05:17.492Z",
+  "updatedAt": "2026-06-22T15:12:56.422Z",
   "count": 40,
   "articles": [
+    {
+      "title": "iOS 27: Conheça as funções de IA que vão deixar o iPhone mais inteligente",
+      "description": "Com o lançamento do iOS 27, a Apple está dando mais espaço para a inteligência artificial no iPhone. A Apple Intelligence vai aparecer em vários aplicativos do sistema, enquanto a Siri ganha um aplicativo dedicado e uma presença maior em diferentes áreas do celular para entender melhor o contexto do",
+      "url": "https://canaltech.com.br/inteligencia-artificial/ios-27-conheca-as-funcoes-de-ia-que-vao-deixar-o-iphone-mais-inteligente/",
+      "publishedAt": "Mon, 22 Jun 2026 11:05:00 -0300",
+      "image": "https://t.ctcdn.com.br/j8ZKT-Ey8F9Z8UhPHdv7JZE7PqQ=/700x394/smart/i1136155.png",
+      "source": "Canaltech IA",
+      "content": "Com o lançamento do iOS 27, a Apple está dando mais espaço para a inteligência artificial no iPhone. A Apple Intelligence vai aparecer em vários aplicativos do sistema, enquanto a Siri ganha um aplicativo dedicado e uma presença maior em diferentes áreas do celular para entender melhor o contexto do usuário e ajudar em tarefas do dia a dia. Mais IA e outras novidades ao iPhone: o que esperar do iOS 27? Como era o iOS em 2016? Relembre a versão antiga do sistema do iPhone A ideia é que a IA trabalhe nos bastidores para deixar tudo mais simples e intuitivo . Seja para organizar abas no Safari, criar automações no app Atalhos ou sugerir ações durante uma conversa no Mensagens, o iPhone vai exigir menos etapas manuais e oferecer ajuda de forma natural. 8 funções de IA do iOS 27 Veja 8 funções de IA que vão chegar com o iOS 27 aos iPhones: - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Divisão de contas no Apple Cash Troca automática de senhas comprometidas Sugestões inteligentes no app Mensagens Informações úteis durante chamadas Adicionar eventos no Calendário com IA Criar automações no Atalhos apenas descrevendo o que deseja Menos notificações e buscas mais inteligentes no app Casa Abas organizadas no Safari 1. Divisão de contas no Apple Cash O Apple Cash ganha a capacidade de dividir despesas automaticamente a partir de uma foto do recibo. A Apple Intelligence identifica itens, valores, gorjetas e quantidades, dispensando cálculos manuais. O sistema também consegue extrair detalhes, como os itens pedidos e suas respectivas quantidades, facilitando a separação dos gastos. Além de fotografar a conta na hora, o usuário também pode enviar uma imagem já salva no iPhone. A IA é capaz de considerar o valor dos pratos, a gorjeta e até dividir proporcionalmente os impostos cobrados na conta. Depois de analisar a conta, o usuário pode selecionar o que consumiu e enviar pedidos de p",
+      "lang": "pt",
+      "depts": [
+        "Gestão"
+      ]
+    },
+    {
+      "title": "Como criar uma rotina de estudos com ChatGPT do jeito certo",
+      "description": "Final de semestre, vestibulares, concursos, certificações e cursos online costumam trazer o mesmo desafio: há muito conteúdo para estudar e pouco tempo para organizar tudo de forma eficiente. Mesmo quando existe vontade de aprender, transformar essa intenção em uma rotina consistente nem sempre é si",
+      "url": "https://canaltech.com.br/inteligencia-artificial/como-criar-uma-rotina-de-estudos-com-chatgpt-do-jeito-certo/",
+      "publishedAt": "Sun, 21 Jun 2026 16:30:00 -0300",
+      "image": "https://t.ctcdn.com.br/nho0fo8xkYzaDwv-IVfc-UleZVU=/700x394/smart/i1076813.jpeg",
+      "source": "Canaltech IA",
+      "content": "Final de semestre, vestibulares, concursos, certificações e cursos online costumam trazer o mesmo desafio: há muito conteúdo para estudar e pouco tempo para organizar tudo de forma eficiente. Mesmo quando existe vontade de aprender, transformar essa intenção em uma rotina consistente nem sempre é simples. 15 prompts prontos para estudar, resumir PDFs e organizar tarefas no ChatGPT Melhore seus estudos: como criar quizzes e desafios no ChatGPT É nesse ponto que o ChatGPT pode ajudar. Quando usado da maneira certa, ele funciona como um assistente para planejar estudos, criar revisões e acompanhar o progresso. A ideia, porém, não é tratar a IA como uma solução mágica, mas aprender a usá-la para construir um plano que faça sentido para a sua realidade. A seguir, tire suas dúvidas sobre: - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Defina o que você precisa estudar Como pedir ao ChatGPT uma rotina realista? Como dividir a rotina: estudo, revisão, prática e diagnóstico? Exemplos práticos por tipo de estudante Como checar se a resposta do ChatGPT é boa? Quando o ChatGPT pode atrapalhar os estudos? Modelo de rotina semanal com ChatGPT Prompts prontos para copiar e adaptar Defina o que você precisa estudar Um dos erros mais comuns é abrir o ChatGPT e pedir simplesmente: \"monte uma rotina de estudos para mim\". Sem contexto, a tendência é que a ferramenta gere um cronograma genérico, visualmente organizado, mas pouco conectado à realidade de quem vai executá-lo. Para criar um plano realmente útil, é importante fornecer algumas informações , como: Objetivo do estudo; Prazo disponível; Nível atual de conhecimento; Matérias ou conteúdos envolvidos; Tempo livre por dia ou por semana; Formato da prova, certificação ou entrega; Principais dificuldades. Isso porque quanto mais específico for o contexto, mais personalizada tende a ser a resposta. Um exemplo de briefing eficiente seria: “",
+      "lang": "pt",
+      "depts": [
+        "Marketing",
+        "Gestão",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Como descobrir se a IA está alucinando e inventando informação",
+      "description": "Imagine pedir a uma inteligência artificial uma explicação técnica, um resumo de uma lei, uma lista de dados estatísticos ou até uma fonte acadêmica para um trabalho. Em segundos, você recebe uma resposta bem escrita, organizada e com um tom de autoridade que parece difícil de contestar. O que é alu",
+      "url": "https://canaltech.com.br/inteligencia-artificial/como-descobrir-se-a-ia-esta-alucinando-e-inventando-informacao/",
+      "publishedAt": "Sun, 21 Jun 2026 15:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/56l8_fdioQnwgVi4_jGwMzuNbXQ=/700x394/smart/i929017.jpeg",
+      "source": "Canaltech IA",
+      "content": "Imagine pedir a uma inteligência artificial uma explicação técnica, um resumo de uma lei, uma lista de dados estatísticos ou até uma fonte acadêmica para um trabalho. Em segundos, você recebe uma resposta bem escrita, organizada e com um tom de autoridade que parece difícil de contestar. O que é alucinação de IA? O que é RAG na IA? Conheça o recurso que ajuda a reduzir alucinações O problema é que essa confiança pode ser enganosa . IAs generativas conseguem criar nomes de especialistas, estudos científicos, datas, links e citações que parecem reais, mas que muitas vezes não existem de fato. Esse fenômeno é conhecido como alucinação ou confabulação. Por isso, antes de aceitar qualquer resposta como verdadeira, vale aplicar um filtro simples : uma avaliação para decidir se a informação dada pela IA pode ser usada, precisa ser revisada ou deve ser descartada. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A seguir, tire suas dúvidas sobre: A resposta tem fonte verificável? A fonte existe e abre? A fonte sustenta a afirmação com exatidão? A resposta mistura fatos atuais com informação antiga? A IA está confiante demais? A resposta se contradiz quando você pergunta de novo? Outra fonte confiável confirma a mesma informação? A informação envolve decisão sensível? A IA inventou precisão demais? Decisão final: usar, revisar ou descartar? A resposta tem fonte verificável? O primeiro passo é observar se a IA indica claramente de onde tirou a informação . Quando não há fonte, link, documento, autor ou data, o conteúdo não deve ser tratado como fato, mas apenas como um rascunho inicial. É comum a IA usar expressões vagas, como “estudos mostram” ou “especialistas afirmam”, sem dizer exatamente quais estudos ou quais especialistas. Esse tipo de resposta pode até estar correta, mas sem referência verificável ela não está pronta para ser usada com segurança. Se quiser testar a consistên",
+      "lang": "pt",
+      "depts": [
+        "RH",
+        "Jurídico",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Quando a administração Trump reprime a Antrópica, quem se beneficia?",
+      "description": "No novo episódio de Equity, discutimos o que realmente motivou os últimos movimentos do governo contra a Antrópico e o que isso pode significar para o ecossistema de IA.",
+      "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+      "publishedAt": "Sun, 21 Jun 2026 15:28:17 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "No novo episódio de Equity, discutimos o que realmente motivou os últimos movimentos do governo contra a Antrópico e o que isso pode significar para o ecossistema de IA.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Como usar o Gemini para revisar um texto mantendo seu jeito de escrever",
+      "description": "Se você já escreveu um texto, pediu para uma IA dar uma ajuda e recebeu de volta uma versão que até parecia melhor, mas não soava mais como você , saiba que não está sozinho. Isso acontece com frequência. O texto até fica correto, organizado e mais elegante, mas perde aquele jeito seu de escrever qu",
+      "url": "https://canaltech.com.br/inteligencia-artificial/como-usar-o-gemini-para-revisar-um-texto-mantendo-seu-jeito-de-escrever/",
+      "publishedAt": "Sun, 21 Jun 2026 09:35:00 -0300",
+      "image": "https://t.ctcdn.com.br/u-ApvEXeczP3CmhwQ0AK7cHkEGs=/700x394/smart/i1132313.png",
+      "source": "Canaltech IA",
+      "content": "Se você já escreveu um texto, pediu para uma IA dar uma ajuda e recebeu de volta uma versão que até parecia melhor, mas não soava mais como você , saiba que não está sozinho. Isso acontece com frequência. O texto até fica correto, organizado e mais elegante, mas perde aquele jeito seu de escrever que faz a mensagem parecer realmente sua. Como usar o ChatGPT para revisar um texto mantendo seu jeito de escrever 7 prompts para o Gemini criar resumos e mapas mentais para provas É daí que vem a expressão “cara de IA” , usada para descrever textos genéricos, previsíveis e com pouca personalidade. A boa notícia é que isso não precisa acontecer. O Gemini pode revisar textos preservando seu estilo, desde que o comando seja específico. Muitas vezes, o problema não é usar IA, mas pedir apenas “melhore este texto” sem definir o que pode ou não ser alterado. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A seguir, tire suas dúvidas sobre: O que significa “manter seu jeito de escrever”? Quando vale usar o Gemini para revisar um texto? Qual é o erro mais comum? Qual é o tipo de revisão que você deseja? Prompt base para revisar sem perder seu estilo Prompt para pedir sugestões sem alterar o texto Prompt para manter tom informal, acadêmico ou profissional Como evitar que o texto fique com “cara de IA”? Exemplo prático: antes e depois de uma revisão controlada Como revisar textos maiores no Gemini? O que aceitar, ajustar ou recusar nas sugestões do Gemini? O que verificar antes de publicar ou entregar o texto? Prompts prontos para copiar O que significa “manter seu jeito de escrever”? Quando falamos em preservar o estilo de escrita, não estamos falando apenas de evitar erros. O estilo é formado por diversas escolhas pessoais que aparecem naturalmente no texto. Algumas pessoas escrevem com frases curtas e diretas. Outras preferem desenvolver melhor as ideias. Há quem adote um tom mais desc",
+      "lang": "pt",
+      "depts": []
+    },
     {
       "title": "Meredith Whittaker da Signal quer que você se lembre de que os chatbots de IA ‘não são seus amigos’",
       "description": "\"Estes não são seus amigos. Estes não são seres conscientes. Estes não são interlocutores sencientes.\"",
@@ -236,17 +301,6 @@
       ]
     },
     {
-      "title": "Como desligar a IA no seu Google Docs",
-      "description": "Aqui está o que você precisa fazer para que aqueles incômodos pop-ups “escreva com Gêmeos” desapareçam.",
-      "url": "https://techcrunch.com/2026/06/18/how-to-turn-off-ai-in-your-google-docs/",
-      "publishedAt": "Thu, 18 Jun 2026 17:00:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
       "title": "Vivo libera IA premium do Google de graça por até 12 meses",
       "description": "Clientes dos planos Controle, Pós, Fibra e Total terão acesso ao Gemini com 400 GB de armazenamento em nuvem. Vivo libera IA premium do Google de graça por até 12 meses",
       "url": "https://tecnoblog.net/noticias/vivo-libera-ia-premium-do-google-de-graca-por-ate-12-meses/",
@@ -287,19 +341,6 @@
       ]
     },
     {
-      "title": "ChatGPT caiu? Serviço apresenta falhas nesta terça-feira (17/06)",
-      "description": "Usuários de várias partes do mundo relatam problemas para interagir com o ChatGPT, principalmente nos aplicativos para Android e iOS do serviço. ChatGPT caiu? Serviço apresenta falhas nesta terça-feira (17/06)",
-      "url": "https://tecnoblog.net/noticias/chatgpt-apresenta-falhas-nesta-terca-feira-17-06/",
-      "publishedAt": "Wed, 17 Jun 2026 17:26:13 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-1_capa.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Comercial"
-      ]
-    },
-    {
       "title": "Microsoft lança IA \"colega de trabalho\" que faz tarefas sozinho com PC desligado",
       "description": "A Microsoft anunciou a ampliação da disponibilidade do Copilot Cowor k, uma IA “colega de trabalho” integrada ao Microsoft 365 Copilot, que consegue executar tarefas complexas de forma autônoma e funcionar continuamente mesmo com o computador do usuário desligado. A ferramenta, que estava em fase de",
       "url": "https://canaltech.com.br/inteligencia-artificial/microsoft-lanca-ia-colega-de-trabalho-que-faz-tarefas-sozinho-com-pc-desligado/",
@@ -311,19 +352,6 @@
       "depts": [
         "RH",
         "Comercial",
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Novo Google Home Speaker é lançado após anos e chega abraçado ao Gemini",
-      "description": "Nova geração do Google Home Speaker foi finalmente anunciada. Alto-falante inteligente traz NPU para facilitar integração com Gemini. Novo Google Home Speaker é lançado após anos e chega abraçado ao Gemini",
-      "url": "https://tecnoblog.net/noticias/novo-google-home-speaker-e-lancado-apos-anos-e-chega-abracado-ao-gemini/",
-      "publishedAt": "Wed, 17 Jun 2026 16:40:36 +0000",
-      "image": "https://www.youtube.com/embed/kkeEIbIR2kc",
-      "source": "Tecnoblog",
-      "content": "Novo Google Home Speaker (imagem: reprodução/Google) Resumo novo Google Home Speaker foi lançado com preço de US$ 99,99 nos Estados Unidos; aparelho é equipado com chip que possui quatro núcleos A55 de 2 GHz e uma NPU integrada para processamento de tarefas de IA; integrado ao Gemini, alto-falante processa comandos de voz mais naturais e contextuais; aparelho ainda oferece áudio de 360 graus com som espacial. Fazia tanto tempo que o Google não lançava um alto-falante inteligente que parecia que a companhia havia desistido do segmento. Mas não desistiu. Prova disso é que, dez anos depois de o modelo original ser lançado, a nova geração do Google Home Speaker foi anunciada. Preço? US$ 99,99 (R$ 507) nos Estados Unidos. Não é como se a linha tivesse ficado no limbo por todo esse tempo. Basta nos lembrarmos de que, em 2020, o Google lançou o alto-falante Nest Audio que, apesar do nome diferente, foi considerada a segunda geração da linha. Seis anos se passaram (se desconsiderarmos a segunda geração do Nest Hub, lançada em 2021), então um novo aparelho era mesmo necessário. Pois bem, o novo Google Home chega apoiado na inteligência artificial, ou seja, foi preparado para trabalhar com o Gemini. Por conta disso, a novidade traz um chip que, além de quatro núcleos A55 de 2 GHz, conta com uma NPU integrada para processamento de tarefas de IA. O chip trabalha em conjunto com 1 GB de memória LPDDR4 e até 4 GB de armazenamento interno. A proposta é a de que você possa usar a caixa de som para pedir ao Gemini que realize tarefas específicas dando instruções com base no seu estilo de falar, sem depender de comandos de voz padronizados. A capacidade de o Gemini reconhecer contextos permite até que você corrija uma instrução antes de finalizá-la. Um exemplo dado pelo próprio Google: desligue a cafeteira digo, ligue . O Gemini pode ainda interagir com você usando dez novas vozes em tom natural. Mas que fique claro que o novo Google Home Speaker pode ser mais bem aproveitado se você contratar o Google Home Premium, serviço de assinatura que oferece recursos inteligentes específicos para o lar (não disponível no Brasil atualmente). Outros atributos dignos de nota incluem áudio de 360 graus mais potente e capacidade de integrar o Google Home Speaker ao Google TV Streamer para permitir reproduções com som surround espacial . Novo Google Home Speaker (imagem: reprodução/Google) Disponibilidade e preço do novo Google Home Speaker O Google Home Speaker já está em pré-venda nos Estados Unidos. As vendas oficiais em si começam em 25 de junho de 2026. Como já informado, o preço sugerido é de US$ 99,99. Até o momento, não há informação de lançamento no Brasil (para variar). Novo Google Home Speaker é lançado após anos e chega abraçado ao Gemini",
-      "lang": "pt",
-      "depts": [
         "Gestão"
       ]
     },
@@ -508,35 +536,6 @@
         "RH",
         "Jurídico",
         "Gestão"
-      ]
-    },
-    {
-      "title": "9 prompts úteis para criar posts com IA sem perder sua voz",
-      "description": "Manter frequência nas redes sociais, encontrar boas ideias e criar conteúdos autênticos são desafios comuns para quem produz conteúdo. Por isso, ferramentas de inteligência artificial, como ChatGPT e Gemini, têm ganhado espaço na rotina de criadores, profissionais autônomos e pequenos negócios. 10 I",
-      "url": "https://canaltech.com.br/inteligencia-artificial/prompts-para-criar-posts-sem-perder-sua-voz/",
-      "publishedAt": "Sat, 13 Jun 2026 15:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/MGeZfQAEnGVxs88CkrfznECWBI8=/700x394/smart/i1125177.png",
-      "source": "Canaltech IA",
-      "content": "Manter frequência nas redes sociais, encontrar boas ideias e criar conteúdos autênticos são desafios comuns para quem produz conteúdo. Por isso, ferramentas de inteligência artificial, como ChatGPT e Gemini, têm ganhado espaço na rotina de criadores, profissionais autônomos e pequenos negócios. 10 IAs para escrever textos para sites e redes sociais 6 maneiras de usar a Inteligência Artificial no Marketing e na Publicidade A IA pode ajudar a transformar ideias em posts , roteiros, legendas, carrosséis e outros formatos de conteúdo. O problema é que comandos vagos costumam gerar textos parecidos, genéricos e sem personalidade. Quando falta contexto, a ferramenta tende a recorrer aos mesmos padrões que aparecem em milhares de respostas. O que um bom prompt para criar posts precisa ter? Antes de copiar qualquer prompt pronto, vale entender o que diferencia um comando útil de um pedido genérico. A qualidade da resposta costuma depender mais das informações fornecidas do que da ferramenta utilizada. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Um bom prompt deve informar: Quem é o público; Qual é o objetivo do conteúdo; Qual formato será utilizado; Qual tom de voz deve aparecer; O que deve ser evitado; Qual ação o leitor deve tomar após consumir o post. Esses elementos ajudam a IA a produzir algo mais alinhado à estratégia de conteúdo , em vez de apenas gerar texto. 9 prompts que ajudam a criar posts para redes sociais Veja nove comandos para criar posts para redes sociais sem perder a sua voz: Transformar uma ideia solta em ângulos de post Adaptar uma ideia a diferentes formatos Encontrar a voz do criador Criar um post com opinião, não só informação Criar ganchos menos óbvios Transformar experiência pessoal em conteúdo útil Revisar clareza, ritmo e excesso de clichês Criar variações por público ou estágio de consciência Reaproveitar conteúdo sem repetir a mesma entrega 1. T",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Comercial",
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Trend da Brahma: prompt para fazer sua foto para a Copa no ChatGPT ou Gemini",
-      "description": "Em clima de Copa do Mundo, os usuários do Threads têm gerado imagens com IA que remetem ao maior torneio esportivo de futebol . Com engradados de cerveja ao fundo, estética publicitária e cores do Brasil na cena, as imagens trazem uma composição vibrante e marcada pela cultura dos botecos brasileiro",
-      "url": "https://canaltech.com.br/inteligencia-artificial/trend-da-brahma-prompt-para-fazer-sua-foto-para-a-copa-no-chatgpt-ou-gemini/",
-      "publishedAt": "Fri, 12 Jun 2026 19:10:00 -0300",
-      "image": "https://t.ctcdn.com.br/HmK84yB0d8ub6nbCrLzBm_l8FEU=/700x394/smart/i1134243.png",
-      "source": "Canaltech IA",
-      "content": "Em clima de Copa do Mundo, os usuários do Threads têm gerado imagens com IA que remetem ao maior torneio esportivo de futebol . Com engradados de cerveja ao fundo, estética publicitária e cores do Brasil na cena, as imagens trazem uma composição vibrante e marcada pela cultura dos botecos brasileiros. Onde assistir aos jogos da Copa do Mundo 2026? Quando serão os jogos do Brasil na Copa do Mundo 2026? Mas, se você não curte a ideia das cervejas, o prompt pode ser facilmente adaptado . Alguns usuários já trocaram os engradados por refrigerantes, mantendo o visual festivo e o clima de Copa, só com um toque diferente. A seguir, confira: - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Como criar sua foto para a Copa de 2026? Qual prompt usar para gerar a imagem? Como personalizar sua imagem? Como criar sua foto para a Copa de 2026? O passo a passo para gerar imagens no ChatGPT e Gemini é o mesmo: Acesse o app do Gemini ou ChatGPT; Toque no botão “+”; Vá em “Fotos”; Selecione uma foto; Insira o prompt no campo de texto; Aguarde a imagem ser gerada. Qual prompt usar para gerar a imagem? Você pode copiar e colar o prompt completo para gerar sua imagem no Gemini ou no ChatGPT, com o fundo de engradados de cerveja ou refrigerante nas cores da Copa do Mundo: “Mulher em pé, apoiada contra uma grande parede formada por engradados plásticos de cerveja empilhados, típicos de botecos brasileiros (espalhados). Caixas originais e reconhecíveis de cervejas como Brahma, Skol, Antarctica e Heineken, nas cores vermelha, amarela, azul e verde, criando um fundo vibrante e autêntico. Pose de modelo fashion editorial, costas levemente apoiadas nos engradados, uma perna relaxada à frente da outra, uma por cima da outra, mãos dentro dos bolsos da frente, expressão confiante, olhando para a lateral, bem distraída. Vestindo camisa oficial da Seleção Brasileira 2026, modelagem oversized, lado direito ",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Jurídico"
       ]
     }
   ]
