@@ -1,7 +1,57 @@
 {
-  "updatedAt": "2026-06-22T15:12:56.422Z",
+  "updatedAt": "2026-06-23T12:28:17.512Z",
   "count": 40,
   "articles": [
+    {
+      "title": "Claude muda regras e vai exigir RG e selfie para liberar acesso a usuários",
+      "description": "A Anthropic vai implementar um novo sistema de verificação de identidade e idade no Claude que pode exigir documentos oficiais com foto e selfie em tempo real para liberar ou manter o acesso à plataforma. A mudança começa a ser aplicada a partir de 8 de julho de 2026 e não atinge todos os usuários d",
+      "url": "https://canaltech.com.br/inteligencia-artificial/claude-muda-regras-e-vai-exigir-rg-e-selfie-para-liberar-acesso-a-usuarios/",
+      "publishedAt": "Tue, 23 Jun 2026 09:18:58 -0300",
+      "image": "https://t.ctcdn.com.br/V5M0aA16mgRP6QN3EC8of5UbbyM=/700x394/smart/i1135099.png",
+      "source": "Canaltech IA",
+      "content": "A Anthropic vai implementar um novo sistema de verificação de identidade e idade no Claude que pode exigir documentos oficiais com foto e selfie em tempo real para liberar ou manter o acesso à plataforma. A mudança começa a ser aplicada a partir de 8 de julho de 2026 e não atinge todos os usuários de imediato. Tudo sobre o Claude: conheça os modelos e recursos da IA da Anthropic 7 prompts do Claude para escrever melhor, resumir arquivos e organizar ideias O processo será feito com apoio das empresas Persona e Yoti . O usuário pode precisar apresentar um documento oficial físico original, como RG, passaporte ou CNH, além de uma selfie ou gravação em vídeo ao vivo. A Anthropic não aceita versões digitais dos documentos. Os dados são usados apenas para validação e não entram no treinamento dos modelos de IA. Quando há suspeita de menor de idade, a Yoti pode fazer a checagem sem documento, usando apenas uma selfie para estimar a idade . Os usuários que já têm o app Digital ID também podem confirmar que são maiores de 18 anos pelo aplicativo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - As informações biométricas e os documentos ficam armazenados nos sistemas dos provedores de verificação e a Anthropic recebe só o resultado da checagem. No entanto, a Yoti apaga a selfie e o documento logo após a verificação, já a Persona pode reter esses dados por mais tempo. A Anthropic não informa publicamente esse prazo. Em caso de falha, o usuário pode tentar novamente antes de acionar o suporte. A medida também ocorre em meio a maior pressão regulatória sobre empresas de IA nos Estados Unidos. O Departamento de Defesa chegou a classificar a Anthropic como um “risco para a cadeia de suprimentos”, após restrições da empresa ao uso de sua tecnologia em vigilância em massa e armas autônomas. Nesse contexto, a verificação também é vista como parte da adequação a exigências legais do governo",
+      "lang": "pt",
+      "depts": [
+        "Gestão",
+        "Educação"
+      ]
+    },
+    {
+      "title": "OpenAI lança nova iniciativa para ajudar a encontrar e corrigir bugs de código aberto",
+      "description": "A OpenAI está usando IA para ajudar a comunidade de código aberto a se proteger melhor.",
+      "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+      "publishedAt": "Tue, 23 Jun 2026 00:11:31 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Amazon está testando Alexa+ na Índia com suporte em hindi",
+      "description": "A Amazon está planejando aumentar a presença de seu novo assistente de IA de conversação Alexa + na Índia e está convidando os usuários do país a testar uma versão em hindi.",
+      "url": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
+      "publishedAt": "Mon, 22 Jun 2026 17:31:29 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "A Amazon está planejando aumentar a presença de seu novo assistente de IA de conversação Alexa + na Índia e está convidando os usuários do país a testar uma versão em hindi.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "CEO da Microsoft diz que monopólios de IA são um problema",
+      "description": "Satya Nadella criticou o domínio de poucas gigantes no setor. Executivo defendeu modelos de inteligência artificial mais baratos. CEO da Microsoft diz que monopólios de IA são um problema",
+      "url": "https://tecnoblog.net/noticias/ceo-da-microsoft-diz-que-monopolios-de-ia-sao-um-problema/",
+      "publishedAt": "Mon, 22 Jun 2026 16:08:13 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/01/satya-nadella-ceo-edited.jpg",
+      "source": "Tecnoblog",
+      "content": "Satya Nadella defendeu IA mais acessível (imagem: divulgação) Resumo O CEO da Microsoft, Satya Nadella, criticou o domínio de poucas gigantes no setor de inteligência artificial. Ele afirmou que a economia global não pode ser controlada por um grupo restrito de empresas. Nadella defendeu modelos de IA mais baratos e com mais controle nas mãos dos usuários. O CEO da Microsoft, Satya Nadella, fez uma dura crítica à concentração de poder no mercado de inteligência artificial. O executivo alertou que a economia global não pode ser engolida por um grupo restrito de empresas de tecnologia e defendeu uma transformação rumo a modelos mais baratos e com mais controle nas mãos dos usuários. Ao Wall Street Journal , ele disse que não é realista sustentar um cenário em que todos os empregos de escritório simplesmente desapareçam e isso ainda seja usado como arma . Segundo Nadella, o público não toleraria um futuro em que apenas algumas empresas e modelos “façam todo o aprendizado para o mundo”. A declaração chama atenção por partir justamente de um dos líderes que mais impulsionaram o atual boom do setor. Afinal, a própria Microsoft ajudou a moldar o cenário atual ao investir bilhões de dólares para transformar a OpenAI na gigante que é hoje. Mudança de rota? A resposta passa pela necessidade de transformar a IA em um recurso acessível, evitando que o mercado fique refém de altos custos de operação. A gigante de Redmond já começou a agir e passou a lançar ferramentas mais em conta. O destaque da vez é o Copilot Cowork, um agente autônomo que permite ao cliente corporativo escolher entre diferentes modelos, incluindo opções mais baratas, para executar tarefas contínuas. Esse movimento também envolve aproximações consideradas controversas pelo próprio setor. A Microsoft avalia hospedar em sua plataforma uma versão do DeepSeek , provedor chinês conhecido pelo custo baixo. A iniciativa desagrada parceiras como OpenAI e Anthropic, que acusam a startup asiática de copiar suas tecnologias, e tem potencial para iniciar um embate na indústria. A estratégia de diversificação também é uma resposta à concorrência. Dados da consultoria Recon Analytics apontam que, no segundo semestre de 2025, os assinantes do Copilot passaram a preferir cada vez mais alternativas, como o Gemini, do Google. Sem a liderança em modelos de ponta, a Microsoft aposta na multiplicação de opções para tentar recuperar terreno. Aprendizado contínuo Executivo sugeriu que discurso sobre perda de empregos é alarmista (imagem: divulgação/Microsoft) Nadella também comentou a situação do mercado de trabalho, com um posicionamento que vai na contramão de líderes do Vale do Silício. Enquanto as grandes empresas de IA preveem que os novos sistemas eliminarão metade dos empregos de nível básico até 2029, o CEO afirma que a tecnologia não deve ser encarada como uma ferramenta de corte de custos focada em demissões em massa. Em vez de pânico, Nadella defende que, no futuro, os negócios de sucesso funcionarão como sistemas de aprendizado contínuo , impulsionados pela união entre a sabedoria dos funcionários e o processamento das máquinas. Apesar das críticas, a Microsoft não planeja romper com as empresas de vanguarda. Um porta-voz da companhia afirmou ao jornal que as parcerias com OpenAI e Anthropic seguirão ativas. CEO da Microsoft diz que monopólios de IA são um problema",
+      "lang": "pt",
+      "depts": [
+        "RH",
+        "Financeiro"
+      ]
+    },
     {
       "title": "iOS 27: Conheça as funções de IA que vão deixar o iPhone mais inteligente",
       "description": "Com o lançamento do iOS 27, a Apple está dando mais espaço para a inteligência artificial no iPhone. A Apple Intelligence vai aparecer em vários aplicativos do sistema, enquanto a Siri ganha um aplicativo dedicado e uma presença maior em diferentes áreas do celular para entender melhor o contexto do",
@@ -120,7 +170,7 @@
       ]
     },
     {
-      "title": "Do PGP ao Mythos: uma breve história dos controles de exportação que não impediram ninguém",
+      "title": "Do PGP ao Mythos: uma breve história de controles de exportação que não impediram ninguém",
       "description": "Nos últimos 30 anos, interromper o fluxo de software relacionado à segurança cibernética provou ser ineficaz. Não está claro por que funcionaria agora com o modelo de segurança cibernética da Antrópico, Mythos.",
       "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
       "publishedAt": "Fri, 19 Jun 2026 22:40:14 +0000",
@@ -273,19 +323,6 @@
       ]
     },
     {
-      "title": "OpenAI está trazendo grandes armas na preparação para seu IPO",
-      "description": "A OpenAI está crescendo antes de seu IPO, contratando o co-inventor do Transformer, Noam Shazeer, do Google DeepMind, e o ex-funcionário da política de IA da Trump, Dean Ball, na mesma semana.",
-      "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
-      "publishedAt": "Thu, 18 Jun 2026 19:59:22 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "A OpenAI está crescendo antes de seu IPO, contratando o co-inventor do Transformer, Noam Shazeer, do Google DeepMind, e o ex-funcionário da política de IA da Trump, Dean Ball, na mesma semana.",
-      "lang": "en",
-      "depts": [
-        "RH"
-      ]
-    },
-    {
       "title": "Midjourney agora tem um scanner corporal com IA",
       "description": "Conhecida pelo gerador de imagens realistas, empresa revelou seu primeiro hardware. Projeto será focado em medicina preventiva e diagnósticos de alta precisão. Midjourney agora tem um scanner corporal com IA",
       "url": "https://tecnoblog.net/noticias/midjourney-agora-tem-um-scanner-corporal-com-ia/",
@@ -298,32 +335,6 @@
         "Marketing",
         "Comercial",
         "Saúde"
-      ]
-    },
-    {
-      "title": "Vivo libera IA premium do Google de graça por até 12 meses",
-      "description": "Clientes dos planos Controle, Pós, Fibra e Total terão acesso ao Gemini com 400 GB de armazenamento em nuvem. Vivo libera IA premium do Google de graça por até 12 meses",
-      "url": "https://tecnoblog.net/noticias/vivo-libera-ia-premium-do-google-de-graca-por-ate-12-meses/",
-      "publishedAt": "Thu, 18 Jun 2026 14:57:40 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/04/vivo-celular-capa-2.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Comercial"
-      ]
-    },
-    {
-      "title": "Amazon lança Alexa+ no Brasil, com nova voz e inteligência artificial",
-      "description": "Empresa inicia acesso antecipado. Serviço está incluso na assinatura do Prime. Amazon lança Alexa+ no Brasil, com nova voz e inteligência artificial",
-      "url": "https://tecnoblog.net/noticias/alexa-do-brasil-ganha-nova-voz-e-fica-mais-inteligente/",
-      "publishedAt": "Thu, 18 Jun 2026 13:03:47 +0000",
-      "image": "https://www.youtube.com/embed/sZ2GUcW_Zhw",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Comercial"
       ]
     },
     {
@@ -521,21 +532,6 @@
       "lang": "pt",
       "depts": [
         "Marketing"
-      ]
-    },
-    {
-      "title": "Como usar IA para se preparar para uma entrevista de emprego",
-      "description": "O uso de ferramentas de inteligência artificial generativa, como ChatGPT, Gemini e Copilot, tornou-se uma prática comum entre candidatos que querem se preparar para entrevistas de emprego em curto espaço de tempo. 8 prompts para fazer a IA escrever e-mails como você 12 prompts para criar fotos profi",
-      "url": "https://canaltech.com.br/inteligencia-artificial/como-usar-ia-para-se-preparar-para-uma-entrevista-de-emprego/",
-      "publishedAt": "Sun, 14 Jun 2026 08:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/70mEdryrtPy2XTr67cJ4AYyFaFk=/700x394/smart/i750248.jpeg",
-      "source": "Canaltech IA",
-      "content": "O uso de ferramentas de inteligência artificial generativa, como ChatGPT, Gemini e Copilot, tornou-se uma prática comum entre candidatos que querem se preparar para entrevistas de emprego em curto espaço de tempo. 8 prompts para fazer a IA escrever e-mails como você 12 prompts para criar fotos profissionais de currículo e LinkedIn sem cara de IA Reportagens da Harvard Business Review apontam que essas tecnologias são eficazes para antecipar questionamentos e simular a dinâmica dos processos seletivos. Mas especialistas e diretrizes do Instituto Nacional de Padrões e Tecnologia (NIST) alertam para a necessidade de adotar filtros de privacidade de dados e checagem rigorosa contra informações falsas geradas pelas ferramentas. Mapeamento de vagas e cruzamento de dados com privacidade A eficiência da IA na preparação para um processo seletivo depende do volume de contexto fornecido pelo usuário, pois bases de dados sem especificações geram conselhos genéricos. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O candidato deve reunir três materiais básicos antes de iniciar os comandos: a descrição detalhada da vaga, o currículo atualizado e dados públicos sobre a empresa contratante . Caso o anúncio da vaga seja sucinto, o profissional precisa coletar requisitos técnicos e responsabilidades nos canais institucionais da organização. Prompt para mapeamento de requisitos: \"Vou me preparar para uma entrevista de emprego. Analise a descrição da vaga abaixo e identifique: principais responsabilidades, habilidades mais importantes, possíveis desafios do cargo e o que o recrutador provavelmente vai avaliar. Vaga: [cole a descrição aqui]\" O preenchimento desses dados permite que a IA converta as exigências do cargo em critérios objetivos de avaliação, explicitando competências como fit cultural, capacidade técnica ou resolução de problemas. Termos comuns em anúncios, como \"ambiente dinâmi",
-      "lang": "pt",
-      "depts": [
-        "RH",
-        "Jurídico",
-        "Gestão"
       ]
     }
   ]
