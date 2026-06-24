@@ -1,7 +1,152 @@
 {
-  "updatedAt": "2026-06-23T12:28:17.512Z",
+  "updatedAt": "2026-06-24T12:13:45.104Z",
   "count": 40,
   "articles": [
+    {
+      "title": "Claude Tag: Nova IA vira \"colega de trabalho\" oficial no Slack",
+      "description": "A Anthropic anunciou o Claude Tag, uma nova integração que transforma o Claude em um “colega de trabalho” dentro do Slack. Com isso, os usuários podem mencionar a IA usando @Claude para delegar tarefas, permitindo que ela acesse dados, ferramentas internas e repositórios de código. A novidade já est",
+      "url": "https://canaltech.com.br/inteligencia-artificial/claude-tag-nova-ia-vira-colega-de-trabalho-oficial-no-slack/",
+      "publishedAt": "Tue, 23 Jun 2026 20:10:00 -0300",
+      "image": "https://t.ctcdn.com.br/nhe5GfzxZbq5MOIORkQ9sn48Ts4=/700x394/smart/i1137245.jpeg",
+      "source": "Canaltech IA",
+      "content": "A Anthropic anunciou o Claude Tag, uma nova integração que transforma o Claude em um “colega de trabalho” dentro do Slack. Com isso, os usuários podem mencionar a IA usando @Claude para delegar tarefas, permitindo que ela acesse dados, ferramentas internas e repositórios de código. A novidade já está disponível em versão beta e é voltada para clientes dos planos Claude Enterprise e Team. 8 diferenças entre o polêmico Claude Fable 5 e o Mythos 5 Testamos o Cowork: o agente de IA do Claude promete, mas tem ressalvas Segundo a empresa, o recurso substitui o antigo app do Claude no Slack e faz parte de uma mudança mais ampla na forma como a IA é usada no ambiente corporativo, indo além de respostas pontuais para atuar como assistente contínuo de trabalho. O Claude Tag utiliza o modelo Opus 4.8 e foi projetado para funcionar de forma mais integrada ao dia a dia das equipes. Ele consegue acompanhar conversas nos canais, manter contexto entre tarefas e executar ações de forma assíncrona, respondendo quando conclui o trabalho. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Os administradores também podem controlar permissões , definir limites de uso e criar “identidades” diferentes da IA para áreas específicas da empresa, como engenharia ou vendas, além de gerenciar gastos e acessar logs detalhados de todas as ações realizadas pelo Claude, incluindo o registro do usuário que solicitou cada tarefa. A Anthropic afirma ainda que organizações terão até 30 dias para migrar do antigo aplicativo para o novo sistema, com créditos iniciais para testes. A proposta é posicionar o Claude como um participante ativo das equipes, que consegue assumir desde tarefas técnicas até rotinas de suporte e análise de dados. A Anthropic lançou o Claude Tag, uma integração que transforma o Claude em um “colega de trabalho” no Slack. (Imagem: Viviane França/Canaltech) Como funciona o Claude Tag? O funcion",
+      "lang": "pt",
+      "depts": [
+        "RH",
+        "Comercial",
+        "Gestão",
+        "Educação"
+      ]
+    },
+    {
+      "title": "PineVoice: alto-falante inteligente traz chip RISC-V e Home Assistant",
+      "description": "Pine64 lançou PineVoice, alto-falante inteligente focado no Home Assistant (solução aberta). Dispositivo é equipado com chip RISC-V Bouffalo BL606P. PineVoice: alto-falante inteligente traz chip RISC-V e Home Assistant",
+      "url": "https://tecnoblog.net/noticias/pinevoice-alto-falante-inteligente-traz-chip-risc-v-e-home-assistant/",
+      "publishedAt": "Tue, 23 Jun 2026 20:51:53 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/pinevoice.jpg",
+      "source": "Tecnoblog",
+      "content": "Alto-falante PineVoice (imagem: reprodução/Pine64) Resumo PineVoice é um alto-falante inteligente da Pine64 que usa chip RISC-V e é compatível com o Home Assistant, solução aberta de automação residencial; dispositivo é equipado com um chip RISC-V Bouffalo BL606P, 32 MB de memória RAM, 16 MB de memória Flash, Wi-Fi 4 e Bluetooth 5.2 LE, além de dois microfones; preço do PineVoice é de US$ 49,99 na Pine Store ou US$ 59,99 em outras lojas, sendo uma alternativa mais acessível a outros alto-falantes inteligentes do mercado. Quem está em busca de um alto-falante inteligente que não leva a marca da Amazon ou do Google, por exemplo, pode ter o PineVoice como alternativa. Recém-lançado pela Pine64, o dispositivo chama a atenção por ser comandado por um chip do tipo RISC-V e focado no Home Assistant, uma solução aberta de automação residencial. A Pine64 já apareceu aqui no Tecnoblog . Ela está por trás do celular PinePhone Pro e do tablet PineNote , que rodam Linux. Mas a empresa é tão ou mais conhecida pelas placas do tipo single board computers que desenvolve. Já o PineVoice não é exatamente um produto novo. A Pine64 anunciou um alto-falante em 2024. O projeto avançou aos poucos e, agora, foi rebatizado para PineVoice. Que fique claro, porém, que o foco no Home Assistant existe desde o início do projeto. Graças ao Home Assistant, é possível usar comandos de voz com o PineVoice para controlar aparelhos de ar-condicionado, lâmpadas ou tomadas inteligentes, câmeras de segurança, entre outros dispositivos. Kit do PineVoice (imagem: reprodução/Pine64) Equipado com chip RISC-V Para dar conta dessas tarefas, o PineVoice conta com um chip Bouffalo BL606P que, por sua vez, traz um núcleo T-Head C906 de 480 MHz (64 bits) e um núcleo T-Head E907 de 320 MHz (32 bits). Trata-se de um chip do tipo RISC-V, cuja adoção, aqui, não surpreende: a Pine64 é conhecida justamente por focar em hardware aberto ou de baixo custo. Neste ponto, vale explicar que RISC-V é a sigla de uma arquitetura de conjunto de instruções (ISA, na sigla em inglês) para chips chamada Reduced Instruction Set Computing . Ao contrário de outras ISAs, como Arm e x86, o RISC-V é um padrão aberto, portanto, não exige pagamento de licenças para ser implementado. As demais características incluem 32 MB de memória RAM, 16 MB de memória Flash para armazenamento interno, Wi-Fi 4 e Bluetooth 5.2 LE. Há ainda dois microfones, botões físicos para controle (de volume, por exemplo), porta USB-C e, claro, saída de som. Como se vê, o conjunto de hardware não é muito avançado, mas deve atender aos anseios de quem quer depender menos (ou nada) de big techs para deixar o lar mais inteligente. O preço também é interessante: US$ 49,99 na Pine Store ou US$ 59,99 em outras lojas. Só para fins de comparação, o novo Google Home Speaker foi lançado com preço sugerido de US$ 99,99 (mas é mais avançado tecnicamente, é verdade, tanto que traz até NPU ). PineVoice: alto-falante inteligente traz chip RISC-V e Home Assistant",
+      "lang": "pt",
+      "depts": [
+        "Marketing",
+        "Comercial",
+        "Gestão"
+      ]
+    },
+    {
+      "title": "Advogado de IA vence primeiro caso judicial e derrota advogados humanos",
+      "description": "Um escritório de advocacia operado por inteligência artificial marcou um feito inédito no sistema judiciário britânico ao vencer seu primeiro caso em tribunal . A Garfield AI conseguiu recuperar £ 7.000 (cerca de R$ 45 mil) em pagamentos atrasados para Tamires Camal Taquidir, freelancer de Recursos ",
+      "url": "https://canaltech.com.br/inteligencia-artificial/advogado-de-ia-vence-primeiro-caso-judicial-e-derrota-advogados-humanos/",
+      "publishedAt": "Tue, 23 Jun 2026 16:05:00 -0300",
+      "image": "https://t.ctcdn.com.br/hJdr_JU-c2DtH5TW7XxlIz8LsDw=/700x394/smart/i1137169.jpeg",
+      "source": "Canaltech IA",
+      "content": "Um escritório de advocacia operado por inteligência artificial marcou um feito inédito no sistema judiciário britânico ao vencer seu primeiro caso em tribunal . A Garfield AI conseguiu recuperar £ 7.000 (cerca de R$ 45 mil) em pagamentos atrasados para Tamires Camal Taquidir, freelancer de Recursos Humanos no setor de hospitalidade, no Tribunal de Condado de Wandsworth. A decisão é considerada um marco para o uso de IA na área jurídica. 20 prompts do ChatGPT para advogados 4 profissões de IA que pagam bem: salários de até R$ 70 mil por mês O caso, julgado em 14 de maio de 2026 e concluído em cerca de três horas, foi conduzido quase integralmente pela plataforma . A IA cuidou desde as notificações iniciais até a organização das provas e dos documentos apresentados no tribunal. Já a empresa devedora contou com uma equipe jurídica tradicional. Tamires gastou cerca de £ 400 (cerca de R$ 2.369) com o serviço da Garfield AI e teve apoio de um advogado humano apenas na sustentação oral durante a audiência . Para os fundadores da empresa, o resultado mostra que a tecnologia pode tornar a cobrança de pequenas dívidas mais acessível. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Segundo a Solicitors Regulation Authority (SRA), que autorizou a operação da empresa em 2025, o objetivo é justamente ampliar o acesso à justiça para pequenos negócios e profissionais autônomos. A expectativa é reduzir custos e simplificar processos que, muitas vezes, fazem os credores desistirem de buscar seus direitos. Alguns profissionais questionam quem deve ser responsabilizado caso a IA cometa erros. O advogado David Enright, por exemplo, levantou essa preocupação ao perguntar: \"Se você confia na IA e não em um advogado, de quem você reclama quando as coisas derem errado?\". Há também quem argumente que, apesar dos avanços, os sistemas atuais ainda não conseguem analisar situações complexas ou identi",
+      "lang": "pt",
+      "depts": [
+        "RH",
+        "Financeiro",
+        "Comercial",
+        "Jurídico",
+        "Gestão",
+        "Saúde",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Meta lança linha de óculos inteligentes com preço mais baixo",
+      "description": "Meta Glasses custam a partir de US$ 299 e saem US$ 80 mais baratos que o Ray-Ban Meta de 2ª geração. Ainda não há previsão de lançamento no Brasil. Meta lança linha de óculos inteligentes com preço mais baixo",
+      "url": "https://tecnoblog.net/noticias/meta-lanca-linha-de-oculos-inteligentes-com-preco-mais-baixo/",
+      "publishedAt": "Tue, 23 Jun 2026 17:48:29 +0000",
+      "image": "https://www.youtube.com/embed/M6uA1QQ5290",
+      "source": "Tecnoblog",
+      "content": "Linha aposta na diversidade de estilos (imagem: divulgação/Meta) Resumo Meta lançou uma nova linha de óculos inteligentes, os Meta Glasses, em parceria com a EssilorLuxottica. Os óculos estão disponíveis a partir de US$ 299, sendo US$ 80 mais baratos que o Ray-Ban Meta de 2ª geração. Por enquanto, não há preços ou data de lançamento no Brasil. A Meta e a EssilorLuxottica, dona da Ray-Ban e Oakley e maior fabricante do ramo de armações e lentes de óculos do mundo, anunciaram uma nova linha de óculos inteligentes com inteligência artificial. Os Meta Glasses chegam em três estilos de armação e aceitam diferentes tipos de lentes. Diferentemente dos modelos anteriores, os novos óculos não trazem a marca Ray-Ban e chegam mais baratos, com preços a partir de US$ 299 (cerca de R$ 1.554). Para comparação, o Ray-Ban Meta de 2ª geração foi lançado por US$ 379 e chegou ao Brasil por R$ 3.299 . Por enquanto, o novo modelo será vendido apenas em mercados selecionados, como Estados Unidos, Reino Unido, Austrália e parte da Europa. Ainda não há previsão de lançamento no Brasil. Meta Glasses não trazem a marca Ray-Ban (imagem: divulgação/Meta) Os aparelhos não têm tela — a função segue exclusiva do Meta Ray-Ban Display — e a interação ocorre principalmente por voz e áudio, reproduzido por alto-falantes de ouvido aberto. Para chamadas e comandos de voz, os modelos usam múltiplos microfones com redução de ruído de vento. A câmera integrada de 12 MP permite tirar fotos e gravar vídeos em até 3K a 30 fps. A Meta afirma que o dispositivo conta com alertas para indicar quando a câmera está em uso, além de controles simplificados para compartilhamento de dados. A Meta promete mais de 8 horas de uso contínuo, com carregamento diretamente no estojo do produto — o que pode adicionar mais 40 horas de energia. Três armações e 26 combinações Meta Glasses contam com três formatos de armação (imagem: divulgação/Meta) A linha estreia em três formatos: Meta Adventurer : possui um formato retangular convencional, focado em um visual versátil, sendo comercializado nos tamanhos padrão e grande Meta Fury : apresenta uma armação com linhas mais grossas e formato robusto Meta Glasses by Kylie : uma armação com formato oval fino, inspirada no estilo pessoal de Kylie Jenner As armações terão cores como preto, verde, merlot, mogno e arenito. As lentes podem ser de sol, polarizadas, transparentes ou com tecnologia Transitions, que se adapta à luminosidade. Ao todo, a Meta fala em 26 combinações no catálogo de lançamento. Óculos aceitam lentes de grau Os modelos também são compatíveis com lentes de prescrição. Para isso, a Meta introduziu o Rx Lens Swap, sistema uqe permite trocar as lentes com um oftalmologista após a compra. Segundo a empresa, o procedimento não anula a garantia do produto. A ideia é permitir que o usuário adapte os óculos à própria prescrição sem depender apenas das combinações oferecidas no momento da compra. IA adaptada aos vestíveis Os Meta Glasses usam o Muse Spark , que permite aos vestíveis usarem a Meta IA para interpretar o contexto ao redor do usuário pela câmera e pelos comandos de voz. Com isso, os óculos podem responder a perguntas sobre o ambiente, consultar informações do dia a dia, dar recomendações de locais e passar outras informações. As funcionalidades são restritas a usuários nos Estados Unidos e Canadá, por enquanto. Entre os recursos anunciados estão a foto dinâmica, que captura múltiplos quadros e sugere a melhor imagem para compartilhamento, e uma futura navegação passo a passo para pedestres, adaptada para óculos sem tela. A tradução de conversas em tempo real também foi ampliada. O recurso ganhou suporte a 14 novos idiomas, passando a funcionar em 20 línguas, incluindo português. Relembre o lançamento do Meta Ray-Ban Display Meta lança linha de óculos inteligentes com preço mais baixo",
+      "lang": "pt",
+      "depts": [
+        "Marketing",
+        "Comercial"
+      ]
+    },
+    {
+      "title": "Nova IA chinesa derrota ChatGPT e tem uma vantagem gigantesca",
+      "description": "Uma nova inteligência artificial desenvolvida na China começou a chamar a atenção de programadores ao redor do mundo por superar o ChatGPT em tarefas complexas e trazer uma proposta diferente: funcionar sem depender da nuvem. Como descobrir se a IA está alucinando e inventando informação Como usar o",
+      "url": "https://canaltech.com.br/inteligencia-artificial/nova-ia-chinesa-derrota-chatgpt-e-tem-uma-vantagem-gigantesca/",
+      "publishedAt": "Tue, 23 Jun 2026 14:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/A-mP5q-7V45sHd3M2KAiqI2jMvE=/700x394/smart/i997593.jpeg",
+      "source": "Canaltech IA",
+      "content": "Uma nova inteligência artificial desenvolvida na China começou a chamar a atenção de programadores ao redor do mundo por superar o ChatGPT em tarefas complexas e trazer uma proposta diferente: funcionar sem depender da nuvem. Como descobrir se a IA está alucinando e inventando informação Como usar o Gemini para revisar um texto mantendo seu jeito de escrever O modelo GLM-5.2 , lançado pela empresa Z.ai (antiga Zhipu AI), consegue rodar diretamente no hardware local do usuário, eliminando a necessidade de enviar informações para servidores de terceiros ou pagar assinaturas caras para gigantes de tecnologia. Em testes realizados na plataforma Code Arena, que avalia a capacidade de criar e corrigir códigos de programação, o sistema de pesos abertos — formato em que o \"cérebro\" da IA é disponibilizado publicamente para download e modificação — alcançou o segundo lugar global. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O modelo chinês ficou atrás apenas do Claude Fable 5 , da Anthropic , mas conseguiu superar o GPT-5.5 em atividades práticas, como a correção de falhas de software no mundo real e exames de matemática. A capacidade de processamento do modelo é outro fator que se destaca no setor. O GLM-5.2 conta com uma janela de contexto de 1 milhão de tokens, o que significa que ele consegue analisar arquivos imensos, como livros inteiros ou bibliotecas completas de programação, de uma única vez. O Fable 5, modelo mais avançado da Anthropic, teve seu uso bloqueado para pessoas de fora dos EUA pelo governo do país (Imagem: Marcelo Fischer/Canaltech) O desafio técnico Apesar das vantagens em privacidade e autonomia, a exigência técnica para manter o sistema rodando na própria mesa de trabalho é alta. O GLM-5.2 foi construído sob uma arquitetura conhecida como Mixture-of-Experts (MoE) , ou \"Mistura de Especialistas\", uma técnica de design que divide o processamento da IA em ",
+      "lang": "pt",
+      "depts": [
+        "Comercial",
+        "Gestão"
+      ]
+    },
+    {
+      "title": "Claude Tag da Anthropic está aprendendo sua empresa, uma mensagem do Slack por vez",
+      "description": "O novo Claude Tag da Anthropic traz um companheiro de equipe de IA sempre ativo para o Slack. Mas, além da produtividade, o recurso é uma peça estratégica para capturar o contexto organizacional, o conhecimento institucional e os fluxos de trabalho empresariais.",
+      "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+      "publishedAt": "Tue, 23 Jun 2026 17:00:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "O novo Claude Tag da Anthropic traz um companheiro de equipe de IA sempre ativo para o Slack. Mas, além da produtividade, o recurso é uma peça estratégica para capturar o contexto organizacional, o conhecimento institucional e os fluxos de trabalho empresariais.",
+      "lang": "en",
+      "depts": [
+        "RH",
+        "Gestão",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Claude fora do ar? IA da Anthropic passa por instabilidade nesta terça (23)",
+      "description": "A IA Claude está fora do ar para alguns usuários nesta terça-feira (23) . A Anthropic já confirmou que há uma instabilidade no serviço e trabalha para corrigir o problema. Por que chatbots de IA caem tanto mesmo com 99% de uptime? Como verificar se um app ou site caiu? Conheça 6 truques O assistente",
+      "url": "https://canaltech.com.br/inteligencia-artificial/claude-fora-do-ar-ia-da-anthropic-passa-por-instabilidade-nesta-terca-23/",
+      "publishedAt": "Tue, 23 Jun 2026 13:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/ZjcOUdfWaAgXirKJr4MiY0ln2Po=/700x394/smart/i1111425.png",
+      "source": "Canaltech IA",
+      "content": "A IA Claude está fora do ar para alguns usuários nesta terça-feira (23) . A Anthropic já confirmou que há uma instabilidade no serviço e trabalha para corrigir o problema. Por que chatbots de IA caem tanto mesmo com 99% de uptime? Como verificar se um app ou site caiu? Conheça 6 truques O assistente até carrega pelo navegador, mas demorou minutos para responder a um prompt simples em teste feito pelo Canaltech . O site Downdetector registra uma alta nas reclamações sobre a ferramenta, enquanto o Google Trends mostra um aumento nas buscas para descobrir se a plataforma caiu ou está fora do ar. De acordo com a página de status da Anthropic, o problema afeta todos os modelos disponíveis . Usuários comentaram a situação no X (antigo Twitter ): - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O Claude não está funcionando hj. Infelizmente não dá mais para trabalhar pic.twitter.com/suLRMUZ5W1 — sandroiche (@sandroiche) June 23, 2026 Claude está off.. corram para as colinas! Acredito que o @acgfbr estava usando por isso caiu.. pic.twitter.com/AyI6glyADt — botr0x (@botr0x) June 23, 2026 Correção em desenvolvimento A Anthropic reconheceu uma falha no Claude por volta de 11h20 (horário de Brasília) e informou que já implementou uma solução. No entanto, a situação pode demorar a estabilizar para todos os usuários. A instabilidade afeta a versão principal do Claude, a API da Anthropic, o Claude Cowork o assistente de programação Claude Code. Atualizações sobre o problema serão publicadas na página de status da empresa ( status.claude.com ). Por enquanto, o ideal é recorrer a outras ferramentas de IA até que o serviço volte a operar normalmente. Leia a matéria no Canaltech .",
+      "lang": "pt",
+      "depts": [
+        "Comercial"
+      ]
+    },
+    {
+      "title": "Claude fora do ar: IA da Anthropic volta a funcionar após instabilidade",
+      "description": "Chatbot da Anthropic apresentou falhas nesta terça-feira (23). Empresa informou que problema já foi corrigido. Claude fora do ar: IA da Anthropic volta a funcionar após instabilidade",
+      "url": "https://tecnoblog.net/noticias/claude-fora-do-ar-usuarios-relatam-instabilidade-nesta-terca-feira-23/",
+      "publishedAt": "Tue, 23 Jun 2026 14:53:47 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/claude-design-edited.webp",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Imita fala humana: nova IA do ChatGPT fala e ouve ao mesmo tempo",
+      "description": "A OpenAI iniciou a liberação de um novo modelo de voz bidirecional para o ChatGPT, chamado internamente de \"GPT-Bidi-1\", de acordo com o TestingCatalog. A ferramenta altera a dinâmica atual de conversação ao permitir que a inteligência artificial ouça e fale de forma simultânea . O recurso está com ",
+      "url": "https://canaltech.com.br/inteligencia-artificial/imita-fala-humana-nova-ia-do-chatgpt-fala-e-ouve-ao-mesmo-tempo/",
+      "publishedAt": "Tue, 23 Jun 2026 11:35:00 -0300",
+      "image": "https://t.ctcdn.com.br/eFsqw8IK-RmTRhZ7JYM_N-mqTj8=/700x394/smart/i1137009.png",
+      "source": "Canaltech IA",
+      "content": "A OpenAI iniciou a liberação de um novo modelo de voz bidirecional para o ChatGPT, chamado internamente de \"GPT-Bidi-1\", de acordo com o TestingCatalog. A ferramenta altera a dinâmica atual de conversação ao permitir que a inteligência artificial ouça e fale de forma simultânea . O recurso está com o lançamento gradual para um grupo selecionado de usuários web e mobile do aplicativo, sem um anúncio oficial da empresa até o momento. ChatGPT grátis vale a pena? Veja o que dá e o que não dá para fazer Como criar uma rotina de estudos com ChatGPT do jeito certo O objetivo da atualização é aproximar a camada de voz das capacidades já existentes nos modelos de texto da companhia. A mudança estrutural tem como base a tese da OpenAI de que a fala se tornará o principal meio de acesso à inteligência artificial nos próximos anos. Interrupções naturais e maior retenção de contexto De acordo com testes iniciais e vazamentos de código do aplicativo, o GPT-Bidi-1 elimina a necessidade de alternância rígida de turnos entre o usuário e o sistema, ou seja, uma conversa em que alguém fala e alguém escuta. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Se o usuário interromper o ChatGPT no meio de uma resposta, o modelo consegue mudar o foco do assunto imediatamente, sem os travamentos e reinicializações que ocorrem na ferramenta de áudio atual. A nova arquitetura também traz as seguintes mudanças no comportamento da IA: Ajustes de ritmo: o modelo emite pequenos avisos naturais, como um \"okay\", quando detecta que a pessoa reduziu a velocidade da fala ou fez uma pausa breve, sem cortar a transmissão; Retenção de memória: a ferramenta mantém a linha de raciocínio ao longo de interações longas, corrigindo uma falha crônica do sistema anterior que descartava contextos antigos da conversa; Silêncio prolongado: o robô deixa de dar respostas precipitadas durante pausas mais demoradas do interlocu",
+      "lang": "pt",
+      "depts": [
+        "Marketing",
+        "Gestão",
+        "Educação"
+      ]
+    },
+    {
+      "title": "IA perigosa da Anthropic invade sistemas da NSA em poucas horas",
+      "description": "Considerado o modelo de IA mais poderoso da Anthropic, o Claude Mythos foi capaz d e invadir sistemas confidenciais da Agência Nacional de Segurança (NSA) dos Estados Unidos em poucas horas . A informação é do jornal The Economist. 8 diferenças entre o polêmico Claude Fable 5 e o Mythos 5 O que é o ",
+      "url": "https://canaltech.com.br/inteligencia-artificial/ia-perigosa-da-anthropic-invade-sistemas-da-nsa-em-poucas-horas-durante-teste/",
+      "publishedAt": "Tue, 23 Jun 2026 11:05:00 -0300",
+      "image": "https://t.ctcdn.com.br/yXjaYLlTPjjyGfquGaMp1sPAhrA=/700x394/smart/i1135103.png",
+      "source": "Canaltech IA",
+      "content": "Considerado o modelo de IA mais poderoso da Anthropic, o Claude Mythos foi capaz d e invadir sistemas confidenciais da Agência Nacional de Segurança (NSA) dos Estados Unidos em poucas horas . A informação é do jornal The Economist. 8 diferenças entre o polêmico Claude Fable 5 e o Mythos 5 O que é o Claude Fable 5 e por que ele é tão polêmico? A empresa suspendeu o acesso aos modelos Mythos e Fable após uma decisão do governo dos EUA para vetar o uso da tecnologia por questões de “segurança nacional”. O vice-presidente do Comitê de Inteligência do Senado, Mark Warner, relatou a invasão no dia 11 de junho (um dia antes da medida dos EUA) após receber a confirmação do fato pelo chefe da NSA. É importante pontuar que isso não se trata de um ataque hacker e a IA não fez tudo sozinha: o Mythos foi usado como parte de um esforço de red-teaming (teste interno de segurança), mas a agência não tem mais acesso ao modelo, segundo o autor da reportagem Shashank Joshi, em comentário nesta semana. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Modelo poderoso do Claude teve potencial à mostra em teste de segurança da NSA (Imagem: Viviane França/Canaltech / Editada por IA/Gemini) O The Information também relata o “cabo de guerra” vivido entre a Anthropic e o governo dos EUA nos últimos meses. Vale lembrar que as ferramentas foram banidas de agências federais do país norte-americano no mês de março. Além de preocupações com segurança, os EUA também monitoram o potencial de “autoaperfeiçoamento recursivo” das IAs, em que um modelo consegue criar versões melhores de si mesmo e acelerar o progresso. Caso uma empresa de IA do país alcançasse isso, outros países poderiam aproveitar a tecnologia para se aproximar dos EUA na liderança do setor. O que é Claude Mythos? O Claude Mythos é o modelo mais poderoso de IA da Anthropic , capaz de executar tarefas muito complexas e longas por bastante tem",
+      "lang": "pt",
+      "depts": [
+        "Gestão"
+      ]
+    },
     {
       "title": "Claude muda regras e vai exigir RG e selfie para liberar acesso a usuários",
       "description": "A Anthropic vai implementar um novo sistema de verificação de identidade e idade no Claude que pode exigir documentos oficiais com foto e selfie em tempo real para liberar ou manter o acesso à plataforma. A mudança começa a ser aplicada a partir de 8 de julho de 2026 e não atinge todos os usuários d",
@@ -246,43 +391,6 @@
       ]
     },
     {
-      "title": "A proibição antrópica do governo dos EUA está ajudando acidentalmente a marca?",
-      "description": "No final da semana passada, o governo dos EUA forçou a Anthropic a retirar seus dois modelos mais recentes, Fable 5 e Mythos 5, citando preocupações de segurança nacional depois que pesquisadores da Amazon supostamente encontraram uma maneira de contornar as grades de proteção do Fable 5. Desde então, pesquisadores de segurança cibernética assinaram uma carta aberta convocando",
-      "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
-      "publishedAt": "Fri, 19 Jun 2026 16:08:17 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "No final da semana passada, o governo dos EUA forçou a Anthropic a retirar seus dois modelos mais recentes, Fable 5 e Mythos 5, citando preocupações de segurança nacional depois que pesquisadores da Amazon supostamente encontraram uma maneira de contornar as grades de proteção do Fable 5. Desde então, pesquisadores de segurança cibernética assinaram uma carta aberta chamando a medida de perigosa, e a própria Anthropic observou que os mesmos jailbreaks existem em outros modelos. Assim é [ ]",
-      "lang": "en",
-      "depts": [
-        "Marketing"
-      ]
-    },
-    {
-      "title": "Os EUA proibiram o lançamento do Fable 5 da Anthropic, mas os números não parecem se importar",
-      "description": "No final da semana passada, o governo dos EUA forçou a Anthropic a retirar seus dois modelos mais recentes, Fable 5 e Mythos 5, citando preocupações de segurança nacional depois que pesquisadores da Amazon supostamente encontraram uma maneira de contornar as grades de proteção do Fable 5. Desde então, pesquisadores de segurança cibernética assinaram uma carta aberta convocando",
-      "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
-      "publishedAt": "Fri, 19 Jun 2026 16:01:03 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "No final da semana passada, o governo dos EUA forçou a Anthropic a retirar seus dois modelos mais recentes, Fable 5 e Mythos 5, citando preocupações de segurança nacional depois que pesquisadores da Amazon supostamente encontraram uma maneira de contornar as grades de proteção do Fable 5. Desde então, pesquisadores de segurança cibernética assinaram uma carta aberta chamando a medida de perigosa, e a própria Anthropic observou que os mesmos jailbreaks existem em outros modelos. Assim é [ ]",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Alexa+: veja quais dispositivos são compatíveis ou não",
-      "description": "Nova assistente da Amazon com IA generativa chegou ao Brasil. Confira se o seu produto suporta a atualização. Alexa+: veja quais dispositivos são compatíveis ou não",
-      "url": "https://tecnoblog.net/noticias/alexa-veja-quais-dispositivos-sao-compativeis-ou-nao/",
-      "publishedAt": "Fri, 19 Jun 2026 15:34:46 +0000",
-      "image": "https://www.youtube.com/embed/sZ2GUcW_Zhw",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Comercial"
-      ]
-    },
-    {
       "title": "Google se une à Microsoft e cria buscador exclusivo para robôs e IAs",
       "description": "Google, Microsoft e outras dez empresas de tecnologia anunciaram uma nova especificação aberta chamada ARD (Agentic Resource Discovery) , criada para permitir que agentes de inteligência artificial encontrem, por conta própria e em tempo real, ferramentas, habilidades e outros agentes disponíveis na",
       "url": "https://canaltech.com.br/inteligencia-artificial/google-se-une-a-microsoft-e-cria-buscador-exclusivo-para-robos-e-ias/",
@@ -320,21 +428,6 @@
       "lang": "pt",
       "depts": [
         "Educação"
-      ]
-    },
-    {
-      "title": "Midjourney agora tem um scanner corporal com IA",
-      "description": "Conhecida pelo gerador de imagens realistas, empresa revelou seu primeiro hardware. Projeto será focado em medicina preventiva e diagnósticos de alta precisão. Midjourney agora tem um scanner corporal com IA",
-      "url": "https://tecnoblog.net/noticias/midjourney-agora-tem-um-scanner-corporal-com-ia/",
-      "publishedAt": "Thu, 18 Jun 2026 19:11:27 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/videoframe_75634.png",
-      "source": "Tecnoblog",
-      "content": "Inteligência artificial processa dados para criar mapas 3D do corpo (imagem: reprodução/Midjourney) Resumo Midjourney revelou o Midjourney Scanner, um equipamento de ultrassom de corpo inteiro que usa inteligência artificial. O scanner usa um anel com milhares de sensores submersos em água para emitir ondas ultrassônicas e capturar alterações milimétricas nas ondas. A empresa planeja criar uma rede de spas para oferecer exames de saúde enquanto os clientes relaxam. A Midjourney revelou seu primeiro produto de hardware: um scanner de ultrassom de corpo inteiro. A companhia, mundialmente conhecida pelo gerador de imagens realistas com IA , fez o anúncio nesta quinta-feira (18/06). Segundo o comunicado , o Midjourney Scanner não é um equipamento de ressonância magnética. O sistema deve funcionar por meio de um anel com centenas de milhares de sensores submersos em água, que emitem ondas ultrassônicas para reconstruir modelos tridimensionais do corpo humano. Já esta é a outra parte do anúncio: a companhia terá uma rede de spa, com a primeira unidade a ser inaugurada em São Francisco, nos EUA, onde as pessoas poderão fazer exames para monitoramento da saúde enquanto descansam. Hoje vamos anunciar algo um pouco estranho e um pouco louco , avisou a empresa. Como funciona o Midjourney Scanner? Anel do scanner conta com meio milhão de sensores (imagem: reprodução/Midjourney) No lugar de tubos fechados e ruídos das máquinas de ressonância magnética, o exame com o scanner da Midjourney deve durar apenas 60 segundos. O processo começa com o usuário de pé sobre uma plataforma que desce suavemente para um tanque raso com água morna e iluminação relaxante. Durante a submersão, o corpo atravessa um anel equipado com cerca de meio milhão de minúsculos sensores, cada um do tamanho de um grão de areia. Eles emitem ondas ultrassônicas de todos os ângulos contra o paciente. Como o som viaja de forma diferente ao penetrar na água, pele, gordura, músculos e ossos, essas ondas mudam de formato ao encontrar cada uma dessas densidades. O equipamento conta com dois petaflops de poder de processamento bruto para capturar alterações milimétricas nas ondas milhões de vezes por segundo, e o volume de dados gerado é gigantesco. Segundo a própria companhia, seria necessário assistir a 500 horas de filmagem para cada segundo de escaneamento. É aqui que a especialidade da Midjourney vai entrar em ação: IA. A inteligência artificial deve processar esse banco de dados em tempo real e reconstruir mapas 3D detalhados do corpo humano, fatiando virtualmente os tecidos e órgãos com precisão. Segundo o site Crypto Briefing , a Midjourney assinou em novembro de 2025 um acordo de licenciamento exclusivo com a Butterfly Network, empresa responsável pela tecnologia de ultrassom em chip que será utilizada no projeto. Exame dura apenas 60 segundos (imagem: reprodução/Midjourney) Meta de um bilhão de exames Para popularizar essa infraestrutura, a companhia não pretende focar em vendas para hospitais ou clínicas. A estratégia é criar o Midjourney Spa. A primeira unidade tem inauguração prevista para o final de 2027, em São Francisco. A proposta é que o local funcione 24 horas por dia e ofereça um ambiente com academias, saunas e piscinas. O exame ocorrerá dentro de salas equipadas com banheiras de hidromassagem, tornando a coleta de dados de saúde parte de uma experiência de relaxamento , afirma a empresa. Em relação à privacidade, os usuários terão controle sobre a biblioteca de exames pessoal. Esses dados poderão ser compartilhados a critério do cliente com médicos, nutricionistas ou outras plataformas de IA voltadas para a saúde. No contexto regulatório, ainda há um caminho a percorrer . Para contornar a burocracia da FDA (órgão regulador de saúde dos Estados Unidos), a Midjourney iniciará a operação criando mapas de composição corporal . Os resultados clínicos serão enviados à agência para, futuramente, liberar de forma oficial a detecção de anomalias. Após a fase de refinamento, que durará cerca de 12 meses, a Midjourney prevê o lançamento de um scanner de terceira geração em 2028, que reduzirá ainda mais o tempo e elevará a qualidade das imagens. A meta para 2031 é criar uma frota de 50 mil scanners globalmente, com capacidade para realizar um bilhão de exames por mês. A promessa é que o mapeamento preventivo rápido e de baixo custo evite mortes precoces e corte os gastos com sistemas de saúde. Midjourney agora tem um scanner corporal com IA",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Comercial",
-        "Saúde"
       ]
     },
     {
@@ -449,89 +542,6 @@
       "depts": [
         "Marketing",
         "Comercial"
-      ]
-    },
-    {
-      "title": "Google copia o pior defeito do Claude e revolta usuários do Gemini",
-      "description": "O Google alterou o sistema de limites do Gemini para um modelo baseado em janelas de 5 horas. A mudança já está ativa e afeta tanto usuários gratuitos quanto assinantes pagos. Em vez de contar o número de mensagens enviadas, o sistema agora limita o uso pela quantidade de processamento usado, o que ",
-      "url": "https://canaltech.com.br/inteligencia-artificial/google-copia-o-pior-defeito-do-claude-e-revolta-usuarios-do-gemini/",
-      "publishedAt": "Mon, 15 Jun 2026 20:15:00 -0300",
-      "image": "https://t.ctcdn.com.br/v-h6vnusJCwxVbXPSntYpobAGe0=/700x394/smart/i1134729.png",
-      "source": "Canaltech IA",
-      "content": "O Google alterou o sistema de limites do Gemini para um modelo baseado em janelas de 5 horas. A mudança já está ativa e afeta tanto usuários gratuitos quanto assinantes pagos. Em vez de contar o número de mensagens enviadas, o sistema agora limita o uso pela quantidade de processamento usado, o que deixou o controle menos previsível e gerou críticas. Por quanto tempo você consegue usar as IAs de graça? Por que a Anthropic limitou o uso da IA Claude? Ao atingir o limite, o usuário fica temporariamente bloqueado até a liberação da próxima janela. Em horários de maior demanda, há relatos de que poucas interações já são suficientes para esgotar a cota disponível, o que reforçou comparações com o Claude, que também adota restrições baseadas em capacidade em momentos de pico. O problema, segundo alguns usuários, é que até erros gerados pela própria IA entram nessa contagem. Assim, quando o Gemini apresenta respostas incorretas e há necessidade de refazer ou corrigir a solicitação, esse novo processamento também consome parte do limite, o que gera mais frustração do público. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A insatisfação também cresce porque o Google, apesar de ser uma empresa maior e com mais recursos do que a Anthropic, vem adotando limites rígidos ao mesmo tempo em que integra a IA de forma ampla em praticamente todos os seus produtos, o que leva parte dos usuários a considerar a decisão contraditória. O Google afirma que já corrigiu falhas iniciais do sistema e disponibiliza um painel nas configurações para acompanhar o consumo em tempo real . Nesse ponto, o Gemini oferece mais transparência, já que o usuário consegue ver o uso acumulado — algo que não ocorre no Claude, em que usuários gratuitos só percebem o limite ao serem bloqueados. Google muda limites do Gemini para janelas de 5 horas e gera críticas por se aproximar do modelo do Claude. (Imagem: Marcelo",
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "Chega de dar F5: nova IA do Google monitora sites e envia alertas para você",
-      "description": "O Google anunciou uma nova função para o Modo IA da Busca que permite criar agentes de inteligência artificial para acompanhar temas de interesse e enviar alertas automáticos. A novidade foi apresentada por Robby Stein, vice-presidente de produto do Google Search, em uma publicação no X. Por enquant",
-      "url": "https://canaltech.com.br/inteligencia-artificial/chega-de-dar-f5-nova-ia-do-google-monitora-sites-e-envia-alertas-para-voce/",
-      "publishedAt": "Mon, 15 Jun 2026 12:59:49 -0300",
-      "image": "https://t.ctcdn.com.br/cJbN1EOrmqP_MlaIc6LaRJSA_i4=/700x394/smart/i1130403.png",
-      "source": "Canaltech IA",
-      "content": "O Google anunciou uma nova função para o Modo IA da Busca que permite criar agentes de inteligência artificial para acompanhar temas de interesse e enviar alertas automáticos. A novidade foi apresentada por Robby Stein, vice-presidente de produto do Google Search, em uma publicação no X. Por enquanto, o recurso está disponível apenas para assinantes do Google AI Ultra nos países onde o Modo IA já foi lançado. O que são agentes de IA e o que eles podem fazer no seu celular? O que é 'Modo IA' no Google? Veja como usar o novo recurso de busca Com a ferramenta, os usuários podem pedir que a IA acompanhe assuntos específicos sem a necessidade de realizar buscas repetidas. Para isso, os “agentes de informação” monitoram continuamente diversas fontes , como sites de notícias, blogs, fóruns e redes sociais, em busca de novidades relacionadas ao tema escolhido. Quando encontram uma atualização relevante, eles enviam notificações pelo aplicativo do Google, acompanhadas de um resumo e links para as fontes originais. Segundo a empresa, a tecnologia foi criada para tornar a experiência de busca mais proativa e faz parte dos chamados “agentes de busca”, apresentados durante o Google I/O 2026. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Entre os usos da ferramenta estão o acompanhamento de lançamentos de produtos, abertura de vendas de ingressos e anúncios de imóveis. Em uma demonstração, um usuário pediu ao Modo IA para acompanhar lançamentos de tênis de seus atletas favoritos. O agente avisou quando um novo modelo de A'ja Wilson foi anunciado e enviou outro alerta quando as vendas começaram. Os agentes de IA do Google rastreiam sites, blogs e redes sociais e avisam o usuário quando encontram novidades importantes. (Imagem: Bruno De Blasi/Canaltech) Quem pode acessar o novo recurso do Modo IA do Google? No momento, a criação e o gerenciamento de agentes de informação estão restrito",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Comercial",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Fable 5: por que os EUA vetaram o acesso ao modelo do Claude?",
-      "description": "Pouco após a estreia do Fable 5, a Anthropic suspendeu o acesso ao novo modelo de IA e ao Mythos 5 devido a uma decisão do governo dos Estados Unidos nesta sexta-feira (12). Agora, os recursos estão indisponíveis para todos os usuários, sem previsão para serem liberados novamente. Bloqueio do Claude",
-      "url": "https://canaltech.com.br/inteligencia-artificial/fable-5-por-que-os-eua-vetaram-o-acesso-ao-modelo-do-claude/",
-      "publishedAt": "Mon, 15 Jun 2026 10:19:00 -0300",
-      "image": "https://t.ctcdn.com.br/TCDZxCGopGyog2V7TM79C2AjhHU=/700x394/smart/i1133651.png",
-      "source": "Canaltech IA",
-      "content": "Pouco após a estreia do Fable 5, a Anthropic suspendeu o acesso ao novo modelo de IA e ao Mythos 5 devido a uma decisão do governo dos Estados Unidos nesta sexta-feira (12). Agora, os recursos estão indisponíveis para todos os usuários, sem previsão para serem liberados novamente. Bloqueio do Claude Fable 5 acende alerta sobre dependência estrangeira O que há de novo no Claude? Opus 4.8 e mais duas mudanças A seguir, confira: Por que o acesso ao Fable 5 foi limitado? O que é jailbreak O que é Fable 5 e Mythos 5? Quando o Fable 5 será liberado novamente? Os demais modelos também foram bloqueados? Por que o acesso ao Fable 5 foi limitado? As autoridades aplicaram uma restrição de exportação direta para qualquer estrangeiro , mesmo que o uso seja realizado dentro do território dos Estados Unidos ou por um funcionário da empresa. Na sequência, a Anthropic bloqueou o acesso do Fable 5 e Mythos 5 a todos os usuários . - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Segundo a Anthropic, a justificativa apresentada foi a descoberta de um jailbreak , técnica usada para contornar as restrições de segurança de um modelo de IA. “Discordamos que a descoberta de um potencial jailbreak de alcance limitado deva ser motivo para retirar do ar um modelo comercial usado por centenas de milhões de pessoas. Se esse critério fosse aplicado em toda a indústria, acreditamos que isso essencialmente interromperia todos os novos lançamentos de modelos para todos os provedores de fronteira”, contesta a companhia. Uma reportagem do portal Semafor, por outro lado, aponta que a decisão foi tomada após a Casa Branca encontrar indícios de que o Mythos foi acessado pelo governo chinês . A suspeita, contudo, ainda não foi confirmada pelo governo americano. O que é jailbreak? Jailbreak, no campo da inteligência artificial, descreve técnicas usadas para contornar as restrições de segurança impostas a um model",
-      "lang": "pt",
-      "depts": [
-        "RH",
-        "Gestão",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Funcionários perdem mais de 6 horas por semana corrigindo erros de IA",
-      "description": "Uma pesquisa realizada pela empresa Glean revelou que os profissionais do Reino Unido estão gastando, em média, 6,3 horas por semana supervisionando e corrigindo erros de ferramentas de inteligência artificial. Como usar IA para se preparar para uma entrevista de emprego 8 truques do ChatGPT que voc",
-      "url": "https://canaltech.com.br/inteligencia-artificial/funcionarios-perdem-mais-de-6-horas-por-semana-corrigindo-erros-de-ia/",
-      "publishedAt": "Mon, 15 Jun 2026 10:06:52 -0300",
-      "image": "https://t.ctcdn.com.br/bggOYys_VtTudaeyGszMFoXiuTs=/700x394/smart/i1134475.png",
-      "source": "Canaltech IA",
-      "content": "Uma pesquisa realizada pela empresa Glean revelou que os profissionais do Reino Unido estão gastando, em média, 6,3 horas por semana supervisionando e corrigindo erros de ferramentas de inteligência artificial. Como usar IA para se preparar para uma entrevista de emprego 8 truques do ChatGPT que você precisa usar para liberar todo o potencial da IA O monitoramento constante das plataformas digitais, batizado pelo mercado como \"botsitting\", consome metade das 12 horas que os funcionários economizam semanalmente por meio da automação de processos. De acordo com o levantamento divulgado pelo portal TechRadar, 90% dos profissionais britânicos do setor de tecnologia utilizam IA no ambiente corporativo, superando o índice de 84% registrado nos Estados Unidos. Apesar da alta taxa de adoção, apenas 42% das empresas são classificadas como focadas prioritariamente em IA pelos seus colaboradores. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O estudo aponta um descompasso entre a percepção individual e o resultado institucional. Cerca de 78% dos entrevistados afirmam que os sistemas de automação aumentam a produtividade individual. Mas somente 18% acreditam que a introdução dessas tecnologias gera impactos significativos no desempenho geral da organização. Pesquisa revela que os profissionais gastam mais tempo corrigindo erros de inteligência artificial do que estruturando as solicitações iniciais nas empresas (Imagem: Reprodução/Zach M/Unsplash) Custo oculto da produtividade com IA A necessidade de validação constante das respostas geradas redefiniu as atribuições diárias dos profissionais. Atualmente, o tempo dedicado à revisão e ao controle de qualidade das tarefas executadas pela inteligência artificial (38%) supera o tempo gasto na criação de comandos e solicitações iniciais (36%). A Glean indica que mais de um terço das sessões realizadas com ferramentas de inteligência arti",
-      "lang": "pt",
-      "depts": [
-        "RH",
-        "Gestão"
-      ]
-    },
-    {
-      "title": "8 truques do ChatGPT que você precisa usar para liberar todo o potencial da IA",
-      "description": "Se você usa o ChatGPT apenas para tirar dúvidas rápidas, saiba que está aproveitando apenas uma parte do potencial da ferramenta. A IA também pode ajudar em pesquisas, criação de conteúdo, organização de ideias e diversas outras tarefas. 5 truques que vão mudar completamente como você usa o ChatGPT ",
-      "url": "https://canaltech.com.br/inteligencia-artificial/truques-liberar-todo-potencial-chatgpt/",
-      "publishedAt": "Sun, 14 Jun 2026 15:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/XEBOq4znLBtDvGS9vw30OlKA7Ik=/700x394/smart/i1119849.png",
-      "source": "Canaltech IA",
-      "content": "Se você usa o ChatGPT apenas para tirar dúvidas rápidas, saiba que está aproveitando apenas uma parte do potencial da ferramenta. A IA também pode ajudar em pesquisas, criação de conteúdo, organização de ideias e diversas outras tarefas. 5 truques que vão mudar completamente como você usa o ChatGPT 7 truques para transformar o ChatGPT em assistente de estudos para 2026 O segredo para aproveitar melhor o ChatGPT está na forma de usar a ferramenta . É importante fornecer contexto, definir regras claras e interagir de forma estratégica, em vez de esperar que a IA adivinhe o que você deseja. 8 truques para liberar todo o potencial do ChatGPT Veja 8 truques para alcançar todo o potencial do ChatGPT nas suas interações com a IA: - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Peça perguntas antes das respostas Compartilhe o contexto desde o início Mostre um exemplo do resultado esperado Use a voz para desenvolver ideias Crie um GPT para tarefas recorrentes Envie uma captura de tela do problema Defina regras antes de perguntar Transforme um conteúdo em vários formatos 1. Peça perguntas antes das respostas O ChatGPT costuma preencher informações que não foram fornecidas pelo usuário. Em tarefas mais complexas, isso pode resultar em respostas genéricas ou pouco alinhadas ao objetivo desejado. Para evitar esse problema, peça que a IA faça perguntas antes de executar a tarefa. Assim, ela poderá entender melhor o contexto, as restrições e o resultado esperado antes de começar. 2. Compartilhe o contexto desde o início Quanto mais informações relevantes você fornecer, mais útil tende a ser a resposta. Explicar o objetivo do projeto, o público-alvo ou outros detalhes importantes ajuda a IA a entender melhor a situação , além de reduzir a necessidade de repetir informações durante a conversa e evitar retrabalho com correções e ajustes posteriores. Se você trabalha frequentemente com os m",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Gestão",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Como usar o ChatGPT para revisar um texto mantendo seu jeito de escrever",
-      "description": "Você terminou um e-mail, uma redação, um relatório, um TCC, um post para redes sociais ou uma apresentação e quer dar aquela última conferida antes de enviar. Nesse momento, o ChatGPT pode parecer uma ótima ajuda para corrigir erros, melhorar a clareza e deixar o texto mais fluido. Como usar o ChatG",
-      "url": "https://canaltech.com.br/inteligencia-artificial/como-usar-o-chatgpt-para-revisar-um-texto-mantendo-seu-jeito-de-escrever/",
-      "publishedAt": "Sun, 14 Jun 2026 10:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/wtEVgjK1VjG5WVXtM8R2-Y3gFL8=/700x394/smart/i1098487.png",
-      "source": "Canaltech IA",
-      "content": "Você terminou um e-mail, uma redação, um relatório, um TCC, um post para redes sociais ou uma apresentação e quer dar aquela última conferida antes de enviar. Nesse momento, o ChatGPT pode parecer uma ótima ajuda para corrigir erros, melhorar a clareza e deixar o texto mais fluido. Como usar o ChatGPT para revisar seu texto e evitar erros comuns A mensagem virou um textão? Veja como resumir no ChatGPT O problema é que muita gente tem receio de usar a ferramenta e acabar recebendo de volta uma versão que não parece mais sua , com palavras diferentes, um tom mais artificial e até mudanças que alteram a forma como a mensagem foi escrita. Esse medo é compreensível e geralmente acontece quando o pedido feito à IA é muito genérico , como um simples “melhore este texto”. Sem orientações claras, a IA tende a tomar decisões por conta própria e pode reescrever mais do que o necessário. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A boa notícia é que existe uma forma de evitar isso: pedir uma revisão controlada , com limites bem definidos. Neste guia, o Canaltech vai te ensinar como usar o ChatGPT para revisar seus textos sem abrir mão do seu vocabulário, do seu ritmo e da sua voz como autor. A seguir, tire suas dúvidas sobre: O que você quer preservar no seu texto? Qual é o erro mais comum? Prompt pronto para revisar sem perder seu estilo Como adaptar o prompt ao tipo de texto? Exemplo prático: antes, pedido e depois Como pedir revisão em camadas? Como comparar a versão do ChatGPT com a sua? Quando o ChatGPT pode atrapalhar? Prompts extras para situações comuns Cuidados antes de usar o texto revisado O que você quer preservar no seu texto? Antes de pedir uma revisão, vale definir exatamente o que não deve ser alterado . Dizer apenas \"mantenha meu jeito de escrever\" costuma ser insuficiente, porque a IA precisa de critérios para entender o que caracteriza seu estilo. Para isso, p",
-      "lang": "pt",
-      "depts": [
-        "Marketing"
       ]
     }
   ]
