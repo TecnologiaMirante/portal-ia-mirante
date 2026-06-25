@@ -1,7 +1,84 @@
 {
-  "updatedAt": "2026-06-24T12:13:45.104Z",
+  "updatedAt": "2026-06-25T12:11:46.107Z",
   "count": 40,
   "articles": [
+    {
+      "title": "Robôs vão substituir 700 mil entregadores “mais cedo ou mais tarde”",
+      "description": "Fundador de gigante do varejo na China faz alerta, mas diz que não quer deixar trabalhadores sem emprego quando isso acontecer. Robôs vão substituir 700 mil entregadores “mais cedo ou mais tarde”",
+      "url": "https://tecnoblog.net/noticias/robos-vao-substituir-os-700-mil-entregadores-mais-cedo-ou-mais-tarde/",
+      "publishedAt": "Wed, 24 Jun 2026 22:23:23 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/img_1620.jpeg",
+      "source": "Tecnoblog",
+      "content": "Automatização iminente: 700 mil entregadores serão substituídos na China num futuro próximo (imagem: Reprodução/The Wire China) Resumo Fundador da JD.com, Richard Liu, afirma que 700 mil entregadores humanos serão substituídos por robôs de delivery mais cedo ou mais tarde. A JD.com planeja reposicionar esses trabalhadores por meio de treinamentos em novas áreas, com acordos já firmados com cerca de 120 escolas. A China deve ter 320 milhões de trabalhadores autônomos no final de 2026, incluindo entregadores, motoristas de aplicativo e trabalhadores temporários em fábricas. A gigante JD.com, um dos grandes nomes do e-commerce na China, avisou: “mais cedo ou mais tarde”, os cerca de 700 mil entregadores humanos serão substituídos por robôs de delivery. A declaração foi dada por Richard Liu, fundador e atual conselheiro da empresa, durante o Fórum de CEOs da APEC (Cooperação Econômica Ásia-Pacífico). A fala de Liu chega em um momento em que o mercado vê diversos exemplos de automação em serviços, além de uma crescente preocupação quanto à substituição de pessoas por robôs. Segundo o fundador da JD, a ideia é não deixar os trabalhadores “na mão”, e há inclusive planos para reposicionar essas pessoas no futuro. As entregas na China já vêm sendo reforçadas por robôs há algum tempo. Segundo o The Wire China , somente em julho de 2025, por exemplo, 30 mil novos ADVs (veículos autônomos de delivery) foram encomendados para cerca de 200 cidades no país. O mesmo já acontece nos Estados Unidos e em outras regiões do planeta. A automação pode precarizar o trabalho? O uso de robôs só faz crescer. Entre exemplos recentes estão robôs humanoides da chinesa Unitree no principal aeroporto do Japão , além de modelos da estadunidense Figure AI trabalhando na linha de produção de uma fábrica . Da mesma forma, cães robôs da Boston Dynamics também já se fazem presentes no policiamento de um estádio da Copa do Mundo de 2026, em Dallas, e não faltam exemplos dos robôs aspiradores , que funcionam numa linha mais auxiliar do que propriamente substituindo humanos. Robôs de entrega e drones já foram testados pelo iFood no Brasil (imagem: divulgação/iFood) JD planeja evitar demissões em massa A fala de Liu veio acompanhada de uma promessa de que os trabalhadores não seriam esquecidos. A ideia é reposicioná-los no mercado por meio da profissionalização em novas áreas, e acordos já teriam sido feitos pela JD com cerca de 120 escolas para treinamentos. Entre as possibilidades estão trabalhos de reparos e manutenção desses robôs de delivery , por exemplo. A expectativa é de que, no final de 2026, a China chegue a 320 milhões de trabalhadores autônomos, que atuam não só em entregas, mas também como motoristas de aplicativo e até mesmo em fábricas sob contratos temporários. Ou seja: um Brasil e meio só de pessoas sem emprego fixo. Relembre: andamos num carro autônomo pela primeira vez Robôs vão substituir 700 mil entregadores “mais cedo ou mais tarde”",
+      "lang": "pt",
+      "depts": [
+        "RH",
+        "Comercial",
+        "Gestão",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Pesquisadores de IA continuam trocando o Google por seus rivais",
+      "description": "Os principais pesquisadores de IA Jonas Adler e Alexander Pritzel estão trocando o Google pela Anthropic, após a saída dos principais cientistas Noam Shazeer e John Jumper.",
+      "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+      "publishedAt": "Wed, 24 Jun 2026 21:42:07 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Os principais pesquisadores de IA Jonas Adler e Alexander Pritzel estão trocando o Google pela Anthropic, após a saída dos principais cientistas Noam Shazeer e John Jumper.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Google libera IA que consegue mexer no computador e controlar a tela sozinha",
+      "description": "O Google anunciou a integração da função “Computer use” ao modelo Gemini 3.5 Flash para que agentes de inteligência artificial possam visualizar a tela e executar ações em computadores, navegadores e aplicativos. A novidade já está disponível para desenvolvedores e empresas por meio da API do Gemini",
+      "url": "https://canaltech.com.br/inteligencia-artificial/google-libera-ia-que-consegue-mexer-no-computador-e-controlar-a-tela-sozinha/",
+      "publishedAt": "Wed, 24 Jun 2026 18:10:00 -0300",
+      "image": "https://t.ctcdn.com.br/m8Wp7wCpy3oVeMy-XnoynAhVdVw=/700x394/smart/i1137617.jpeg",
+      "source": "Canaltech IA",
+      "content": "O Google anunciou a integração da função “Computer use” ao modelo Gemini 3.5 Flash para que agentes de inteligência artificial possam visualizar a tela e executar ações em computadores, navegadores e aplicativos. A novidade já está disponível para desenvolvedores e empresas por meio da API do Gemini e da plataforma Gemini Enterprise Agent. O que são agentes de IA e o que eles podem fazer no seu celular? OpenAI Operator, Copilot e mais: conheça 4 agentes de IA A ferramenta transforma o modelo em um agente que consegue realizar tarefas completas de forma autônoma , como clicar em botões, preencher formulários, rolar páginas e navegar entre sistemas internos. O foco inicial é o ambiente corporativo, com aplicações em automação de processos, análise de dados e testes de software. A empresa já havia incorporado recursos de navegação com agentes, como o Auto Browse no Chrome Enterprise no início do ano. Agora, a nova integração no Gemini 3.5 Flash amplia essa lógica para funcionar sobre qualquer tela. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Apesar do avanço, a empresa destaca que o sistema ainda enfrenta limitações em situações imprevisíveis , como CAPTCHAs, pop-ups e interfaces dinâmicas. Para reduzir riscos, foram incluídos mecanismos de segurança, como confirmação humana em ações sensíveis e interrupção automática em caso de detecção de possíveis tentativas de manipulação. Esses controles são opcionais e não vêm ativados por padrão. O Google também adotou treinamento adversário focado especificamente na prevenção de injeção de prompts , um tipo de ataque em que instruções maliciosas ocultas em páginas da web ou documentos podem induzir a IA a executar ações não intencionais. A novidade chega para competir com a pioneira no segmento , a Anthropic, cujo Claude Computer Use já atua com interação mais ampla em sistemas operacionais e arquivos. O espaço também vem receben",
+      "lang": "pt",
+      "depts": [
+        "Gestão",
+        "Educação"
+      ]
+    },
+    {
+      "title": "OpenAI revela seu primeiro chip de IA: o Jalapeño",
+      "description": "Desenvolvido em parceria com a Broadcom, chip foca no processo de inferência de IA para aumentar velocidade de resposta dos modelos. OpenAI revela seu primeiro chip de IA: o Jalapeño",
+      "url": "https://tecnoblog.net/noticias/openai-revela-seu-primeiro-chip-de-ia-o-jalapeno/",
+      "publishedAt": "Wed, 24 Jun 2026 15:49:38 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/openai-broadcom-chip.webp",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Comercial",
+        "Gestão"
+      ]
+    },
+    {
+      "title": "OpenAI revela seu primeiro chip personalizado, construído pela Broadcom",
+      "description": "Chamado Jalapeño, o novo processador foi projetado especificamente para as necessidades exclusivas dos sistemas de inferência da OpenAI.",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "publishedAt": "Wed, 24 Jun 2026 14:54:46 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "8 prompts do ChatGPT e Gemini para criar fotos suas na Copa do Mundo",
+      "description": "Essa é a primeira Copa do Mundo em que é possível usar a inteligência artificial para criar experiências visuais altamente realistas de você no estádio, como jogador, torcedor ou até protagonista da partida. Antes, em 2022, a IA já existia, mas ainda não tinha a capacidade de gerar imagens hiper-rea",
+      "url": "https://canaltech.com.br/inteligencia-artificial/8-prompts-do-chatgpt-e-gemini-para-criar-fotos-suas-na-copa-do-mundo/",
+      "publishedAt": "Wed, 24 Jun 2026 09:40:00 -0300",
+      "image": "https://t.ctcdn.com.br/JTY6Temc2PBeBsLQAEbwblE-jnE=/700x394/smart/i1136577.png",
+      "source": "Canaltech IA",
+      "content": "Essa é a primeira Copa do Mundo em que é possível usar a inteligência artificial para criar experiências visuais altamente realistas de você no estádio, como jogador, torcedor ou até protagonista da partida. Antes, em 2022, a IA já existia, mas ainda não tinha a capacidade de gerar imagens hiper-realistas no nível de qualidade como vemos hoje. Onde assistir aos jogos da Copa do Mundo 2026? Quando serão os jogos do Brasil na Copa do Mundo 2026? Para isso, basta enviar uma foto de referência e usar comandos detalhados para guiar a IA. Quanto mais informações sobre estilo, iluminação e cenário, mais realista fica o resultado. 8 comandos para criar fotos na Copa do Mundo Veja 8 comandos para criar fotos suas na Copa do Mundo 2026: - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Na arquibancada Com a taça da vitória Transmissão ao vivo No gramado Coletiva de imprensa Capa de revista esportiva Boneco colecionável da Copa Figurinha da Copa 1. Na arquibancada Aqui a ideia é te colocar no meio da torcida como se você estivesse assistindo a um jogo ao vivo da Seleção Brasileira. Nada de pose forçada, o foco é capturar um momento natural, com bandeiras, luzes do estádio e aquela atmosfera de transmissão esportiva. Exemplo de prompt: “Use a foto enviada como referência, preservando totalmente a identidade e características faciais da pessoa. Crie uma cena hiper-realista estilo transmissão esportiva ao vivo em um jogo da Seleção Brasileira, com a pessoa na arquibancada, expressão natural e espontânea, sem posar ou olhar para a câmera. Ao redor, torcedores com camisetas do Brasil, bandeiras e ambiente realista de estádio. Iluminação autêntica de evento esportivo, com leve granulação, motion blur sutil e estética de TV em alta definição. Enquadramento 16:9, estilo documental e fotojornalístico, com aparência de registro real de transmissão ao vivo.” Você pode criar uma foto no meio da t",
+      "lang": "pt",
+      "depts": []
+    },
     {
       "title": "Claude Tag: Nova IA vira \"colega de trabalho\" oficial no Slack",
       "description": "A Anthropic anunciou o Claude Tag, uma nova integração que transforma o Claude em um “colega de trabalho” dentro do Slack. Com isso, os usuários podem mencionar a IA usando @Claude para delegar tarefas, permitindo que ela acesse dados, ferramentas internas e repositórios de código. A novidade já est",
@@ -173,31 +250,6 @@
       "depts": []
     },
     {
-      "title": "Amazon está testando Alexa+ na Índia com suporte em hindi",
-      "description": "A Amazon está planejando aumentar a presença de seu novo assistente de IA de conversação Alexa + na Índia e está convidando os usuários do país a testar uma versão em hindi.",
-      "url": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
-      "publishedAt": "Mon, 22 Jun 2026 17:31:29 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "A Amazon está planejando aumentar a presença de seu novo assistente de IA de conversação Alexa + na Índia e está convidando os usuários do país a testar uma versão em hindi.",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "CEO da Microsoft diz que monopólios de IA são um problema",
-      "description": "Satya Nadella criticou o domínio de poucas gigantes no setor. Executivo defendeu modelos de inteligência artificial mais baratos. CEO da Microsoft diz que monopólios de IA são um problema",
-      "url": "https://tecnoblog.net/noticias/ceo-da-microsoft-diz-que-monopolios-de-ia-sao-um-problema/",
-      "publishedAt": "Mon, 22 Jun 2026 16:08:13 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/01/satya-nadella-ceo-edited.jpg",
-      "source": "Tecnoblog",
-      "content": "Satya Nadella defendeu IA mais acessível (imagem: divulgação) Resumo O CEO da Microsoft, Satya Nadella, criticou o domínio de poucas gigantes no setor de inteligência artificial. Ele afirmou que a economia global não pode ser controlada por um grupo restrito de empresas. Nadella defendeu modelos de IA mais baratos e com mais controle nas mãos dos usuários. O CEO da Microsoft, Satya Nadella, fez uma dura crítica à concentração de poder no mercado de inteligência artificial. O executivo alertou que a economia global não pode ser engolida por um grupo restrito de empresas de tecnologia e defendeu uma transformação rumo a modelos mais baratos e com mais controle nas mãos dos usuários. Ao Wall Street Journal , ele disse que não é realista sustentar um cenário em que todos os empregos de escritório simplesmente desapareçam e isso ainda seja usado como arma . Segundo Nadella, o público não toleraria um futuro em que apenas algumas empresas e modelos “façam todo o aprendizado para o mundo”. A declaração chama atenção por partir justamente de um dos líderes que mais impulsionaram o atual boom do setor. Afinal, a própria Microsoft ajudou a moldar o cenário atual ao investir bilhões de dólares para transformar a OpenAI na gigante que é hoje. Mudança de rota? A resposta passa pela necessidade de transformar a IA em um recurso acessível, evitando que o mercado fique refém de altos custos de operação. A gigante de Redmond já começou a agir e passou a lançar ferramentas mais em conta. O destaque da vez é o Copilot Cowork, um agente autônomo que permite ao cliente corporativo escolher entre diferentes modelos, incluindo opções mais baratas, para executar tarefas contínuas. Esse movimento também envolve aproximações consideradas controversas pelo próprio setor. A Microsoft avalia hospedar em sua plataforma uma versão do DeepSeek , provedor chinês conhecido pelo custo baixo. A iniciativa desagrada parceiras como OpenAI e Anthropic, que acusam a startup asiática de copiar suas tecnologias, e tem potencial para iniciar um embate na indústria. A estratégia de diversificação também é uma resposta à concorrência. Dados da consultoria Recon Analytics apontam que, no segundo semestre de 2025, os assinantes do Copilot passaram a preferir cada vez mais alternativas, como o Gemini, do Google. Sem a liderança em modelos de ponta, a Microsoft aposta na multiplicação de opções para tentar recuperar terreno. Aprendizado contínuo Executivo sugeriu que discurso sobre perda de empregos é alarmista (imagem: divulgação/Microsoft) Nadella também comentou a situação do mercado de trabalho, com um posicionamento que vai na contramão de líderes do Vale do Silício. Enquanto as grandes empresas de IA preveem que os novos sistemas eliminarão metade dos empregos de nível básico até 2029, o CEO afirma que a tecnologia não deve ser encarada como uma ferramenta de corte de custos focada em demissões em massa. Em vez de pânico, Nadella defende que, no futuro, os negócios de sucesso funcionarão como sistemas de aprendizado contínuo , impulsionados pela união entre a sabedoria dos funcionários e o processamento das máquinas. Apesar das críticas, a Microsoft não planeja romper com as empresas de vanguarda. Um porta-voz da companhia afirmou ao jornal que as parcerias com OpenAI e Anthropic seguirão ativas. CEO da Microsoft diz que monopólios de IA são um problema",
-      "lang": "pt",
-      "depts": [
-        "RH",
-        "Financeiro"
-      ]
-    },
-    {
       "title": "iOS 27: Conheça as funções de IA que vão deixar o iPhone mais inteligente",
       "description": "Com o lançamento do iOS 27, a Apple está dando mais espaço para a inteligência artificial no iPhone. A Apple Intelligence vai aparecer em vários aplicativos do sistema, enquanto a Siri ganha um aplicativo dedicado e uma presença maior em diferentes áreas do celular para entender melhor o contexto do",
       "url": "https://canaltech.com.br/inteligencia-artificial/ios-27-conheca-as-funcoes-de-ia-que-vao-deixar-o-iphone-mais-inteligente/",
@@ -241,17 +293,6 @@
       ]
     },
     {
-      "title": "Quando a administração Trump reprime a Antrópica, quem se beneficia?",
-      "description": "No novo episódio de Equity, discutimos o que realmente motivou os últimos movimentos do governo contra a Antrópico e o que isso pode significar para o ecossistema de IA.",
-      "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
-      "publishedAt": "Sun, 21 Jun 2026 15:28:17 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "No novo episódio de Equity, discutimos o que realmente motivou os últimos movimentos do governo contra a Antrópico e o que isso pode significar para o ecossistema de IA.",
-      "lang": "en",
-      "depts": []
-    },
-    {
       "title": "Como usar o Gemini para revisar um texto mantendo seu jeito de escrever",
       "description": "Se você já escreveu um texto, pediu para uma IA dar uma ajuda e recebeu de volta uma versão que até parecia melhor, mas não soava mais como você , saiba que não está sozinho. Isso acontece com frequência. O texto até fica correto, organizado e mais elegante, mas perde aquele jeito seu de escrever qu",
       "url": "https://canaltech.com.br/inteligencia-artificial/como-usar-o-gemini-para-revisar-um-texto-mantendo-seu-jeito-de-escrever/",
@@ -260,17 +301,6 @@
       "source": "Canaltech IA",
       "content": "Se você já escreveu um texto, pediu para uma IA dar uma ajuda e recebeu de volta uma versão que até parecia melhor, mas não soava mais como você , saiba que não está sozinho. Isso acontece com frequência. O texto até fica correto, organizado e mais elegante, mas perde aquele jeito seu de escrever que faz a mensagem parecer realmente sua. Como usar o ChatGPT para revisar um texto mantendo seu jeito de escrever 7 prompts para o Gemini criar resumos e mapas mentais para provas É daí que vem a expressão “cara de IA” , usada para descrever textos genéricos, previsíveis e com pouca personalidade. A boa notícia é que isso não precisa acontecer. O Gemini pode revisar textos preservando seu estilo, desde que o comando seja específico. Muitas vezes, o problema não é usar IA, mas pedir apenas “melhore este texto” sem definir o que pode ou não ser alterado. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A seguir, tire suas dúvidas sobre: O que significa “manter seu jeito de escrever”? Quando vale usar o Gemini para revisar um texto? Qual é o erro mais comum? Qual é o tipo de revisão que você deseja? Prompt base para revisar sem perder seu estilo Prompt para pedir sugestões sem alterar o texto Prompt para manter tom informal, acadêmico ou profissional Como evitar que o texto fique com “cara de IA”? Exemplo prático: antes e depois de uma revisão controlada Como revisar textos maiores no Gemini? O que aceitar, ajustar ou recusar nas sugestões do Gemini? O que verificar antes de publicar ou entregar o texto? Prompts prontos para copiar O que significa “manter seu jeito de escrever”? Quando falamos em preservar o estilo de escrita, não estamos falando apenas de evitar erros. O estilo é formado por diversas escolhas pessoais que aparecem naturalmente no texto. Algumas pessoas escrevem com frases curtas e diretas. Outras preferem desenvolver melhor as ideias. Há quem adote um tom mais desc",
       "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "Meredith Whittaker da Signal quer que você se lembre de que os chatbots de IA ‘não são seus amigos’",
-      "description": "\"Estes não são seus amigos. Estes não são seres conscientes. Estes não são interlocutores sencientes.\"",
-      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
-      "publishedAt": "Sat, 20 Jun 2026 20:32:29 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
       "depts": []
     },
     {
@@ -286,17 +316,6 @@
         "Comercial",
         "Educação"
       ]
-    },
-    {
-      "title": "O ganhador do Nobel John Jumper está trocando a DeepMind pela rival Anthropic",
-      "description": "Jumper não é o único grande nome que deixou o Google DeepMind.",
-      "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
-      "publishedAt": "Sat, 20 Jun 2026 16:39:57 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
     },
     {
       "title": "10 dicas do que nunca colocar em um prompt de IA",
@@ -315,17 +334,6 @@
       ]
     },
     {
-      "title": "Do PGP ao Mythos: uma breve história de controles de exportação que não impediram ninguém",
-      "description": "Nos últimos 30 anos, interromper o fluxo de software relacionado à segurança cibernética provou ser ineficaz. Não está claro por que funcionaria agora com o modelo de segurança cibernética da Antrópico, Mythos.",
-      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-      "publishedAt": "Fri, 19 Jun 2026 22:40:14 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Nos últimos 30 anos, interromper o fluxo de software relacionado à segurança cibernética provou ser ineficaz. Não está claro por que funcionaria agora com o modelo de segurança cibernética da Antrópico, Mythos.",
-      "lang": "en",
-      "depts": []
-    },
-    {
       "title": "IA bloqueada pelos EUA por medo de espionagem da China deve voltar em dias",
       "description": "Os modelos Claude Fable 5 e Mythos 5, da Anthropic, devem ser liberados para uso nos próximos dias , segundo um executivo da empresa. O acesso às duas IAs foi suspenso após uma decisão do governo dos Estados Unidos , alegando proteger a segurança nacional de possível espionagem. Fable 5: por que os ",
       "url": "https://canaltech.com.br/inteligencia-artificial/ia-bloqueada-pelos-eua-por-medo-de-espionagem-da-china-deve-voltar-em-dias/",
@@ -337,17 +345,6 @@
       "depts": [
         "Gestão"
       ]
-    },
-    {
-      "title": "Smart TV 4K LG QNED 65 atinge oferta jamais vista no Mercado Livre",
-      "description": "Smart TV LG QNED73 de 65 polegadas está em promoção inédita com 44% de desconto. Televisão com resolução 4K Ultra HD promete reproduzir 100% do DCI-P3 e traz inteligência artificial integrada Smart TV 4K LG QNED 65 atinge oferta jamais vista no Mercado Livre",
-      "url": "https://tecnoblog.net/achados/smart-tv-4k-lg-qned-65-atinge-oferta-jamais-vista-no-mercado-livre/",
-      "publishedAt": "Fri, 19 Jun 2026 20:38:09 +0000",
-      "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2026/03/smart-tv-lg-qled73-imagem-divulgacao-1060x596.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
     },
     {
       "title": "Google envia usuários para concorrente em erro bizarro de sua própria IA",
@@ -543,6 +540,17 @@
         "Marketing",
         "Comercial"
       ]
+    },
+    {
+      "title": "Google copia o pior defeito do Claude e revolta usuários do Gemini",
+      "description": "O Google alterou o sistema de limites do Gemini para um modelo baseado em janelas de 5 horas. A mudança já está ativa e afeta tanto usuários gratuitos quanto assinantes pagos. Em vez de contar o número de mensagens enviadas, o sistema agora limita o uso pela quantidade de processamento usado, o que ",
+      "url": "https://canaltech.com.br/inteligencia-artificial/google-copia-o-pior-defeito-do-claude-e-revolta-usuarios-do-gemini/",
+      "publishedAt": "Mon, 15 Jun 2026 20:15:00 -0300",
+      "image": "https://t.ctcdn.com.br/v-h6vnusJCwxVbXPSntYpobAGe0=/700x394/smart/i1134729.png",
+      "source": "Canaltech IA",
+      "content": "O Google alterou o sistema de limites do Gemini para um modelo baseado em janelas de 5 horas. A mudança já está ativa e afeta tanto usuários gratuitos quanto assinantes pagos. Em vez de contar o número de mensagens enviadas, o sistema agora limita o uso pela quantidade de processamento usado, o que deixou o controle menos previsível e gerou críticas. Por quanto tempo você consegue usar as IAs de graça? Por que a Anthropic limitou o uso da IA Claude? Ao atingir o limite, o usuário fica temporariamente bloqueado até a liberação da próxima janela. Em horários de maior demanda, há relatos de que poucas interações já são suficientes para esgotar a cota disponível, o que reforçou comparações com o Claude, que também adota restrições baseadas em capacidade em momentos de pico. O problema, segundo alguns usuários, é que até erros gerados pela própria IA entram nessa contagem. Assim, quando o Gemini apresenta respostas incorretas e há necessidade de refazer ou corrigir a solicitação, esse novo processamento também consome parte do limite, o que gera mais frustração do público. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A insatisfação também cresce porque o Google, apesar de ser uma empresa maior e com mais recursos do que a Anthropic, vem adotando limites rígidos ao mesmo tempo em que integra a IA de forma ampla em praticamente todos os seus produtos, o que leva parte dos usuários a considerar a decisão contraditória. O Google afirma que já corrigiu falhas iniciais do sistema e disponibiliza um painel nas configurações para acompanhar o consumo em tempo real . Nesse ponto, o Gemini oferece mais transparência, já que o usuário consegue ver o uso acumulado — algo que não ocorre no Claude, em que usuários gratuitos só percebem o limite ao serem bloqueados. Google muda limites do Gemini para janelas de 5 horas e gera críticas por se aproximar do modelo do Claude. (Imagem: Marcelo",
+      "lang": "pt",
+      "depts": []
     }
   ]
 }
