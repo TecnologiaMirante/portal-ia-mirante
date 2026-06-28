@@ -1,7 +1,97 @@
 {
-  "updatedAt": "2026-06-27T11:19:30.712Z",
+  "updatedAt": "2026-06-28T11:40:48.736Z",
   "count": 40,
   "articles": [
+    {
+      "title": "O que acontece quando um modelo de IA é \"aposentado\"?",
+      "description": "Modelos de IA, como GPT-5, Claude Opus 4.8 ou Gemini 2.5, são as versões internas que alimentam assistentes, como ChatGPT, Claude e Gemini. Eles funcionam como o “motor” por trás das respostas . Para isso, são treinados com grandes volumes de dados para entender a linguagem, gerar textos, programar ",
+      "url": "https://canaltech.com.br/inteligencia-artificial/o-que-acontece-quando-um-modelo-de-ia-e-aposentado/",
+      "publishedAt": "Sun, 28 Jun 2026 08:30:00 -0300",
+      "image": "https://t.ctcdn.com.br/MGeZfQAEnGVxs88CkrfznECWBI8=/700x394/smart/i1125177.png",
+      "source": "Canaltech IA",
+      "content": "Modelos de IA, como GPT-5, Claude Opus 4.8 ou Gemini 2.5, são as versões internas que alimentam assistentes, como ChatGPT, Claude e Gemini. Eles funcionam como o “motor” por trás das respostas . Para isso, são treinados com grandes volumes de dados para entender a linguagem, gerar textos, programar e resolver problemas complexos. Quais são os modelos de IA do Perplexity? Veja as opções disponíveis no app Quais são os modelos do ChatGPT? Conheça as IAs disponíveis no chatbot Quando um modelo deixa de aparecer na IA ou é substituído, isso pode dar a impressão de que ele “sumiu” . Mas esse processo geralmente faz parte de uma atualização planejada, em que versões mais novas tomam o lugar de modelos antigos que já não são o foco principal. A seguir, tire suas dúvidas sobre: - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O que significa “modelo aposentado”? Por que modelos de IA são aposentados? O que acontece com os modelos de IA aposentados? Quais são os modelos que não podem aposentar? O que significa “modelo aposentado”? A aposentadoria de um modelo de IA ocorre quando ele deixa de ser prioridade dentro das empresas e começa a ser retirado do uso público . Para isso, ele passa por alguns estágios: Ativo , quando é o modelo principal em uso nos produtos; Legado , quando ainda funciona, mas não recebe grandes melhorias; Descontinuado , quando já tem substituto definido, mas ainda pode estar disponível por um período; Aposentado , quando sai das interfaces e pode ser desligado do acesso público. Modelos de IA são “aposentados” quando versões mais novas os substituem. (Imagem: João Melo/Canaltech) Por que modelos de IA são aposentados? Os modelos são aposentados por uma combinação de fatores técnicos e estratégicos: Versões mais novas tendem a ser mais rápidas, precisas e seguras , o que naturalmente faz com que elas substituam as anteriores; Manter vários modelos grandes em ",
+      "lang": "pt",
+      "depts": [
+        "Gestão"
+      ]
+    },
+    {
+      "title": "ChatGPT esquecendo as coisas? Conheça truque simples para resolver",
+      "description": "Você já passou vários minutos explicando um projeto para o ChatGPT, alinhando detalhes, corrigindo respostas e definindo exatamente o que queria, apenas para perceber que a IA começou a se perder no meio do caminho? Em conversas longas, é comum que o chatbot esqueça informações importantes, repita s",
+      "url": "https://canaltech.com.br/inteligencia-artificial/chatgpt-esquecendo-as-coisas-truque-para-resolver/",
+      "publishedAt": "Sat, 27 Jun 2026 16:30:00 -0300",
+      "image": "https://t.ctcdn.com.br/ZYG6Fut2RaMaLKaCUk5JQX-psxM=/700x394/smart/i1119851.png",
+      "source": "Canaltech IA",
+      "content": "Você já passou vários minutos explicando um projeto para o ChatGPT, alinhando detalhes, corrigindo respostas e definindo exatamente o que queria, apenas para perceber que a IA começou a se perder no meio do caminho? Em conversas longas, é comum que o chatbot esqueça informações importantes, repita sugestões já descartadas ou até contradiga decisões tomadas anteriormente. O que são tokens? Entenda como funciona a 'unidade fundamental' da IA O custo invisível dos tokens: por que a conta da IA não para de subir? Isso não acontece porque a ferramenta está com defeito. Modelos de IA, como o ChatGPT, trabalham com uma quantidade limitada de contexto por conversa — a chamada janela de contexto . Conforme novas mensagens entram no chat, parte das informações antigas deixa de ser considerada, o que pode fazer a IA perder detalhes essenciais de projetos que se estendem por horas ou dias. Mas existe uma forma simples de evitar esse problema. Com um pequeno “reboot” da conversa , é possível transferir apenas as informações realmente importantes para um novo chat e continuar o trabalho de onde parou. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O ChatGPT pode esquecer detalhes em conversas longas, mas um simples resumo de transferência ajuda a manter o contexto e continuar o trabalho. (Imagem: Viviane França/Canaltech) Como fazer o ChatGPT parar de esquecer as coisas? Você não precisa pedir um resumo genérico da conversa. A ideia é fazer com que a IA crie um “resumo de transferência” , pensado especificamente para servir de ponto de partida em um novo chat e preservar as decisões e os detalhes mais importantes da discussão. Quando perceber que o ChatGPT começou a se confundir ou a esquecer informações mencionadas anteriormente, vale a pena interromper a conversa e usar o comando a seguir : “Crie um resumo de transferência que eu possa colar em um novo chat. Inclua: o que estamos te",
+      "lang": "pt",
+      "depts": [
+        "Financeiro",
+        "Saúde"
+      ]
+    },
+    {
+      "title": "O executivo do Apple Vision Pro está saindo para OpenAI",
+      "description": "Paul Meade, vice-presidente da Apple responsável pelo headset Vision Pro, está deixando a empresa para se juntar à equipe de hardware da OpenAI.",
+      "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "publishedAt": "Sat, 27 Jun 2026 16:45:09 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Gemini grátis vale a pena? Veja o que dá e o que não dá para fazer",
+      "description": "Assistente de IA do Google, o Gemini pode ser usado gratuitamente pelo navegador, por aplicativo para celulares ou pela integração com celulares Android. Por isso, o serviço é uma alternativa comum para usar a tecnologia sem abrir a carteira. ChatGPT grátis vale a pena? Veja o que dá e o que não dá ",
+      "url": "https://canaltech.com.br/inteligencia-artificial/gemini-gratis-vale-a-pena-veja-o-que-da-e-o-que-nao-da-para-fazer/",
+      "publishedAt": "Sat, 27 Jun 2026 11:30:00 -0300",
+      "image": "https://t.ctcdn.com.br/c92TVkOI7wQC41OlpJQENH1HJ_k=/700x394/smart/i1127127.png",
+      "source": "Canaltech IA",
+      "content": "Assistente de IA do Google, o Gemini pode ser usado gratuitamente pelo navegador, por aplicativo para celulares ou pela integração com celulares Android. Por isso, o serviço é uma alternativa comum para usar a tecnologia sem abrir a carteira. ChatGPT grátis vale a pena? Veja o que dá e o que não dá para fazer 8 formas de assinar o Gemini mais barato ou de graça A IA tem planos pagos que oferecem limites de uso maiores e recursos exclusivos, mas o nível básico ainda é muito confiável. A seguir, o Canaltech explica: - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O que tem no Gemini grátis? O que não tem no Gemini grátis? Vale a pena usar o Gemini grátis para estudar e trabalhar? Quais as diferenças para Claude e ChatGPT gratuitos? Quando vale a pena pagar pelo Gemini? Como extrair o melhor do plano gratuito O que tem no Gemini grátis? O Gemini gratuito usa a variante Flash dos modelos de IA do Google por padrão, além de fornecer acesso limitado à variante Pro (usada para tarefas mais complexas). Estes recursos estão disponíveis: Gemini Live para conversas por áudio; Criação de imagens com o Nano Banana; Deep Research para pesquisas mais aprofundadas em páginas da web; Gems para acessar versões personalizadas do chatbot; Uso do modo Canvas para páginas personalizadas; Acesso ao Google Flow para criar imagens. Criação e edição de imagens está disponível de forma gratuita (Imagem: Viviane França/Canaltech) O que não tem no Gemini grátis? A criação de vídeos com o Gemini Omni, a integração da IA ao Google Workspace (Gmail, Documentos e outros) e o assistente de programação Antigravity são exclusivos para os planos pagos do Google . Além disso, a versão básica da IA garante acesso limitado ao modelo Pro e a recursos específicos do NotebookLM, incluindo resumos em áudio e vídeo. Vale a pena usar o Gemini grátis para estudar e trabalhar? Sim. No caso dos estudos, a grande vantage",
+      "lang": "pt",
+      "depts": [
+        "Comercial",
+        "Educação"
+      ]
+    },
+    {
+      "title": "O fundador mais apto da sala teve câncer. Veja como ele usou a IA para revidar.",
+      "description": "Quando confrontado com o câncer, Connor Christou alimentou Claude com tudo relacionado ao seu regime – resultados de sangue, dados de varredura, resultados vestíveis, anotações de diário.",
+      "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "publishedAt": "Sat, 27 Jun 2026 14:00:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Quando confrontado com o câncer, Connor Christou alimentou Claude com tudo relacionado ao seu regime – resultados de sangue, dados de varredura, resultados vestíveis, anotações de diário.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Startups asiáticas de IA lançam modelos semelhantes ao Mythos à medida que a proibição de exportação da Anthropic se arrasta",
+      "description": "Novos modelos estão sendo lançados na Ásia e prometem capacidades semelhantes às do Mythos, sem medo de uma proibição de exportação. Os laboratórios de IA dos EUA poderão nunca recuperar este enorme mercado.",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "publishedAt": "Sat, 27 Jun 2026 12:00:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Novos modelos estão sendo lançados na Ásia e prometem capacidades semelhantes às do Mythos, sem medo de uma proibição de exportação. Os laboratórios de IA dos EUA poderão nunca recuperar este enorme mercado.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Como impedir que o ChatGPT treine IA com seus dados",
+      "description": "Você provavelmente já fez isso sem pensar duas vezes: copiou um e-mail de trabalho para pedir ajuda na resposta, colou um contrato para resumir cláusulas, enviou uma planilha para análise ou descreveu um problema pessoal em busca de orientação. O que significa quando uma empresa diz que vai treinar ",
+      "url": "https://canaltech.com.br/inteligencia-artificial/como-impedir-que-o-chatgpt-treine-ia-com-seus-dados/",
+      "publishedAt": "Sat, 27 Jun 2026 08:30:00 -0300",
+      "image": "https://t.ctcdn.com.br/ZYG6Fut2RaMaLKaCUk5JQX-psxM=/700x394/smart/i1119851.png",
+      "source": "Canaltech IA",
+      "content": "Você provavelmente já fez isso sem pensar duas vezes: copiou um e-mail de trabalho para pedir ajuda na resposta, colou um contrato para resumir cláusulas, enviou uma planilha para análise ou descreveu um problema pessoal em busca de orientação. O que significa quando uma empresa diz que vai treinar IA com dados dos usuários Privacidade nas IAs: quem tem acesso ao seu histórico de conversas? O ChatGPT se tornou uma ferramenta de produtividade para milhões de pessoas. A praticidade é inegável, mas ela também exige um mínimo de atenção à privacidade. O problema é que muita gente usa a IA como se fosse um bloco de notas privado, sem revisar as configurações que controlam o destino dessas informações. A boa notícia é que a OpenAI oferece opções para limitar como seus dados são utilizados . Com um ajuste simples, é possível reduzir a exposição de informações e ter mais controle sobre o que acontece com suas conversas. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A seguir, tire suas dúvidas sobre: O ChatGPT usa conversas para treinar IA? Como desativar o treinamento de IA com seus dados? Use o chat temporário quando o assunto for sensível Qual é a diferença entre memória e treinamento? O que não colocar no ChatGPT, mesmo com proteção ativada? E no trabalho: conta pessoal ou plano empresarial? Cuidado com GPTs, ações e serviços de terceiros Como proteger seus dados ao usar o ChatGPT no dia a dia? O ChatGPT usa conversas para treinar IA? Sim . Segundo a OpenAI, serviços para usuários individuais, como o ChatGPT, podem utilizar conversas, arquivos enviados e outros conteúdos para ajudar a melhorar seus modelos de inteligência artificial. No entanto, a empresa permite que os usuários desativem esse compartilhamento. Nas contas pessoais, incluindo os planos Free, Plus e Pro, existe a opção \"Melhorar o modelo para todos\". Quando ela está ativada, novas conversas podem ser usadas pa",
+      "lang": "pt",
+      "depts": [
+        "RH",
+        "Comercial",
+        "Jurídico",
+        "Gestão"
+      ]
+    },
     {
       "title": "Trump Admin lança Anthropic Mythos para ser usado por mais de 100 empresas e agências dos EUA",
       "description": "Mais de 100 empresas e agências governamentais estão autorizadas a usar o Mythos 5, incluindo seus funcionários não americanos.",
@@ -27,6 +117,17 @@
       "depts": [
         "Comercial"
       ]
+    },
+    {
+      "title": "OpenAI revela prévia do GPT 5.6, que chega com acesso restrito",
+      "description": "Nova geração inclui três modelos: Sol, Terra e Luna. Lançamento ocorre em prévia restrita a parceiros selecionados, após solicitação do governo dos Estados Unidos. OpenAI revela prévia do GPT 5.6, que chega com acesso restrito",
+      "url": "https://tecnoblog.net/noticias/openai-revela-previa-do-gpt-5-6-que-chega-com-acesso-restrito/",
+      "publishedAt": "Fri, 26 Jun 2026 20:56:00 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-2_capa.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
     },
     {
       "title": "Homem é preso após revelar ao ChatGPT plano de matar filho",
@@ -118,6 +219,19 @@
       "depts": []
     },
     {
+      "title": "OpenAI deve adiar o GPT-5.6 após pedido de Donald Trump",
+      "description": "Novo modelo de IA ficará inicialmente restrito a poucos clientes corporativos, que serão aprovados pelo governo dos Estados Unidos. OpenAI deve adiar o GPT-5.6 após pedido de Donald Trump",
+      "url": "https://tecnoblog.net/noticias/openai-deve-adiar-o-gpt-5-6-apos-pedido-de-donald-trump/",
+      "publishedAt": "Fri, 26 Jun 2026 14:49:44 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/01/capa-tbr-sam-altman.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Comercial"
+      ]
+    },
+    {
       "title": "GPT-5.6 tem estreia atrasada pela OpenAI após pedido do governo dos EUA",
       "description": "A estreia do GPT-5.6, nova versão do modelo de inteligência artificial (IA) do ChatGPT, levará mais tempo para ser concluída. O atraso, revelado pelo portal The Information e confirmado pelo Canaltech , ocorreu após uma solicitação do governo dos Estados Unidos por questões de segurança . IA mais us",
       "url": "https://canaltech.com.br/inteligencia-artificial/gpt-56-deve-ter-estreia-atrasada-apos-pedido-do-governo-dos-eua-revela-portal/",
@@ -162,6 +276,20 @@
       "content": null,
       "lang": "en",
       "depts": []
+    },
+    {
+      "title": "Anthropic acusa Alibaba de roubar dados do Claude",
+      "description": "Em carta enviada ao Congresso dos EUA, empresa afirma que gigante chinesa usou 25 mil contas falsas para extrair dados da IA. Anthropic acusa Alibaba de roubar dados do Claude",
+      "url": "https://tecnoblog.net/noticias/anthropic-acusa-alibaba-de-roubar-dados-do-claude/",
+      "publishedAt": "Thu, 25 Jun 2026 18:58:22 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/08/marca-claude-edited.png",
+      "source": "Tecnoblog",
+      "content": "Recursos de raciocínio de agente do Claude foram o principal alvo (imagem: divulgação) Resumo Anthropic acusou o Alibaba de invadir seus servidores para extrair dados do Claude. Em carta enviada ao Congresso dos EUA, a empresa afirma que o objetivo do ataque seria copiar as capacidades da IA para treinar rivais. A invasão teria ocorrido entre 22 de abril e 5 de junho de 2026, com 25 mil contas falsas criadas para acessar os sistemas da Anthropic. A Anthropic, startup norte-americana responsável pelo desenvolvimento do Claude, acusou formalmente a gigante chinesa Alibaba de invadir seus servidores para extrair dados. O objetivo da invasão seria copiar as capacidades da IA americana para treinar suas próprias ferramentas, processo que economizaria bilhões de dólares em pesquisa e desenvolvimento. A denúncia foi detalhada em uma carta enviada ao Congresso dos Estados Unidos no dia 10 de junho de 2026. A CNBC obteve a carta, assinada pela chefe de políticas da Anthropic, Sarah Heck, que afirma que a operação ocorreu entre os dias 22 de abril e 5 de junho deste ano . Durante esse período, operadores ligados à companhia chinesa e ao seu laboratório de pesquisa, que desenvolve o modelo de IA Qwen , teriam criado 25 mil contas para acessar os sistemas da Anthropic. Esses perfis falsos geraram mais de 28,8 milhões de interações com o Claude em pouco mais de um mês para extrair o máximo de informações sobre habilidades do modelo de linguagem, prática conhecida como ataque de destilação . Vale lembrar que, no começo da semana passada, o governo dos EUA aplicou uma sanção contra o Fable 5 e o Mythos 5 da Anthropic, impedindo que esses modelos sejam acessados por qualquer cidadão estrangeiro , inclusive dentro do país. A decisão sem precedentes na indústria americana de IA teria sido motivada por segurança nacional, após os sistemas demonstrarem grande capacidade técnica. O que é um ataque de destilação de IA? Alibaba desenvolve a família de modelos de IA Qwen (imagem: reprodução/Free Malaysian Today) Em termos simples, a destilação funciona como um atalho. Em vez de gastar anos e arcar com uma infraestrutura pesada para treinar um modelo do zero, uma empresa mal-intencionada utiliza as respostas e os dados processados por um outro modelo de ponta para ensinar o seu próprio sistema, que geralmente é menor e menos capaz. De acordo com a CNBC , a campanha da Alibaba mirou o raciocínio de agente do Claude — a capacidade de agir de forma autônoma para resolver problemas. Além disso, a empresa teria buscado extrair conhecimentos avançados de engenharia de software e execução de tarefas de longo prazo. A Anthropic classificou a manobra como o maior ataque de destilação conhecido contra a empresa até o momento . Anthropic pede sanções contra países Na prática, o laboratório concorrente estaria se apropriando de tecnologias americanas. Para combater a atividade, a Anthropic fez três exigências principais ao governo norte-americano. Mecanismos para facilitar o compartilhamento de dados sobre ameaças; O fim das brechas legais que ainda permitem a laboratórios chineses adquirir chips dos EUA; Sanções rigorosas contra nações que patrocinam a violação. O cenário não é um caso isolado. Em fevereiro deste ano, a própria criadora do Claude revelou campanhas semelhantes , que teriam sido coordenadas pelos laboratórios chineses DeepSeek, Moonshot e MiniMax. A concorrente OpenAI, dona do ChatGPT, também já havia denunciado laboratórios asiáticos por táticas parecidas no passado. A pressão dessas invasões gerou consequências. Após suspender o acesso aos modelos Fable 5 e Mythos 5, o governo dos EUA decidiu manter a restrição sob a suspeita de que um grupo ligado à China teve acesso à tecnologia . Até o momento, não há previsão oficial para a retomada da comercialização desses sistemas de IA. Anthropic acusa Alibaba de roubar dados do Claude",
+      "lang": "pt",
+      "depts": [
+        "Gestão",
+        "Educação"
+      ]
     },
     {
       "title": "Claude da Anthropic está conquistando consumidores pagos, mercado de propriedade do ChatGPT",
@@ -213,6 +341,33 @@
       "content": "A OpenAI começou a liberar uma atualização do GPT-5.5 Instant, modelo que serve de base para boa parte das conversas no ChatGPT. A novidade promete tornar as respostas mais naturais, fluidas e agradáveis , com melhor compreensão da intenção do usuário. O recurso já está disponível para assinantes dos planos pagos e chega aos usuários da versão gratuita nesta quinta-feira (25). Tudo sobre o ChatGPT: conheça os modelos e recursos da IA da OpenAI Quais são os modelos do ChatGPT? Conheça as IAs disponíveis no chatbot O GPT-5.5 Instant vem passando por uma evolução contínua desde sua chegada em maio. Em um primeiro momento, o foco foi ajustar o estilo das respostas, reduzindo o uso excessivo de emojis, listas longas e respostas muito formais, além de corrigir a tendência à complacência e melhorar a precisão em diferentes idiomas. Agora, nesta nova leva de ajustes liberada entre 24 e 25 de junho, o objetivo é ajustar ainda mais a experiência de conversa. O modelo passa a entender melhor a intenção do usuário , responde de forma envolvente e consegue lidar com instruções complexas com consistência, além de oferecer recomendações mais úteis, incluindo sugestões locais e de compras. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - No aplicativo para celular, os usuários podem pressionar e segurar o botão de envio para escolher rapidamente o nível de processamento desejado para uma mensagem, como Instantâneo, Pensando e Estendido . A seleção vale apenas para aquela solicitação específica, sem alterar o modelo padrão usado no restante da conversa. Já na versão web, conversas mais longas, com 5 ou mais respostas, vão exibir automaticamente um índice para facilitar a navegação entre diferentes partes do diálogo. A OpenAI atualizou o GPT-5.5 Instant para tornar o ChatGPT mais natural, conversacional e eficiente na compreensão das intenções dos usuários. (Imagem: Viviane França/Canaltech",
       "lang": "pt",
       "depts": [
+        "Gestão",
+        "Educação"
+      ]
+    },
+    {
+      "title": "O que é Projeto Stargate? Conheça a iniciativa de IA da OpenAI",
+      "description": "Projeto Stargate visa criar uma superestrutura para acelerar o desenvolvimento da Inteligência Artificial Geral (AGI), além de expandir a infraestrutura de data centers nos EUA O que é Projeto Stargate? Conheça a iniciativa de IA da OpenAI",
+      "url": "https://tecnoblog.net/responde/o-que-e-projeto-stargate-conheca-a-iniciativa-de-ia-da-openai/",
+      "publishedAt": "Thu, 25 Jun 2026 12:42:03 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/stargate_openai.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Robôs vão substituir 700 mil entregadores “mais cedo ou mais tarde”",
+      "description": "Fundador de gigante do varejo na China faz alerta, mas diz que não quer deixar trabalhadores sem emprego quando isso acontecer. Robôs vão substituir 700 mil entregadores “mais cedo ou mais tarde”",
+      "url": "https://tecnoblog.net/noticias/robos-vao-substituir-os-700-mil-entregadores-mais-cedo-ou-mais-tarde/",
+      "publishedAt": "Wed, 24 Jun 2026 22:23:23 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/img_1620.jpeg",
+      "source": "Tecnoblog",
+      "content": "Automatização iminente: 700 mil entregadores serão substituídos na China num futuro próximo (imagem: Reprodução/The Wire China) Resumo Fundador da JD.com, Richard Liu, afirma que 700 mil entregadores humanos serão substituídos por robôs de delivery mais cedo ou mais tarde. A JD.com planeja reposicionar esses trabalhadores por meio de treinamentos em novas áreas, com acordos já firmados com cerca de 120 escolas. A China deve ter 320 milhões de trabalhadores autônomos no final de 2026, incluindo entregadores, motoristas de aplicativo e trabalhadores temporários em fábricas. A gigante JD.com, um dos grandes nomes do e-commerce na China, avisou: “mais cedo ou mais tarde”, os cerca de 700 mil entregadores humanos serão substituídos por robôs de delivery. A declaração foi dada por Richard Liu, fundador e atual conselheiro da empresa, durante o Fórum de CEOs da APEC (Cooperação Econômica Ásia-Pacífico). A fala de Liu chega em um momento em que o mercado vê diversos exemplos de automação em serviços, além de uma crescente preocupação quanto à substituição de pessoas por robôs. Segundo o fundador da JD, a ideia é não deixar os trabalhadores “na mão”, e há inclusive planos para reposicionar essas pessoas no futuro. As entregas na China já vêm sendo reforçadas por robôs há algum tempo. Segundo o The Wire China , somente em julho de 2025, por exemplo, 30 mil novos ADVs (veículos autônomos de delivery) foram encomendados para cerca de 200 cidades no país. O mesmo já acontece nos Estados Unidos e em outras regiões do planeta. A automação pode precarizar o trabalho? O uso de robôs só faz crescer. Entre exemplos recentes estão robôs humanoides da chinesa Unitree no principal aeroporto do Japão , além de modelos da estadunidense Figure AI trabalhando na linha de produção de uma fábrica . Da mesma forma, cães robôs da Boston Dynamics também já se fazem presentes no policiamento de um estádio da Copa do Mundo de 2026, em Dallas, e não faltam exemplos dos robôs aspiradores , que funcionam numa linha mais auxiliar do que propriamente substituindo humanos. Robôs de entrega e drones já foram testados pelo iFood no Brasil (imagem: divulgação/iFood) JD planeja evitar demissões em massa A fala de Liu veio acompanhada de uma promessa de que os trabalhadores não seriam esquecidos. A ideia é reposicioná-los no mercado por meio da profissionalização em novas áreas, e acordos já teriam sido feitos pela JD com cerca de 120 escolas para treinamentos. Entre as possibilidades estão trabalhos de reparos e manutenção desses robôs de delivery , por exemplo. A expectativa é de que, no final de 2026, a China chegue a 320 milhões de trabalhadores autônomos, que atuam não só em entregas, mas também como motoristas de aplicativo e até mesmo em fábricas sob contratos temporários. Ou seja: um Brasil e meio só de pessoas sem emprego fixo. Relembre: andamos num carro autônomo pela primeira vez Robôs vão substituir 700 mil entregadores “mais cedo ou mais tarde”",
+      "lang": "pt",
+      "depts": [
+        "RH",
+        "Comercial",
         "Gestão",
         "Educação"
       ]
@@ -372,170 +527,6 @@
         "Marketing",
         "Gestão",
         "Educação"
-      ]
-    },
-    {
-      "title": "Como descobrir se a IA está alucinando e inventando informação",
-      "description": "Imagine pedir a uma inteligência artificial uma explicação técnica, um resumo de uma lei, uma lista de dados estatísticos ou até uma fonte acadêmica para um trabalho. Em segundos, você recebe uma resposta bem escrita, organizada e com um tom de autoridade que parece difícil de contestar. O que é alu",
-      "url": "https://canaltech.com.br/inteligencia-artificial/como-descobrir-se-a-ia-esta-alucinando-e-inventando-informacao/",
-      "publishedAt": "Sun, 21 Jun 2026 15:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/56l8_fdioQnwgVi4_jGwMzuNbXQ=/700x394/smart/i929017.jpeg",
-      "source": "Canaltech IA",
-      "content": "Imagine pedir a uma inteligência artificial uma explicação técnica, um resumo de uma lei, uma lista de dados estatísticos ou até uma fonte acadêmica para um trabalho. Em segundos, você recebe uma resposta bem escrita, organizada e com um tom de autoridade que parece difícil de contestar. O que é alucinação de IA? O que é RAG na IA? Conheça o recurso que ajuda a reduzir alucinações O problema é que essa confiança pode ser enganosa . IAs generativas conseguem criar nomes de especialistas, estudos científicos, datas, links e citações que parecem reais, mas que muitas vezes não existem de fato. Esse fenômeno é conhecido como alucinação ou confabulação. Por isso, antes de aceitar qualquer resposta como verdadeira, vale aplicar um filtro simples : uma avaliação para decidir se a informação dada pela IA pode ser usada, precisa ser revisada ou deve ser descartada. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A seguir, tire suas dúvidas sobre: A resposta tem fonte verificável? A fonte existe e abre? A fonte sustenta a afirmação com exatidão? A resposta mistura fatos atuais com informação antiga? A IA está confiante demais? A resposta se contradiz quando você pergunta de novo? Outra fonte confiável confirma a mesma informação? A informação envolve decisão sensível? A IA inventou precisão demais? Decisão final: usar, revisar ou descartar? A resposta tem fonte verificável? O primeiro passo é observar se a IA indica claramente de onde tirou a informação . Quando não há fonte, link, documento, autor ou data, o conteúdo não deve ser tratado como fato, mas apenas como um rascunho inicial. É comum a IA usar expressões vagas, como “estudos mostram” ou “especialistas afirmam”, sem dizer exatamente quais estudos ou quais especialistas. Esse tipo de resposta pode até estar correta, mas sem referência verificável ela não está pronta para ser usada com segurança. Se quiser testar a consistên",
-      "lang": "pt",
-      "depts": [
-        "RH",
-        "Jurídico",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Como usar o Gemini para revisar um texto mantendo seu jeito de escrever",
-      "description": "Se você já escreveu um texto, pediu para uma IA dar uma ajuda e recebeu de volta uma versão que até parecia melhor, mas não soava mais como você , saiba que não está sozinho. Isso acontece com frequência. O texto até fica correto, organizado e mais elegante, mas perde aquele jeito seu de escrever qu",
-      "url": "https://canaltech.com.br/inteligencia-artificial/como-usar-o-gemini-para-revisar-um-texto-mantendo-seu-jeito-de-escrever/",
-      "publishedAt": "Sun, 21 Jun 2026 09:35:00 -0300",
-      "image": "https://t.ctcdn.com.br/u-ApvEXeczP3CmhwQ0AK7cHkEGs=/700x394/smart/i1132313.png",
-      "source": "Canaltech IA",
-      "content": "Se você já escreveu um texto, pediu para uma IA dar uma ajuda e recebeu de volta uma versão que até parecia melhor, mas não soava mais como você , saiba que não está sozinho. Isso acontece com frequência. O texto até fica correto, organizado e mais elegante, mas perde aquele jeito seu de escrever que faz a mensagem parecer realmente sua. Como usar o ChatGPT para revisar um texto mantendo seu jeito de escrever 7 prompts para o Gemini criar resumos e mapas mentais para provas É daí que vem a expressão “cara de IA” , usada para descrever textos genéricos, previsíveis e com pouca personalidade. A boa notícia é que isso não precisa acontecer. O Gemini pode revisar textos preservando seu estilo, desde que o comando seja específico. Muitas vezes, o problema não é usar IA, mas pedir apenas “melhore este texto” sem definir o que pode ou não ser alterado. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A seguir, tire suas dúvidas sobre: O que significa “manter seu jeito de escrever”? Quando vale usar o Gemini para revisar um texto? Qual é o erro mais comum? Qual é o tipo de revisão que você deseja? Prompt base para revisar sem perder seu estilo Prompt para pedir sugestões sem alterar o texto Prompt para manter tom informal, acadêmico ou profissional Como evitar que o texto fique com “cara de IA”? Exemplo prático: antes e depois de uma revisão controlada Como revisar textos maiores no Gemini? O que aceitar, ajustar ou recusar nas sugestões do Gemini? O que verificar antes de publicar ou entregar o texto? Prompts prontos para copiar O que significa “manter seu jeito de escrever”? Quando falamos em preservar o estilo de escrita, não estamos falando apenas de evitar erros. O estilo é formado por diversas escolhas pessoais que aparecem naturalmente no texto. Algumas pessoas escrevem com frases curtas e diretas. Outras preferem desenvolver melhor as ideias. Há quem adote um tom mais desc",
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "8 formas de assinar o Gemini mais barato ou de graça",
-      "description": "Muita gente pensa no AI Pro quando fala em Gemini pago, mas a verdade é que o Google já tem uma opção mais acessível , o AI Plus, além de alguns caminhos que podem ajudar a gastar menos. Em alguns casos, dá até para aproveitar recursos avançados sem pagar nada por um tempo. Google AI Plus, Pro e Ult",
-      "url": "https://canaltech.com.br/inteligencia-artificial/como-assinar-o-gemini-mais-barato-ou-de-graca/",
-      "publishedAt": "Sat, 20 Jun 2026 15:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/xJsYmUSfVb47gNGY9_wAC1H0BII=/700x394/smart/i1135135.png",
-      "source": "Canaltech IA",
-      "content": "Muita gente pensa no AI Pro quando fala em Gemini pago, mas a verdade é que o Google já tem uma opção mais acessível , o AI Plus, além de alguns caminhos que podem ajudar a gastar menos. Em alguns casos, dá até para aproveitar recursos avançados sem pagar nada por um tempo. Google AI Plus, Pro e Ultra: qual plano com Gemini avançado devo assinar? O que é pago e o que é gratuito no Gemini? Veja a lista Também existe uma diferença importante entre usar o Gemini e assinar um plano com Gemini. Qualquer pessoa com uma Conta Google pode acessar a versão gratuita da IA. Já os planos pagos adicionam limites maiores , armazenamento em nuvem, recursos avançados e integrações extras com os serviços da empresa. Vale esclarecer que esta lista não reúne “hacks” nem gambiarras. Todas as opções são oficiais e dependem de promoções, regras de elegibilidade ou benefícios institucionais. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A seguir, confira: 8 maneiras de pagar mais barato no Gemini O que você precisa saber antes de tentar economizar no Gemini? Vale a pena pagar pelo Gemini? 8 maneiras de pagar mais barato no Gemini Veja 8 maneiras de pagar mais barato ou usar o Gemini de graça: Use o Gemini gratuito antes de pagar qualquer plano Assine o Google AI Plus em vez do AI Pro Divida o plano do Gemini com a família Resgate o Google AI Plus pelo Itaú Aproveite promoções em celulares Samsung Avalie se o Google AI Plus de 2 TB compensa Use alternativas educacionais pela faculdade ou universidade Considere pacotes com operadoras 1. Use o Gemini gratuito antes de pagar qualquer plano Antes de assinar qualquer plano, vale testar a versão gratuita do Gemini . Para quem usa IA apenas para escrever textos simples, organizar ideias, resumir conteúdos leves ou tirar dúvidas do dia a dia, ela pode ser suficiente. A principal vantagem é evitar pagar por limites e recursos que talvez nunca sejam uti",
-      "lang": "pt",
-      "depts": [
-        "Comercial",
-        "Educação"
-      ]
-    },
-    {
-      "title": "10 dicas do que nunca colocar em um prompt de IA",
-      "description": "Você provavelmente já fez isso ou pensou em fazer: abrir um chatbot para ganhar tempo e colar um contrato, um exame médico, uma planilha financeira, um currículo ou um e-mail do trabalho para pedir ajuda. Afinal, a IA consegue resumir textos, revisar documentos, explicar informações complicadas e su",
-      "url": "https://canaltech.com.br/inteligencia-artificial/10-dicas-do-que-nunca-colocar-em-um-prompt-de-ia/",
-      "publishedAt": "Sat, 20 Jun 2026 09:40:00 -0300",
-      "image": "https://t.ctcdn.com.br/6_jjYCRUlsR2Up9Egs-xmFz1YPY=/700x394/smart/i1028123.jpeg",
-      "source": "Canaltech IA",
-      "content": "Você provavelmente já fez isso ou pensou em fazer: abrir um chatbot para ganhar tempo e colar um contrato, um exame médico, uma planilha financeira, um currículo ou um e-mail do trabalho para pedir ajuda. Afinal, a IA consegue resumir textos, revisar documentos, explicar informações complicadas e sugerir melhorias em poucos segundos. Gerar senhas com IA é seguro? O que fazer e o que NUNCA fazer Segurança, saúde e mais: 7 tendências de IA para 2026, de acordo com a Microsoft O problema é que nem tudo o que está nesses arquivos deveria ser compartilhado. Dados pessoais, informações sigilosas da empresa, senhas e detalhes de outras pessoas podem acabar indo junto no prompt sem que você perceba. Na maioria dos casos, não é preciso deixar de usar a IA . O importante é saber o que remover, ocultar ou substituir antes de enviar. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A seguir, tire suas dúvidas sobre: O que não adicionar em um prompt de IA? Como transformar um prompt arriscado em prompt seguro? Antes de enviar, faça o teste dos 30 segundos O que não adicionar em um prompt de IA? A seguir, veja 10 tipos de informação que nunca devem entrar em um prompt sem revisão prévia: Dados pessoais que identificam você ou outra pessoa Dados sensíveis, como saúde, religião, política e sexualidade Senhas, códigos de autenticação e chaves de acesso Dados bancários, cartões e informações financeiras completas Documentos de trabalho, contratos e informações sigilosas Informações de crianças, familiares e terceiros Mensagens privadas e conversas íntimas sem consentimento Arquivos inteiros sem revisar o conteúdo antes Prompts que pedem para burlar regras, sistemas ou proteções Qualquer dado que você não sabe como será armazenado ou usado 1. Dados pessoais que identificam você ou outra pessoa Nomes completos, CPF, RG, endereço residencial, telefone, e-mail pessoal, matrícula, número de clie",
-      "lang": "pt",
-      "depts": [
-        "RH",
-        "Financeiro",
-        "Comercial",
-        "Saúde"
-      ]
-    },
-    {
-      "title": "IA bloqueada pelos EUA por medo de espionagem da China deve voltar em dias",
-      "description": "Os modelos Claude Fable 5 e Mythos 5, da Anthropic, devem ser liberados para uso nos próximos dias , segundo um executivo da empresa. O acesso às duas IAs foi suspenso após uma decisão do governo dos Estados Unidos , alegando proteger a segurança nacional de possível espionagem. Fable 5: por que os ",
-      "url": "https://canaltech.com.br/inteligencia-artificial/ia-bloqueada-pelos-eua-por-medo-de-espionagem-da-china-deve-voltar-em-dias/",
-      "publishedAt": "Fri, 19 Jun 2026 18:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/TCDZxCGopGyog2V7TM79C2AjhHU=/700x394/smart/i1133651.png",
-      "source": "Canaltech IA",
-      "content": "Os modelos Claude Fable 5 e Mythos 5, da Anthropic, devem ser liberados para uso nos próximos dias , segundo um executivo da empresa. O acesso às duas IAs foi suspenso após uma decisão do governo dos Estados Unidos , alegando proteger a segurança nacional de possível espionagem. Fable 5: por que os EUA vetaram o acesso ao modelo do Claude? O que é o Claude Fable 5 e por que ele é tão polêmico? De acordo com o jornal sul-coreano Korea JoongAng Daily, a informação foi confirmada pelo Diretor Administrativo Internacional da Anthropic, Chris Ciauri, em entrevista coletiva na cidade de Seul, na Coreia do Sul. “Estamos confiantes que os modelos serão disponibilizados novamente nos próximos dias ”, afirmou Ciauri, sem mencionar uma data específica. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Por que os modelos da Anthropic foram bloqueados? O governo dos Estados Unidos emitiu uma diretiva de controle de exportação sobre os modelos Fable 5 e Mythos 5 da Anthropic e citou a segurança nacional como um dos motivos por trás da decisão. Como consequência, a empresa precisou suspender o acesso a ambos os LLMs pelos seus respectivos clientes dentro e fora dos EUA. De acordo com o site Wired, a medida teria sido impulsionada por suspeita de espionagem da China : uma das empresas com acesso aos modelos, a sul-coreana SK Telecom, teria vínculo com o governo chinês. A empresa negou as acusações. Além disso, a diretiva entendeu que o modelo Fable 5 poderia ser usado para um jailbreak , ou seja, uma forma de desobedecer regras de segurança aplicadas para a IA. A Anthropic seguiu a ordem do governo dos EUA, mas discordou da ideia de suspender um modelo por conta de um jailbreak em potencial. \"Caso esse padrão fosse aplicado em toda a indústria, a creditamos que isso paralisaria todas as novas implementações de modelos para todos os fornecedores de modelos de vanguarda\", destacou a companhi",
-      "lang": "pt",
-      "depts": [
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Google envia usuários para concorrente em erro bizarro de sua própria IA",
-      "description": "O Google acabou recomendando o uso do DuckDuckGo em respostas geradas pelo recurso AI Overviews, após interpretar buscas de usuários que queriam evitar inteligência artificial. O caso ganhou repercussão depois que o próprio DuckDuckGo publicou um post no X mostrando o erro e ironizando a situação. C",
-      "url": "https://canaltech.com.br/inteligencia-artificial/google-envia-usuarios-para-concorrente-em-erro-bizarro-de-sua-propria-ia/",
-      "publishedAt": "Fri, 19 Jun 2026 16:05:00 -0300",
-      "image": "https://t.ctcdn.com.br/lXV3sQXg377hyx1PIjkXjdiSpAw=/700x394/smart/i1136249.png",
-      "source": "Canaltech IA",
-      "content": "O Google acabou recomendando o uso do DuckDuckGo em respostas geradas pelo recurso AI Overviews, após interpretar buscas de usuários que queriam evitar inteligência artificial. O caso ganhou repercussão depois que o próprio DuckDuckGo publicou um post no X mostrando o erro e ironizando a situação. Cansou de usar o Chrome? Veja 8 alternativas ao navegador do Google O que é DuckDuckGo? | Rival do Google luta por privacidade Em buscas pelo termo \"no ai\" , o sistema tentou interpretar o que o usuário quis dizer e acabou sugerindo melhores formas de evitar resultados com inteligência artificial, indicando outro buscador — no caso, o DuckDuckGo. Em alguns casos, também apareceu o navegador Brave como alternativa, devido à possibilidade de realizar ajustes nas configurações para reduzir ou bloquear respostas geradas por IA. O episódio reacendeu o debate sobre a integração cada vez mais profunda de recursos de IA na busca do Google. Embora o DuckDuckGo também ofereça recursos de inteligência artificial, como o “Search Assist” e o “Duck.ai”, eles podem vir ativados por padrão em algumas experiências. A principal diferença, e um dos pontos da crítica ao Google, é que o DuckDuckGo permite desativar essas funções de forma simples. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Já no Google, o AI Overviews não pode ser desativado permanentemente nas configurações padrão da conta. Em vez disso, usuários que preferem resultados tradicionais precisam selecionar manualmente o filtro “Web” a cada nova busca para acessar apenas os links clássicos, sem respostas geradas por IA. Erro no AI Overviews fez o Google recomendar o DuckDuckGo a usuários que queriam evitar resultados gerados por IA. (Imagem: André Magalhães/Canaltech) Número de usuários do DuckDuckGo está crescendo O interesse pelo DuckDuckGo vem aumentando após a expansão dos recursos de inteligência artificial na busca do Google. ",
-      "lang": "pt",
-      "depts": [
-        "Jurídico",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Não sabe criar fórmulas? Nova IA do Google Planilhas te ajuda com isso",
-      "description": "O Google está ampliando as capacidades do Gemini no Google Planilhas para que os usuários criem e editem planilhas por meio de comandos em linguagem natural . A novidade chega com suporte a 28 novos idiomas, incluindo o português, e já está disponível para contas empresariais, educacionais e assinan",
-      "url": "https://canaltech.com.br/inteligencia-artificial/nao-sabe-criar-formulas-nova-ia-do-google-planilhas-te-ajuda-com-isso/",
-      "publishedAt": "Fri, 19 Jun 2026 15:35:00 -0300",
-      "image": "https://t.ctcdn.com.br/2o7hxgkMDtJ7fi1QdhRUMU30X8U=/700x394/smart/i1136223.png",
-      "source": "Canaltech IA",
-      "content": "O Google está ampliando as capacidades do Gemini no Google Planilhas para que os usuários criem e editem planilhas por meio de comandos em linguagem natural . A novidade chega com suporte a 28 novos idiomas, incluindo o português, e já está disponível para contas empresariais, educacionais e assinantes de planos Google AI Pro e AI Ultra. 8 IAs para criar fórmulas de Excel e Google Planilhas Quer trabalhar mais rápido? 4 opções para editar planilha com IA A ferramenta funciona como um assistente integrado no próprio Planilhas . Agora, não é mais necessário escrever fórmulas complexas ou montar tabelas manualmente, basta descrever o que precisa no painel lateral do Gemini, como “criar uma planilha de orçamento mensal” ou “gerar um gráfico de vendas por mês”, e a IA monta a estrutura automaticamente, incluindo fórmulas, tabelas dinâmicas e visualizações. Com o recurso, também é possível editar documentos para ajustar cálculos, reorganizar dados e sugerir melhorias. O objetivo do Google é facilitar o uso do Planilhas e tornar o trabalho com dados mais simples, mesmo para quem não domina funções avançadas. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Além disso, a expansão para 28 idiomas, incluindo português, espanhol, japonês, francês, alemão e árabe etc., busca eliminar barreiras linguísticas e facilitar a colaboração entre equipes globai s. Assim, pessoas de diferentes países podem trabalhar juntas em análises e modelos financeiros usando seus próprios idiomas. Google expande o Gemini no Planilhas, que agora cria e edita fórmulas e dados por IA em 28 idiomas. (Imagem: Viviane França/Canaltech / Editada por IA/ChatGPT) Quem pode usar o Gemini no Google Planilhas? O Gemini no Google Planilhas está disponível para contas empresariais, corporativas, educacionais e assinantes de planos avançados do Google AI. O acesso inclui os usuários dos planos: Business Standard; Busines",
-      "lang": "pt",
-      "depts": [
-        "Comercial",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Falha grave faz ChatGPT gerar imagens violentas e explícitas com prompt simples",
-      "description": "Um relatório da empresa de segurança em IA Mindgard mostra que o ChatGPT pode gerar imagens violentas e sexualmente explícitas a partir de prompts simples e enganosos. O caso foi demonstrado por pesquisadores da companhia, que conseguiram contornar filtros de segurança do sistema ao explorar brechas",
-      "url": "https://canaltech.com.br/inteligencia-artificial/falha-grave-faz-chatgpt-gerar-imagens-violentas-e-explicitas-com-prompt-simples/",
-      "publishedAt": "Fri, 19 Jun 2026 13:35:00 -0300",
-      "image": "https://t.ctcdn.com.br/CwTb5KNWOIPyQhMUlOLFldakqk8=/700x394/smart/i1119843.png",
-      "source": "Canaltech IA",
-      "content": "Um relatório da empresa de segurança em IA Mindgard mostra que o ChatGPT pode gerar imagens violentas e sexualmente explícitas a partir de prompts simples e enganosos. O caso foi demonstrado por pesquisadores da companhia, que conseguiram contornar filtros de segurança do sistema ao explorar brechas na forma como ele interpreta comandos. Como usar o ChatGPT Images 2.0 para criar posts, banners e infográficos melhores 10 coisas que você pode fazer com o novo gerador de imagens do ChatGPT O teste foi conduzido por Jim Nightingale, pesquisador da equipe de “red team” da Mindgard. Ele utilizou um prompt viral , originalmente inofensivo, encontrado na rede social X e compartilhado por Kris Kashtanova, influenciadora de IA e educadora. O comando pedia ao chatbot para “restaurar uma imagem anexada”, mesmo sem enviar nenhum arquivo. A proposta original era gerar imagens divertidas e leves, mas acabou sendo explorado de forma inesperada. Ao repetir o comando ou fazer pequenas alterações na instrução, o sistema começou a gerar imagens em vez de solicitar o conteúdo ausente, explorando um comportamento conhecido como repetição de prompt (RE2) . - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Segundo o relatório, os resultados incluíram cenas de violência extrema, situações de violência sexual e imagens explícitas . Os pesquisadores afirmam que não foi necessário um método sofisticado de invasão, mas sim o uso de instruções repetidas e variações mínimas de linguagem para induzir o modelo a contornar suas próprias barreiras de segurança. No entanto, os pesquisadores também usaram formas de enganar a IA . Eles chegaram a inserir um ID de imagem falso e afirmar que a imagem “já havia sido gerada e aprovada”. Em outros casos, pediram que o sistema “não julgasse o conteúdo, mesmo que fosse violento”, tentando contornar os filtros de segurança. Para dar a dimensão da gravidade, o estudo de",
-      "lang": "pt",
-      "depts": [
-        "Comercial"
-      ]
-    },
-    {
-      "title": "Google se une à Microsoft e cria buscador exclusivo para robôs e IAs",
-      "description": "Google, Microsoft e outras dez empresas de tecnologia anunciaram uma nova especificação aberta chamada ARD (Agentic Resource Discovery) , criada para permitir que agentes de inteligência artificial encontrem, por conta própria e em tempo real, ferramentas, habilidades e outros agentes disponíveis na",
-      "url": "https://canaltech.com.br/inteligencia-artificial/google-se-une-a-microsoft-e-cria-buscador-exclusivo-para-robos-e-ias/",
-      "publishedAt": "Fri, 19 Jun 2026 12:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/1-M1Z6Rh0-yVMzk6sfwMfTGm83Y=/700x394/smart/i894583.jpeg",
-      "source": "Canaltech IA",
-      "content": "Google, Microsoft e outras dez empresas de tecnologia anunciaram uma nova especificação aberta chamada ARD (Agentic Resource Discovery) , criada para permitir que agentes de inteligência artificial encontrem, por conta própria e em tempo real, ferramentas, habilidades e outros agentes disponíveis na web. 8 diferenças entre o polêmico Claude Fable 5 e o Mythos 5 IA da Prefeitura do Rio vira alvo de polêmica e acusação de plágio A iniciativa reúne ainda GoDaddy, Hugging Face, NVIDIA, Salesforce, ServiceNow, Databricks, Snowflake, GitHub e Cisco. Dois nomes relevantes ficaram de fora: OpenAI e Anthropic. O problema que o ARD quer resolver Hoje, um agente de IA só consegue usar os recursos que foram conectados explicitamente a ele durante a configuração. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O MCP (Model Context Protocol), lançado pela Anthropic em 2024, resolveu parte desse problema ao padronizar a comunicação entre sistemas de IA e servidores. Mas ele não resolve a descoberta: um agente sabe como conversar com um servidor, mas não como encontrá-lo. É essa lacuna que o ARD tenta preencher. A Microsoft compara a situação atual com a web antes dos mecanismos de busca. Antes do Google, sites precisavam ser catalogados manualmente para que alguém os encontrasse. Com o ARD, agentes de IA terão um mecanismo equivalente para localizar capacidades disponíveis na rede. Agentes de IA ainda dependem de conexões manuais para acessar ferramentas — o ARD quer mudar isso (Imagem: Reprodução/franganillo/Pixabay) Como funciona na prática O padrão tem dois componentes principais: catálogos e registros . Uma organização publica um arquivo chamado ai-catalog.json em seu próprio domínio. Registros rastreiam esses catálogos, indexam o conteúdo e retornam as capacidades que correspondem ao que o agente busca, junto com metadados para verificar a origem antes de qualquer conexão. Três imp",
-      "lang": "pt",
-      "depts": [
-        "Comercial",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Google resolve falta de memória do Gemini Live de um jeito inusitado",
-      "description": "O Google começou a liberar uma atualização para o Gemini Live que acaba com uma das maiores limitações da ferramenta: a falta de memória entre conversas . Agora, a IA consegue se lembrar de informações compartilhadas anteriormente e usar dados de aplicativos conectados para tornar as interações por ",
-      "url": "https://canaltech.com.br/inteligencia-artificial/google-resolve-falta-de-memoria-do-gemini-live-de-um-jeito-inusitado/",
-      "publishedAt": "Fri, 19 Jun 2026 11:05:00 -0300",
-      "image": "https://t.ctcdn.com.br/IJsnrNCdclwIMc0DRDcyWvJ7VWU=/700x394/smart/i939871.jpeg",
-      "source": "Canaltech IA",
-      "content": "O Google começou a liberar uma atualização para o Gemini Live que acaba com uma das maiores limitações da ferramenta: a falta de memória entre conversas . Agora, a IA consegue se lembrar de informações compartilhadas anteriormente e usar dados de aplicativos conectados para tornar as interações por voz mais naturais e personalizadas. Como funciona o Gemini Live? Conheça o assistente de IA do Google 5 formas de usar o Gemini Live para acompanhar notícias no seu ritmo Com a nova área de \"Inteligência Pessoal\", o Gemini Live pode guardar detalhes importantes sobre você , como preferências alimentares, hobbies ou datas especiais. Assim, não é preciso repetir as mesmas informações sempre que iniciar uma nova conversa. A IA também consegue consultar aplicativos conectados em tempo real. Durante uma conversa por voz, ela pode buscar informações em serviços , como YouTube , Google Calendar, Keep, Tasks e ferramentas do Google Workspace, para responder com mais contexto. Além disso, o Gemini Live também permite compartilhar a tela e usar a câmera do celular, ajudando a IA a entender melhor o que o usuário está vendo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Além dos apps do Google, o Gemini Live agora se integra a serviços de terceiros , incluindo Spotify e aplicativos da Samsung , Xiaomi , HONOR, OnePlus e OPPO . A IA também pode recorrer a recursos, como Google Voos, Google Hotéis e até informações públicas do Google Maps, para oferecer respostas mais úteis e personalizadas. As informações usadas pela IA seguem as mesmas configurações escolhidas no chat convencional. Apesar de essa integração deixar o Gemini Live mais útil, ela também levanta questões sobre privacidade . Como a IA pode acessar informações de diferentes serviços do Google, ela tem uma visão mais ampla da rotina do usuário, o que exige maior controle sobre as permissões e pode gerar preocupações sobre quais",
-      "lang": "pt",
-      "depts": [
-        "Comercial"
-      ]
-    },
-    {
-      "title": "8 diferenças entre o polêmico Claude Fable 5 e o Mythos 5",
-      "description": "O Claude Fable 5 e o Claude Mythos 5 chegaram como os modelos mais poderosos da Anthropic , mas logo entraram em uma discussão maior sobre segurança e quem deve ter acesso às capacidades mais avançadas da IA. A ideia é levar recursos de nível Mythos para mais pessoas com o Fable 5, enquanto o Mythos",
-      "url": "https://canaltech.com.br/inteligencia-artificial/diferencas-entre-claude-fable-5-e-mythos-5/",
-      "publishedAt": "Thu, 18 Jun 2026 19:45:00 -0300",
-      "image": "https://t.ctcdn.com.br/V5M0aA16mgRP6QN3EC8of5UbbyM=/700x394/smart/i1135099.png",
-      "source": "Canaltech IA",
-      "content": "O Claude Fable 5 e o Claude Mythos 5 chegaram como os modelos mais poderosos da Anthropic , mas logo entraram em uma discussão maior sobre segurança e quem deve ter acesso às capacidades mais avançadas da IA. A ideia é levar recursos de nível Mythos para mais pessoas com o Fable 5, enquanto o Mythos 5 segue reservado para parceiros selecionados em áreas mais sensíveis. Fable 5: por que os EUA vetaram o acesso ao modelo do Claude? Dona do Claude está pronta para abrir capital; o que muda na prática? A polêmica aumentou depois que reportagens da Wired e do The Verge disseram que o governo dos Estados Unidos começou a pressionar a Anthropic . A preocupação era com possíveis formas de contornar as proteções do Fable 5, o que poderia liberar capacidades próximas às do Mythos 5 para um público mais amplo. 8 diferenças entre o Claude Fable 5 e o Mythos 5 Confira as principais diferenças entre os modelos Claude Fable 5 e Mythos 5: - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Acesso: Fable 5 nasceu para o público; Mythos 5 para grupos vetados Guardrails: Fable 5 tem travas; Mythos 5 remove parte delas Cibersegurança: Mythos 5 é mais livre; Fable 5 é mais contido Biologia e química: Mythos 5 mira pesquisa avançada; Fable 5 restringe pedidos Experiência de uso: Fable 5 pode cair para Opus 4.8 em temas sensíveis Desempenho: Fable 5 promete nível Mythos, mas nem sempre entrega tudo Preço: os dois têm o mesmo custo anunciado Risco regulatório: Fable 5 virou o caso público; Mythos 5 virou o limite 1. Acesso: Fable 5 nasceu para o público; Mythos 5 para grupos vetados A primeira grande diferença está na disponibilidade . O Claude Fable 5 foi apresentado como o modelo “geral” da família Mythos, disponível por meio da API e dos planos da Claude. Já o Mythos 5 foi pensado para parceiros selecionados, principalmente dentro do Project Glasswing. No entanto, essa estratégia acabou esbarrand",
-      "lang": "pt",
-      "depts": [
-        "Educação"
-      ]
-    },
-    {
-      "title": "O custo invisível dos tokens: por que a conta da IA não para de subir?",
-      "description": "A inteligência artificial generativa entrou nas empresas com promessa de ganho de produtividade. Agora, parte desse mercado começa a lidar com o outro lado da moeda: quanto mais a IA trabalha, mais tokens são consumidos e, em muitas plataformas, o gasto de créditos fica maior. Por que grandes empres",
-      "url": "https://canaltech.com.br/inteligencia-artificial/o-custo-invisivel-dos-tokens-por-que-a-conta-da-ia-nao-para-de-subir/",
-      "publishedAt": "Wed, 17 Jun 2026 15:13:22 -0300",
-      "image": "https://t.ctcdn.com.br/_epbm99Gd87mJZTwPerogdnAplI=/700x394/smart/i1116023.png",
-      "source": "Canaltech IA",
-      "content": "A inteligência artificial generativa entrou nas empresas com promessa de ganho de produtividade. Agora, parte desse mercado começa a lidar com o outro lado da moeda: quanto mais a IA trabalha, mais tokens são consumidos e, em muitas plataformas, o gasto de créditos fica maior. Por que grandes empresas estão revendo seus gastos com IA 99% dos líderes esperam demitir por causa da IA, aponta pesquisa A mudança aparece em ferramentas de programação, atendimento, análise de documentos e agentes autônomos. O que antes, no geral, cabia em uma assinatura mensal começa a migrar para modelos baseados em uso , em que tarefas mais longas, complexas ou repetitivas podem consumir rapidamente os créditos disponíveis. Os sinais dessa virada já são visíveis na indústria como um todo. No começo de junho, o GitHub instituiu uma nova política de cobrança baseada em uso no Copilot . Não demorou muito e a mudança foi alvo de reclamações depois que usuários viram seus créditos mensais serem consumidos em poucas horas . - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Segundo o portal Bloomberg, a Uber instituiu um teto mensal por funcionário e por ferramenta de codificação agêntica. A medida veio depois de a empresa ter consumido seu orçamento anual de IA em apenas quatro meses . A Cisco também passou a tratar o consumo de tokens como ponto de atenção. Em uma teleconferência de resultados, de acordo com a revista Wired, o CEO Chuck Robbins afirmou que um terço dos funcionários usa diariamente um chatbot interno de IA e que, com esse nível de adoção, o uso de tokens estava ficando “bem fora do comum” . GitHub Copilot adota modelo de cobrança por uso (Imagem: Créditos: Mohammad Rahmani/Unsplash) A conta que saiu do plano fixo A lógica por trás da mudança é simples: nem todo uso de IA custa a mesma coisa . Uma pergunta rápida em um chatbot consome muito menos recursos do que uma sessão autônoma de ",
-      "lang": "pt",
-      "depts": [
-        "Financeiro",
-        "Gestão"
       ]
     }
   ]
