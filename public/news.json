@@ -1,7 +1,44 @@
 {
-  "updatedAt": "2026-06-28T11:40:48.736Z",
+  "updatedAt": "2026-06-29T14:00:45.966Z",
   "count": 40,
   "articles": [
+    {
+      "title": "\"IA perigosa\" do Claude é liberada novamente, mas para poucos",
+      "description": "A Anthropic recebeu o sinal verde para voltar a distribuir o Mythos 5 , a \"IA perigosa\" do Claude . Segundo o portal The Verge neste domingo (28), o governo dos Estados Unidos flexibilizou a diretriz de controle de exportação para um grupo selecionado de pessoas. O Fable 5 , por outro lado, segue in",
+      "url": "https://canaltech.com.br/inteligencia-artificial/ia-perigosa-do-claude-e-liberada-novamente-mas-para-poucos/",
+      "publishedAt": "Mon, 29 Jun 2026 09:01:41 -0300",
+      "image": "https://t.ctcdn.com.br/ZjcOUdfWaAgXirKJr4MiY0ln2Po=/700x394/smart/i1111425.png",
+      "source": "Canaltech IA",
+      "content": "A Anthropic recebeu o sinal verde para voltar a distribuir o Mythos 5 , a \"IA perigosa\" do Claude . Segundo o portal The Verge neste domingo (28), o governo dos Estados Unidos flexibilizou a diretriz de controle de exportação para um grupo selecionado de pessoas. O Fable 5 , por outro lado, segue indisponível no Claude e sem previsão para ser liberado aos assinantes da plataforma de inteligência artificial novamente. A mudança ocorre cerca de duas semanas após o decreto que pegou de surpresa tanto a Anthropic quanto os usuários. Em 12 de junho, as autoridades americanas restringiram o acesso aos modelos de inteligência artificial para estrangeiros após a descoberta de um jailbreak . - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Diante do ocorrido, o Fable 5 e o Mythos 5 foram suspensos por completo. Agora, em meio às negociações, a dona do Claude encontrou uma saída. O portal explica que o governo americano abriu uma exceção ao Mythos 5 para organizações selecionadas e funcionários da Anthropic , incluindo estrangeiros desses grupos. Em nota ao portal, a porta-voz da companhia, Danielle Ghiglieri, confirmou o caso, mas não divulgou uma lista com as organizações autorizadas a acessar a solução. “Estamos trabalhando para provisionar o conjunto aprovado de provedores e restaurar o acesso deles ao Mythos 5 o mais rápido possível. Ficamos satisfeitos em ver esse avanço e seguimos trabalhando com o governo para ampliar o acesso ao Mythos 5 e voltar a disponibilizar o Fable 5 para uso geral”, disse. GPT-5.6 com restrições O retorno do Mythos 5 ocorre de maneira similar à estreia da família GPT-5.6 , anunciada na última sexta-feira (27) . Na ocasião, a OpenAI liberou três modelos de fronteira para poucas organizações a pedido do governo dos EUA . Similar ao caso da dona do Claude, a restrição ocorre por questões de segurança , uma vez que a nova geração oferece capacidades de c",
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Ford recontrata engenheiros de ‘barba grisalha’ depois que IA falha",
+      "description": "\"Equivocadamente pensamos que apenas introduzindo a inteligência artificial... isso produziria um produto de alta qualidade.\"",
+      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+      "publishedAt": "Sun, 28 Jun 2026 19:05:39 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "Comercial"
+      ]
+    },
+    {
+      "title": "ChatGPT consegue fazer check-up do seu PC sem abrir nenhum arquivo; veja como",
+      "description": "Caso o seu computador esteja lento ou você queira apenas conferir se está tudo certo com o PC, é possível usar o ChatGPT para fazer um check-up da máquina . Tudo isso ocorre sem instalar apps adicionais ou exigir que a IA acesse arquivos pessoais. Como fazer um bom prompt e parar de perder tempo com",
+      "url": "https://canaltech.com.br/inteligencia-artificial/chatgpt-consegue-fazer-check-up-do-seu-pc-sem-abrir-nenhum-arquivo-veja-como/",
+      "publishedAt": "Sun, 28 Jun 2026 11:30:00 -0300",
+      "image": "https://t.ctcdn.com.br/XEBOq4znLBtDvGS9vw30OlKA7Ik=/700x394/smart/i1119849.png",
+      "source": "Canaltech IA",
+      "content": "Caso o seu computador esteja lento ou você queira apenas conferir se está tudo certo com o PC, é possível usar o ChatGPT para fazer um check-up da máquina . Tudo isso ocorre sem instalar apps adicionais ou exigir que a IA acesse arquivos pessoais. Como fazer um bom prompt e parar de perder tempo com IA 15 prompts prontos para estudar, resumir PDFs e organizar tarefas no ChatGPT Assistentes como o ChatGPT, o Gemini e o Claude são boas opções para analisar quantidades massivas de dados. Dessa forma, basta exportar as informações do sistema oferecidas pelo próprio Windows e pedir para que as IAs verifiquem todas as informações. O Canaltech explica: - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Como obter as informações do PC Prompt para fazer check-up da máquina O que a IA consegue identificar? O que a IA não consegue avaliar? Como obter as informações do PC Primeiramente, é necessário obter uma cópia de um arquivo com todas as informações do computador. Isso é feito na tela de informações do sistema do Windows: Pressione Windows + R para abrir o menu Executar; Insira o comando “msinfo32” e pressione “Ok”; Na tela de informações do sistema, clique em “Arquivo”; Pressione “Exportar”; Salve o documento no computador. Tela de informações do sistema permite exportar arquivo de texto com dados do computador (Imagem: Captura de tela/André Magalhães/Canaltech) Prompt para fazer check-up da máquina A próxima etapa é enviar o arquivo com as informações e pedir para a IA analisar o material . ChatGPT, Gemini, Claude e outros chatbots do tipo conseguem interpretar o documento e atender ao prompt solicitado (dica: caso você tenha acesso aos modelos mais inteligentes, ou “Pro”, vale a pena usá-los). Abra uma janela de conversa, insira o arquivo e coloque o seguinte prompt: Você é um assistente de triagem de saúde de PCs com Windows 11 para usuários comuns. Eu vou colar ou anexar um rel",
+      "lang": "pt",
+      "depts": [
+        "Gestão"
+      ]
+    },
     {
       "title": "O que acontece quando um modelo de IA é \"aposentado\"?",
       "description": "Modelos de IA, como GPT-5, Claude Opus 4.8 ou Gemini 2.5, são as versões internas que alimentam assistentes, como ChatGPT, Claude e Gemini. Eles funcionam como o “motor” por trás das respostas . Para isso, são treinados com grandes volumes de dados para entender a linguagem, gerar textos, programar ",
@@ -357,22 +394,6 @@
       "depts": []
     },
     {
-      "title": "Robôs vão substituir 700 mil entregadores “mais cedo ou mais tarde”",
-      "description": "Fundador de gigante do varejo na China faz alerta, mas diz que não quer deixar trabalhadores sem emprego quando isso acontecer. Robôs vão substituir 700 mil entregadores “mais cedo ou mais tarde”",
-      "url": "https://tecnoblog.net/noticias/robos-vao-substituir-os-700-mil-entregadores-mais-cedo-ou-mais-tarde/",
-      "publishedAt": "Wed, 24 Jun 2026 22:23:23 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/img_1620.jpeg",
-      "source": "Tecnoblog",
-      "content": "Automatização iminente: 700 mil entregadores serão substituídos na China num futuro próximo (imagem: Reprodução/The Wire China) Resumo Fundador da JD.com, Richard Liu, afirma que 700 mil entregadores humanos serão substituídos por robôs de delivery mais cedo ou mais tarde. A JD.com planeja reposicionar esses trabalhadores por meio de treinamentos em novas áreas, com acordos já firmados com cerca de 120 escolas. A China deve ter 320 milhões de trabalhadores autônomos no final de 2026, incluindo entregadores, motoristas de aplicativo e trabalhadores temporários em fábricas. A gigante JD.com, um dos grandes nomes do e-commerce na China, avisou: “mais cedo ou mais tarde”, os cerca de 700 mil entregadores humanos serão substituídos por robôs de delivery. A declaração foi dada por Richard Liu, fundador e atual conselheiro da empresa, durante o Fórum de CEOs da APEC (Cooperação Econômica Ásia-Pacífico). A fala de Liu chega em um momento em que o mercado vê diversos exemplos de automação em serviços, além de uma crescente preocupação quanto à substituição de pessoas por robôs. Segundo o fundador da JD, a ideia é não deixar os trabalhadores “na mão”, e há inclusive planos para reposicionar essas pessoas no futuro. As entregas na China já vêm sendo reforçadas por robôs há algum tempo. Segundo o The Wire China , somente em julho de 2025, por exemplo, 30 mil novos ADVs (veículos autônomos de delivery) foram encomendados para cerca de 200 cidades no país. O mesmo já acontece nos Estados Unidos e em outras regiões do planeta. A automação pode precarizar o trabalho? O uso de robôs só faz crescer. Entre exemplos recentes estão robôs humanoides da chinesa Unitree no principal aeroporto do Japão , além de modelos da estadunidense Figure AI trabalhando na linha de produção de uma fábrica . Da mesma forma, cães robôs da Boston Dynamics também já se fazem presentes no policiamento de um estádio da Copa do Mundo de 2026, em Dallas, e não faltam exemplos dos robôs aspiradores , que funcionam numa linha mais auxiliar do que propriamente substituindo humanos. Robôs de entrega e drones já foram testados pelo iFood no Brasil (imagem: divulgação/iFood) JD planeja evitar demissões em massa A fala de Liu veio acompanhada de uma promessa de que os trabalhadores não seriam esquecidos. A ideia é reposicioná-los no mercado por meio da profissionalização em novas áreas, e acordos já teriam sido feitos pela JD com cerca de 120 escolas para treinamentos. Entre as possibilidades estão trabalhos de reparos e manutenção desses robôs de delivery , por exemplo. A expectativa é de que, no final de 2026, a China chegue a 320 milhões de trabalhadores autônomos, que atuam não só em entregas, mas também como motoristas de aplicativo e até mesmo em fábricas sob contratos temporários. Ou seja: um Brasil e meio só de pessoas sem emprego fixo. Relembre: andamos num carro autônomo pela primeira vez Robôs vão substituir 700 mil entregadores “mais cedo ou mais tarde”",
-      "lang": "pt",
-      "depts": [
-        "RH",
-        "Comercial",
-        "Gestão",
-        "Educação"
-      ]
-    },
-    {
       "title": "Google libera IA que consegue mexer no computador e controlar a tela sozinha",
       "description": "O Google anunciou a integração da função “Computer use” ao modelo Gemini 3.5 Flash para que agentes de inteligência artificial possam visualizar a tela e executar ações em computadores, navegadores e aplicativos. A novidade já está disponível para desenvolvedores e empresas por meio da API do Gemini",
       "url": "https://canaltech.com.br/inteligencia-artificial/google-libera-ia-que-consegue-mexer-no-computador-e-controlar-a-tela-sozinha/",
@@ -497,34 +518,6 @@
       "content": "A Anthropic vai implementar um novo sistema de verificação de identidade e idade no Claude que pode exigir documentos oficiais com foto e selfie em tempo real para liberar ou manter o acesso à plataforma. A mudança começa a ser aplicada a partir de 8 de julho de 2026 e não atinge todos os usuários de imediato. Tudo sobre o Claude: conheça os modelos e recursos da IA da Anthropic 7 prompts do Claude para escrever melhor, resumir arquivos e organizar ideias O processo será feito com apoio das empresas Persona e Yoti . O usuário pode precisar apresentar um documento oficial físico original, como RG, passaporte ou CNH, além de uma selfie ou gravação em vídeo ao vivo. A Anthropic não aceita versões digitais dos documentos. Os dados são usados apenas para validação e não entram no treinamento dos modelos de IA. Quando há suspeita de menor de idade, a Yoti pode fazer a checagem sem documento, usando apenas uma selfie para estimar a idade . Os usuários que já têm o app Digital ID também podem confirmar que são maiores de 18 anos pelo aplicativo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - As informações biométricas e os documentos ficam armazenados nos sistemas dos provedores de verificação e a Anthropic recebe só o resultado da checagem. No entanto, a Yoti apaga a selfie e o documento logo após a verificação, já a Persona pode reter esses dados por mais tempo. A Anthropic não informa publicamente esse prazo. Em caso de falha, o usuário pode tentar novamente antes de acionar o suporte. A medida também ocorre em meio a maior pressão regulatória sobre empresas de IA nos Estados Unidos. O Departamento de Defesa chegou a classificar a Anthropic como um “risco para a cadeia de suprimentos”, após restrições da empresa ao uso de sua tecnologia em vigilância em massa e armas autônomas. Nesse contexto, a verificação também é vista como parte da adequação a exigências legais do governo",
       "lang": "pt",
       "depts": [
-        "Gestão",
-        "Educação"
-      ]
-    },
-    {
-      "title": "iOS 27: Conheça as funções de IA que vão deixar o iPhone mais inteligente",
-      "description": "Com o lançamento do iOS 27, a Apple está dando mais espaço para a inteligência artificial no iPhone. A Apple Intelligence vai aparecer em vários aplicativos do sistema, enquanto a Siri ganha um aplicativo dedicado e uma presença maior em diferentes áreas do celular para entender melhor o contexto do",
-      "url": "https://canaltech.com.br/inteligencia-artificial/ios-27-conheca-as-funcoes-de-ia-que-vao-deixar-o-iphone-mais-inteligente/",
-      "publishedAt": "Mon, 22 Jun 2026 11:05:00 -0300",
-      "image": "https://t.ctcdn.com.br/j8ZKT-Ey8F9Z8UhPHdv7JZE7PqQ=/700x394/smart/i1136155.png",
-      "source": "Canaltech IA",
-      "content": "Com o lançamento do iOS 27, a Apple está dando mais espaço para a inteligência artificial no iPhone. A Apple Intelligence vai aparecer em vários aplicativos do sistema, enquanto a Siri ganha um aplicativo dedicado e uma presença maior em diferentes áreas do celular para entender melhor o contexto do usuário e ajudar em tarefas do dia a dia. Mais IA e outras novidades ao iPhone: o que esperar do iOS 27? Como era o iOS em 2016? Relembre a versão antiga do sistema do iPhone A ideia é que a IA trabalhe nos bastidores para deixar tudo mais simples e intuitivo . Seja para organizar abas no Safari, criar automações no app Atalhos ou sugerir ações durante uma conversa no Mensagens, o iPhone vai exigir menos etapas manuais e oferecer ajuda de forma natural. 8 funções de IA do iOS 27 Veja 8 funções de IA que vão chegar com o iOS 27 aos iPhones: - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Divisão de contas no Apple Cash Troca automática de senhas comprometidas Sugestões inteligentes no app Mensagens Informações úteis durante chamadas Adicionar eventos no Calendário com IA Criar automações no Atalhos apenas descrevendo o que deseja Menos notificações e buscas mais inteligentes no app Casa Abas organizadas no Safari 1. Divisão de contas no Apple Cash O Apple Cash ganha a capacidade de dividir despesas automaticamente a partir de uma foto do recibo. A Apple Intelligence identifica itens, valores, gorjetas e quantidades, dispensando cálculos manuais. O sistema também consegue extrair detalhes, como os itens pedidos e suas respectivas quantidades, facilitando a separação dos gastos. Além de fotografar a conta na hora, o usuário também pode enviar uma imagem já salva no iPhone. A IA é capaz de considerar o valor dos pratos, a gorjeta e até dividir proporcionalmente os impostos cobrados na conta. Depois de analisar a conta, o usuário pode selecionar o que consumiu e enviar pedidos de p",
-      "lang": "pt",
-      "depts": [
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Como criar uma rotina de estudos com ChatGPT do jeito certo",
-      "description": "Final de semestre, vestibulares, concursos, certificações e cursos online costumam trazer o mesmo desafio: há muito conteúdo para estudar e pouco tempo para organizar tudo de forma eficiente. Mesmo quando existe vontade de aprender, transformar essa intenção em uma rotina consistente nem sempre é si",
-      "url": "https://canaltech.com.br/inteligencia-artificial/como-criar-uma-rotina-de-estudos-com-chatgpt-do-jeito-certo/",
-      "publishedAt": "Sun, 21 Jun 2026 16:30:00 -0300",
-      "image": "https://t.ctcdn.com.br/nho0fo8xkYzaDwv-IVfc-UleZVU=/700x394/smart/i1076813.jpeg",
-      "source": "Canaltech IA",
-      "content": "Final de semestre, vestibulares, concursos, certificações e cursos online costumam trazer o mesmo desafio: há muito conteúdo para estudar e pouco tempo para organizar tudo de forma eficiente. Mesmo quando existe vontade de aprender, transformar essa intenção em uma rotina consistente nem sempre é simples. 15 prompts prontos para estudar, resumir PDFs e organizar tarefas no ChatGPT Melhore seus estudos: como criar quizzes e desafios no ChatGPT É nesse ponto que o ChatGPT pode ajudar. Quando usado da maneira certa, ele funciona como um assistente para planejar estudos, criar revisões e acompanhar o progresso. A ideia, porém, não é tratar a IA como uma solução mágica, mas aprender a usá-la para construir um plano que faça sentido para a sua realidade. A seguir, tire suas dúvidas sobre: - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Defina o que você precisa estudar Como pedir ao ChatGPT uma rotina realista? Como dividir a rotina: estudo, revisão, prática e diagnóstico? Exemplos práticos por tipo de estudante Como checar se a resposta do ChatGPT é boa? Quando o ChatGPT pode atrapalhar os estudos? Modelo de rotina semanal com ChatGPT Prompts prontos para copiar e adaptar Defina o que você precisa estudar Um dos erros mais comuns é abrir o ChatGPT e pedir simplesmente: \"monte uma rotina de estudos para mim\". Sem contexto, a tendência é que a ferramenta gere um cronograma genérico, visualmente organizado, mas pouco conectado à realidade de quem vai executá-lo. Para criar um plano realmente útil, é importante fornecer algumas informações , como: Objetivo do estudo; Prazo disponível; Nível atual de conhecimento; Matérias ou conteúdos envolvidos; Tempo livre por dia ou por semana; Formato da prova, certificação ou entrega; Principais dificuldades. Isso porque quanto mais específico for o contexto, mais personalizada tende a ser a resposta. Um exemplo de briefing eficiente seria: “",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
         "Gestão",
         "Educação"
       ]
