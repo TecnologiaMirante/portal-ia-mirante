@@ -1,7 +1,100 @@
 {
-  "updatedAt": "2026-07-02T12:01:27.873Z",
-  "count": 11,
+  "updatedAt": "2026-07-03T12:00:00.763Z",
+  "count": 40,
   "articles": [
+    {
+      "title": "Virginia Fonseca tem “clone de IA” para conversar com fãs por até R$ 89",
+      "description": "A plataforma Versio funciona como um chatbot de IA na qual é possível conversar com versões inspiradas em especialistas e celebridades, como a influenciadora Virginia Fonseca . O serviço cobra até R$ 89 por mês para liberar conversas com os clones de IA inspirados em pessoas famosas, mas há uma vers",
+      "url": "https://canaltech.com.br/inteligencia-artificial/virginia-fonseca-tem-clone-de-ia-para-conversar-com-fas-por-ate-r-89/",
+      "publishedAt": "Thu, 02 Jul 2026 18:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/k8MEe2l3PH5iKwUNiwyAeaBzMwA=/700x394/smart/i1139979.png",
+      "source": "Canaltech IA",
+      "content": "A plataforma Versio funciona como um chatbot de IA na qual é possível conversar com versões inspiradas em especialistas e celebridades, como a influenciadora Virginia Fonseca . O serviço cobra até R$ 89 por mês para liberar conversas com os clones de IA inspirados em pessoas famosas, mas há uma versão gratuita “escondida” . A ferramenta foi divulgada pela influenciadora nesta quarta-feira (1º) em post no Instagram. No caso, Fonseca simula uma situação em que uam seguidora pede sugestões de como se vestir para um jantar. De acordo com o site oficial, a Versio se difere de outros chatbots por ter sido treinada diretamente pelos especialistas mencionados . Algumas das personalidades disponíveis são o empresário e fisiculturista Renato Cariani, o empresário Carlos Wizard e a economista Nathalia Arcuri. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O app funciona como um chatbot convencional e permite enviar arquivos nas conversas ao assinar os planos mais caros. Ver essa foto no Instagram Um post compartilhado por Virginia (@virginia) Versão gratuita fica escondida Um detalhe sobre o Versio chamou a atenção: o site oficial (inserido no perfil da marca vinculado ao post de Virgínia) exige uma assinatura paga para usar a plataforma, mas é possível usar uma versão gratuita por outro caminho . Os planos pagos partem de R$ 29 por mês a R$ 89 por mês. A página com os Termos de Uso não carrega no site oficial, mas pode ser acessada ao iniciar um pagamento. Lá, a empresa informa que existe uma versão gratuita com versões limitadas e tem um link para o serviç o, também disponível em aplicativo para Android e iOS (as versões não são divulgadas no site principal , vinculado ao perfil da marca no post de Virginia). O CT testou a IA que conversa como a influenciadora, mas há um limite diário de conversas na versão gratuita. Os planos pagos aumentam as taxas de uso diárias e permitem env",
+      "lang": "pt",
+      "depts": [
+        "Marketing",
+        "Comercial"
+      ]
+    },
+    {
+      "title": "OpenAI pode ceder 5% da empresa para o governo dos EUA",
+      "description": "Plano de Sam Altman seria criar fundo de riqueza para distribuir lucros da IA e acalmar as tensões com a gestão Trump. OpenAI pode ceder 5% da empresa para o governo dos EUA",
+      "url": "https://tecnoblog.net/noticias/openai-pode-ceder-5-da-empresa-para-o-governo-dos-eua/",
+      "publishedAt": "Thu, 02 Jul 2026 19:44:24 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/sam-altman-1-capa.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Financeiro",
+        "Gestão"
+      ]
+    },
+    {
+      "title": "Anthropic está discutindo um novo chip personalizado com a Samsung",
+      "description": "A notícia chega cerca de uma semana depois que a OpenAI anunciou seu próprio chip de IA personalizado em parceria com a Broadcom.",
+      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "publishedAt": "Thu, 02 Jul 2026 18:31:09 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "Comercial"
+      ]
+    },
+    {
+      "title": "OpenAI propôs doar 5% de seu patrimônio para um fundo soberano dos EUA",
+      "description": "O CEO da OpenAI, Sam Altman, propôs dar 5% do capital da empresa a um fundo soberano dos EUA, reavivando as discussões sobre deixar o público participar nos ganhos financeiros do boom da IA.",
+      "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "publishedAt": "Thu, 02 Jul 2026 15:20:51 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "O CEO da OpenAI, Sam Altman, propôs dar 5% do capital da empresa a um fundo soberano dos EUA, reavivando as discussões sobre deixar o público participar nos ganhos financeiros do boom da IA.",
+      "lang": "en",
+      "depts": [
+        "Financeiro"
+      ]
+    },
+    {
+      "title": "Microsoft lança sua própria empresa de implantação de IA com compromisso de US$ 2,5 bilhões",
+      "description": "A Microsoft segue Amazon, OpenAI e Anthropic com seu novo grupo de implantação de IA.",
+      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "publishedAt": "Thu, 02 Jul 2026 13:53:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Por que o próximo ciclo computacional precisa ser construído para todos",
+      "description": "Nos últimos três anos, a capacidade computacional global dedicada à inteligência artificial cresceu aproximadamente 100 vezes . É uma das revoluções tecnológicas mais impactantes das últimas décadas. A IA já chegou indiscutivelmente. Mas a questão que surge agora é: ela está acessível a todos? De um",
+      "url": "https://canaltech.com.br/colunas/por-que-o-proximo-ciclo-computacional-precisa-ser-construido-para-todos/",
+      "publishedAt": "Thu, 02 Jul 2026 10:43:03 -0300",
+      "image": "https://t.ctcdn.com.br/nZ6sNq7PsgAB4H-oy5G3Tk3upoA=/700x394/smart/i1003705.png",
+      "source": "Canaltech IA",
+      "content": "Nos últimos três anos, a capacidade computacional global dedicada à inteligência artificial cresceu aproximadamente 100 vezes . É uma das revoluções tecnológicas mais impactantes das últimas décadas. A IA já chegou indiscutivelmente. Mas a questão que surge agora é: ela está acessível a todos? De um lado, temos modelos cada vez mais capazes, infraestruturas de bilhões de dólares, parcerias entre algumas das maiores empresas do planeta. De outro, desenvolvedores independentes, pesquisadores em países emergentes, startups sem acesso a crédito cloud e laboratórios universitários com acesso limitado. O próximo ciclo computacional pode encontrar caminhos para solucionar essa assimetria. O problema não é só hardware Quando falamos em democratizar a IA, GPUs e custos de treinamento são pontos importantes, mas há um gargalo além do hardware: a dependência de ecossistemas fechados que prendem desenvolvedores a plataformas específicas e concentram o poder de inovação nas mãos de poucos. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A analogia com o software é útil aqui. O movimento open source levou décadas para amadurecer, mas hoje a infraestrutura que sustenta a internet é majoritariamente aberta . Isso porque a inovação aberta com frequência se mostrou altamente resiliente e amplamente adotada em comparação com alternativas proprietárias. A IA está no começo do mesmo caminho. Plataformas abertas saltaram de nichos experimentais para infraestrutura de produção em escala global. Um pesquisador no Brasil, na Índia ou na Nigéria pode acessar hoje muitas das mesmas ferramentas utilizadas por grandes centros de tecnologia — desde que disponha de recursos de hardware adequados . A IA que mora no seu dispositivo Outra transformação relevante: a migração da IA da nuvem para o dispositivo. Processadores modernos com NPUs integradas permitem rodar inteligência artificial localmente , sem",
+      "lang": "pt",
+      "depts": [
+        "Financeiro",
+        "Comercial",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Sim, estamos usando o OpenClaw até agora",
+      "description": "Ben Guez tem “um monte de esposas internacionais em potencial em [seus] DMs”, graças a um script automatizado que ele configurou usando OpenClaw, código Claude e testes do Instagram.",
+      "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+      "publishedAt": "Thu, 02 Jul 2026 12:00:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Ben Guez tem “um monte de esposas internacionais em potencial em [seus] DMs”, graças a um script automatizado que ele configurou usando OpenClaw, código Claude e testes do Instagram.",
+      "lang": "en",
+      "depts": [
+        "Marketing"
+      ]
+    },
     {
       "title": "AI Slop impacta mundo dos games e gera reação",
       "description": "Plataforma open source Godot vai proibir códigos gerados com inteligência artificial. AI Slop impacta mundo dos games e gera reação",
@@ -27,6 +120,17 @@
       ]
     },
     {
+      "title": "Fable e Mythos 5: governo Trump libera IAs mais perigosas da Anthropic",
+      "description": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três s",
+      "url": "https://canaltech.com.br/inteligencia-artificial/fable-e-mythos-5-governo-trump-libera-ias-mais-perigosas-da-anthropic/",
+      "publishedAt": "Wed, 01 Jul 2026 12:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/Am6VaUx8jmQtCNJCxA_znmbrltc=/700x394/smart/i1107289.png",
+      "source": "Canaltech IA",
+      "content": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três semanas depois de o governo ter suspendido o acesso aos dois sistemas por risco à segurança nacional. Segundo a Reuters, o acesso ao Fable 5 será restaurado a partir desta quarta-feira (1º) , ficando disponível ao público em geral. Já o Mythos 5, direcionado à detecção de vulnerabilidades de cibersegurança, será liberado para um grupo maior de parceiros domésticos e internacionais do programa Glasswing, da Anthropic. Como começou a restrição Em 12 de junho, o governo americano incluiu os dois modelos em sua lista de tecnologias sob controle de exportação , impedindo o acesso de estrangeiros sem aprovação especial . Como a Anthropic não tinha como verificar a nacionalidade dos usuários em tempo real, a companhia optou por suspender o Fable 5 e o Mythos 5 para todo mundo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A decisão, segundo a Reuters, partiu de uma denúncia de pesquisadores da Amazon , que encontraram uma forma de contornar as proteções do Fable 5. Com essa brecha, o modelo passou a identificar falhas de software e, em um dos casos registrados, chegou a gerar código demonstrando como explorar uma vulnerabilidade. No último domingo (28), o governo abriu uma primeira exceção , permitindo o uso do Mythos 5 por organizações selecionadas e por funcionários da própria Anthropic, incluindo estrangeiros vinculados a esses grupos. O Fable 5 seguia fora do ar até esta terça. O Claude é, atualmente, a terceira IA mais utilizada no mundo (Imagem: Marcelo Fischer/Canaltech) Por que são modelos tão perigosos O Mythos 5 concentra as capacidades que mais preocupam o governo american",
+      "lang": "pt",
+      "depts": []
+    },
+    {
       "title": "Gemini Spark, assistente de agente do Google, agora está disponível no Mac",
       "description": "O assistente de agência 24 horas por dia, 7 dias por semana do Google, Gemini Spark, chega ao Mac junto com outras melhorias, como rastreamento em tempo real e suporte para mais aplicativos.",
       "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
@@ -35,6 +139,46 @@
       "source": "TechCrunch AI",
       "content": null,
       "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Português é o 3º idioma mais usado no ChatGPT",
+      "description": "O português é agora o terceiro idioma mais usado no ChatGPT , segundo dados da OpenAI divulgados no relatório OpenAI Signals. Ele fica atrás apenas do inglês e do espanhol. O levantamento também mostra que, pela primeira vez, mais da metade dos usuários ativos usa o ChatGPT principalmente em idiomas",
+      "url": "https://canaltech.com.br/inteligencia-artificial/portugues-e-o-3o-idioma-mais-usado-no-chatgpt/",
+      "publishedAt": "Wed, 01 Jul 2026 09:27:36 -0300",
+      "image": "https://t.ctcdn.com.br/elWRGd7DozFcUzbnLeKmr45Ecyw=/700x394/smart/i1137007.png",
+      "source": "Canaltech IA",
+      "content": "O português é agora o terceiro idioma mais usado no ChatGPT , segundo dados da OpenAI divulgados no relatório OpenAI Signals. Ele fica atrás apenas do inglês e do espanhol. O levantamento também mostra que, pela primeira vez, mais da metade dos usuários ativos usa o ChatGPT principalmente em idiomas diferentes do inglês. Em quarto, quinto e sexto lugar aparecem, respectivamente, o francês, o indonésio e o árabe. A análise mede as interações de usuários nos planos individuais do ChatGPT , incluindo as assinaturas Free (gratuito), Go, Plus e Pro. Além disso, os idiomas uzbeque, cazaque e birmanês foram os que mais cresceram em participação desde julho de 2023. O relatório também mostra que usuários mais antigos usam o ChatGPT com mais frequência. Após seis meses na plataforma, eles enviam, em média, 50% mais mensagens por dia e realizam o dobro de tarefas diferentes em relação ao início do uso. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Português é o terceiro idioma mais usado no ChatGPT. (Imagem: Divulgação/OpenAI) Adoção do ChatGPT cresceu em todas as regiões O relatório também mostra que o uso do ChatGPT cresceu em todos os continentes desde julho de 2023, deixando a base de usuários mais global e diversa. O crescimento foi mais rápido na África, seguida pela Ásia, América do Sul, Europa, América do Norte e Oceania. Segundo a OpenAI, o crescimento foi mais rápido em países com menor Índice de Desenvolvimento Humano (IDH) , que registraram o maior aumento no número de usuários ativos por semana. O levantamento também aponta mudanças no perfil dos usuários. Pessoas com nomes tipicamente femininos representam a maior parte do uso global do ChatGPT. O Brasil, Colômbia, Polônia e Namíbia estão entre os países onde esse grupo supera os usuários com nomes tipicamente masculinos. Já Paquistão, Bangladesh, Angola, República Democrática do Congo e Mali têm a maior presença de",
+      "lang": "pt",
+      "depts": [
+        "Gestão"
+      ]
+    },
+    {
+      "title": "Novo sistema usará IA para \"traduzir\" o que o seu corpo realmente precisa",
+      "description": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30",
+      "url": "https://canaltech.com.br/inteligencia-artificial/novo-sistema-usara-ia-para-traduzir-o-que-o-seu-corpo-realmente-precisa/",
+      "publishedAt": "Wed, 01 Jul 2026 08:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/4BlAeU73zGDl24KwhTRIfUE4ZkA=/700x394/smart/i1138901.png",
+      "source": "Canaltech IA",
+      "content": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30) e foi divulgado pelo site Android Police. A empresa afirma que dispositivos vestíveis já evoluíram na coleta de dados, mas ainda falham em explicar o significado desses números para quem os usa. Gee Gu, cofundador da Vilo ao lado de Andy Xu, descreveu o Signal OS como um sistema que ajuda o usuário a entender o que mudou no corpo , priorizar o que importa e transformar sinais corporais em suporte real. Como funciona o Signal OS O sistema reúne quatro frentes principais. A primeira é o Signals , um recurso de cartões que aponta alterações nos indicadores de saúde e sugere o que fazer a respeito. Já o Pulse funciona como um painel com o histórico de dados e tendências ao longo do tempo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Há ainda o Vibes , um chatbot com IA para tirar dúvidas sobre as informações coletadas, e uma camada dedicada à saúde da mulher . A Vilo descreve o Signal OS como uma plataforma \"ring-first\", ou seja, pensada primeiro para anéis inteligentes, e ela vai estrear no próprio anel da empresa. A companhia evita o terreno regulatório mais rígido reservado a dispositivos médicos. Segundo o comunicado oficial, a proposta do sistema é oferecer \"orientação de bem-estar e autoconhecimento, não diagnóstico ou tratamento\", o que dispensa aprovação de agências como a FDA, órgão regulador dos Estados Unidos. Fitbit já segue caminho parecido com o AI Coach e o Fitbit Air, usando IA para interpretar pontuações sem depender desse tipo de aval. Possível interface do app dedicado ao sistema, presente no vídeo de divulgação (Imagem: Reprodução/YouTube/VILO) Anel da Vilo",
+      "lang": "pt",
+      "depts": [
+        "Marketing",
+        "Comercial",
+        "Saúde",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Caso do ChatGPT: o que a IA faz quando alguém relata um crime a ela",
+      "description": "Um agricultor de 36 anos foi preso em São Gabriel da Palha, no Espírito Santo, no dia 19 de junho, suspeito de planejar a morte do próprio filho, de 8 anos, para deixar de pagar pensão alimentícia. O plano foi identificado pela OpenAI, criadora do ChatGPT, a partir de mensagens trocadas pelo suspeit",
+      "url": "https://canaltech.com.br/inteligencia-artificial/caso-do-chatgpt-o-que-a-ia-faz-quando-alguem-relata-um-crime-a-ela/",
+      "publishedAt": "Wed, 01 Jul 2026 07:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/Q9uqQatidyu4GTZGOKTDp0XrwdA=/700x394/smart/i1138899.png",
+      "source": "Canaltech IA",
+      "content": "Um agricultor de 36 anos foi preso em São Gabriel da Palha, no Espírito Santo, no dia 19 de junho, suspeito de planejar a morte do próprio filho, de 8 anos, para deixar de pagar pensão alimentícia. O plano foi identificado pela OpenAI, criadora do ChatGPT, a partir de mensagens trocadas pelo suspeito com a ferramenta , e repassado ao FBI — Polícia Federal dos Estados Unidos —, que acionou o Ministério da Justiça e a Polícia Civil capixaba. 🎧Ouça o Podcast Canaltech no Spotify 🎧Ouça o Podcast Canaltech na Deezer 🎧Ouça o Podcast Canaltech no Apple Podcasts O caso ganhou repercussão nacional e reacendeu uma dúvida recorrente sobre o papel da inteligência artificial: até que ponto um chatbot decide, denuncia ou apenas devolve ao usuário aquilo que ele já trazia consigo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - \"Eu não acredito que a IA tenha feito denúncia, mas o fato é que a IA não tem valor moral. Ela vai te sugerir que você tome uma ação A, B ou C\", afirma Igor Baliberdin, designer estratégico, fundador da consultoria LOOOP e com mais de 20 anos de experiência na interseção entre design, negócios e tecnologia. O especialista afirma que ferramentas como ChatGPT, Gemini e Claude trabalham com análise probabilística . Ou seja, organizam cenários a partir do que o usuário relata, sem assumir a decisão final. O risco, segundo ele, está em transformar esse organizador de raciocínio em substituto de uma conversa com outra pessoa. Vieses herdados e responsabilidade dividida Baliberdin lembra que cada modelo de IA carrega o ponto de vista de quem o desenvolveu . \"Elas não são só seres que surgem do nada. Elas surgem a partir de um ponto de vista de humanidade, de sociedade\", diz. Essa diferença de comportamento entre ferramentas, segundo ele, também aparece em testes recentes que colocam agentes de diferentes IAs para interagir em ambientes simulados. Sobre quem responde ",
+      "lang": "pt",
       "depts": []
     },
     {
@@ -62,79 +206,335 @@
       ]
     },
     {
-      "title": "Melhor smartwatch com NFC: 8 relógios inteligentes para comprar em 2026",
-      "description": "Lista reúne relógios inteligentes com conectividade NFC; veja modelos de smartwatch da Samsung, Apple, Xiaomi e Huawei Melhor smartwatch com NFC: 8 relógios inteligentes para comprar em 2026",
-      "url": "https://tecnoblog.net/guias/smartwatch-com-nfc/",
-      "publishedAt": "Tue, 30 Jun 2026 20:59:00 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/watch-8guias.jpg",
-      "source": "Tecnoblog",
-      "content": "Samsung Galaxy Watch 8 é um dos melhores smartwatches com NFC em 2026 (Foto: Thássius Veloso / Tecnoblog) Escolher um smartwatch com NFC em 2026 vai além de olhar o preço, pois alguns modelos não têm suporte das instituições financeiras do Brasil, o que restringe o pagamento por aproximação. Relógios de marcas como Huawei e Garmin costumam apresentar limitações no suporte aos bancos nacionais. Por outro lado, os modelos topo de linha da Samsung e da Apple, além de boas opções esportivas, entregam carteiras digitais de alta compatibilidade. Melhor escolha 1 Apple Watch Ultra 3 Tela safira Always-On (3.000 nits), caixa titânio, GPS alta precisão, NFC, bateria 72h, Apple Intelligence e emergência. 29% OFF Ver preço Ver preço 2 Galaxy Watch Ultra Tela AMOLED ultrabrilhante, sensores com IA, caixa de titânio, resistência 10 ATM, 4G LTE nativo e bateria de até 100 horas. 60% OFF Ver preço Ver preço 3 Apple Watch Series 11 Tela OLED ultraluminosa, conectividade 5G, inteligência artificial integrada e carregamento rápido. 29% OFF Ver preço Ver preço 4 Galaxy Watch 8 Tela AMOLED ultrabrilhante com Always-On Display, integração com Galaxy AI, conectividade 4G LTE, respostas no WhatsApp e resistência máxima IP68 e militar. 53% OFF Ver preço Ver preço 5 Garmin Forerunner 165 Tela AMOLED com GPS integrado, métricas esportivas avançadas e bateria de até 11 dias. 33% OFF Ver preço Ver preço 6 Apple Watch SE 3 Tela OLED vívida com Always-On, GPS preciso, 32 GB de espaço, conexão 5G e respostas rápidas por texto ou voz. 32% OFF Ver preço Ver preço 7 Xiaomi Watch 5 Tela vibrante com visibilidade mesmo sob sol forte, localização precisa e comunicação integrada. Compatibilidade total com Android e iPhone. Ver preço 8 Huawei Watch Fit 5 Pro Design premium em titânio, tela brilhante mesmo sob sol forte, GPS preciso e bateria que dura mais de uma semana. Ver preço Links seguros. Comprando pelos nossos links, você apoia o Tecnoblog sem pagar nada a mais. if(typeof handle_redirect!=='function'){async function handle_redirect(cupom){try{if(navigator.clipboard&&navigator.clipboard.writeText){await navigator.clipboard.writeText(cupom.textContent);}else{var t=document.createElement('textarea');t.value=cupom.textContent;t.style.position='fixed';t.style.opacity='0';document.body.appendChild(t);t.select();document.execCommand('copy');document.body.removeChild(t);}cupom.classList.add('copied');cupom.dataset.text='Cupom copiado!';}catch(err){console.error('Erro ao copiar para a área de transferência',err);}}} Para te ajudar nessa escolha, o Tecnoblog preparou uma seleção com oito smartwatches focados na tecnologia NFC. Veja os prós e contras de cada relógio inteligente a seguir. Índice Apple Watch Ultra 3 Galaxy Watch Ultra Apple Watch 11 Galaxy Watch 8 Garmin Forerunner 165 Apple Watch SE 3 Xiaomi Watch 5 Huawei Watch Fit 5 Pro Como saber se o smartwatch tem NFC? Todo smartwatch com NFC faz pagamento por aproximação? Posso usar o NFC do smartwatch para pagar por aproximação sem usar o celular? Posso adicionar NFC em smartwatch que não tem? É seguro usar NFC no smartwatch? Apple Watch Ultra 3 Apple Watch Ultra 3 R$ 5.016,76 Prós Tela de cristal de safira (3.000 nits) e Always-On Display Caixa em titânio GPS de alta precisão Autonomia de bateria estendida de até 72 horas Suporte ao Apple Intelligence Recursos de emergência Contras Exclusivo para usuários de iPhone Dobro do peso do Apple Watch Series 11 Caixa de 49 mm exagerada para pulsos finos R$ 5.016,76 Mercado Livre R$ 5.031,00 Mercado Livre R$ 5.089,60 Mercado Livre Participe dos canais de ofertas do Achados do TB WhatsApp Telegram O Apple Wtach Ultra 3 tem caixa de titânio, tela de cristal de safira e resistência à água de 10 ATM. Ele é mais pesado que o Apple Watch Series 11 (61 gramas), mas traz ferramentas de segurança nativas da linha Ultra. O smartwatch tem NFC via Apple Pay com ampla cobertura bancária no Brasil. O modelo traz conexão móvel LTE, suporte ao Apple Intelligence e respostas a notificações no WhatsApp. É um dispositivo compatível apenas com iPhone. Galaxy Watch Ultra Galaxy Watch Ultra R$ 1.983,00 Prós Tela AMOLED (3.000 nits) e Always-On Display Sensores avançados com IA Caixa de titânio e resistência 10 ATM Suporte nativo a dados móveis (4G LTE) Bateria para até 100 horas Certificações IP68 e MIL-STD-810H Contras Carregamento lento Incompatível com sistema iOS (iPhone) Dobro de peso do Galaxy Watch 8 Preço mais alto R$ 1.983,00 Mercado Livre R$ 1.999,00 Amazon R$ 1.999,00 Amazon Participe dos canais de ofertas do Achados do TB WhatsApp Telegram O Galaxy Watch Ultra tem caixa de titânio, tela Super AMOLED em cristal de safira e com 3.000 nits de brilho, para melhor visualização sob a luz solar. O smartwatch tem chip NFC, também com ampla cobertura bancária no Brasil via Samsung Wallet. Ele traz conectividade móvel LTE, GPS integrado e mais de 100 modalidades esportivas, além de funções de inteligência artificial via Galaxy AI. Assim como outros modelos da Samsung, o Galaxy Watch Ultra só é compatível com Android. Apple Watch 11 Apple Watch Series 11 R$ 2.017,99 Prós Tela OLED (2.000 nits) e Always-On Display GPS + Cellular com conexão 5G Suporte ao Apple Intelligence Carregamento rápido Contras Incompatível com celulares Android Bateria limitada a 18-24 horas de uso R$ 2.017,99 Mercado Livre R$ 2.017,99 Mercado Livre R$ 2.017,99 Mercado Livre Participe dos canais de ofertas do Achados do TB WhatsApp Telegram O Apple Watch 11 funciona apenas para iPhone, com tela OLED de brilho máximo em 2.000 nits, função Always-On Display, além de resistência à água de 5 ATM. O relógio também traz chip NFC com cobertura ampla de bancos e fintechs via Apple Pay. Ele oferece suporte ao sistema de inteligência artificial da marca, opção com internet móvel e permite responder mensagens do WhatsApp por texto ou áudio. O Apple Watch 11 tem bateria que dura até 24 horas, mas vai de zero a 80% em 30 minutos. Galaxy Watch 8 Galaxy Watch 8 R$ 1.194,24 Prós Tela AMOLED (3.000 nits) e Always-On Display Suporte ao Galaxy AI Suporte a 4G LTE (algumas versões) Dá para responder notificações e enviar áudio no WhatsApp Certificação IP68 e MIL-STD-810H Contras Autonomia reduzida com GPS ativo Incompatível com sistema iOS (iPhone) Funções exclusivas para celulares Samsung R$ 1.194,24 Mercado Livre R$ 1.347,72 Mercado Livre R$ 1.347,72 Mercado Livre Participe dos canais de ofertas do Achados do TB WhatsApp Telegram O Galaxy Watch 8 é um smartwatch da Samsung com NFC, caixa em alumínio e com tela Super AMOLED de 3.000 nits de brilho máximo, além de proteção IP68 e resistência à água de 5 ATM. Assim como outros relógios da marca, é possível cadastrar cartões de crédito de diferentes instituições financeiras. O relógio também tem GPS de dupla frequência, recursos de IA e funções para responder a mensagens e gravar áudios. Compatível apenas com o sistema operacional Android, o dispositivo exige recargas regulares devido à autonomia da sua bateria de até 40 horas, segundo a Samsung. Garmin Forerunner 165 Garmin Forerunner 165 R$ 1.237,74 Prós Tela AMOLED com Always-On Display GPS integrado Métricas especializadas de esportes Bateria para até 11 dias Compativel com Android e iPhone Contras Tela com 800 nits de brilho Sem suporte para dados móveis Não permite responder mensagens Não tem IA NFC limitado a alguns bancos R$ 1.237,74 Mercado Livre R$ 1.659,99 Mercado Livre R$ 1.685,98 Mercado Livre Participe dos canais de ofertas do Achados do TB WhatsApp Telegram O Garmin Forerunner 165 traz tela AMOLED com Always-On Display e pesa 39 gramas. Ele conta com resistência à água de 5 ATM, GPS integrado e um sistema de segurança que avisa contatos cadastrados em caso de quedas. O modelo traz a tecnologia NFC, mas que funciona apenas com alguns bancos selecionados no Brasil . O sistema também exibe as notificações do celular e traz sugestões de treinos diários focados em corrida, mas não mostra mapas na tela nem aceita chip de internet. É compatível com Andro",
+      "title": "Google lança IA que cria imagens em 4 segundos e edita vídeos por voz",
+      "description": "O Google anunciou dois novos modelos de inteligência artificial capazes de acelerar a criação de imagens e vídeos: o Nano Banana 2 Lite , que gera imagens em até 4 segundos, e o Gemini Omni Flash , que permite criar e editar vídeos usando comandos de voz ou texto. Segundo a empresa, o Nano Banana 2 ",
+      "url": "https://canaltech.com.br/inteligencia-artificial/google-lanca-ia-que-cria-imagens-em-4-segundos-e-edita-videos-por-voz/",
+      "publishedAt": "Tue, 30 Jun 2026 21:05:00 -0300",
+      "image": "https://t.ctcdn.com.br/EjoC2BgBPs0m6x8imu4sGDkEYDk=/700x394/smart/i1138889.png",
+      "source": "Canaltech IA",
+      "content": "O Google anunciou dois novos modelos de inteligência artificial capazes de acelerar a criação de imagens e vídeos: o Nano Banana 2 Lite , que gera imagens em até 4 segundos, e o Gemini Omni Flash , que permite criar e editar vídeos usando comandos de voz ou texto. Segundo a empresa, o Nano Banana 2 Lite foi feito para ser rápido e eficiente em grande escala. Ele cria imagens a partir de comandos de texto em poucos segundos, com foco em respostas rápidas, imagens consistentes e textos mais legíveis dentro das imagens. Além disso, o modelo de imagem tem um custo menor que suas versões anteriores. Por exemplo, o Nano Banana 2 Lite custa cerca de US$ 0,034 por imagem de resolução 1K comparado ao Nano Banana 2 que custa US$ 0,067. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Já o Gemini Omni Flash leva a IA para a criação de vídeos . O modelo permite gerar vídeos curtos e editar cenas usando comandos de texto ou voz. Também combina texto, imagens e vídeos para manter a consistência do conteúdo e facilitar mudanças de cena ou estilo. Além disso, ele usa o conhecimento de mundo do Gemini , incluindo lógica narrativa e conceitos de áreas, como história e biologia, para criar vídeos coerentes e realistas. Novos modelos de IA do Google criam imagens em segundos e permitem editar vídeos por voz. (Imagem: Viviane França/Canaltech) Os dois sistemas usam a marca d’água SynthID para identificar conteúdos feitos por IA e funcionam de forma integrada . O usuário pode criar uma imagem no Nano Banana 2 Lite e usá-la como base no Gemini Omni Flash para transformá-la em um vídeo curto. Nesse fluxo, desenvolvedores podem utilizar a Interactions API , que mantém o histórico e o contexto da sessão, permitindo até três edições sequenciais sem perda do conteúdo gerado. Apesar dos avanços, o Gemini Omni Flash ainda tem limitações . Ele gera vídeos de até 10 segundos, com versões mais longas prev",
       "lang": "pt",
       "depts": [
-        "Marketing",
-        "Financeiro"
+        "Financeiro",
+        "Gestão"
       ]
     },
     {
-      "title": "Anthropic lança Claude Sonnet 5 como uma forma mais barata de administrar agentes",
-      "description": "O Claude Sonnet 5 da Anthropic traz capacidades de agente mais fortes, preços mais baixos e maior segurança, posicionando o modelo como uma alternativa mais barata ao Opus, GPT-5.5 e Gemini Pro.",
-      "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
-      "publishedAt": "Tue, 30 Jun 2026 18:00:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "O Claude Sonnet 5 da Anthropic traz capacidades de agente mais fortes, preços mais baixos e maior segurança, posicionando o modelo como uma alternativa mais barata ao Opus, GPT-5.5 e Gemini Pro.",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Acti coloca agentes de IA diretamente no teclado do seu smartphone",
-      "description": "A Acti aposta que o teclado do smartphone será o próximo lar dos assistentes de IA. O novo teclado da startup para iOS e Android funciona em aplicativos e permite que os usuários criem atalhos personalizados com tecnologia de IA usando linguagem natural.",
-      "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
-      "publishedAt": "Tue, 30 Jun 2026 17:52:46 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "A Acti aposta que o teclado do smartphone será o próximo lar dos assistentes de IA. O novo teclado da startup para iOS e Android funciona em aplicativos e permite que os usuários criem atalhos personalizados com tecnologia de IA usando linguagem natural.",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Claude Science, da Anthropic, aposta no fluxo de trabalho, e não em um novo modelo, para conquistar cientistas",
-      "description": "Claude Science da Anthropic é uma bancada de trabalho que oferece aos cientistas um ambiente para fazer pesquisas computacionais, poupando-os da necessidade de alternar entre bancos de dados, pipelines e ferramentas.",
-      "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
-      "publishedAt": "Tue, 30 Jun 2026 17:00:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Claude Science da Anthropic é uma bancada de trabalho que oferece aos cientistas um ambiente para fazer pesquisas computacionais, poupando-os da necessidade de alternar entre bancos de dados, pipelines e ferramentas.",
-      "lang": "en",
+      "title": "Claude lança Sonnet 5, modelo gratuito quase tão bom quanto o pago",
+      "description": "A Anthropic lançou nesta terça-feira (30) o Claude Sonnet 5 , novo modelo de inteligência artificial que passa a ser a opção padrão tanto no plano gratuito quanto no Pro do chatbot Claude. A empresa descreve a versão como a mais \"agente\" da linha Sonnet, com desempenho próximo ao do Opus 4.8 , model",
+      "url": "https://canaltech.com.br/inteligencia-artificial/claude-lanca-sonnet-5-modelo-gratuito-quase-tao-bom-quanto-o-pago/",
+      "publishedAt": "Tue, 30 Jun 2026 17:43:51 -0300",
+      "image": "https://t.ctcdn.com.br/4lB-ex4rSGJFX2i-Krfo1u0aESM=/700x394/smart/i1138883.png",
+      "source": "Canaltech IA",
+      "content": "A Anthropic lançou nesta terça-feira (30) o Claude Sonnet 5 , novo modelo de inteligência artificial que passa a ser a opção padrão tanto no plano gratuito quanto no Pro do chatbot Claude. A empresa descreve a versão como a mais \"agente\" da linha Sonnet, com desempenho próximo ao do Opus 4.8 , modelo mais caro reservado aos planos pagos superiores. O lançamento segue uma tendência também adotada por OpenAI e Google, que recentemente atualizaram os modelos padrão de seus planos gratuitos para versões mais avançadas. O que muda em relação ao Sonnet 4.6 Segundo a Anthropic, o Sonnet 5 representa uma melhoria expressiva sobre o Sonnet 4.6 em tarefas de raciocínio, uso de ferramentas, programação e trabalho de conhecimento. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - No teste de codificação SWE-bench Pro, o novo modelo atingiu 63,2% de acerto, ante 58,1% do antecessor. No Terminal-Bench 2.1, o salto foi de 67% para 80,4%. O ganho aparece também em avaliações de raciocínio multidisciplinar. No Humanity's Last Exam, com uso de ferramentas, o Sonnet 5 chegou a 57,4%, contra 46,8% do Sonnet 4.6. Em uso de computador, medido pelo OSWorld-Verified, a pontuação subiu de 78,5% para 81,2%. Apesar da evolução, o Sonnet 5 ainda fica atrás do Opus 4.8 na maioria dos testes divulgados pela empresa. A distância, porém, diminuiu bastante em relação às gerações anteriores, o que sustenta o discurso da Anthropic de que o novo modelo reduz o hiato entre as duas famílias. Testadores também relataram mudanças de comportamento. De acordo com a Anthropic, o Sonnet 5 costuma concluir tarefas complexas até o fim, algo que versões anteriores da linha Sonnet interrompiam antes do previsto. O modelo também passou a revisar o próprio resultado sem que isso seja solicitado. Nos testes divulgados, o Sonnet 5 está muito próximo do Opus 4.8, que é pago (Imagem: Divulgação/Anthropic) Preço e disponibilida",
+      "lang": "pt",
       "depts": [
         "RH",
-        "Financeiro"
+        "Gestão"
       ]
     },
     {
-      "title": "X agora oferece um servidor MCP para tornar sua plataforma mais fácil de usar para ferramentas de IA",
-      "description": "X lançou um servidor MCP hospedado, facilitando aos desenvolvedores a conexão de aplicativos de IA com a API da empresa.",
-      "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
-      "publishedAt": "Tue, 30 Jun 2026 15:08:42 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
+      "title": "Google testa recurso para você conversar por voz com seus e-mails do Gmail",
+      "description": "O Google anunciou o Gmail Live , um novo recurso para conversar por voz com a caixa de entrada do Gmail usando o Gemini. Apresentada durante o Google I/O 2026, a novidade entrou em fase de testes para Android e iPhone e promete facilitar a busca por informações nos e-mails por meio de perguntas feit",
+      "url": "https://canaltech.com.br/inteligencia-artificial/google-testa-recurso-para-voce-conversar-por-voz-com-seus-e-mails-do-gmail/",
+      "publishedAt": "Tue, 30 Jun 2026 16:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/8C_0geXovl0iMMGcbsCgZDGz5Qk=/700x394/smart/i1137523.png",
+      "source": "Canaltech IA",
+      "content": "O Google anunciou o Gmail Live , um novo recurso para conversar por voz com a caixa de entrada do Gmail usando o Gemini. Apresentada durante o Google I/O 2026, a novidade entrou em fase de testes para Android e iPhone e promete facilitar a busca por informações nos e-mails por meio de perguntas feitas por comandos de voz. O funcionamento é semelhante ao do Gemini Live . Ao tocar no ícone de ondas sonoras na barra de pesquisa do Gmail, o usuário poderá iniciar uma conversa com a IA e fazer perguntas, como “Quais são as datas da minha próxima viagem?” ou “Quais foram as atualizações dos meus últimos pedidos?”. A interface também terá botões na parte inferior para que o usuário possa silenciar o microfone ou sair rapidamente da ferramenta. O sistema vai poder analisar os e-mails da conta, responder por voz e texto, exibir uma transcrição da conversa em tempo real e destacar as mensagens usadas para gerar a resposta. O Gmail Live também vai conseguir responder perguntas de acompanhamento e mudar de assunto durante a conversa. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Gmail Live usa IA para responder perguntas sobre seus e-mails por meio de comandos de voz. (Imagem: Viviane França/Canaltech) Paralelamente, o Google também está implementando o Ask Gmail , recurso focado em buscas por texto. Em vez de usar palavras-chave, o usuário pode digitar perguntas em linguagem natural na barra de pesquisa do Gmail. A IA então analisa os e-mails e apresenta um resumo com as principais informações encontradas, em um formato semelhante aos AI Overviews da Busca do Google. O anúncio faz parte de uma série de novidades do Google para produtividade com IA, que também inclui o Docs Live , para criar e editar documentos por voz no Google Docs e notas no Google Keep, e a expansão do AI Inbox , recurso que organiza a caixa de entrada por tarefas e assuntos importantes, para assinantes do Goog",
+      "lang": "pt",
+      "depts": [
+        "Educação"
+      ]
     },
     {
-      "title": "OpenAI anuncia novo hardware para programação",
-      "description": "Acessório criado em parceria com a Work Louder deve facilitar o uso do Codex. Produto será lançado em 15 de julho. OpenAI anuncia novo hardware para programação",
-      "url": "https://tecnoblog.net/noticias/openai-anuncia-novo-hardware-para-programacao/",
-      "publishedAt": "Tue, 30 Jun 2026 12:41:47 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/openai-1.png",
-      "source": "Tecnoblog",
-      "content": "Dispositivo promete facilitar a vida dos desenvolvedores (imagem: reprodução/OpenAi) Resumo OpenAI e Work Louder revelaram um novo hardware para programação. Produto será lançado em 15 de julho e será dedicado ao Codex, modelo de linguagem para programação. O dispositivo deve otimizar o fluxo de trabalho de desenvolvedores com comandos nativos da IA. A OpenAI anunciou nesta segunda-feira (29/06) que está desenvolvendo um novo dispositivo dedicado ao Codex, seu modelo de linguagem voltado para programação. Em um breve teaser publicado no X, a empresa revelou uma parceria com a fabricante Work Louder para criar um hardware voltado a desenvolvedores. Ainda não há muitos detalhes sobre ele, mas é esperado que seja um acessório para otimizar o fluxo de trabalho de quem escreve código diariamente . Todos os detalhes técnicos serão revelados no lançamento oficial, marcado para o dia 15 de julho. Your favorite Codex shortcuts are getting an upgrade. July 15th. pic.twitter.com/xZ1ydZyt94 &mdash; OpenAI Developers (@OpenAIDevs) June 29, 2026 Hardware pode reaproveitar design já conhecido A Work Louder é uma fabricante que já possui bastante experiência no nicho de periféricos e teclados mecânicos modulares. O vídeo exibido pela OpenAI mostra a silhueta de um dispositivo quadrado bem parecido com o Creator Micro 2, um modelo popular no portfólio da marca. O produto original vem equipado com 13 botões mecânicos, um sensor de toque integrado e um pequeno direcional analógico. A expectativa é que o hardware licenciado pela OpenAI aproveite essa mesma carcaça, mas substitua os atalhos por comandos nativos do ecossistema do Codex. Creator Micro 2, da Work Louder, pode servir de base para o novo periférico (imagem: reprodução) Como o dispositivo ajuda na programação? A grande vantagem é evitar que o programador tenha que navegar por menus suspensos, decorar combinações de teclas ou fazer muitos cliques com o mouse. Ter um macropad físico na mesa resolve esse problema com botões dedicados que acionam comandos rotineiros. Até o momento, informações como o preço oficial e a listagem de sistemas e plataformas de software suportados não foram divulgadas pelas companhias envolvidas. Os interessados na novidade precisarão aguardar até o lançamento para conhecerem a versão final do hardware. Vale mencionar que, até então, o produto de nicho não possui qualquer relação com o misterioso dispositivo focado em IA que a OpenAI está desenvolvendo em parceria com Jony Ive, ex-designer chefe da Apple. OpenAI anuncia novo hardware para programação",
+      "title": "Novidade do Gemini deixará você controlar seu computador à distância",
+      "description": "O Google está desenvolvendo um novo recurso para controlar e acompanhar um computador pelo aplicativo do Gemini no celular. A novidade foi descoberta pelo Android Authority em uma análise da versão mais recente do app para Android e, por enquanto, ainda não está disponível para os usuários. Os indíc",
+      "url": "https://canaltech.com.br/inteligencia-artificial/novidade-do-gemini-deixara-voce-controlar-seu-computador-a-distancia/",
+      "publishedAt": "Tue, 30 Jun 2026 14:05:00 -0300",
+      "image": "https://t.ctcdn.com.br/xJsYmUSfVb47gNGY9_wAC1H0BII=/700x394/smart/i1135135.png",
+      "source": "Canaltech IA",
+      "content": "O Google está desenvolvendo um novo recurso para controlar e acompanhar um computador pelo aplicativo do Gemini no celular. A novidade foi descoberta pelo Android Authority em uma análise da versão mais recente do app para Android e, por enquanto, ainda não está disponível para os usuários. Os indícios apontam que a funcionalidade será lançada inicialmente para computadores com macOS . As linhas de código também mostram que, para usar o recurso, será preciso instalar um programa no Mac. O Gemini exibirá um aviso orientando o usuário a fazer esse download antes de conectar o computador ao celular. O Gemini poderá mostrar o status de computadores conectados à mesma conta para que os usuários possam alternar entre diferentes dispositivos e acompanhar a execução de tarefas remotamente . O código analisado também indica que será possível ver informações de disponibilidade da máquina e o horário da última atividade registrada, facilitando o monitoramento de automações mesmo quando estiver longe do computador. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O Google prepara um recurso para controlar e acompanhar tarefas do Mac pelo aplicativo do Gemini no celular. (Imagem: Viviane França/Canaltech / Editada por IA/Gemini) O recurso faz parte da estratégia do Google para expandir as capacidades do Gemini Spark , seu agente de IA , anunciado durante o Google I/O 2026 e focado na execução de tarefas complexas. Com a integração com o macOS, o assistente vai interagir com arquivos locais e executar fluxos de trabalho no computador. Já o aplicativo móvel servirá para acompanhar o andamento dessas atividades. As referências encontradas no código também mencionam futuros recursos, como um \"Agent Dashboard\" e um \"Personal Snapshot\". A novidade acompanha uma tendência do mercado de inteligência artificial. No mês passado, a OpenAI lançou um recurso parecido no aplicativo do ChatGPT, que p",
+      "lang": "pt",
+      "depts": [
+        "Gestão",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Quem vai pagar o pedágio da IA corporativa?",
+      "description": "*Por James Barroso A inteligência artificial deixou de ser apenas uma agenda de experimentação. Depois de um ciclo marcado por pilotos, testes com IA generativa e discussões sobre produtividade, as empresas começam a fazer uma pergunta mais difícil: como transformar IA em impacto real, seguro e reco",
+      "url": "https://canaltech.com.br/colunas/quem-vai-pagar-o-pedagio-da-ia-corporativa/",
+      "publishedAt": "Tue, 30 Jun 2026 08:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/GLxNIT6kCnjMj-SjWx-6rjtp4eo=/700x394/smart/i526608.jpeg",
+      "source": "Canaltech IA",
+      "content": "*Por James Barroso A inteligência artificial deixou de ser apenas uma agenda de experimentação. Depois de um ciclo marcado por pilotos, testes com IA generativa e discussões sobre produtividade, as empresas começam a fazer uma pergunta mais difícil: como transformar IA em impacto real, seguro e recorrente dentro da operação? A resposta passa menos pelo modelo em si e mais pela arquitetura que sustenta seu uso. Estudos da Nucleus Research indicam que APIs e conectores pré-construídos podem reduzir custos de integração em até 37% , encurtar cronogramas em até seis meses e diminuir o custo total de propriedade em até 20%, dependendo do cenário. Os números ajudam a dimensionar um ponto central: a integração deixou de ser uma questão técnica secundária e passou a ser uma variável econômica da inovação. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Essa discussão se torna ainda mais relevante em um momento em que o acesso à inteligência artificial começa a ser condicionado, em alguns ambientes corporativos, por novas camadas de integração, regras proprietárias e custos adicionais. Quando isso acontece, o debate deixa de ser apenas tecnológico. Passa a envolver liberdade de escolha, velocidade de inovação e controle sobre o custo real da transformação digital. Nenhuma IA corporativa gera valor em isolamento. Para ser útil, ela precisa acessar dados confiáveis, respeitar regras de negócio, operar com contexto, acionar sistemas e devolver inteligência para processos críticos . Isso vale para compras, finanças, manufatura, cadeia de suprimentos, distribuição, atendimento ou qualquer outra área em que a tecnologia deixe de ser demonstração e passe a fazer parte da rotina. É nesse ponto que muitas organizações descobrem um obstáculo ainda subestimado: o custo oculto da integração . Esse custo não aparece apenas na fatura. Ele surge no tempo adicional de implementação, nas customiza",
       "lang": "pt",
       "depts": [
         "Marketing",
+        "Financeiro",
+        "Gestão",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Novo recurso do Gemini quer mudar jeito que você baixa apps no celular",
+      "description": "O Google começou a liberar uma nova integração entre o Gemini e a Google Play Store que permite pesquisar aplicativos usando comandos de texto . Com a novidade, os usuários podem encontrar, receber recomendações e acessar a página de instalação de apps sem navegar manualmente pela loja. O recurso es",
+      "url": "https://canaltech.com.br/inteligencia-artificial/novo-recurso-do-gemini-quer-mudar-jeito-que-voce-baixa-apps-no-celular/",
+      "publishedAt": "Mon, 29 Jun 2026 21:05:00 -0300",
+      "image": "https://t.ctcdn.com.br/COAAXu7xv1ADZu-rb9iEaPxnf50=/700x394/smart/i1138491.png",
+      "source": "Canaltech IA",
+      "content": "O Google começou a liberar uma nova integração entre o Gemini e a Google Play Store que permite pesquisar aplicativos usando comandos de texto . Com a novidade, os usuários podem encontrar, receber recomendações e acessar a página de instalação de apps sem navegar manualmente pela loja. O recurso está sendo disponibilizado para celulares Android com contas pessoais do Google. Em vez de navegar por categorias ou digitar palavras-chave, é possível fazer pedidos como “me indique um app para planejar viagens”, “qual é um bom aplicativo para organizar tarefas?” ou simplesmente “Instalar [Nome do App]”. Em seguida, o chatbot vai mostrar recomendações e abrir a página do aplicativo na Play Store para que a instalação seja concluída. Além de recomendar apps e jogos, a IA pode mostrar informações sobre compras dentro de aplicativos e ajudar na compra de cartões-presente da Google Play. Para utilizar esses recursos, é necessário ter a partir de 18 anos, usar uma conta pessoal do Google, ter o app Play Store baixado no celular e manter a opção \"Atividade dos Apps Gemini\" ativada nas configurações da conta do Gemini. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - No entanto, a disponibilidade de aplicativos específicos e dos recursos da integração pode variar de acordo com o país ou o dispositivo. Além disso, as opções de compras digitais vão continuar sendo expandidas ao longo do tempo. Gemini ganha integração com a Google Play para pesquisar e encontrar aplicativos pelo chat. (Imagem: Bruno De Blasi/Canaltech) Como conectar a Google Play Store no Gemini? Na primeira vez que você pedir ao Gemini para encontrar um aplicativo da Play Store, a integração poderá ser solicitada automaticamente. Para isso, basta seguir as instruções exibidas na tela para conectar os dois serviços. Antes de fazer o primeiro pedido ao chatbot, é necessário garantir que está logado no Gemini com a mesma con",
+      "lang": "pt",
+      "depts": [
+        "Comercial",
+        "Gestão",
+        "Educação"
+      ]
+    },
+    {
+      "title": "IAs chinesas avançam em cibersegurança e reduzem distância dos EUA",
+      "description": "O sucesso do Claude Mythos inaugurou uma nova etapa da corrida da IA : modelos com capacidades avançadas de cibersegurança. Enquanto a OpenAI foca no GPT-5.6, empresas chinesas aceleram o desenvolvimento de alternativas , como o GLM-5.2, da Z.ai . Um levantamento publicado pelo Wall Street Journal n",
+      "url": "https://canaltech.com.br/inteligencia-artificial/ias-chinesas-avancam-em-ciberseguranca-e-reduzem-distancia-dos-eua/",
+      "publishedAt": "Mon, 29 Jun 2026 12:06:38 -0300",
+      "image": "https://t.ctcdn.com.br/Dck-qTOzyl5rJ2M5U22SxkyGP_o=/700x394/smart/i1138557.jpeg",
+      "source": "Canaltech IA",
+      "content": "O sucesso do Claude Mythos inaugurou uma nova etapa da corrida da IA : modelos com capacidades avançadas de cibersegurança. Enquanto a OpenAI foca no GPT-5.6, empresas chinesas aceleram o desenvolvimento de alternativas , como o GLM-5.2, da Z.ai . Um levantamento publicado pelo Wall Street Journal neste fim de semana indica esse movimento. Com base em avaliações de pesquisadores, a reportagem aponta que o sucessor do GLM-5.1 alcança desempenho próximo ao de modelos americanos mais avançados, como o Mythos 5, na busca por falhas de segurança . Em outras atividades , o modelo fica atrás das IAs do ChatGPT e do Claude, ainda segundo o jornal. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A análise é voltada à solução da Z.ai, antes conhecida como Zhipu AI. Assim como a DeepSeek, a empresa oferece uma série de IAs abertas , incluindo o GLM-5.2 revelado em junho. Voltado para tarefas prolongadas, o modelo possui uma janela de contexto de 1 milhão de tokens . Em testes de benchmark, o GLM-5.2 apresentou desempenho próximo a grandes nomes do mercado , como o Opus 4.8, GPT-5.5 e Gemini 3.1 Pro . O movimento também reforça uma tendência: a diferença de desempenho entre os principais modelos americanos e chineses diminuiu nos últimos meses , o que amplia a concorrência em segmentos considerados estratégicos, como programação e cibersegurança. No páreo A Z.ai não está sozinha nessa. Na tentativa de desenvolver um rival para o Mythos , a empresa de segurança chinesa 360 revelou o “Tulongfeng” para descobrir automaticamente brechas de segurança e o “Yitianzhen” para automatizar a resposta a incidentes , de acordo com a Reuters. Fora da China , a japonesa Sakana AI apresentou o Fugu e o Fugu Ultra . As soluções funcionam como um sistema multiagente apresentado ao usuário como um único modelo: a partir de uma única API, a IA decide se responde diretamente ou coordena outros modelos em",
+      "lang": "pt",
+      "depts": [
+        "Gestão"
+      ]
+    },
+    {
+      "title": "\"IA perigosa\" do Claude é liberada novamente, mas para poucos",
+      "description": "A Anthropic recebeu o sinal verde para voltar a distribuir o Mythos 5 , a \"IA perigosa\" do Claude . Segundo o portal The Verge neste domingo (28), o governo dos Estados Unidos flexibilizou a diretriz de controle de exportação para um grupo selecionado de pessoas. O Fable 5 , por outro lado, segue in",
+      "url": "https://canaltech.com.br/inteligencia-artificial/ia-perigosa-do-claude-e-liberada-novamente-mas-para-poucos/",
+      "publishedAt": "Mon, 29 Jun 2026 09:01:41 -0300",
+      "image": "https://t.ctcdn.com.br/ZjcOUdfWaAgXirKJr4MiY0ln2Po=/700x394/smart/i1111425.png",
+      "source": "Canaltech IA",
+      "content": "A Anthropic recebeu o sinal verde para voltar a distribuir o Mythos 5 , a \"IA perigosa\" do Claude . Segundo o portal The Verge neste domingo (28), o governo dos Estados Unidos flexibilizou a diretriz de controle de exportação para um grupo selecionado de pessoas. O Fable 5 , por outro lado, segue indisponível no Claude e sem previsão para ser liberado aos assinantes da plataforma de inteligência artificial novamente. A mudança ocorre cerca de duas semanas após o decreto que pegou de surpresa tanto a Anthropic quanto os usuários. Em 12 de junho, as autoridades americanas restringiram o acesso aos modelos de inteligência artificial para estrangeiros após a descoberta de um jailbreak . - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Diante do ocorrido, o Fable 5 e o Mythos 5 foram suspensos por completo. Agora, em meio às negociações, a dona do Claude encontrou uma saída. O portal explica que o governo americano abriu uma exceção ao Mythos 5 para organizações selecionadas e funcionários da Anthropic , incluindo estrangeiros desses grupos. Em nota ao portal, a porta-voz da companhia, Danielle Ghiglieri, confirmou o caso, mas não divulgou uma lista com as organizações autorizadas a acessar a solução. “Estamos trabalhando para provisionar o conjunto aprovado de provedores e restaurar o acesso deles ao Mythos 5 o mais rápido possível. Ficamos satisfeitos em ver esse avanço e seguimos trabalhando com o governo para ampliar o acesso ao Mythos 5 e voltar a disponibilizar o Fable 5 para uso geral”, disse. GPT-5.6 com restrições O retorno do Mythos 5 ocorre de maneira similar à estreia da família GPT-5.6 , anunciada na última sexta-feira (27) . Na ocasião, a OpenAI liberou três modelos de fronteira para poucas organizações a pedido do governo dos EUA . Similar ao caso da dona do Claude, a restrição ocorre por questões de segurança , uma vez que a nova geração oferece capacidades de c",
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "ChatGPT consegue fazer check-up do seu PC sem abrir nenhum arquivo; veja como",
+      "description": "Caso o seu computador esteja lento ou você queira apenas conferir se está tudo certo com o PC, é possível usar o ChatGPT para fazer um check-up da máquina . Tudo isso ocorre sem instalar apps adicionais ou exigir que a IA acesse arquivos pessoais. Como fazer um bom prompt e parar de perder tempo com",
+      "url": "https://canaltech.com.br/inteligencia-artificial/chatgpt-consegue-fazer-check-up-do-seu-pc-sem-abrir-nenhum-arquivo-veja-como/",
+      "publishedAt": "Sun, 28 Jun 2026 11:30:00 -0300",
+      "image": "https://t.ctcdn.com.br/XEBOq4znLBtDvGS9vw30OlKA7Ik=/700x394/smart/i1119849.png",
+      "source": "Canaltech IA",
+      "content": "Caso o seu computador esteja lento ou você queira apenas conferir se está tudo certo com o PC, é possível usar o ChatGPT para fazer um check-up da máquina . Tudo isso ocorre sem instalar apps adicionais ou exigir que a IA acesse arquivos pessoais. Como fazer um bom prompt e parar de perder tempo com IA 15 prompts prontos para estudar, resumir PDFs e organizar tarefas no ChatGPT Assistentes como o ChatGPT, o Gemini e o Claude são boas opções para analisar quantidades massivas de dados. Dessa forma, basta exportar as informações do sistema oferecidas pelo próprio Windows e pedir para que as IAs verifiquem todas as informações. O Canaltech explica: - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Como obter as informações do PC Prompt para fazer check-up da máquina O que a IA consegue identificar? O que a IA não consegue avaliar? Como obter as informações do PC Primeiramente, é necessário obter uma cópia de um arquivo com todas as informações do computador. Isso é feito na tela de informações do sistema do Windows: Pressione Windows + R para abrir o menu Executar; Insira o comando “msinfo32” e pressione “Ok”; Na tela de informações do sistema, clique em “Arquivo”; Pressione “Exportar”; Salve o documento no computador. Tela de informações do sistema permite exportar arquivo de texto com dados do computador (Imagem: Captura de tela/André Magalhães/Canaltech) Prompt para fazer check-up da máquina A próxima etapa é enviar o arquivo com as informações e pedir para a IA analisar o material . ChatGPT, Gemini, Claude e outros chatbots do tipo conseguem interpretar o documento e atender ao prompt solicitado (dica: caso você tenha acesso aos modelos mais inteligentes, ou “Pro”, vale a pena usá-los). Abra uma janela de conversa, insira o arquivo e coloque o seguinte prompt: Você é um assistente de triagem de saúde de PCs com Windows 11 para usuários comuns. Eu vou colar ou anexar um rel",
+      "lang": "pt",
+      "depts": [
+        "Gestão"
+      ]
+    },
+    {
+      "title": "O que acontece quando um modelo de IA é \"aposentado\"?",
+      "description": "Modelos de IA, como GPT-5, Claude Opus 4.8 ou Gemini 2.5, são as versões internas que alimentam assistentes, como ChatGPT, Claude e Gemini. Eles funcionam como o “motor” por trás das respostas . Para isso, são treinados com grandes volumes de dados para entender a linguagem, gerar textos, programar ",
+      "url": "https://canaltech.com.br/inteligencia-artificial/o-que-acontece-quando-um-modelo-de-ia-e-aposentado/",
+      "publishedAt": "Sun, 28 Jun 2026 08:30:00 -0300",
+      "image": "https://t.ctcdn.com.br/MGeZfQAEnGVxs88CkrfznECWBI8=/700x394/smart/i1125177.png",
+      "source": "Canaltech IA",
+      "content": "Modelos de IA, como GPT-5, Claude Opus 4.8 ou Gemini 2.5, são as versões internas que alimentam assistentes, como ChatGPT, Claude e Gemini. Eles funcionam como o “motor” por trás das respostas . Para isso, são treinados com grandes volumes de dados para entender a linguagem, gerar textos, programar e resolver problemas complexos. Quais são os modelos de IA do Perplexity? Veja as opções disponíveis no app Quais são os modelos do ChatGPT? Conheça as IAs disponíveis no chatbot Quando um modelo deixa de aparecer na IA ou é substituído, isso pode dar a impressão de que ele “sumiu” . Mas esse processo geralmente faz parte de uma atualização planejada, em que versões mais novas tomam o lugar de modelos antigos que já não são o foco principal. A seguir, tire suas dúvidas sobre: - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O que significa “modelo aposentado”? Por que modelos de IA são aposentados? O que acontece com os modelos de IA aposentados? Quais são os modelos que não podem aposentar? O que significa “modelo aposentado”? A aposentadoria de um modelo de IA ocorre quando ele deixa de ser prioridade dentro das empresas e começa a ser retirado do uso público . Para isso, ele passa por alguns estágios: Ativo , quando é o modelo principal em uso nos produtos; Legado , quando ainda funciona, mas não recebe grandes melhorias; Descontinuado , quando já tem substituto definido, mas ainda pode estar disponível por um período; Aposentado , quando sai das interfaces e pode ser desligado do acesso público. Modelos de IA são “aposentados” quando versões mais novas os substituem. (Imagem: João Melo/Canaltech) Por que modelos de IA são aposentados? Os modelos são aposentados por uma combinação de fatores técnicos e estratégicos: Versões mais novas tendem a ser mais rápidas, precisas e seguras , o que naturalmente faz com que elas substituam as anteriores; Manter vários modelos grandes em ",
+      "lang": "pt",
+      "depts": [
+        "Gestão"
+      ]
+    },
+    {
+      "title": "ChatGPT esquecendo as coisas? Conheça truque simples para resolver",
+      "description": "Você já passou vários minutos explicando um projeto para o ChatGPT, alinhando detalhes, corrigindo respostas e definindo exatamente o que queria, apenas para perceber que a IA começou a se perder no meio do caminho? Em conversas longas, é comum que o chatbot esqueça informações importantes, repita s",
+      "url": "https://canaltech.com.br/inteligencia-artificial/chatgpt-esquecendo-as-coisas-truque-para-resolver/",
+      "publishedAt": "Sat, 27 Jun 2026 16:30:00 -0300",
+      "image": "https://t.ctcdn.com.br/ZYG6Fut2RaMaLKaCUk5JQX-psxM=/700x394/smart/i1119851.png",
+      "source": "Canaltech IA",
+      "content": "Você já passou vários minutos explicando um projeto para o ChatGPT, alinhando detalhes, corrigindo respostas e definindo exatamente o que queria, apenas para perceber que a IA começou a se perder no meio do caminho? Em conversas longas, é comum que o chatbot esqueça informações importantes, repita sugestões já descartadas ou até contradiga decisões tomadas anteriormente. O que são tokens? Entenda como funciona a 'unidade fundamental' da IA O custo invisível dos tokens: por que a conta da IA não para de subir? Isso não acontece porque a ferramenta está com defeito. Modelos de IA, como o ChatGPT, trabalham com uma quantidade limitada de contexto por conversa — a chamada janela de contexto . Conforme novas mensagens entram no chat, parte das informações antigas deixa de ser considerada, o que pode fazer a IA perder detalhes essenciais de projetos que se estendem por horas ou dias. Mas existe uma forma simples de evitar esse problema. Com um pequeno “reboot” da conversa , é possível transferir apenas as informações realmente importantes para um novo chat e continuar o trabalho de onde parou. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O ChatGPT pode esquecer detalhes em conversas longas, mas um simples resumo de transferência ajuda a manter o contexto e continuar o trabalho. (Imagem: Viviane França/Canaltech) Como fazer o ChatGPT parar de esquecer as coisas? Você não precisa pedir um resumo genérico da conversa. A ideia é fazer com que a IA crie um “resumo de transferência” , pensado especificamente para servir de ponto de partida em um novo chat e preservar as decisões e os detalhes mais importantes da discussão. Quando perceber que o ChatGPT começou a se confundir ou a esquecer informações mencionadas anteriormente, vale a pena interromper a conversa e usar o comando a seguir : “Crie um resumo de transferência que eu possa colar em um novo chat. Inclua: o que estamos te",
+      "lang": "pt",
+      "depts": [
+        "Financeiro",
+        "Saúde"
+      ]
+    },
+    {
+      "title": "Gemini grátis vale a pena? Veja o que dá e o que não dá para fazer",
+      "description": "Assistente de IA do Google, o Gemini pode ser usado gratuitamente pelo navegador, por aplicativo para celulares ou pela integração com celulares Android. Por isso, o serviço é uma alternativa comum para usar a tecnologia sem abrir a carteira. ChatGPT grátis vale a pena? Veja o que dá e o que não dá ",
+      "url": "https://canaltech.com.br/inteligencia-artificial/gemini-gratis-vale-a-pena-veja-o-que-da-e-o-que-nao-da-para-fazer/",
+      "publishedAt": "Sat, 27 Jun 2026 11:30:00 -0300",
+      "image": "https://t.ctcdn.com.br/c92TVkOI7wQC41OlpJQENH1HJ_k=/700x394/smart/i1127127.png",
+      "source": "Canaltech IA",
+      "content": "Assistente de IA do Google, o Gemini pode ser usado gratuitamente pelo navegador, por aplicativo para celulares ou pela integração com celulares Android. Por isso, o serviço é uma alternativa comum para usar a tecnologia sem abrir a carteira. ChatGPT grátis vale a pena? Veja o que dá e o que não dá para fazer 8 formas de assinar o Gemini mais barato ou de graça A IA tem planos pagos que oferecem limites de uso maiores e recursos exclusivos, mas o nível básico ainda é muito confiável. A seguir, o Canaltech explica: - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O que tem no Gemini grátis? O que não tem no Gemini grátis? Vale a pena usar o Gemini grátis para estudar e trabalhar? Quais as diferenças para Claude e ChatGPT gratuitos? Quando vale a pena pagar pelo Gemini? Como extrair o melhor do plano gratuito O que tem no Gemini grátis? O Gemini gratuito usa a variante Flash dos modelos de IA do Google por padrão, além de fornecer acesso limitado à variante Pro (usada para tarefas mais complexas). Estes recursos estão disponíveis: Gemini Live para conversas por áudio; Criação de imagens com o Nano Banana; Deep Research para pesquisas mais aprofundadas em páginas da web; Gems para acessar versões personalizadas do chatbot; Uso do modo Canvas para páginas personalizadas; Acesso ao Google Flow para criar imagens. Criação e edição de imagens está disponível de forma gratuita (Imagem: Viviane França/Canaltech) O que não tem no Gemini grátis? A criação de vídeos com o Gemini Omni, a integração da IA ao Google Workspace (Gmail, Documentos e outros) e o assistente de programação Antigravity são exclusivos para os planos pagos do Google . Além disso, a versão básica da IA garante acesso limitado ao modelo Pro e a recursos específicos do NotebookLM, incluindo resumos em áudio e vídeo. Vale a pena usar o Gemini grátis para estudar e trabalhar? Sim. No caso dos estudos, a grande vantage",
+      "lang": "pt",
+      "depts": [
+        "Comercial",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Como impedir que o ChatGPT treine IA com seus dados",
+      "description": "Você provavelmente já fez isso sem pensar duas vezes: copiou um e-mail de trabalho para pedir ajuda na resposta, colou um contrato para resumir cláusulas, enviou uma planilha para análise ou descreveu um problema pessoal em busca de orientação. O que significa quando uma empresa diz que vai treinar ",
+      "url": "https://canaltech.com.br/inteligencia-artificial/como-impedir-que-o-chatgpt-treine-ia-com-seus-dados/",
+      "publishedAt": "Sat, 27 Jun 2026 08:30:00 -0300",
+      "image": "https://t.ctcdn.com.br/ZYG6Fut2RaMaLKaCUk5JQX-psxM=/700x394/smart/i1119851.png",
+      "source": "Canaltech IA",
+      "content": "Você provavelmente já fez isso sem pensar duas vezes: copiou um e-mail de trabalho para pedir ajuda na resposta, colou um contrato para resumir cláusulas, enviou uma planilha para análise ou descreveu um problema pessoal em busca de orientação. O que significa quando uma empresa diz que vai treinar IA com dados dos usuários Privacidade nas IAs: quem tem acesso ao seu histórico de conversas? O ChatGPT se tornou uma ferramenta de produtividade para milhões de pessoas. A praticidade é inegável, mas ela também exige um mínimo de atenção à privacidade. O problema é que muita gente usa a IA como se fosse um bloco de notas privado, sem revisar as configurações que controlam o destino dessas informações. A boa notícia é que a OpenAI oferece opções para limitar como seus dados são utilizados . Com um ajuste simples, é possível reduzir a exposição de informações e ter mais controle sobre o que acontece com suas conversas. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A seguir, tire suas dúvidas sobre: O ChatGPT usa conversas para treinar IA? Como desativar o treinamento de IA com seus dados? Use o chat temporário quando o assunto for sensível Qual é a diferença entre memória e treinamento? O que não colocar no ChatGPT, mesmo com proteção ativada? E no trabalho: conta pessoal ou plano empresarial? Cuidado com GPTs, ações e serviços de terceiros Como proteger seus dados ao usar o ChatGPT no dia a dia? O ChatGPT usa conversas para treinar IA? Sim . Segundo a OpenAI, serviços para usuários individuais, como o ChatGPT, podem utilizar conversas, arquivos enviados e outros conteúdos para ajudar a melhorar seus modelos de inteligência artificial. No entanto, a empresa permite que os usuários desativem esse compartilhamento. Nas contas pessoais, incluindo os planos Free, Plus e Pro, existe a opção \"Melhorar o modelo para todos\". Quando ela está ativada, novas conversas podem ser usadas pa",
+      "lang": "pt",
+      "depts": [
         "RH",
+        "Comercial",
+        "Jurídico",
+        "Gestão"
+      ]
+    },
+    {
+      "title": "Como entrar no acesso antecipado da Alexa+ no Brasil?",
+      "description": "A Alexa+ é a versão da assistente da Amazon integrada com IA generativa, o que permite conversas mais longas e “memória” para lembrar preferências de cada indivíduo. O serviço foi anunciado no Brasil em junho de 2026, mas ainda está em fase de acesso antecipado . O que é Alexa+? Conheça a atualizaçã",
+      "url": "https://canaltech.com.br/inteligencia-artificial/como-entrar-no-acesso-antecipado-da-alexa-no-brasil/",
+      "publishedAt": "Fri, 26 Jun 2026 19:40:00 -0300",
+      "image": "https://t.ctcdn.com.br/a-wcwFrH_TN91Ju6CTf8i0pJoik=/700x394/smart/i1135617.png",
+      "source": "Canaltech IA",
+      "content": "A Alexa+ é a versão da assistente da Amazon integrada com IA generativa, o que permite conversas mais longas e “memória” para lembrar preferências de cada indivíduo. O serviço foi anunciado no Brasil em junho de 2026, mas ainda está em fase de acesso antecipado . O que é Alexa+? Conheça a atualização da assistente da Amazon 30 coisas estranhas que a Alexa consegue fazer Por enquanto, só é possível acessar a nova Alexa a novos aparelhos das linhas Echo e Fire TV , mas a Amazon permite se inscrever numa lista de espera para receber a novidade o quanto antes. Confira: Como se inscrever no acesso antecipado da Alexa+? A inscrição garante acesso imediato? Quais dispositivos são compatíveis com a nova Alexa? Quanto a Alexa+ vai custar? Como se inscrever no acesso antecipado da Alexa+? A Amazon oferece acesso antecipado à Alexa+ ao comprar modelos das gerações mais recentes dos dispositivos Echo Show, Echo Dot Max , Echo Studio , Echo Spot , Echo Dot e Fire Stick TV . - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Além disso, é possível se inscrever com o comando de voz “Alexa, quero Alexa Plus” ou pelo site oficial do serviço ( amazon.com.br/Amazon-Alexa ). Basta comprar um dos aparelhos listados ou pressionar o botão “Solicitar Alexa+” . Você receberá uma confirmação no e-mail vinculado à conta Amazon. Site da Amazon tem comando para se inscrever no acesso antecipado (Imagem: Captura de tela/Canaltech) A inscrição garante acesso imediato? Não. Entrar na lista de espera não garante que você receberá a nova Alexa instantaneamente . O acesso antecipado é liberado de forma gradual, mas se inscrever no site da Amazon permite receber os novos recursos antes do lançamento geral. Quais dispositivos são compatíveis com a nova Alexa? Os seguintes aparelhos vão receber a nova versão da Alexa: Toda a linha Echo, exceto o Echo Dot 1ª geração, Echo 1ª geração, Echo Plus 1ª geração, Echo Sh",
+      "lang": "pt",
+      "depts": [
         "Comercial"
+      ]
+    },
+    {
+      "title": "Homem é preso após revelar ao ChatGPT plano de matar filho",
+      "description": "Um homem de 36 anos foi preso em São Gabriel da Palha, no Noroeste do Espírito Santo, após planejar a morte do próprio filho de 8 anos para deixar de pagar pensão alimentícia. O suspeito relatou o plano em conversas com o ChatGPT , e foi esse conteúdo que levou à sua prisão. A OpenAI informou o FBI ",
+      "url": "https://canaltech.com.br/inteligencia-artificial/homem-e-preso-apos-revelar-ao-chatgpt-plano-de-matar-filho/",
+      "publishedAt": "Fri, 26 Jun 2026 17:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/acRueoy8pm4ccyyiYQ94jDappHc=/700x394/smart/i1138193.png",
+      "source": "Canaltech IA",
+      "content": "Um homem de 36 anos foi preso em São Gabriel da Palha, no Noroeste do Espírito Santo, após planejar a morte do próprio filho de 8 anos para deixar de pagar pensão alimentícia. O suspeito relatou o plano em conversas com o ChatGPT , e foi esse conteúdo que levou à sua prisão. A OpenAI informou o FBI — a Polícia Federal dos Estados Unidos —, que acionou o Ministério da Justiça do Brasil, que repassou o alerta à Polícia Civil capixaba. A detenção ocorreu em 19 de junho, um dia antes da data prevista para o crime, segundo o delegado adjunto da Delegacia Especializada de Repressão aos Crimes Cibernéticos (DRCC), Ícaro Olímpio. O caso só foi divulgado publicamente nesta quinta-feira (25). - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Como o FBI chegou até o suspeito Em 16 de junho, o FBI encaminhou as informações ao Ministério da Justiça, que as repassou à Polícia Civil do Espírito Santo. Segundo relato do delegado Olímpio ao g1, \"os elementos foram fornecidos pela própria empresa responsável por essa inteligência artificial e, através das conversas mantidas, tivemos elementos suficientes para prevenir esse grave crime que estava prestes a acontecer\". O suspeito, um agricultor, foi detido enquanto saía de casa para trabalhar, em cumprimento a mandados de prisão preventiva e de busca e apreensão. Seu nome não foi divulgado. A Polícia Civil do ES ressaltou que não possuem acesso às respostas do ChatGPT (Imagem: Marcelo Fischer/Canaltech) Suspeito confessou o crime ao ChatGPT Nas conversas com o ChatGPT, o homem afirmou que havia contratado um pistoleiro para executar a criança , com quem não mantinha contato, apesar de pagar a pensão. Segundo a polícia, ele também relatou ter em sua posse uma arma, uma corda e cianeto. Além do plano contra o filho, o suspeito indicou a intenção de realizar ataques a escolas, igrejas e autoridades públicas, com o objetivo de fazer o maior número",
+      "lang": "pt",
+      "depts": [
+        "Marketing"
+      ]
+    },
+    {
+      "title": "Nova IA do ChatGPT promete superar o Claude Mythos, mas poucos podem usá-la",
+      "description": "A OpenAI apresentou o GPT-5.6 , sua nova geração de modelos de inteligência artificial (IA), nesta sexta-feira (26). A novidade superou o Claude Mythos em testes internos e estreia com as versões Sol, Terra e Luna . Contudo, o lançamento não será amplo . Dando sequência às expectativas , o acesso ao",
+      "url": "https://canaltech.com.br/inteligencia-artificial/nova-ia-do-chatgpt-promete-superar-o-claude-mythos-mas-poucos-podem-usa-la/",
+      "publishedAt": "Fri, 26 Jun 2026 15:17:00 -0300",
+      "image": "https://t.ctcdn.com.br/RmE9ENn_Q9luI0cRKjRTxjcI4x0=/700x394/smart/i1134143.png",
+      "source": "Canaltech IA",
+      "content": "A OpenAI apresentou o GPT-5.6 , sua nova geração de modelos de inteligência artificial (IA), nesta sexta-feira (26). A novidade superou o Claude Mythos em testes internos e estreia com as versões Sol, Terra e Luna . Contudo, o lançamento não será amplo . Dando sequência às expectativas , o acesso ao sucessor do GPT-5.5 está restrito, por ora, a um grupo seleto de parceiros após uma solicitação do governo dos Estados Unidos . Além disso, o modelo está disponível apenas para organizações dos Estados Unidos neste início . Conforme apurou o Canaltech , a empresa já trabalha para expandir a solução para mais países . - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - “Planejamos disponibilizá-los em breve de forma mais ampla para usuários do ChatGPT, do Codex e da API”, explica a OpenAI. O que há de novo no GPT-5.6? O GPT-5.6 representa a geração mais avançada lançada pela empresa até o momento , com ganhos expressivos em tarefas complexas e de longo prazo, especialmente em programação, biologia e cibersegurança. A família é dividida em três modelos , com destaque para o Sol , o mais avançado do trio. Já o Terra equivale ao desempenho do antecessor GPT-5.5, mas custa metade do preço, enquanto o Luna é a opção mais barata e rápida. A OpenAI também introduziu dois novos recursos similares ao nível de esforço do Claude : o “modo max” , que dá mais tempo de raciocínio ao modelo, e o “modo ultra” , que usa subagentes para acelerar tarefas complexas. Nos testes internos, o Sol estabeleceu novo recorde no Terminal-Bench 2.1 , benchmark de tarefas de programação via linha de comando, superando o Claude Mythos e o Gemini 3.1 Pro . A empresa também destacou ganhos em workflows de biologia, no GeneBench v1 . O ponto mais sensível, porém, é a cibersegurança . O Sol é descrito como o modelo \"mais capaz\" da OpenAI nessa área, com desempenho competitivo ao Mythos, mas com um consumo menor de to",
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Fim dos chatbots: OpenAI, Apple e Meta agora correm atrás da \"IA Espacial\"",
+      "description": "A corrida da inteligência artificial está entrando em uma nova fase e deixando os chatbots em segundo plano. A OpenAI, Apple e Meta agora concentram esforços no desenvolvimento da chamada “IA espacial”, sistemas que conseguem entender ambientes físicos em três dimensões e agir em tempo real, em vez ",
+      "url": "https://canaltech.com.br/inteligencia-artificial/fim-dos-chatbots-openai-apple-e-meta-agora-correm-atras-da-ia-espacial/",
+      "publishedAt": "Fri, 26 Jun 2026 15:05:00 -0300",
+      "image": "https://t.ctcdn.com.br/zZ1RXJ1G7mEyJ9M8cCEZyaZqdYA=/700x394/smart/i1109343.png",
+      "source": "Canaltech IA",
+      "content": "A corrida da inteligência artificial está entrando em uma nova fase e deixando os chatbots em segundo plano. A OpenAI, Apple e Meta agora concentram esforços no desenvolvimento da chamada “IA espacial”, sistemas que conseguem entender ambientes físicos em três dimensões e agir em tempo real, em vez de apenas responder a textos em uma tela. O que é VPU, o cérebro por trás da visão computacional? O que são agentes de IA e o que eles podem fazer no seu celular? Essa mudança representa uma transição importante no setor, em que a IA começa a ser mais contextual e sensorial do que apenas conversacional. A disputa por essa tecnologia também envolve o avanço da Google DeepMind, que investe em robótica e simulação de mundos, além de startups, como a World Labs, que já atrai investimentos bilionários para desenvolver modelos de “inteligência espacial”. Nos bastidores, a corrida de IA espacial gira em torno de criar sistemas capazes de perceber o mundo como humanos percebem , com profundidade, movimento e contexto contínuo, o que abre caminho para uma nova geração de dispositivos autônomos e integrados ao ambiente. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Assim, além de mais inteligentes, essa tecnologia tem mais noção de contexto , de modo que entende onde você está e o que está fazendo antes mesmo de receber um comando. IA espacial é uma tecnologia que permite que os sistemas entendam e interajam com o mundo físico em 3D e em tempo real. (Imagem: Growtika/Unsplash) Afinal, o que é IA Espacial? A IA espacial é uma evolução dos sistemas de visão computacional que busca dar às máquinas uma compreensão contínua do ambiente em três dimensões . Em vez de analisar imagens isoladas, esses modelos constroem uma representação dinâmica do espaço ao redor. Isso envolve o uso de câmeras, sensores de profundidade e modelos que conseguem simular as noções de física, como distância, movime",
+      "lang": "pt",
+      "depts": [
+        "Financeiro"
+      ]
+    },
+    {
+      "title": "GPT-5.6 tem estreia atrasada pela OpenAI após pedido do governo dos EUA",
+      "description": "A estreia do GPT-5.6, nova versão do modelo de inteligência artificial (IA) do ChatGPT, levará mais tempo para ser concluída. O atraso, revelado pelo portal The Information e confirmado pelo Canaltech , ocorreu após uma solicitação do governo dos Estados Unidos por questões de segurança . IA mais us",
+      "url": "https://canaltech.com.br/inteligencia-artificial/gpt-56-deve-ter-estreia-atrasada-apos-pedido-do-governo-dos-eua-revela-portal/",
+      "publishedAt": "Fri, 26 Jun 2026 11:17:00 -0300",
+      "image": "https://t.ctcdn.com.br/CwTb5KNWOIPyQhMUlOLFldakqk8=/700x394/smart/i1119843.png",
+      "source": "Canaltech IA",
+      "content": "A estreia do GPT-5.6, nova versão do modelo de inteligência artificial (IA) do ChatGPT, levará mais tempo para ser concluída. O atraso, revelado pelo portal The Information e confirmado pelo Canaltech , ocorreu após uma solicitação do governo dos Estados Unidos por questões de segurança . IA mais usada do ChatGPT recebe melhorias; veja o que mudou Nova IA chinesa derrota ChatGPT e tem uma vantagem gigantesca A reportagem publicada nesta quinta-feira (25) indicava que o CEO da OpenAI, Sam Altman, informou aos funcionários que a liberação do sucessor do GPT-5.5 acontecerá em etapas . A começar por uma prévia limitada para o público corporativo, sob a supervisão do governo. No dia seguinte, a OpenAI apresentou o seu novo modelo com a restrição para usuários selecionados . O acesso, no entanto, será realizado apenas via API e Codex no começo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Nesta sexta-feira (26), o Canaltech apurou que a OpenAI já trabalha para liberar o modelo para parceiros de outros países . “Planejamos disponibilizá-los em breve de forma mais ampla para usuários do ChatGPT, do Codex e da API”, explica a OpenAI. Restrições em modelos de IA O pedido do governo dos EUA ocorreu poucos dias após a suspensão do Claude Fable 5 e Mythos 5 . Na ocasião, as autoridades locais determinaram a limitação de acesso aos modelos da Anthropic para estrangeiros , mesmo se o uso ocorrer dentro do território dos Estados Unidos. Em nota, a Anthropic informou que a restrição ocorreu após a descoberta de um jailbreak , técnica para contornar os controles de segurança de modelos de IA. A empresa, no entanto, discordou da justificativa. A retirada dos modelos do ar aconteceu de maneira repentina. Ao Canaltech , especialistas destacaram que o episódio traz um alerta sobre dependência estrangeira . Até o momento, os modelos da Anthropic seguem indisponíveis . Os apps do Claude també",
+      "lang": "pt",
+      "depts": [
+        "RH"
+      ]
+    },
+    {
+      "title": "IA brasileira lança modelo poderoso para bater de frente com ChatGPT e Gemini",
+      "description": "A Maritaca AI anunciou o lançamento do Sabiá 4 Thinking , um novo modelo de linguagem focado em raciocínio avançado e otimizado para o português brasileiro. A novidade já está disponível por meio de uma interface de chat e também via API para desenvolvedores. Como funciona a Maritaca, chatbot com IA",
+      "url": "https://canaltech.com.br/inteligencia-artificial/ia-brasileira-lanca-modelo-poderoso-para-bater-de-frente-com-chatgpt-e-gemini/",
+      "publishedAt": "Thu, 25 Jun 2026 14:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/9RtrmnDASrtehPx68aCA60gMr5A=/700x394/smart/i1137809.png",
+      "source": "Canaltech IA",
+      "content": "A Maritaca AI anunciou o lançamento do Sabiá 4 Thinking , um novo modelo de linguagem focado em raciocínio avançado e otimizado para o português brasileiro. A novidade já está disponível por meio de uma interface de chat e também via API para desenvolvedores. Como funciona a Maritaca, chatbot com IA brasileiro? GAIA, Amazônia e mais: 5 IAs generativas brasileiras O modelo foi criado para competir com ChatGPT e Gemini , com foco maior no contexto brasileiro e na execução de tarefas mais complexas em várias etapas. Ele também consegue acessar bases de dados públicas, como IBGE, Banco Central e TSE, o que ajuda a trazer informações mais atualizadas e contextualizadas. Segundo a Maritaca AI, o diferencial do modelo está no seu processo de “pensamento estruturado” , em que o sistema realiza um raciocínio passo a passo antes de responder e traz todas as referências usadas, o que possibilita checar as informações. Essa abordagem melhora o desempenho em tarefas que exigem lógica, análise e encadeamento de informações, especialmente em aplicações jurídicas, uso de ferramentas e agentes de IA. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Em comparação ao Sabiá 4, o Sabiá 4 Thinking adiciona essa etapa extra de raciocínio, o que torna o modelo mais consistente na resolução de problemas complexos . Isso se reflete em três frentes: melhor uso de ferramentas em tarefas com várias etapas, mais precisão na produção e análise de textos jurídicos e respostas mais completas e organizadas em conversas do dia a dia. Maritaca AI lança o Sabiá 4 Thinking, modelo de IA focado em raciocínio em português que compete com ChatGPT e Gemini. (Imagem: Viviane França/Canaltech) Sabiá 4 Thinking se aproxima de ChatGPT e Gemini em benchmarks A Maritaca AI avaliou o Sabiá 4 Thinking contra modelos de fronteira Gemini 3.1 Pro, GPT-5.4 e Opus 4.8 em três áreas: chamadas de função e agentes, tarefas jurídi",
+      "lang": "pt",
+      "depts": [
+        "Financeiro",
+        "Jurídico",
+        "Gestão"
+      ]
+    },
+    {
+      "title": "ChatGPT muda de personalidade para ficar mais natural e divertido; veja detalhes",
+      "description": "A OpenAI começou a liberar uma atualização do GPT-5.5 Instant, modelo que serve de base para boa parte das conversas no ChatGPT. A novidade promete tornar as respostas mais naturais, fluidas e agradáveis , com melhor compreensão da intenção do usuário. O recurso já está disponível para assinantes do",
+      "url": "https://canaltech.com.br/inteligencia-artificial/chatgpt-muda-de-personalidade-para-ficar-mais-natural-e-divertido-veja-detalhes/",
+      "publishedAt": "Thu, 25 Jun 2026 10:10:00 -0300",
+      "image": "https://t.ctcdn.com.br/eFsqw8IK-RmTRhZ7JYM_N-mqTj8=/700x394/smart/i1137009.png",
+      "source": "Canaltech IA",
+      "content": "A OpenAI começou a liberar uma atualização do GPT-5.5 Instant, modelo que serve de base para boa parte das conversas no ChatGPT. A novidade promete tornar as respostas mais naturais, fluidas e agradáveis , com melhor compreensão da intenção do usuário. O recurso já está disponível para assinantes dos planos pagos e chega aos usuários da versão gratuita nesta quinta-feira (25). Tudo sobre o ChatGPT: conheça os modelos e recursos da IA da OpenAI Quais são os modelos do ChatGPT? Conheça as IAs disponíveis no chatbot O GPT-5.5 Instant vem passando por uma evolução contínua desde sua chegada em maio. Em um primeiro momento, o foco foi ajustar o estilo das respostas, reduzindo o uso excessivo de emojis, listas longas e respostas muito formais, além de corrigir a tendência à complacência e melhorar a precisão em diferentes idiomas. Agora, nesta nova leva de ajustes liberada entre 24 e 25 de junho, o objetivo é ajustar ainda mais a experiência de conversa. O modelo passa a entender melhor a intenção do usuário , responde de forma envolvente e consegue lidar com instruções complexas com consistência, além de oferecer recomendações mais úteis, incluindo sugestões locais e de compras. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - No aplicativo para celular, os usuários podem pressionar e segurar o botão de envio para escolher rapidamente o nível de processamento desejado para uma mensagem, como Instantâneo, Pensando e Estendido . A seleção vale apenas para aquela solicitação específica, sem alterar o modelo padrão usado no restante da conversa. Já na versão web, conversas mais longas, com 5 ou mais respostas, vão exibir automaticamente um índice para facilitar a navegação entre diferentes partes do diálogo. A OpenAI atualizou o GPT-5.5 Instant para tornar o ChatGPT mais natural, conversacional e eficiente na compreensão das intenções dos usuários. (Imagem: Viviane França/Canaltech",
+      "lang": "pt",
+      "depts": [
+        "Gestão",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Google libera IA que consegue mexer no computador e controlar a tela sozinha",
+      "description": "O Google anunciou a integração da função “Computer use” ao modelo Gemini 3.5 Flash para que agentes de inteligência artificial possam visualizar a tela e executar ações em computadores, navegadores e aplicativos. A novidade já está disponível para desenvolvedores e empresas por meio da API do Gemini",
+      "url": "https://canaltech.com.br/inteligencia-artificial/google-libera-ia-que-consegue-mexer-no-computador-e-controlar-a-tela-sozinha/",
+      "publishedAt": "Wed, 24 Jun 2026 18:10:00 -0300",
+      "image": "https://t.ctcdn.com.br/m8Wp7wCpy3oVeMy-XnoynAhVdVw=/700x394/smart/i1137617.jpeg",
+      "source": "Canaltech IA",
+      "content": "O Google anunciou a integração da função “Computer use” ao modelo Gemini 3.5 Flash para que agentes de inteligência artificial possam visualizar a tela e executar ações em computadores, navegadores e aplicativos. A novidade já está disponível para desenvolvedores e empresas por meio da API do Gemini e da plataforma Gemini Enterprise Agent. O que são agentes de IA e o que eles podem fazer no seu celular? OpenAI Operator, Copilot e mais: conheça 4 agentes de IA A ferramenta transforma o modelo em um agente que consegue realizar tarefas completas de forma autônoma , como clicar em botões, preencher formulários, rolar páginas e navegar entre sistemas internos. O foco inicial é o ambiente corporativo, com aplicações em automação de processos, análise de dados e testes de software. A empresa já havia incorporado recursos de navegação com agentes, como o Auto Browse no Chrome Enterprise no início do ano. Agora, a nova integração no Gemini 3.5 Flash amplia essa lógica para funcionar sobre qualquer tela. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Apesar do avanço, a empresa destaca que o sistema ainda enfrenta limitações em situações imprevisíveis , como CAPTCHAs, pop-ups e interfaces dinâmicas. Para reduzir riscos, foram incluídos mecanismos de segurança, como confirmação humana em ações sensíveis e interrupção automática em caso de detecção de possíveis tentativas de manipulação. Esses controles são opcionais e não vêm ativados por padrão. O Google também adotou treinamento adversário focado especificamente na prevenção de injeção de prompts , um tipo de ataque em que instruções maliciosas ocultas em páginas da web ou documentos podem induzir a IA a executar ações não intencionais. A novidade chega para competir com a pioneira no segmento , a Anthropic, cujo Claude Computer Use já atua com interação mais ampla em sistemas operacionais e arquivos. O espaço também vem receben",
+      "lang": "pt",
+      "depts": [
+        "Gestão",
+        "Educação"
+      ]
+    },
+    {
+      "title": "8 prompts do ChatGPT e Gemini para criar fotos suas na Copa do Mundo",
+      "description": "Essa é a primeira Copa do Mundo em que é possível usar a inteligência artificial para criar experiências visuais altamente realistas de você no estádio, como jogador, torcedor ou até protagonista da partida. Antes, em 2022, a IA já existia, mas ainda não tinha a capacidade de gerar imagens hiper-rea",
+      "url": "https://canaltech.com.br/inteligencia-artificial/8-prompts-do-chatgpt-e-gemini-para-criar-fotos-suas-na-copa-do-mundo/",
+      "publishedAt": "Wed, 24 Jun 2026 09:40:00 -0300",
+      "image": "https://t.ctcdn.com.br/JTY6Temc2PBeBsLQAEbwblE-jnE=/700x394/smart/i1136577.png",
+      "source": "Canaltech IA",
+      "content": "Essa é a primeira Copa do Mundo em que é possível usar a inteligência artificial para criar experiências visuais altamente realistas de você no estádio, como jogador, torcedor ou até protagonista da partida. Antes, em 2022, a IA já existia, mas ainda não tinha a capacidade de gerar imagens hiper-realistas no nível de qualidade como vemos hoje. Onde assistir aos jogos da Copa do Mundo 2026? Quando serão os jogos do Brasil na Copa do Mundo 2026? Para isso, basta enviar uma foto de referência e usar comandos detalhados para guiar a IA. Quanto mais informações sobre estilo, iluminação e cenário, mais realista fica o resultado. 8 comandos para criar fotos na Copa do Mundo Veja 8 comandos para criar fotos suas na Copa do Mundo 2026: - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Na arquibancada Com a taça da vitória Transmissão ao vivo No gramado Coletiva de imprensa Capa de revista esportiva Boneco colecionável da Copa Figurinha da Copa 1. Na arquibancada Aqui a ideia é te colocar no meio da torcida como se você estivesse assistindo a um jogo ao vivo da Seleção Brasileira. Nada de pose forçada, o foco é capturar um momento natural, com bandeiras, luzes do estádio e aquela atmosfera de transmissão esportiva. Exemplo de prompt: “Use a foto enviada como referência, preservando totalmente a identidade e características faciais da pessoa. Crie uma cena hiper-realista estilo transmissão esportiva ao vivo em um jogo da Seleção Brasileira, com a pessoa na arquibancada, expressão natural e espontânea, sem posar ou olhar para a câmera. Ao redor, torcedores com camisetas do Brasil, bandeiras e ambiente realista de estádio. Iluminação autêntica de evento esportivo, com leve granulação, motion blur sutil e estética de TV em alta definição. Enquadramento 16:9, estilo documental e fotojornalístico, com aparência de registro real de transmissão ao vivo.” Você pode criar uma foto no meio da t",
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Claude Tag: Nova IA vira \"colega de trabalho\" oficial no Slack",
+      "description": "A Anthropic anunciou o Claude Tag, uma nova integração que transforma o Claude em um “colega de trabalho” dentro do Slack. Com isso, os usuários podem mencionar a IA usando @Claude para delegar tarefas, permitindo que ela acesse dados, ferramentas internas e repositórios de código. A novidade já est",
+      "url": "https://canaltech.com.br/inteligencia-artificial/claude-tag-nova-ia-vira-colega-de-trabalho-oficial-no-slack/",
+      "publishedAt": "Tue, 23 Jun 2026 20:10:00 -0300",
+      "image": "https://t.ctcdn.com.br/nhe5GfzxZbq5MOIORkQ9sn48Ts4=/700x394/smart/i1137245.jpeg",
+      "source": "Canaltech IA",
+      "content": "A Anthropic anunciou o Claude Tag, uma nova integração que transforma o Claude em um “colega de trabalho” dentro do Slack. Com isso, os usuários podem mencionar a IA usando @Claude para delegar tarefas, permitindo que ela acesse dados, ferramentas internas e repositórios de código. A novidade já está disponível em versão beta e é voltada para clientes dos planos Claude Enterprise e Team. 8 diferenças entre o polêmico Claude Fable 5 e o Mythos 5 Testamos o Cowork: o agente de IA do Claude promete, mas tem ressalvas Segundo a empresa, o recurso substitui o antigo app do Claude no Slack e faz parte de uma mudança mais ampla na forma como a IA é usada no ambiente corporativo, indo além de respostas pontuais para atuar como assistente contínuo de trabalho. O Claude Tag utiliza o modelo Opus 4.8 e foi projetado para funcionar de forma mais integrada ao dia a dia das equipes. Ele consegue acompanhar conversas nos canais, manter contexto entre tarefas e executar ações de forma assíncrona, respondendo quando conclui o trabalho. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Os administradores também podem controlar permissões , definir limites de uso e criar “identidades” diferentes da IA para áreas específicas da empresa, como engenharia ou vendas, além de gerenciar gastos e acessar logs detalhados de todas as ações realizadas pelo Claude, incluindo o registro do usuário que solicitou cada tarefa. A Anthropic afirma ainda que organizações terão até 30 dias para migrar do antigo aplicativo para o novo sistema, com créditos iniciais para testes. A proposta é posicionar o Claude como um participante ativo das equipes, que consegue assumir desde tarefas técnicas até rotinas de suporte e análise de dados. A Anthropic lançou o Claude Tag, uma integração que transforma o Claude em um “colega de trabalho” no Slack. (Imagem: Viviane França/Canaltech) Como funciona o Claude Tag? O funcion",
+      "lang": "pt",
+      "depts": [
+        "RH",
+        "Comercial",
+        "Gestão",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Advogado de IA vence primeiro caso judicial e derrota advogados humanos",
+      "description": "Um escritório de advocacia operado por inteligência artificial marcou um feito inédito no sistema judiciário britânico ao vencer seu primeiro caso em tribunal . A Garfield AI conseguiu recuperar £ 7.000 (cerca de R$ 45 mil) em pagamentos atrasados para Tamires Camal Taquidir, freelancer de Recursos ",
+      "url": "https://canaltech.com.br/inteligencia-artificial/advogado-de-ia-vence-primeiro-caso-judicial-e-derrota-advogados-humanos/",
+      "publishedAt": "Tue, 23 Jun 2026 16:05:00 -0300",
+      "image": "https://t.ctcdn.com.br/hJdr_JU-c2DtH5TW7XxlIz8LsDw=/700x394/smart/i1137169.jpeg",
+      "source": "Canaltech IA",
+      "content": "Um escritório de advocacia operado por inteligência artificial marcou um feito inédito no sistema judiciário britânico ao vencer seu primeiro caso em tribunal . A Garfield AI conseguiu recuperar £ 7.000 (cerca de R$ 45 mil) em pagamentos atrasados para Tamires Camal Taquidir, freelancer de Recursos Humanos no setor de hospitalidade, no Tribunal de Condado de Wandsworth. A decisão é considerada um marco para o uso de IA na área jurídica. 20 prompts do ChatGPT para advogados 4 profissões de IA que pagam bem: salários de até R$ 70 mil por mês O caso, julgado em 14 de maio de 2026 e concluído em cerca de três horas, foi conduzido quase integralmente pela plataforma . A IA cuidou desde as notificações iniciais até a organização das provas e dos documentos apresentados no tribunal. Já a empresa devedora contou com uma equipe jurídica tradicional. Tamires gastou cerca de £ 400 (cerca de R$ 2.369) com o serviço da Garfield AI e teve apoio de um advogado humano apenas na sustentação oral durante a audiência . Para os fundadores da empresa, o resultado mostra que a tecnologia pode tornar a cobrança de pequenas dívidas mais acessível. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Segundo a Solicitors Regulation Authority (SRA), que autorizou a operação da empresa em 2025, o objetivo é justamente ampliar o acesso à justiça para pequenos negócios e profissionais autônomos. A expectativa é reduzir custos e simplificar processos que, muitas vezes, fazem os credores desistirem de buscar seus direitos. Alguns profissionais questionam quem deve ser responsabilizado caso a IA cometa erros. O advogado David Enright, por exemplo, levantou essa preocupação ao perguntar: \"Se você confia na IA e não em um advogado, de quem você reclama quando as coisas derem errado?\". Há também quem argumente que, apesar dos avanços, os sistemas atuais ainda não conseguem analisar situações complexas ou identi",
+      "lang": "pt",
+      "depts": [
+        "RH",
+        "Financeiro",
+        "Comercial",
+        "Jurídico",
+        "Gestão",
+        "Saúde",
+        "Educação"
       ]
     }
   ]
