@@ -1,7 +1,111 @@
 {
-  "updatedAt": "2026-07-06T13:37:33.603Z",
+  "updatedAt": "2026-07-07T12:21:50.475Z",
   "count": 40,
   "articles": [
+    {
+      "title": "Midjourney quer que estúdios de Hollywood revelem como usam IA",
+      "description": "Startup tenta ampliar acesso a documentos internos de Disney, Universal e Warner em processo sobre personagens protegidos por direitos autorais. Midjourney quer que estúdios de Hollywood revelem como usam IA",
+      "url": "https://tecnoblog.net/noticias/midjourney-quer-que-estudios-de-hollywood-revelem-como-usam-ia/",
+      "publishedAt": "Mon, 06 Jul 2026 21:23:14 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/09/capa-midjourney-1-tbr.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Jurídico",
+        "Gestão"
+      ]
+    },
+    {
+      "title": "Agora você pode personalizar o ritmo e a expressividade do Siri no iOS 27 beta mais recente",
+      "description": "A atualização faz parte do esforço mais amplo da Apple para tornar o Siri mais natural e pessoal, à medida que reconstrói o assistente em torno da IA ​​generativa.",
+      "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "publishedAt": "Mon, 06 Jul 2026 19:01:59 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Reddit usa IA para resolver problema que existe por conta da tecnologia",
+      "description": "O Reddit revelou o segredo usado pela empresa para combater a avalanche de conteúdos gerados por IA: a própria inteligência artificial . De acordo com a plataforma, as técnicas de automação ajudaram a reduzir a quantidade de spam e votos falsos por lá . Dados divulgados pela rede social revelam que ",
+      "url": "https://canaltech.com.br/inteligencia-artificial/reddit-usa-ia-para-resolver-problema-que-existe-por-conta-da-tecnologia/",
+      "publishedAt": "Mon, 06 Jul 2026 15:15:00 -0300",
+      "image": "https://t.ctcdn.com.br/z-cxBjHCUthGLL94srLd4TobPZA=/700x394/smart/i1072057.jpeg",
+      "source": "Canaltech IA",
+      "content": "O Reddit revelou o segredo usado pela empresa para combater a avalanche de conteúdos gerados por IA: a própria inteligência artificial . De acordo com a plataforma, as técnicas de automação ajudaram a reduzir a quantidade de spam e votos falsos por lá . Dados divulgados pela rede social revelam que mais de 23 milhões de visualizações de spam são bloqueadas diariamente antes mesmo de chegarem ao alcance dos humanos. Cerca de 25 mil posts de spam são identificados todos os dias, enquanto a exposição a conteúdo indesejado reduziu em 20% entre os primeiros três meses do ano. Os bots de IA afetam até os votos, que fazem parte da dinâmica para destacar os melhores posts e comentários na plataforma — a rede derrubou cerca de 2 milhões de votos artificiais por dia nos últimos três meses. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - IA para combater IA Parece contraditório, mas a IA é a maior arma do Reddit contra a IA. A plataforma desenvolveu sistemas automatizados com a tecnologia para identificar possíveis sinais de contas de spam e agir rapidamente. Após detectar os indícios, a plataforma usa LLMs para reconhecer os padrões coordenados de comportamentos falsos que podem passar despercebidos por outros sistemas de moderação e derruba os perfis. Reddit tem LLMs próprios para identificar padrões de contas feitas por IA e removê-las (Imagem: Appshunter.io/Unsplash) Reddit contra o “slop” O Reddit trava uma batalha há anos contra a ascensão da IA generativa e foca em ser uma plataforma voltada para humanos. Nos primeiros meses de sucesso do ChatGPT, o app restringiu o acesso aos LLMs que extraíam informações para treinamento, mas depois flexibilizou as medidas. No começo do ano, o CEO da empresa, Steve Huffman anunciou um sistema de verificação de contas para conter o avanço de bots . Huffman entende que existem “bons bots”, mas focou em combater spam ou contas criadas para sim",
+      "lang": "pt",
+      "depts": [
+        "Marketing",
+        "Gestão"
+      ]
+    },
+    {
+      "title": "Quando o go-to-market vira produto",
+      "description": "*Por Vinícius Boemeke À medida que a inteligência artificial avança nas empresas, fica cada vez mais evidente que ainda estamos discutindo essa tecnologia de um jeito pequeno demais. O debate permanece muito concentrado em prompts, produtividade individual, geração de textos, imagens, campanhas e au",
+      "url": "https://canaltech.com.br/colunas/quando-o-go-to-market-vira-produto/",
+      "publishedAt": "Mon, 06 Jul 2026 14:20:17 -0300",
+      "image": "https://t.ctcdn.com.br/zeOyHNNRRjAemubeQZ3XX-INhiQ=/700x394/smart/i944765.jpeg",
+      "source": "Canaltech IA",
+      "content": "*Por Vinícius Boemeke À medida que a inteligência artificial avança nas empresas, fica cada vez mais evidente que ainda estamos discutindo essa tecnologia de um jeito pequeno demais. O debate permanece muito concentrado em prompts, produtividade individual, geração de textos, imagens, campanhas e automações pontuais. Tudo isso tem valor, evidentemente. Mas talvez não esteja no centro da transformação mais importante em curso. O que começa a se desenhar é a IA deixando de ser uma ferramenta lateral de apoio e passando a integrar a arquitetura operacional das empresas . No marketing, essa mudança é profunda porque altera a própria pergunta que líderes e equipes precisam fazer. A questão deixa de ser apenas “como usar IA para escrever um e-mail melhor?” e passa a ser “como redesenhar o go-to-market para que humanos e agentes trabalhem sobre os mesmos dados, objetivos e processos?” . Essa virada parece sutil, mas não é. Ela muda a forma como empresas pensam aquisição, relacionamento, vendas, crescimento, eficiência operacional e, principalmente, aprendizado contínuo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O melhor agente nasce do melhor humano Um exemplo que ajuda a ilustrar essa mudança vem da forma como algumas empresas de tecnologia têm estruturado agentes para suas operações comerciais. Em vez de começar pela ferramenta, pelo modelo ou pelo prompt, o processo parte da observação de profissionais de alta performance : quais fontes consultam, quais sinais analisam, quais dados cruzam e quais critérios utilizam para decidir se determinada conta merece abordagem. Só depois desse mapeamento o fluxo é transformado em workflow. E só depois vem a IA. Esse detalhe deveria servir como alerta para muitas empresas. A tendência ainda é começar pelo modelo, pela ferramenta ou pelo prompt. Conecta-se uma solução ao CRM, cria-se uma sequência de comandos e espera-se que a IA res",
+      "lang": "pt",
+      "depts": [
+        "Marketing",
+        "Comercial",
+        "Gestão",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Se você usa o Google, você está treinando sua IA. Veja como cancelar.",
+      "description": "Considere isso um PSA tardio: uma mudança recente nas configurações de privacidade do Google está permitindo que a empresa armazene mais dados, incluindo mídias como “imagens, arquivos e gravações de áudio e vídeo”, para melhorar seus modelos de IA.",
+      "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+      "publishedAt": "Mon, 06 Jul 2026 17:04:58 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Considere isso um PSA tardio: uma mudança recente nas configurações de privacidade do Google está permitindo que a empresa armazene mais dados, incluindo mídias como “imagens, arquivos e gravações de áudio e vídeo”, para melhorar seus modelos de IA.",
+      "lang": "en",
+      "depts": [
+        "Marketing",
+        "Jurídico"
+      ]
+    },
+    {
+      "title": "Microsoft demite 4.800 funcionários em nova reestruturação",
+      "description": "Cortes representam cerca de 2,1% da força de trabalho global e incluem divisão de games. Empresa cita ajuste estrutural e avanço da inteligência artificial. Microsoft demite 4.800 funcionários em nova reestruturação",
+      "url": "https://tecnoblog.net/noticias/microsoft-demite-4-800-funcionarios-em-nova-reestruturacao/",
+      "publishedAt": "Mon, 06 Jul 2026 15:58:14 +0000",
+      "image": "https://www.youtube.com/embed/4GraS4yynCQ",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "RH"
+      ]
+    },
+    {
+      "title": "Reddit está usando LLMs para resolver um problema que LLMs criou em grande parte",
+      "description": "Na era da IA, as plataformas não têm escolha a não ser combater fogo com fogo para eliminar o spam.",
+      "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+      "publishedAt": "Mon, 06 Jul 2026 15:22:08 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Após críticas, Microsoft permitirá desligar IA no Teams",
+      "description": "Usuários poderão desligar o Copilot, resumos e anotações automáticas durante as videochamadas. Atualização deve ser liberada ainda neste mês. Após críticas, Microsoft permitirá desligar IA no Teams",
+      "url": "https://tecnoblog.net/noticias/apos-criticas-microsoft-permitira-desligar-ia-no-teams/",
+      "publishedAt": "Mon, 06 Jul 2026 14:03:11 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2020/11/microsoft-teams-iphone-app-ios-tecnoblog.jpg",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
     {
       "title": "A Estação F se torna uma plataforma de lançamento para as startups de IA mais importantes da Europa",
       "description": "A Station F, um centro de startups com sede em Paris e fundado pelo bilionário francês Xavier Niel, está se preparando para uma nova edição de seu programa acelerador F/ai, em uma tentativa de fortalecer seu posicionamento como um trampolim para startups promissoras de IA.",
@@ -221,57 +325,6 @@
       ]
     },
     {
-      "title": "OpenAI pode ceder 5% da empresa para o governo dos EUA",
-      "description": "Plano de Sam Altman seria criar fundo de riqueza para distribuir lucros da IA e acalmar as tensões com a gestão Trump. OpenAI pode ceder 5% da empresa para o governo dos EUA",
-      "url": "https://tecnoblog.net/noticias/openai-pode-ceder-5-da-empresa-para-o-governo-dos-eua/",
-      "publishedAt": "Thu, 02 Jul 2026 19:44:24 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/sam-altman-1-capa.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Financeiro",
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Anthropic está discutindo um novo chip personalizado com a Samsung",
-      "description": "A notícia chega cerca de uma semana depois que a OpenAI anunciou seu próprio chip de IA personalizado em parceria com a Broadcom.",
-      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-      "publishedAt": "Thu, 02 Jul 2026 18:31:09 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Comercial"
-      ]
-    },
-    {
-      "title": "OpenAI propôs doar 5% de seu patrimônio para um fundo soberano dos EUA",
-      "description": "O CEO da OpenAI, Sam Altman, propôs dar 5% do capital da empresa a um fundo soberano dos EUA, reavivando as discussões sobre deixar o público participar nos ganhos financeiros do boom da IA.",
-      "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
-      "publishedAt": "Thu, 02 Jul 2026 15:20:51 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "O CEO da OpenAI, Sam Altman, propôs dar 5% do capital da empresa a um fundo soberano dos EUA, reavivando as discussões sobre deixar o público participar nos ganhos financeiros do boom da IA.",
-      "lang": "en",
-      "depts": [
-        "Financeiro"
-      ]
-    },
-    {
-      "title": "Microsoft lança sua própria empresa de implantação de IA com compromisso de US$ 2,5 bilhões",
-      "description": "A Microsoft segue Amazon, OpenAI e Anthropic com seu novo grupo de implantação de IA.",
-      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-      "publishedAt": "Thu, 02 Jul 2026 13:53:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
       "title": "Por que o próximo ciclo computacional precisa ser construído para todos",
       "description": "Nos últimos três anos, a capacidade computacional global dedicada à inteligência artificial cresceu aproximadamente 100 vezes . É uma das revoluções tecnológicas mais impactantes das últimas décadas. A IA já chegou indiscutivelmente. Mas a questão que surge agora é: ela está acessível a todos? De um",
       "url": "https://canaltech.com.br/colunas/por-que-o-proximo-ciclo-computacional-precisa-ser-construido-para-todos/",
@@ -284,19 +337,6 @@
         "Financeiro",
         "Comercial",
         "Educação"
-      ]
-    },
-    {
-      "title": "Sim, estamos usando o OpenClaw até agora",
-      "description": "Ben Guez tem “um monte de esposas internacionais em potencial em [seus] DMs”, graças a um script automatizado que ele configurou usando OpenClaw, código Claude e testes do Instagram.",
-      "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
-      "publishedAt": "Thu, 02 Jul 2026 12:00:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Ben Guez tem “um monte de esposas internacionais em potencial em [seus] DMs”, graças a um script automatizado que ele configurou usando OpenClaw, código Claude e testes do Instagram.",
-      "lang": "en",
-      "depts": [
-        "Marketing"
       ]
     },
     {
@@ -498,49 +538,6 @@
       "depts": [
         "Financeiro",
         "Saúde"
-      ]
-    },
-    {
-      "title": "Gemini grátis vale a pena? Veja o que dá e o que não dá para fazer",
-      "description": "Assistente de IA do Google, o Gemini pode ser usado gratuitamente pelo navegador, por aplicativo para celulares ou pela integração com celulares Android. Por isso, o serviço é uma alternativa comum para usar a tecnologia sem abrir a carteira. ChatGPT grátis vale a pena? Veja o que dá e o que não dá ",
-      "url": "https://canaltech.com.br/inteligencia-artificial/gemini-gratis-vale-a-pena-veja-o-que-da-e-o-que-nao-da-para-fazer/",
-      "publishedAt": "Sat, 27 Jun 2026 11:30:00 -0300",
-      "image": "https://t.ctcdn.com.br/c92TVkOI7wQC41OlpJQENH1HJ_k=/700x394/smart/i1127127.png",
-      "source": "Canaltech IA",
-      "content": "Assistente de IA do Google, o Gemini pode ser usado gratuitamente pelo navegador, por aplicativo para celulares ou pela integração com celulares Android. Por isso, o serviço é uma alternativa comum para usar a tecnologia sem abrir a carteira. ChatGPT grátis vale a pena? Veja o que dá e o que não dá para fazer 8 formas de assinar o Gemini mais barato ou de graça A IA tem planos pagos que oferecem limites de uso maiores e recursos exclusivos, mas o nível básico ainda é muito confiável. A seguir, o Canaltech explica: - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O que tem no Gemini grátis? O que não tem no Gemini grátis? Vale a pena usar o Gemini grátis para estudar e trabalhar? Quais as diferenças para Claude e ChatGPT gratuitos? Quando vale a pena pagar pelo Gemini? Como extrair o melhor do plano gratuito O que tem no Gemini grátis? O Gemini gratuito usa a variante Flash dos modelos de IA do Google por padrão, além de fornecer acesso limitado à variante Pro (usada para tarefas mais complexas). Estes recursos estão disponíveis: Gemini Live para conversas por áudio; Criação de imagens com o Nano Banana; Deep Research para pesquisas mais aprofundadas em páginas da web; Gems para acessar versões personalizadas do chatbot; Uso do modo Canvas para páginas personalizadas; Acesso ao Google Flow para criar imagens. Criação e edição de imagens está disponível de forma gratuita (Imagem: Viviane França/Canaltech) O que não tem no Gemini grátis? A criação de vídeos com o Gemini Omni, a integração da IA ao Google Workspace (Gmail, Documentos e outros) e o assistente de programação Antigravity são exclusivos para os planos pagos do Google . Além disso, a versão básica da IA garante acesso limitado ao modelo Pro e a recursos específicos do NotebookLM, incluindo resumos em áudio e vídeo. Vale a pena usar o Gemini grátis para estudar e trabalhar? Sim. No caso dos estudos, a grande vantage",
-      "lang": "pt",
-      "depts": [
-        "Comercial",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Como impedir que o ChatGPT treine IA com seus dados",
-      "description": "Você provavelmente já fez isso sem pensar duas vezes: copiou um e-mail de trabalho para pedir ajuda na resposta, colou um contrato para resumir cláusulas, enviou uma planilha para análise ou descreveu um problema pessoal em busca de orientação. O que significa quando uma empresa diz que vai treinar ",
-      "url": "https://canaltech.com.br/inteligencia-artificial/como-impedir-que-o-chatgpt-treine-ia-com-seus-dados/",
-      "publishedAt": "Sat, 27 Jun 2026 08:30:00 -0300",
-      "image": "https://t.ctcdn.com.br/ZYG6Fut2RaMaLKaCUk5JQX-psxM=/700x394/smart/i1119851.png",
-      "source": "Canaltech IA",
-      "content": "Você provavelmente já fez isso sem pensar duas vezes: copiou um e-mail de trabalho para pedir ajuda na resposta, colou um contrato para resumir cláusulas, enviou uma planilha para análise ou descreveu um problema pessoal em busca de orientação. O que significa quando uma empresa diz que vai treinar IA com dados dos usuários Privacidade nas IAs: quem tem acesso ao seu histórico de conversas? O ChatGPT se tornou uma ferramenta de produtividade para milhões de pessoas. A praticidade é inegável, mas ela também exige um mínimo de atenção à privacidade. O problema é que muita gente usa a IA como se fosse um bloco de notas privado, sem revisar as configurações que controlam o destino dessas informações. A boa notícia é que a OpenAI oferece opções para limitar como seus dados são utilizados . Com um ajuste simples, é possível reduzir a exposição de informações e ter mais controle sobre o que acontece com suas conversas. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A seguir, tire suas dúvidas sobre: O ChatGPT usa conversas para treinar IA? Como desativar o treinamento de IA com seus dados? Use o chat temporário quando o assunto for sensível Qual é a diferença entre memória e treinamento? O que não colocar no ChatGPT, mesmo com proteção ativada? E no trabalho: conta pessoal ou plano empresarial? Cuidado com GPTs, ações e serviços de terceiros Como proteger seus dados ao usar o ChatGPT no dia a dia? O ChatGPT usa conversas para treinar IA? Sim . Segundo a OpenAI, serviços para usuários individuais, como o ChatGPT, podem utilizar conversas, arquivos enviados e outros conteúdos para ajudar a melhorar seus modelos de inteligência artificial. No entanto, a empresa permite que os usuários desativem esse compartilhamento. Nas contas pessoais, incluindo os planos Free, Plus e Pro, existe a opção \"Melhorar o modelo para todos\". Quando ela está ativada, novas conversas podem ser usadas pa",
-      "lang": "pt",
-      "depts": [
-        "RH",
-        "Comercial",
-        "Jurídico",
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Como entrar no acesso antecipado da Alexa+ no Brasil?",
-      "description": "A Alexa+ é a versão da assistente da Amazon integrada com IA generativa, o que permite conversas mais longas e “memória” para lembrar preferências de cada indivíduo. O serviço foi anunciado no Brasil em junho de 2026, mas ainda está em fase de acesso antecipado . O que é Alexa+? Conheça a atualizaçã",
-      "url": "https://canaltech.com.br/inteligencia-artificial/como-entrar-no-acesso-antecipado-da-alexa-no-brasil/",
-      "publishedAt": "Fri, 26 Jun 2026 19:40:00 -0300",
-      "image": "https://t.ctcdn.com.br/a-wcwFrH_TN91Ju6CTf8i0pJoik=/700x394/smart/i1135617.png",
-      "source": "Canaltech IA",
-      "content": "A Alexa+ é a versão da assistente da Amazon integrada com IA generativa, o que permite conversas mais longas e “memória” para lembrar preferências de cada indivíduo. O serviço foi anunciado no Brasil em junho de 2026, mas ainda está em fase de acesso antecipado . O que é Alexa+? Conheça a atualização da assistente da Amazon 30 coisas estranhas que a Alexa consegue fazer Por enquanto, só é possível acessar a nova Alexa a novos aparelhos das linhas Echo e Fire TV , mas a Amazon permite se inscrever numa lista de espera para receber a novidade o quanto antes. Confira: Como se inscrever no acesso antecipado da Alexa+? A inscrição garante acesso imediato? Quais dispositivos são compatíveis com a nova Alexa? Quanto a Alexa+ vai custar? Como se inscrever no acesso antecipado da Alexa+? A Amazon oferece acesso antecipado à Alexa+ ao comprar modelos das gerações mais recentes dos dispositivos Echo Show, Echo Dot Max , Echo Studio , Echo Spot , Echo Dot e Fire Stick TV . - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Além disso, é possível se inscrever com o comando de voz “Alexa, quero Alexa Plus” ou pelo site oficial do serviço ( amazon.com.br/Amazon-Alexa ). Basta comprar um dos aparelhos listados ou pressionar o botão “Solicitar Alexa+” . Você receberá uma confirmação no e-mail vinculado à conta Amazon. Site da Amazon tem comando para se inscrever no acesso antecipado (Imagem: Captura de tela/Canaltech) A inscrição garante acesso imediato? Não. Entrar na lista de espera não garante que você receberá a nova Alexa instantaneamente . O acesso antecipado é liberado de forma gradual, mas se inscrever no site da Amazon permite receber os novos recursos antes do lançamento geral. Quais dispositivos são compatíveis com a nova Alexa? Os seguintes aparelhos vão receber a nova versão da Alexa: Toda a linha Echo, exceto o Echo Dot 1ª geração, Echo 1ª geração, Echo Plus 1ª geração, Echo Sh",
-      "lang": "pt",
-      "depts": [
-        "Comercial"
       ]
     }
   ]
