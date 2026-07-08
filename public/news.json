@@ -1,7 +1,114 @@
 {
-  "updatedAt": "2026-07-07T12:21:50.475Z",
+  "updatedAt": "2026-07-08T11:41:31.359Z",
   "count": 40,
   "articles": [
+    {
+      "title": "A startup francesa ZML lança produto gratuito para acelerar a inferência em muitos chips de IA",
+      "description": "ZML, uma startup francesa de IA endossada pelo vencedor do Prêmio Turing Yann LeCun, lançou agora o ZML/LLMD, software que pode tornar a execução de IA menos dispendiosa.",
+      "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "publishedAt": "Wed, 08 Jul 2026 08:00:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "Comercial"
+      ]
+    },
+    {
+      "title": "Meta AI, WhatsApp e Instagram ganham novo modelo de IA para gerar imagens",
+      "description": "Muse Image é o primeiro modelo de imagens e o segundo modelo de IA desenvolvido pelo novo laboratório de superinteligência da Meta. Meta AI, WhatsApp e Instagram ganham novo modelo de IA para gerar imagens",
+      "url": "https://tecnoblog.net/noticias/meta-ai-whatsapp-e-instagram-ganham-novo-modelo-de-ia-para-gerar-imagens/",
+      "publishedAt": "Tue, 07 Jul 2026 22:52:37 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/04_text_prompt_carousel-03-edited.webp",
+      "source": "Tecnoblog",
+      "content": "Muse Image estará disponível na Meta AI (imagem: divulgação) Resumo A Meta lançou o Muse Image, um modelo de IA para gerar imagens, desenvolvido pelo Meta Superintelligence Lab. O Muse Image será usado na Meta AI, WhatsApp e Instagram para gerar imagens e aplicar efeitos, e também estará disponível para anunciantes como parte do serviço Advantage Plus. A ferramenta permite incorporar fotos de contas públicas do Instagram e ajustar elementos, mudar estilos e criar variações de alta qualidade. A Meta anunciou, nesta terça-feira (07/07), o lançamento do modelo de inteligência artificial Muse Image. Ele deverá ser o responsável por gerar imagens na Meta AI, bem como executar algumas tarefas no WhatsApp e no Instagram. Essa é a primeira tecnologia do tipo desenvolvida pelo Meta Superintelligence Lab, braço da gigante das redes sociais dedicado à inteligência artificial e chefiado por Alexandr Wang. Em abril, a divisão fez sua estreia com o Muse Spark, de geração de texto. O que o Muse Image é capaz de fazer? Segundo a Meta, o Muse Image fica à frente do Nano Banana 2, do Google, em diversos benchmarks, ficando atrás apenas do gerador de imagens do ChatGPT, o GPT Image 2. O novo modelo estará disponível via Meta AI para geração de imagens. Antes, a empresa contava com o Midjourney para essa tarefa. No WhatsApp e no Instagram, ele também poderá ser usado para aplicar mais de 30 efeitos. Efeitos para imagens no WhatsApp também vão usar o Muse Image (imagem: divulgação) Na Meta AI, usuários poderão incorporar fotos de contas públicas do Instagram às suas criações, marcando os perfis donos das imagens usadas. Vale ter atenção a isso: o recurso vem ativado por padrão. Se você tem uma conta sem cadeado e não gostaria de ver suas fotos editadas por outras pessoas, é bom entrar nas configurações e desativar esse uso. Facebook e Messenger ganharão acesso ao Muse Image futuramente. A Meta também prepara um modelo de vídeo chamado Muse Video, ainda sem previsão de lançamento. Ferramenta estará disponível em pacote para anunciantes A Meta não quer que o Muse Image seja apenas um recurso para redes sociais. A empresa também aposta no modelo como uma ferramenta para anunciantes. Ele estará no serviço Advantage Plus, serviço da companhia voltado ao mercado publicitário, que deve chegar nas próximas semanas. “O Muse Image traz raciocínio nativo ao processo criativo para ajustar elementos, mudar estilos e criar variações com base no material original, chegando em menos iterações a versões de alta qualidade e alinhadas com a marca”, diz a Meta em um texto dedicado aos anunciantes. Com informações do Axios e da CNBC . Meta AI, WhatsApp e Instagram ganham novo modelo de IA para gerar imagens",
+      "lang": "pt",
+      "depts": [
+        "Marketing",
+        "Comercial",
+        "Gestão"
+      ]
+    },
+    {
+      "title": "Claude \"pensa sozinho\"? Estudo da Anthropic divide especialistas",
+      "description": "Uma declaração antiga de Amanda Askell, pesquisadora e filósofa da Anthropic, voltou a repercutir após a divulgação de um novo estudo da empresa sobre o funcionamento interno do Claude. Ela afirmou se preocupar com a possibilidade de o assistente \"ficar ansioso\" quando pessoas são maldosas com ele n",
+      "url": "https://canaltech.com.br/inteligencia-artificial/claude-pensa-sozinho-estudo-da-anthropic-divide-especialistas/",
+      "publishedAt": "Tue, 07 Jul 2026 18:15:00 -0300",
+      "image": "https://t.ctcdn.com.br/yXjaYLlTPjjyGfquGaMp1sPAhrA=/700x394/smart/i1135103.png",
+      "source": "Canaltech IA",
+      "content": "Uma declaração antiga de Amanda Askell, pesquisadora e filósofa da Anthropic, voltou a repercutir após a divulgação de um novo estudo da empresa sobre o funcionamento interno do Claude. Ela afirmou se preocupar com a possibilidade de o assistente \"ficar ansioso\" quando pessoas são maldosas com ele na internet. O resgate da declaração vem da publicação de uma pesquisa da Anthropic sobre os mecanismos internos do Claude, desta segunda-feira (6). Em materiais institucionais que acompanham o estudo, a empresa usa expressões como \"pensar\", \"pensou sobre o próprio pensamento\" e \"em sua cabeça\" . A combinação entre a fala resgatada e a linguagem adotada pela empresa reacendeu discussões entre especialistas em IA sobre o uso de termos antropomórficos para explicar sistemas de inteligência artificial. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Até que ponto esse vocabulário ajuda a explicar uma tecnologia complexa, e quando ele passa a atribuir características humanas a um software? O professor de novas tecnologias e IA da FIAP, Gustavo Torrente , resume o problema: \"A pesquisa é interessante, mas escolhe palavras como ansiedade, consciência e pensamentos, e isso faz o público concluir algo que o próprio artigo não afirma\", diz. Segundo ele, a Anthropic não encontrou evidências de consciência ou de experiência subjetiva, apenas identificou uma estrutura funcional que lembra teorias da neurociência. O funcionamento oculto do \"J-Space\" Para entender como o Claude organiza informações internamente, a equipe de interpretabilidade da Anthropic identificou um espaço interno compartilhado por diferentes componentes do modelo, batizado de \"J-Space\" . O nome deriva da técnica matemática utilizada para revelar essas representações, conhecida como lente Jacobiana (J-Lens). A técnica permite observar quais representações internas do modelo estão associadas às respostas que ele produz, of",
+      "lang": "pt",
+      "depts": [
+        "Educação"
+      ]
+    },
+    {
+      "title": "Por que a ascensão da IA ​​de código aberto ainda não está prejudicando a Antrópica",
+      "description": "O sucesso dos modelos de código aberto não ocorre às custas dos laboratórios de ponta. Em vez disso, cada um deles parece capturar duas fases do mesmo ciclo de vida.",
+      "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "publishedAt": "Tue, 07 Jul 2026 20:04:32 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Meta faz grande aposta para rivalizar com Nano Banana e ChatGPT Images",
+      "description": "A Meta lançou nesta terça-feira (07) o Muse Image , novo modelo de IA para gerar imagens. Além de melhorar a qualidade do resultado final, a novidade integra a tecnologia com as redes sociais da empresa para gerar conteúdos com amigos do Instagram e até anúncios do Facebook. O modelo é desenvolvido ",
+      "url": "https://canaltech.com.br/inteligencia-artificial/meta-faz-grande-aposta-para-rivalizar-com-nano-banana-e-chatgpt-images/",
+      "publishedAt": "Tue, 07 Jul 2026 16:51:03 -0300",
+      "image": "https://t.ctcdn.com.br/uG09ie63J2aO8xloC6VgtIWO7w8=/700x394/smart/i1097607.png",
+      "source": "Canaltech IA",
+      "content": "A Meta lançou nesta terça-feira (07) o Muse Image , novo modelo de IA para gerar imagens. Além de melhorar a qualidade do resultado final, a novidade integra a tecnologia com as redes sociais da empresa para gerar conteúdos com amigos do Instagram e até anúncios do Facebook. O modelo é desenvolvido pelo laboratório Meta Superintelligence, responsável pelos modelos mais avançados da empresa no setor. A IA compete com outras ferramentas populares na criação e edição de imagens, como o Nano Banana do Google e o ChatGPT Images . O Muse Image foi liberado globalmente a partir de hoje no assistente Meta AI , via app ou site oficial, enquanto outros recursos integrados às redes sociais da empresa foram lançados inicialmente nos EUA. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Como o Muse Image pode ser usado? O novo gerador de imagens está disponível no Meta AI e foi integrado ao WhatsApp e ao Instagram. No caso do mensageiro, é possível abrir uma conversa direta com o assistente e editar o resultado por lá com comandos simples de texto. Novo modelo pode editar fotos com IA pelo WhatsApp (Imagem: Divulgação/Meta) No Instagram, o Muse Image foi usado para criar mais de 30 novos efeitos para editar fotos nos Stories — vale lembrar que a Meta encerrou os filtros feitos pela comunidade, mas agora ampliou o acervo com novas opções feitas por IA. Além disso, o modelo poderá ser usado para gerar imagens usando a aparência física de perfis públicos na rede , como uma selfie com amigos. Cada conta na plataforma poderá escolher se o perfil poderá ser usado pela inteligência artificial para gerar novos conteúdos. Por enquanto, as novidades do IG foram liberadas apenas nos EUA. Instagram tem novos efeitos criados por IA da Meta (Imagem: Divulgação/Meta) A integração com o Facebook vai permitir criar conteúdos com produtos à venda no marketplace : caso você queira imaginar a sua sala com",
+      "lang": "pt",
+      "depts": [
+        "Marketing",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Claude leva uma das suas ferramentas mais poderosas aos celulares",
+      "description": "A Anthropic anunciou a chegada do Claude Cowork para navegadores e no aplicativo para celulares a partir desta terça-feira (07). O assistente consegue acessar seus arquivos e ferramentas para executar tarefas mais longas em segundo plano. O Cowork foi lançado no começo do ano para desktop , com dest",
+      "url": "https://canaltech.com.br/inteligencia-artificial/claude-leva-uma-das-suas-ferramentas-mais-poderosas-para-celulares/",
+      "publishedAt": "Tue, 07 Jul 2026 14:52:00 -0300",
+      "image": "https://t.ctcdn.com.br/yXjaYLlTPjjyGfquGaMp1sPAhrA=/700x394/smart/i1135103.png",
+      "source": "Canaltech IA",
+      "content": "A Anthropic anunciou a chegada do Claude Cowork para navegadores e no aplicativo para celulares a partir desta terça-feira (07). O assistente consegue acessar seus arquivos e ferramentas para executar tarefas mais longas em segundo plano. O Cowork foi lançado no começo do ano para desktop , com destaque para o potencial de acessar arquivos do PC e controlar ações do aparelho. A premissa ainda é parecida, mas a empresa destaca o potencial de integrar a mesma tarefa entre diferentes dispositivos, até quando a pessoa não tem o app do Claude instalado no computador. O Cowork na web e nos celulares chega primeiro para assinantes do plano Max, o mais caro do Claude, em fase Beta. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O que o Cowork consegue fazer? O Cowork é um agente de IA “faz-tudo”, capaz de vasculhar entre arquivos e diferentes aplicativos vinculados à conta. Um único pedido pode passar por dados nos arquivos do Gmail e terminar com um disparo automatizado no Slack, por exemplo. A Anthropic explica que os agentes de IA são normalmente associados à programação, mas mais de 90% do uso do Cowork é direcionado a tarefas comuns do dia a dia , principalmente nas áreas de operações de negócios e criação de conteúdo. Cowork permite controlar ações pelo celular ou navegador (Imagem: Divulgação/Anthropic) A IA consegue fazer tarefas em segundo plano, até mesmo com o PC desligado, e exige aprovação do usuário para ações mais críticas. A nova integração permite aprovar novos comandos do assistente via celular ou navegador , por exemplo. A integração é oferecida na versão padrão do Claude, mas há uma nova aba para separar o chatbot tradicional e o acesso ao agente. Quer saber como a ferramenta funciona? O Canaltech já testou o Cowork e conseguiu ver o agente em ação . Leia a matéria no Canaltech .",
+      "lang": "pt",
+      "depts": [
+        "Gestão"
+      ]
+    },
+    {
+      "title": "DeepSeek prepara chip de IA para reduzir dependência da NVIDIA, revela portal",
+      "description": "A DeepSeek tende a lançar o seu próprio chip de IA , seguindo os passos da Amazon , Google, OpenAI e Microsoft. A nova aposta da empresa chinesa foi revelada pela agência de notícias Reuters nesta terça-feira (7). O investimento, iniciado há cerca de um ano e em estado inicial , tem como objetivo de",
+      "url": "https://canaltech.com.br/inteligencia-artificial/deepseek-prepara-chip-de-ia-para-reduzir-dependencia-da-nvidia-revela-portal/",
+      "publishedAt": "Tue, 07 Jul 2026 13:32:00 -0300",
+      "image": "https://t.ctcdn.com.br/bTkmlUts3SxUJAKpY1QBAUExSno=/700x394/smart/i1054603.png",
+      "source": "Canaltech IA",
+      "content": "A DeepSeek tende a lançar o seu próprio chip de IA , seguindo os passos da Amazon , Google, OpenAI e Microsoft. A nova aposta da empresa chinesa foi revelada pela agência de notícias Reuters nesta terça-feira (7). O investimento, iniciado há cerca de um ano e em estado inicial , tem como objetivo de reduzir a dependência da NVIDIA e Huawei . Neste momento, a empresa ampliou a contratação de engenheiros e segue em negociações com parceiros de design de chips, fundições e fabricantes de memória. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Contudo, ainda não há previsão de lançamento e detalhes técnicos do componente. A estimativa é que o chip da DeepSeek foque em inferência , quando um modelo de IA usa o que “aprendeu” no treinamento para responder a uma solicitação. Procurada pela agência de notícias, a companhia não se manifestou sobre o caso. A empresa, vale lembrar, se destacou no começo de 2025 pelo treinamento do R1 mais barato que o do GPT-4 , da OpenAI. Na ocasião, a empresa usou cerca de 500 chips H800 da Nvidia . Depois, em abril de 2026, a empresa revelou o DeepSeek-V4 , dessa vez compatível com processadores da Huawei, da linha Ascend. Na sequência do mercado A aposta da DeepSeek, caso confirmada, tende a esquentar ainda mais o mercado de chips com foco em inteligência artificial. Especialmente após a estreia do Jalapeño , anunciado pela OpenAI no fim de junho . Desenvolvido em parceria com a Broadcom, o componente se dedica à inferência. Nos primeiros testes, a novidade apresentou eficiência energética superior ao padrão do mercado e bons níveis de controle térmico . Outras empresas apresentaram seus próprios processadores. No fim de 2025, a Amazon Web Services (AWS) revelou o Trainium 3 , com intuito de acelerar o treinamento de modelos de IA. Depois, em janeiro, foi a vez do Microsoft Maia 200 , com poder computacional de mais de 10 petaFLOPs . Em abril, ",
+      "lang": "pt",
+      "depts": [
+        "RH",
+        "Financeiro",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Claude Cowork se expande para dispositivos móveis e web",
+      "description": "Com esta atualização, os usuários podem iniciar uma tarefa em sua mesa, obter atualizações de status em seus telefones e retomar o resultado final mais tarde, mesmo que o laptop esteja fechado.",
+      "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+      "publishedAt": "Tue, 07 Jul 2026 16:27:18 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Com esta atualização, os usuários podem iniciar uma tarefa em sua mesa, obter atualizações de status em seus telefones e retomar o resultado final mais tarde, mesmo que o laptop esteja fechado.",
+      "lang": "en",
+      "depts": [
+        "Gestão"
+      ]
+    },
     {
       "title": "Midjourney quer que estúdios de Hollywood revelem como usam IA",
       "description": "Startup tenta ampliar acesso a documentos internos de Disney, Universal e Warner em processo sobre personagens protegidos por direitos autorais. Midjourney quer que estúdios de Hollywood revelem como usam IA",
@@ -174,43 +281,6 @@
       ]
     },
     {
-      "title": "Midjourney quer que os estúdios de Hollywood revelem os detalhes de seu uso de IA",
-      "description": "Como parte de uma disputa legal em andamento com três estúdios de Hollywood, Midjourney está tentando obrigar esses estúdios a revelar como eles próprios usam a IA.",
-      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-      "publishedAt": "Sat, 04 Jul 2026 18:00:05 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Jurídico"
-      ]
-    },
-    {
-      "title": "Alibaba supostamente proíbe funcionários de usar o Código Claude",
-      "description": "O Alibaba classificou Claude Code como software de alto risco.",
-      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-      "publishedAt": "Sat, 04 Jul 2026 16:32:08 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "RH"
-      ]
-    },
-    {
-      "title": "O que é IA Mistral? Tudo o que você precisa saber sobre o concorrente OpenAI",
-      "description": "A Mistral AI, que oferece alguns modelos de IA de código aberto, arrecadou financiamento significativo desde a sua criação em 2023, com a ambição de “colocar a IA de fronteira nas mãos de todos”.",
-      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-      "publishedAt": "Sat, 04 Jul 2026 15:51:32 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "A Mistral AI, que oferece alguns modelos de IA de código aberto, arrecadou financiamento significativo desde a sua criação em 2023, com a ambição de “colocar a IA de fronteira nas mãos de todos”.",
-      "lang": "en",
-      "depts": []
-    },
-    {
       "title": "IA pode destruir a bateria do seu celular; veja como resolver",
       "description": "A inteligência artificial está cada vez mais presente nos smartphones, sendo integrada ao sistema e a diversos aplicativos para executar tarefas, como resumos de notificações, edição de fotos, sugestões personalizadas, além de atuar como assistentes de voz avançados. 15 recursos secretos do Apple In",
       "url": "https://canaltech.com.br/inteligencia-artificial/ia-pode-destruir-a-bateria-do-seu-celular-veja-como-resolver/",
@@ -257,17 +327,6 @@
       ]
     },
     {
-      "title": "Google vai banir extensões do Chrome que burlam IAs",
-      "description": "Chrome Web Store endureceu as regras contra ferramentas que contornam limites de chatbots. Mudanças entram em vigor em agosto. Google vai banir extensões do Chrome que burlam IAs",
-      "url": "https://tecnoblog.net/noticias/google-vai-banir-extensoes-do-chrome-que-burlam-ias/",
-      "publishedAt": "Fri, 03 Jul 2026 17:27:10 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/11/google-chrome-capa-3.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
-    },
-    {
       "title": "O que é o “erro 1099” no Gemini? Saiba o que acontece com a IA",
       "description": "Os usuários do Gemini, tanto na versão web quanto em celulares Android, têm relatado o aparecimento do “erro 1099” , uma falha que interrompe o uso da inteligência artificial. Quando isso acontece, o serviço deixa de responder, impedindo a continuidade da conversa. Segundo os relatos, o problema afe",
       "url": "https://canaltech.com.br/inteligencia-artificial/o-que-e-o-erro-1099-no-gemini-saiba-o-que-acontece-com-a-ia/",
@@ -278,36 +337,6 @@
       "lang": "pt",
       "depts": [
         "Comercial"
-      ]
-    },
-    {
-      "title": "Alibaba manda funcionários abandonarem IA da Anthropic",
-      "description": "Empresa chinesa vetou o uso interno do Claude Code e orientou funcionários a usarem a plataforma própria Qoder. Alibaba alega rastreamento. Alibaba manda funcionários abandonarem IA da Anthropic",
-      "url": "https://tecnoblog.net/noticias/alibaba-manda-funcionarios-abandonarem-ia-da-anthropic/",
-      "publishedAt": "Fri, 03 Jul 2026 14:34:43 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/alibaba-edited.webp",
-      "source": "Tecnoblog",
-      "content": "Empresa orienta funcionários a usarem plataforma proprietária (imagem: reprodução) Resumo Alibaba proibiu o uso interno do Claude Code, assistente de programação baseado em IA da Anthropic. A empresa chinesa afirma ter descoberto recursos de rastreamento que identificavam usuários na China. Em contrapartida, a companhia orientou funcionários a usarem a plataforma própria Qoder. A gigante chinesa Alibaba proibiu seus funcionários de utilizarem o Claude Code, o assistente de programação baseado em IA da Anthropic. A decisão foi tomada após desenvolvedores descobrirem que a ferramenta escondia recursos de rastreio para identificar usuários conectados na China. O acesso ao Claude Code já era limitado em território chinês. Segundo a Reuters , os programadores notaram que o software que auxilia na escrita e revisão de códigos examinava as máquinas em busca de dados específicos, como fuso horário e configurações de proxy da internet . Além disso, o sistema marcava mensagens enviadas aos servidores da Anthropic nos Estados Unidos para identificar quem utilizava redes virtuais para burlar o bloqueio regional. Na terça-feira (30/06), um funcionário da Anthropic havia publicado que o rastreamento de fato existia na IA, mas fazia parte de um experimento lançado em março para evitar o uso não autorizado e proteger a propriedade intelectual da empresa contra técnicas de clonagem. Anthropic e Alibaba trocam acusações O bloqueio do assistente de programação é o capítulo mais recente de um embate maior. No mês passado, Anthropic acusou a Alibaba de roubar dados do Claude . A técnica usada seria a de destilação, que consiste em treinar um modelo menor e mais barato utilizando respostas, raciocínio e a base de dados de um sistema concorrente mais sofisticado. A dona do Claude apresentou formalmente um documento ao governo dos Estados Unidos. Segundo a denúncia, a extração de dados permitiria que o Alibaba alcançasse rapidamente as capacidades de sistemas experimentais de ponta da Anthropic. A acusação, somada à descoberta do rastreio oculto , forçou a Alibaba a agir e orientar que seus funcionários utilizem exclusivamente a sua plataforma de codificação proprietária, batizada de Qoder. Anthropic afirmou que rastreamento era um experimento (imagem: reprodução/Anthropic) Pressão dos EUA impulsiona ecossistema chinês Do lado americano, desenvolvedores de modelos de IA continuam tentando blindar seus sistemas contra acessos não autorizados, revenda de contas e extração de bases de dados. Contudo, barrar usuários individuais que utilizam servidores americanos mascarados continua sendo um desafio. A resposta da indústria chinesa a essas barreiras tem sido acelerar a busca por independência. À medida que corporações dos Estados Unidos aumentam o rigor contra o uso externo, as companhias asiáticas investem pesado na criação de um ecossistema tecnológico próprio. Nesse processo, a China vê um salto na adoção de soluções domésticas e modelos de código aberto ( open-source ). Projetos como o DeepSeek e o próprio Qwen, desenvolvido pelo Alibaba, também começam a ganhar espaço no mercado. Alibaba manda funcionários abandonarem IA da Anthropic",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "RH",
-        "Gestão",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Project Aion: vazamento sugere que Microsoft criou SO focado no Copilot",
-      "description": "Project Aion, ou Copilot OS, é um suposto sistema operacional experimental da Microsoft que coloca a inteligência artificial no centro da experiência. Project Aion: vazamento sugere que Microsoft criou SO focado no Copilot",
-      "url": "https://tecnoblog.net/noticias/project-aion-vazamento-sugere-que-microsoft-criou-so-focado-no-copilot/",
-      "publishedAt": "Fri, 03 Jul 2026 13:43:12 +0000",
-      "image": "https://www.youtube.com/embed/GggquwTdmuk",
-      "source": "Tecnoblog",
-      "content": "Project Aion: vazamento mostra que Microsoft criou sistema focado no Copilot (imagem: reprodução/Windows Central) Resumo Project Aion, também conhecido como Copilot OS, é um sistema operacional experimental supostamente desenvolvido pela Microsoft em 2024, com foco em inteligência artificial; sistema utiliza uma interface web baseada no navegador Edge e prioriza aplicações web, sem suporte a aplicativos tradicionais do Windows; Microsoft não confirmou o lançamento do Project Aion, que pode ter sido um experimento encerrado ou que serviu de referência para outros projetos, como o Project Solara. No âmbito do desktop, a Microsoft mantém o Windows 11, que funciona com base no Menu Iniciar, no Explorador de Arquivos e em outros conceitos clássicos. Mas isso não a impede de testar abordagens diferentes. É o caso do Project Aion, ou Copilot OS, sistema operacional que coloca a inteligência artificial no centro de todas as ações. As informações disponíveis até o momento dão conta de que o Project Aion é um sistema operacional experimental criado pela Microsoft em 2024. O assunto veio à tona agora, dois anos depois, porque supostas imagens do projeto vazaram em um servidor do Discord. Os vazamentos mostram que o sistema roda principalmente sob uma interface web executada em uma versão modificada do navegador Edge. Em comum com o Windows, há uma barra de tarefas na parte inferior da tela. Porém, o Menu Iniciar é substituído por um botão do Copilot. Essa abordagem sugere que a proposta do Project Aion é a de permitir que o Copilot realize tanto tarefas que são típicas de chatbots ou agentes de IA , como responder a dúvidas ou realizar tarefas específicas, quanto dar acesso aos recursos que o usuário precisa. Porém, ao que tudo indica, o Project Aion foi concebido para priorizar aplicações web, parecendo não haver suporte a aplicativos do Windows. Isso porque o sistema teria sido desenvolvido com base no Win3, uma estrutura de interface minimalista que, como tal, abre mão de recursos legados, incluindo o suporte a softwares tradicionais. De acordo com o Windows Central , o Project Aion é, na verdade, o protótipo de um sistema de nome Copilot OS, o que faz bastante sentido. A sua proposta seria a de funcionar tanto como um substituto para a interface padrão do Windows 11 quanto como uma interface para Android. Vazamento sugere que Project Aion prioriza aplicações web (imagem: reprodução/Windows Central) O Project Aion, ou Copilot OS, será lançado algum dia? Não há nenhuma informação sobre o lançamento do Project Aion, pelo menos até o momento. Na verdade, a Microsoft sequer confirmou a existência do projeto. Mas é muito comum que companhias como a Microsoft desenvolvam projetos experimentais que nunca chegam ao público. Muitas vezes, o objetivo com esses experimentos é o de testar ideias novas ou validar conceitos, por exemplo. Pode ser o caso aqui. Tanto que o Project Aion parece não ter evoluído de 2024 para cá, o que sugere que o experimento foi encerrado. Também existe a possibilidade de que o Project Aion tenha servido de referência para o Project Solara, sistema operacional apresentado na Build 2026, no começo de junho, que tem a proposta de controlar dispositivos que executam agentes de IA. Mas não há confirmação sobre isso, até porque o Solara tem como base códigos do Android. De todo modo, vale o registro do Project Aion como curiosidade. Project Aion: vazamento sugere que Microsoft criou SO focado no Copilot",
-      "lang": "pt",
-      "depts": [
-        "Gestão",
-        "Saúde"
       ]
     },
     {
@@ -511,33 +540,6 @@
       "lang": "pt",
       "depts": [
         "Gestão"
-      ]
-    },
-    {
-      "title": "O que acontece quando um modelo de IA é \"aposentado\"?",
-      "description": "Modelos de IA, como GPT-5, Claude Opus 4.8 ou Gemini 2.5, são as versões internas que alimentam assistentes, como ChatGPT, Claude e Gemini. Eles funcionam como o “motor” por trás das respostas . Para isso, são treinados com grandes volumes de dados para entender a linguagem, gerar textos, programar ",
-      "url": "https://canaltech.com.br/inteligencia-artificial/o-que-acontece-quando-um-modelo-de-ia-e-aposentado/",
-      "publishedAt": "Sun, 28 Jun 2026 08:30:00 -0300",
-      "image": "https://t.ctcdn.com.br/MGeZfQAEnGVxs88CkrfznECWBI8=/700x394/smart/i1125177.png",
-      "source": "Canaltech IA",
-      "content": "Modelos de IA, como GPT-5, Claude Opus 4.8 ou Gemini 2.5, são as versões internas que alimentam assistentes, como ChatGPT, Claude e Gemini. Eles funcionam como o “motor” por trás das respostas . Para isso, são treinados com grandes volumes de dados para entender a linguagem, gerar textos, programar e resolver problemas complexos. Quais são os modelos de IA do Perplexity? Veja as opções disponíveis no app Quais são os modelos do ChatGPT? Conheça as IAs disponíveis no chatbot Quando um modelo deixa de aparecer na IA ou é substituído, isso pode dar a impressão de que ele “sumiu” . Mas esse processo geralmente faz parte de uma atualização planejada, em que versões mais novas tomam o lugar de modelos antigos que já não são o foco principal. A seguir, tire suas dúvidas sobre: - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O que significa “modelo aposentado”? Por que modelos de IA são aposentados? O que acontece com os modelos de IA aposentados? Quais são os modelos que não podem aposentar? O que significa “modelo aposentado”? A aposentadoria de um modelo de IA ocorre quando ele deixa de ser prioridade dentro das empresas e começa a ser retirado do uso público . Para isso, ele passa por alguns estágios: Ativo , quando é o modelo principal em uso nos produtos; Legado , quando ainda funciona, mas não recebe grandes melhorias; Descontinuado , quando já tem substituto definido, mas ainda pode estar disponível por um período; Aposentado , quando sai das interfaces e pode ser desligado do acesso público. Modelos de IA são “aposentados” quando versões mais novas os substituem. (Imagem: João Melo/Canaltech) Por que modelos de IA são aposentados? Os modelos são aposentados por uma combinação de fatores técnicos e estratégicos: Versões mais novas tendem a ser mais rápidas, precisas e seguras , o que naturalmente faz com que elas substituam as anteriores; Manter vários modelos grandes em ",
-      "lang": "pt",
-      "depts": [
-        "Gestão"
-      ]
-    },
-    {
-      "title": "ChatGPT esquecendo as coisas? Conheça truque simples para resolver",
-      "description": "Você já passou vários minutos explicando um projeto para o ChatGPT, alinhando detalhes, corrigindo respostas e definindo exatamente o que queria, apenas para perceber que a IA começou a se perder no meio do caminho? Em conversas longas, é comum que o chatbot esqueça informações importantes, repita s",
-      "url": "https://canaltech.com.br/inteligencia-artificial/chatgpt-esquecendo-as-coisas-truque-para-resolver/",
-      "publishedAt": "Sat, 27 Jun 2026 16:30:00 -0300",
-      "image": "https://t.ctcdn.com.br/ZYG6Fut2RaMaLKaCUk5JQX-psxM=/700x394/smart/i1119851.png",
-      "source": "Canaltech IA",
-      "content": "Você já passou vários minutos explicando um projeto para o ChatGPT, alinhando detalhes, corrigindo respostas e definindo exatamente o que queria, apenas para perceber que a IA começou a se perder no meio do caminho? Em conversas longas, é comum que o chatbot esqueça informações importantes, repita sugestões já descartadas ou até contradiga decisões tomadas anteriormente. O que são tokens? Entenda como funciona a 'unidade fundamental' da IA O custo invisível dos tokens: por que a conta da IA não para de subir? Isso não acontece porque a ferramenta está com defeito. Modelos de IA, como o ChatGPT, trabalham com uma quantidade limitada de contexto por conversa — a chamada janela de contexto . Conforme novas mensagens entram no chat, parte das informações antigas deixa de ser considerada, o que pode fazer a IA perder detalhes essenciais de projetos que se estendem por horas ou dias. Mas existe uma forma simples de evitar esse problema. Com um pequeno “reboot” da conversa , é possível transferir apenas as informações realmente importantes para um novo chat e continuar o trabalho de onde parou. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O ChatGPT pode esquecer detalhes em conversas longas, mas um simples resumo de transferência ajuda a manter o contexto e continuar o trabalho. (Imagem: Viviane França/Canaltech) Como fazer o ChatGPT parar de esquecer as coisas? Você não precisa pedir um resumo genérico da conversa. A ideia é fazer com que a IA crie um “resumo de transferência” , pensado especificamente para servir de ponto de partida em um novo chat e preservar as decisões e os detalhes mais importantes da discussão. Quando perceber que o ChatGPT começou a se confundir ou a esquecer informações mencionadas anteriormente, vale a pena interromper a conversa e usar o comando a seguir : “Crie um resumo de transferência que eu possa colar em um novo chat. Inclua: o que estamos te",
-      "lang": "pt",
-      "depts": [
-        "Financeiro",
-        "Saúde"
       ]
     }
   ]
