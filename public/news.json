@@ -1,7 +1,158 @@
 {
-  "updatedAt": "2026-07-08T11:41:31.359Z",
+  "updatedAt": "2026-07-09T12:25:36.931Z",
   "count": 40,
   "articles": [
+    {
+      "title": "Smartwatch bom e barato: qual modelo comprar em 2026?",
+      "description": "Conheça os melhores relógios inteligentes com preço acessível e boas especificações para monitorar saúde, exercícios e esportes Smartwatch bom e barato: qual modelo comprar em 2026?",
+      "url": "https://tecnoblog.net/guias/smartwatch-bom-e-barato/",
+      "publishedAt": "Wed, 08 Jul 2026 21:52:47 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/samsung-galaxy-fit3-guia.jpg",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Saúde"
+      ]
+    },
+    {
+      "title": "OpenAI vai liberar GPT-5.6 após governo Trump remover restrições",
+      "description": "Nova família de IA será lançada nesta quinta-feira (09/07) após período de acesso restrito a clientes selecionados. OpenAI vai liberar GPT-5.6 após governo Trump remover restrições",
+      "url": "https://tecnoblog.net/noticias/openai-vai-liberar-gpt-5-6-apos-governo-trump-remover-restricoes/",
+      "publishedAt": "Wed, 08 Jul 2026 20:15:21 +0000",
+      "image": "https://www.youtube.com/embed/EAN5Cj347PY",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Comercial"
+      ]
+    },
+    {
+      "title": "Modo de voz do ChatGPT está mais fluido e vira alternativa ao Google Tradutor",
+      "description": "A OpenAI anunciou o GPT-Live nesta quarta-feira (08), novo modelo de IA para conversas por voz no ChatGPT. A atualização deixa as interações mais fluidas e ainda transforma o assistente em “intérprete” para traduções em tempo real . O principal objetivo da empresa foi deixar a conversa em áudio mais",
+      "url": "https://canaltech.com.br/inteligencia-artificial/modo-de-voz-do-chatgpt-esta-mais-fluido-e-vira-alternativa-ao-google-tradutor/",
+      "publishedAt": "Wed, 08 Jul 2026 16:59:11 -0300",
+      "image": "https://t.ctcdn.com.br/zr9DPZzNf7HXeuW2nEaK4d7TqNk=/700x394/smart/i1141797.png",
+      "source": "Canaltech IA",
+      "content": "A OpenAI anunciou o GPT-Live nesta quarta-feira (08), novo modelo de IA para conversas por voz no ChatGPT. A atualização deixa as interações mais fluidas e ainda transforma o assistente em “intérprete” para traduções em tempo real . O principal objetivo da empresa foi deixar a conversa em áudio mais natural . Outros modelos no mercado (incluindo o antecessor do GPT-Live) são focados em conversas por turnos: uma pessoa precisa terminar o que fala para a IA responder e então seguir com o diálogo. A novidade é mais espontânea e fluida, então o assistente consegue identificar os momentos de pausa e quando pode interromper. A OpenAI chama o processo de “interação contínua” , na qual o ChatGPT pode processar um pedido enquanto gera uma resposta. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O que há de novo no GPT-Live? O modo de voz está mais inteligente e pode até usar os modelos mais inteligentes para conseguir respostas . Durante um pedido complexo, o GPT-Live pode delegar o processo para o GPT-5.5 buscar na internet, aplicar raciocínio ou gerenciar múltiplas tarefas de agente, por exemplo. As conversas também contam com novos recursos visuais com cartões na tela sobre previsão do tempo, resultados esportivos, locais e informações do mercado financeiro . Modo de voz pode mostrar recursos visuais na tela do ChatGPT (Imagem: Divulgação/OpenAI) O maior destaque fica por conta da tradução em tempo real : o ChatGPT pode identificar os idiomas e traduzir enquanto a pessoa fala, funcionando como um intérprete. É uma alternativa ao Google Tradutor e aos respectivos modos de tradução do Galaxy AI e do iOS. O GPT-Live foi liberado a partir de hoje para assinantes dos planos Go, Plus e Pro do ChatGPT, enquanto a versão gratuita receberá uma versão mini. O rival Gemini também tem seu modo de voz, conhecido como Live. Confira sugestões de prompts ao conversar com a IA do Google . Leia",
+      "lang": "pt",
+      "depts": [
+        "Gestão"
+      ]
+    },
+    {
+      "title": "SpaceXAI lança Grok 4.5, que Elon descreve como um modelo da classe Opus",
+      "description": "A empresa de tecnologia de Elon Musk lançou a versão mais recente do Grok na quarta-feira, prometendo uma alternativa mais barata e eficiente a outros modelos poderosos de IA.",
+      "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "publishedAt": "Wed, 08 Jul 2026 19:30:16 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "A empresa de tecnologia de Elon Musk lançou a versão mais recente do Grok na quarta-feira, prometendo uma alternativa mais barata e eficiente a outros modelos poderosos de IA.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Esta startup acha que a robótica está prestes a ter seu momento ChatGPT",
+      "description": "A General Intuition está apostando que milhões de horas de dados de videogame podem treinar os modelos básicos para IA física, facilitando a construção de robôs mais inteligentes com o mínimo de dados do mundo real.",
+      "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+      "publishedAt": "Wed, 08 Jul 2026 19:19:15 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "A General Intuition está apostando que milhões de horas de dados de videogame podem treinar os modelos básicos para IA física, facilitando a construção de robôs mais inteligentes com o mínimo de dados do mundo real.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Por que este CEO acha que os videogames produzem melhores dados de treinamento do que a Internet",
+      "description": "Quando se trata de alcançar inteligência artificial geral (AGI), grandes modelos de linguagem simplesmente não têm o que é preciso. Modelos como ChatGPT e Claude são ótimos em texto, mas são menos hábeis em entender como as coisas realmente se movem no espaço e no tempo – uma habilidade essencial para produzir inteligência.",
+      "url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+      "publishedAt": "Wed, 08 Jul 2026 17:47:55 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Quando se trata de alcançar inteligência artificial geral (AGI), grandes modelos de linguagem simplesmente não têm o que é preciso. Modelos como ChatGPT e Claude são ótimos em texto, mas são menos hábeis em compreender como as coisas realmente se movem no espaço e no tempo – uma habilidade essencial para produzir inteligência que generaliza. Acontece que essa lacuna pode ser preenchida por dados de jogos. Essa é a aposta por trás da General Intuition, uma [ ]",
+      "lang": "en",
+      "depts": [
+        "Educação"
+      ]
+    },
+    {
+      "title": "OpenAI lança novo modelo de voz para deixar ChatGPT mais humano e natural",
+      "description": "Família GPT-Live consegue ouvir e falar ao mesmo tempo. Pesquisas na web e tarefas de raciocínio são delegadas ao GPT-5.5. OpenAI lança novo modelo de voz para deixar ChatGPT mais humano e natural",
+      "url": "https://tecnoblog.net/noticias/openai-lanca-novo-modelo-de-voz-para-deixar-chatgpt-mais-humano-e-natural/",
+      "publishedAt": "Wed, 08 Jul 2026 17:00:50 +0000",
+      "image": "https://www.youtube.com/embed/EAN5Cj347PY",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Gestão"
+      ]
+    },
+    {
+      "title": "OpenAI lança novos modelos de voz para conversas ao vivo mais naturais",
+      "description": "OpenAI afirma que seu novo modo de voz pode falar e ouvir ao mesmo tempo, uma habilidade fundamental para tradução ao vivo.",
+      "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+      "publishedAt": "Wed, 08 Jul 2026 17:00:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "Saúde",
+        "Educação"
+      ]
+    },
+    {
+      "title": "GPT-5.6 Sol: OpenAI confirma lançamento da sua IA mais poderosa para todos",
+      "description": "A OpenAI vai liberar nesta quinta-feira (9) o acesso público ao GPT-5.6 Sol , seu modelo de IA mais avançado até hoje, junto das versões Terra e Luna . O lançamento amplo chega depois de um impasse com o governo dos Estados Unidos, que havia pedido para a empresa restringir a distribuição do modelo ",
+      "url": "https://canaltech.com.br/inteligencia-artificial/gpt-56-sol-openai-confirma-lancamento-da-sua-ia-mais-poderosa-para-todos/",
+      "publishedAt": "Wed, 08 Jul 2026 13:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/_0fp2_IQOmG2s96U6jqr6zG8b1A=/700x394/smart/i1108275.png",
+      "source": "Canaltech IA",
+      "content": "A OpenAI vai liberar nesta quinta-feira (9) o acesso público ao GPT-5.6 Sol , seu modelo de IA mais avançado até hoje, junto das versões Terra e Luna . O lançamento amplo chega depois de um impasse com o governo dos Estados Unidos, que havia pedido para a empresa restringir a distribuição do modelo por preocupações com segurança nacional. A liberação foi, inicialmente, anunciada em junho, mas a OpenAI concordou em limitar o acesso a um grupo pequeno de parceiros \"confiáveis\", cuja participação foi compartilhada com o governo americano, de acordo com um post no blog da empresa. Agora, segundo a Axios, a administração Trump aprovou o lançamento amplo depois de testes adicionais e reuniões entre a OpenAI e autoridades do governo. A OpenAI também fez uma publicação no X nesta quarta-feira (8) para anunciar que o modelo será lançado amanhã. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday. We’re expanding preview access globally now. pic.twitter.com/Uk5HcfSc2e — OpenAI (@OpenAI) July 8, 2026 Disputa com o governo dos EUA Washington intensificou a fiscalização sobre lançamentos de modelos de IA avançados nas últimas semanas. A preocupação central é que essas tecnologias possam ser usadas por forças militares ou de inteligência de países como China e Rússia para acelerar ciberataques sofisticados contra sistemas interconectados e, muitas vezes, desatualizados. O presidente Donald Trump assinou em junho uma ordem executiva que cria uma estrutura voluntária para modelos de \"fronteira\". Por ela, desenvolvedores de IA podem oferecer esses modelos ao governo americano por até 30 dias antes de liberá-los a parceiros de confiança. A OpenAI afirmou, em comunicado publicado no site da empresa, discordar de que esse tipo de processo de acesso governamental vire padrão de longo prazo. Segundo a empresa, o modelo rest",
+      "lang": "pt",
+      "depts": [
+        "Gestão"
+      ]
+    },
+    {
+      "title": "Essas startups de IA estão aumentando a receita em taxas cada vez mais rápidas",
+      "description": "Existem muitas startups de IA em rápido crescimento, mas algumas estão crescendo ainda mais rápido, dizem eles.",
+      "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+      "publishedAt": "Wed, 08 Jul 2026 15:41:06 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "Financeiro"
+      ]
+    },
+    {
+      "title": "Seus dados de jogo podem ser o segredo da AGI, de acordo com esta startup apoiada por Bezos",
+      "description": "Quando se trata de alcançar inteligência artificial geral (AGI), grandes modelos de linguagem simplesmente não têm o que é preciso. Modelos como ChatGPT e Claude são ótimos em texto, mas são menos hábeis em entender como as coisas realmente se movem no espaço e no tempo – uma habilidade essencial para produzir inteligência.",
+      "url": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/",
+      "publishedAt": "Wed, 08 Jul 2026 13:00:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Quando se trata de alcançar inteligência artificial geral (AGI), grandes modelos de linguagem simplesmente não têm o que é preciso. Modelos como ChatGPT e Claude são ótimos em texto, mas são menos hábeis em compreender como as coisas realmente se movem no espaço e no tempo – uma habilidade essencial para produzir inteligência que generaliza. Acontece que essa lacuna pode ser preenchida por dados de jogos. Essa é a aposta por trás da General Intuition, uma [ ]",
+      "lang": "en",
+      "depts": [
+        "Educação"
+      ]
+    },
+    {
+      "title": "O ex-executivo da OpenAI Kevin Weil agora faz parte do conselho da Stoke Space",
+      "description": "A nova função de Kevin Weil na Stoke Space sugere que foguetes reutilizáveis ​​​​são a próxima novidade no Vale do Silício.",
+      "url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
+      "publishedAt": "Wed, 08 Jul 2026 12:00:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
     {
       "title": "A startup francesa ZML lança produto gratuito para acelerar a inferência em muitos chips de IA",
       "description": "ZML, uma startup francesa de IA endossada pelo vencedor do Prêmio Turing Yann LeCun, lançou agora o ZML/LLMD, software que pode tornar a execução de IA menos dispendiosa.",
@@ -124,17 +275,6 @@
       ]
     },
     {
-      "title": "Agora você pode personalizar o ritmo e a expressividade do Siri no iOS 27 beta mais recente",
-      "description": "A atualização faz parte do esforço mais amplo da Apple para tornar o Siri mais natural e pessoal, à medida que reconstrói o assistente em torno da IA ​​generativa.",
-      "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
-      "publishedAt": "Mon, 06 Jul 2026 19:01:59 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
       "title": "Reddit usa IA para resolver problema que existe por conta da tecnologia",
       "description": "O Reddit revelou o segredo usado pela empresa para combater a avalanche de conteúdos gerados por IA: a própria inteligência artificial . De acordo com a plataforma, as técnicas de automação ajudaram a reduzir a quantidade de spam e votos falsos por lá . Dados divulgados pela rede social revelam que ",
       "url": "https://canaltech.com.br/inteligencia-artificial/reddit-usa-ia-para-resolver-problema-que-existe-por-conta-da-tecnologia/",
@@ -163,66 +303,6 @@
         "Gestão",
         "Educação"
       ]
-    },
-    {
-      "title": "Se você usa o Google, você está treinando sua IA. Veja como cancelar.",
-      "description": "Considere isso um PSA tardio: uma mudança recente nas configurações de privacidade do Google está permitindo que a empresa armazene mais dados, incluindo mídias como “imagens, arquivos e gravações de áudio e vídeo”, para melhorar seus modelos de IA.",
-      "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
-      "publishedAt": "Mon, 06 Jul 2026 17:04:58 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Considere isso um PSA tardio: uma mudança recente nas configurações de privacidade do Google está permitindo que a empresa armazene mais dados, incluindo mídias como “imagens, arquivos e gravações de áudio e vídeo”, para melhorar seus modelos de IA.",
-      "lang": "en",
-      "depts": [
-        "Marketing",
-        "Jurídico"
-      ]
-    },
-    {
-      "title": "Microsoft demite 4.800 funcionários em nova reestruturação",
-      "description": "Cortes representam cerca de 2,1% da força de trabalho global e incluem divisão de games. Empresa cita ajuste estrutural e avanço da inteligência artificial. Microsoft demite 4.800 funcionários em nova reestruturação",
-      "url": "https://tecnoblog.net/noticias/microsoft-demite-4-800-funcionarios-em-nova-reestruturacao/",
-      "publishedAt": "Mon, 06 Jul 2026 15:58:14 +0000",
-      "image": "https://www.youtube.com/embed/4GraS4yynCQ",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "RH"
-      ]
-    },
-    {
-      "title": "Reddit está usando LLMs para resolver um problema que LLMs criou em grande parte",
-      "description": "Na era da IA, as plataformas não têm escolha a não ser combater fogo com fogo para eliminar o spam.",
-      "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
-      "publishedAt": "Mon, 06 Jul 2026 15:22:08 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Após críticas, Microsoft permitirá desligar IA no Teams",
-      "description": "Usuários poderão desligar o Copilot, resumos e anotações automáticas durante as videochamadas. Atualização deve ser liberada ainda neste mês. Após críticas, Microsoft permitirá desligar IA no Teams",
-      "url": "https://tecnoblog.net/noticias/apos-criticas-microsoft-permitira-desligar-ia-no-teams/",
-      "publishedAt": "Mon, 06 Jul 2026 14:03:11 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2020/11/microsoft-teams-iphone-app-ios-tecnoblog.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "A Estação F se torna uma plataforma de lançamento para as startups de IA mais importantes da Europa",
-      "description": "A Station F, um centro de startups com sede em Paris e fundado pelo bilionário francês Xavier Niel, está se preparando para uma nova edição de seu programa acelerador F/ai, em uma tentativa de fortalecer seu posicionamento como um trampolim para startups promissoras de IA.",
-      "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
-      "publishedAt": "Mon, 06 Jul 2026 13:00:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "A Station F, um centro de startups com sede em Paris e fundado pelo bilionário francês Xavier Niel, está se preparando para uma nova edição de seu programa acelerador F/ai, em uma tentativa de fortalecer seu posicionamento como um trampolim para startups promissoras de IA.",
-      "lang": "en",
-      "depts": []
     },
     {
       "title": "7 funções escondidas do Gemini que vão salvar sua rotina de trabalho",
@@ -458,88 +538,6 @@
       "lang": "pt",
       "depts": [
         "Educação"
-      ]
-    },
-    {
-      "title": "Novidade do Gemini deixará você controlar seu computador à distância",
-      "description": "O Google está desenvolvendo um novo recurso para controlar e acompanhar um computador pelo aplicativo do Gemini no celular. A novidade foi descoberta pelo Android Authority em uma análise da versão mais recente do app para Android e, por enquanto, ainda não está disponível para os usuários. Os indíc",
-      "url": "https://canaltech.com.br/inteligencia-artificial/novidade-do-gemini-deixara-voce-controlar-seu-computador-a-distancia/",
-      "publishedAt": "Tue, 30 Jun 2026 14:05:00 -0300",
-      "image": "https://t.ctcdn.com.br/xJsYmUSfVb47gNGY9_wAC1H0BII=/700x394/smart/i1135135.png",
-      "source": "Canaltech IA",
-      "content": "O Google está desenvolvendo um novo recurso para controlar e acompanhar um computador pelo aplicativo do Gemini no celular. A novidade foi descoberta pelo Android Authority em uma análise da versão mais recente do app para Android e, por enquanto, ainda não está disponível para os usuários. Os indícios apontam que a funcionalidade será lançada inicialmente para computadores com macOS . As linhas de código também mostram que, para usar o recurso, será preciso instalar um programa no Mac. O Gemini exibirá um aviso orientando o usuário a fazer esse download antes de conectar o computador ao celular. O Gemini poderá mostrar o status de computadores conectados à mesma conta para que os usuários possam alternar entre diferentes dispositivos e acompanhar a execução de tarefas remotamente . O código analisado também indica que será possível ver informações de disponibilidade da máquina e o horário da última atividade registrada, facilitando o monitoramento de automações mesmo quando estiver longe do computador. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O Google prepara um recurso para controlar e acompanhar tarefas do Mac pelo aplicativo do Gemini no celular. (Imagem: Viviane França/Canaltech / Editada por IA/Gemini) O recurso faz parte da estratégia do Google para expandir as capacidades do Gemini Spark , seu agente de IA , anunciado durante o Google I/O 2026 e focado na execução de tarefas complexas. Com a integração com o macOS, o assistente vai interagir com arquivos locais e executar fluxos de trabalho no computador. Já o aplicativo móvel servirá para acompanhar o andamento dessas atividades. As referências encontradas no código também mencionam futuros recursos, como um \"Agent Dashboard\" e um \"Personal Snapshot\". A novidade acompanha uma tendência do mercado de inteligência artificial. No mês passado, a OpenAI lançou um recurso parecido no aplicativo do ChatGPT, que p",
-      "lang": "pt",
-      "depts": [
-        "Gestão",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Quem vai pagar o pedágio da IA corporativa?",
-      "description": "*Por James Barroso A inteligência artificial deixou de ser apenas uma agenda de experimentação. Depois de um ciclo marcado por pilotos, testes com IA generativa e discussões sobre produtividade, as empresas começam a fazer uma pergunta mais difícil: como transformar IA em impacto real, seguro e reco",
-      "url": "https://canaltech.com.br/colunas/quem-vai-pagar-o-pedagio-da-ia-corporativa/",
-      "publishedAt": "Tue, 30 Jun 2026 08:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/GLxNIT6kCnjMj-SjWx-6rjtp4eo=/700x394/smart/i526608.jpeg",
-      "source": "Canaltech IA",
-      "content": "*Por James Barroso A inteligência artificial deixou de ser apenas uma agenda de experimentação. Depois de um ciclo marcado por pilotos, testes com IA generativa e discussões sobre produtividade, as empresas começam a fazer uma pergunta mais difícil: como transformar IA em impacto real, seguro e recorrente dentro da operação? A resposta passa menos pelo modelo em si e mais pela arquitetura que sustenta seu uso. Estudos da Nucleus Research indicam que APIs e conectores pré-construídos podem reduzir custos de integração em até 37% , encurtar cronogramas em até seis meses e diminuir o custo total de propriedade em até 20%, dependendo do cenário. Os números ajudam a dimensionar um ponto central: a integração deixou de ser uma questão técnica secundária e passou a ser uma variável econômica da inovação. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Essa discussão se torna ainda mais relevante em um momento em que o acesso à inteligência artificial começa a ser condicionado, em alguns ambientes corporativos, por novas camadas de integração, regras proprietárias e custos adicionais. Quando isso acontece, o debate deixa de ser apenas tecnológico. Passa a envolver liberdade de escolha, velocidade de inovação e controle sobre o custo real da transformação digital. Nenhuma IA corporativa gera valor em isolamento. Para ser útil, ela precisa acessar dados confiáveis, respeitar regras de negócio, operar com contexto, acionar sistemas e devolver inteligência para processos críticos . Isso vale para compras, finanças, manufatura, cadeia de suprimentos, distribuição, atendimento ou qualquer outra área em que a tecnologia deixe de ser demonstração e passe a fazer parte da rotina. É nesse ponto que muitas organizações descobrem um obstáculo ainda subestimado: o custo oculto da integração . Esse custo não aparece apenas na fatura. Ele surge no tempo adicional de implementação, nas customiza",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Financeiro",
-        "Gestão",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Novo recurso do Gemini quer mudar jeito que você baixa apps no celular",
-      "description": "O Google começou a liberar uma nova integração entre o Gemini e a Google Play Store que permite pesquisar aplicativos usando comandos de texto . Com a novidade, os usuários podem encontrar, receber recomendações e acessar a página de instalação de apps sem navegar manualmente pela loja. O recurso es",
-      "url": "https://canaltech.com.br/inteligencia-artificial/novo-recurso-do-gemini-quer-mudar-jeito-que-voce-baixa-apps-no-celular/",
-      "publishedAt": "Mon, 29 Jun 2026 21:05:00 -0300",
-      "image": "https://t.ctcdn.com.br/COAAXu7xv1ADZu-rb9iEaPxnf50=/700x394/smart/i1138491.png",
-      "source": "Canaltech IA",
-      "content": "O Google começou a liberar uma nova integração entre o Gemini e a Google Play Store que permite pesquisar aplicativos usando comandos de texto . Com a novidade, os usuários podem encontrar, receber recomendações e acessar a página de instalação de apps sem navegar manualmente pela loja. O recurso está sendo disponibilizado para celulares Android com contas pessoais do Google. Em vez de navegar por categorias ou digitar palavras-chave, é possível fazer pedidos como “me indique um app para planejar viagens”, “qual é um bom aplicativo para organizar tarefas?” ou simplesmente “Instalar [Nome do App]”. Em seguida, o chatbot vai mostrar recomendações e abrir a página do aplicativo na Play Store para que a instalação seja concluída. Além de recomendar apps e jogos, a IA pode mostrar informações sobre compras dentro de aplicativos e ajudar na compra de cartões-presente da Google Play. Para utilizar esses recursos, é necessário ter a partir de 18 anos, usar uma conta pessoal do Google, ter o app Play Store baixado no celular e manter a opção \"Atividade dos Apps Gemini\" ativada nas configurações da conta do Gemini. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - No entanto, a disponibilidade de aplicativos específicos e dos recursos da integração pode variar de acordo com o país ou o dispositivo. Além disso, as opções de compras digitais vão continuar sendo expandidas ao longo do tempo. Gemini ganha integração com a Google Play para pesquisar e encontrar aplicativos pelo chat. (Imagem: Bruno De Blasi/Canaltech) Como conectar a Google Play Store no Gemini? Na primeira vez que você pedir ao Gemini para encontrar um aplicativo da Play Store, a integração poderá ser solicitada automaticamente. Para isso, basta seguir as instruções exibidas na tela para conectar os dois serviços. Antes de fazer o primeiro pedido ao chatbot, é necessário garantir que está logado no Gemini com a mesma con",
-      "lang": "pt",
-      "depts": [
-        "Comercial",
-        "Gestão",
-        "Educação"
-      ]
-    },
-    {
-      "title": "IAs chinesas avançam em cibersegurança e reduzem distância dos EUA",
-      "description": "O sucesso do Claude Mythos inaugurou uma nova etapa da corrida da IA : modelos com capacidades avançadas de cibersegurança. Enquanto a OpenAI foca no GPT-5.6, empresas chinesas aceleram o desenvolvimento de alternativas , como o GLM-5.2, da Z.ai . Um levantamento publicado pelo Wall Street Journal n",
-      "url": "https://canaltech.com.br/inteligencia-artificial/ias-chinesas-avancam-em-ciberseguranca-e-reduzem-distancia-dos-eua/",
-      "publishedAt": "Mon, 29 Jun 2026 12:06:38 -0300",
-      "image": "https://t.ctcdn.com.br/Dck-qTOzyl5rJ2M5U22SxkyGP_o=/700x394/smart/i1138557.jpeg",
-      "source": "Canaltech IA",
-      "content": "O sucesso do Claude Mythos inaugurou uma nova etapa da corrida da IA : modelos com capacidades avançadas de cibersegurança. Enquanto a OpenAI foca no GPT-5.6, empresas chinesas aceleram o desenvolvimento de alternativas , como o GLM-5.2, da Z.ai . Um levantamento publicado pelo Wall Street Journal neste fim de semana indica esse movimento. Com base em avaliações de pesquisadores, a reportagem aponta que o sucessor do GLM-5.1 alcança desempenho próximo ao de modelos americanos mais avançados, como o Mythos 5, na busca por falhas de segurança . Em outras atividades , o modelo fica atrás das IAs do ChatGPT e do Claude, ainda segundo o jornal. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A análise é voltada à solução da Z.ai, antes conhecida como Zhipu AI. Assim como a DeepSeek, a empresa oferece uma série de IAs abertas , incluindo o GLM-5.2 revelado em junho. Voltado para tarefas prolongadas, o modelo possui uma janela de contexto de 1 milhão de tokens . Em testes de benchmark, o GLM-5.2 apresentou desempenho próximo a grandes nomes do mercado , como o Opus 4.8, GPT-5.5 e Gemini 3.1 Pro . O movimento também reforça uma tendência: a diferença de desempenho entre os principais modelos americanos e chineses diminuiu nos últimos meses , o que amplia a concorrência em segmentos considerados estratégicos, como programação e cibersegurança. No páreo A Z.ai não está sozinha nessa. Na tentativa de desenvolver um rival para o Mythos , a empresa de segurança chinesa 360 revelou o “Tulongfeng” para descobrir automaticamente brechas de segurança e o “Yitianzhen” para automatizar a resposta a incidentes , de acordo com a Reuters. Fora da China , a japonesa Sakana AI apresentou o Fugu e o Fugu Ultra . As soluções funcionam como um sistema multiagente apresentado ao usuário como um único modelo: a partir de uma única API, a IA decide se responde diretamente ou coordena outros modelos em",
-      "lang": "pt",
-      "depts": [
-        "Gestão"
-      ]
-    },
-    {
-      "title": "\"IA perigosa\" do Claude é liberada novamente, mas para poucos",
-      "description": "A Anthropic recebeu o sinal verde para voltar a distribuir o Mythos 5 , a \"IA perigosa\" do Claude . Segundo o portal The Verge neste domingo (28), o governo dos Estados Unidos flexibilizou a diretriz de controle de exportação para um grupo selecionado de pessoas. O Fable 5 , por outro lado, segue in",
-      "url": "https://canaltech.com.br/inteligencia-artificial/ia-perigosa-do-claude-e-liberada-novamente-mas-para-poucos/",
-      "publishedAt": "Mon, 29 Jun 2026 09:01:41 -0300",
-      "image": "https://t.ctcdn.com.br/ZjcOUdfWaAgXirKJr4MiY0ln2Po=/700x394/smart/i1111425.png",
-      "source": "Canaltech IA",
-      "content": "A Anthropic recebeu o sinal verde para voltar a distribuir o Mythos 5 , a \"IA perigosa\" do Claude . Segundo o portal The Verge neste domingo (28), o governo dos Estados Unidos flexibilizou a diretriz de controle de exportação para um grupo selecionado de pessoas. O Fable 5 , por outro lado, segue indisponível no Claude e sem previsão para ser liberado aos assinantes da plataforma de inteligência artificial novamente. A mudança ocorre cerca de duas semanas após o decreto que pegou de surpresa tanto a Anthropic quanto os usuários. Em 12 de junho, as autoridades americanas restringiram o acesso aos modelos de inteligência artificial para estrangeiros após a descoberta de um jailbreak . - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Diante do ocorrido, o Fable 5 e o Mythos 5 foram suspensos por completo. Agora, em meio às negociações, a dona do Claude encontrou uma saída. O portal explica que o governo americano abriu uma exceção ao Mythos 5 para organizações selecionadas e funcionários da Anthropic , incluindo estrangeiros desses grupos. Em nota ao portal, a porta-voz da companhia, Danielle Ghiglieri, confirmou o caso, mas não divulgou uma lista com as organizações autorizadas a acessar a solução. “Estamos trabalhando para provisionar o conjunto aprovado de provedores e restaurar o acesso deles ao Mythos 5 o mais rápido possível. Ficamos satisfeitos em ver esse avanço e seguimos trabalhando com o governo para ampliar o acesso ao Mythos 5 e voltar a disponibilizar o Fable 5 para uso geral”, disse. GPT-5.6 com restrições O retorno do Mythos 5 ocorre de maneira similar à estreia da família GPT-5.6 , anunciada na última sexta-feira (27) . Na ocasião, a OpenAI liberou três modelos de fronteira para poucas organizações a pedido do governo dos EUA . Similar ao caso da dona do Claude, a restrição ocorre por questões de segurança , uma vez que a nova geração oferece capacidades de c",
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "ChatGPT consegue fazer check-up do seu PC sem abrir nenhum arquivo; veja como",
-      "description": "Caso o seu computador esteja lento ou você queira apenas conferir se está tudo certo com o PC, é possível usar o ChatGPT para fazer um check-up da máquina . Tudo isso ocorre sem instalar apps adicionais ou exigir que a IA acesse arquivos pessoais. Como fazer um bom prompt e parar de perder tempo com",
-      "url": "https://canaltech.com.br/inteligencia-artificial/chatgpt-consegue-fazer-check-up-do-seu-pc-sem-abrir-nenhum-arquivo-veja-como/",
-      "publishedAt": "Sun, 28 Jun 2026 11:30:00 -0300",
-      "image": "https://t.ctcdn.com.br/XEBOq4znLBtDvGS9vw30OlKA7Ik=/700x394/smart/i1119849.png",
-      "source": "Canaltech IA",
-      "content": "Caso o seu computador esteja lento ou você queira apenas conferir se está tudo certo com o PC, é possível usar o ChatGPT para fazer um check-up da máquina . Tudo isso ocorre sem instalar apps adicionais ou exigir que a IA acesse arquivos pessoais. Como fazer um bom prompt e parar de perder tempo com IA 15 prompts prontos para estudar, resumir PDFs e organizar tarefas no ChatGPT Assistentes como o ChatGPT, o Gemini e o Claude são boas opções para analisar quantidades massivas de dados. Dessa forma, basta exportar as informações do sistema oferecidas pelo próprio Windows e pedir para que as IAs verifiquem todas as informações. O Canaltech explica: - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Como obter as informações do PC Prompt para fazer check-up da máquina O que a IA consegue identificar? O que a IA não consegue avaliar? Como obter as informações do PC Primeiramente, é necessário obter uma cópia de um arquivo com todas as informações do computador. Isso é feito na tela de informações do sistema do Windows: Pressione Windows + R para abrir o menu Executar; Insira o comando “msinfo32” e pressione “Ok”; Na tela de informações do sistema, clique em “Arquivo”; Pressione “Exportar”; Salve o documento no computador. Tela de informações do sistema permite exportar arquivo de texto com dados do computador (Imagem: Captura de tela/André Magalhães/Canaltech) Prompt para fazer check-up da máquina A próxima etapa é enviar o arquivo com as informações e pedir para a IA analisar o material . ChatGPT, Gemini, Claude e outros chatbots do tipo conseguem interpretar o documento e atender ao prompt solicitado (dica: caso você tenha acesso aos modelos mais inteligentes, ou “Pro”, vale a pena usá-los). Abra uma janela de conversa, insira o arquivo e coloque o seguinte prompt: Você é um assistente de triagem de saúde de PCs com Windows 11 para usuários comuns. Eu vou colar ou anexar um rel",
-      "lang": "pt",
-      "depts": [
-        "Gestão"
       ]
     }
   ]
