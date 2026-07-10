@@ -1,7 +1,166 @@
 {
-  "updatedAt": "2026-07-09T12:25:36.931Z",
+  "updatedAt": "2026-07-10T12:18:49.692Z",
   "count": 40,
   "articles": [
+    {
+      "title": "OpenAI diz que GPT 5.6 é o modelo preferido para Microsoft Copilot 365 em meio a conversas sobre rompimento",
+      "description": "A nova família de modelos da OpenAI continuará a impulsionar o conjunto de aplicativos de trabalho e produtividade da Microsoft.",
+      "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+      "publishedAt": "Fri, 10 Jul 2026 00:16:54 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "RH",
+        "Gestão"
+      ]
+    },
+    {
+      "title": "Fidji Simo deixa o cargo de número 2 da OpenAI",
+      "description": "O segundo executivo da OpenAI, Fidji Simo, está deixando seu cargo de tempo integral depois que sua licença médica foi mais longa do que o esperado – um vácuo de liderança que surge em um momento complicado, enquanto a empresa olha para um possível IPO e corre para pegar a Anthropic no mercado corporativo.",
+      "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+      "publishedAt": "Thu, 09 Jul 2026 23:38:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "O segundo executivo da OpenAI, Fidji Simo, está deixando seu cargo de tempo integral depois que sua licença médica foi mais longa do que o esperado – um vácuo de liderança que surge em um momento complicado, enquanto a empresa olha para um possível IPO e corre para pegar a Anthropic no mercado corporativo.",
+      "lang": "en",
+      "depts": [
+        "Gestão"
+      ]
+    },
+    {
+      "title": "O que é Gemini Spark? Conheça o agente de IA pessoal do Google",
+      "description": "A nova fase da inteligência artificial é marcada pela chegada dos chamados agentes de IA , sistemas que conseguem executar tarefas de forma autônoma, indo além das respostas tradicionais de chatbots. Nesse cenário, o Gemini Spark é um agente de IA pessoal do Google projetado para atuar de forma cont",
+      "url": "https://canaltech.com.br/inteligencia-artificial/o-que-e-gemini-spark-conheca-o-agente-de-ia-pessoal-do-google/",
+      "publishedAt": "Thu, 09 Jul 2026 20:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/VEam7Z1kG8djfL4VM4rEDavn04M=/700x394/smart/i1140763.png",
+      "source": "Canaltech IA",
+      "content": "A nova fase da inteligência artificial é marcada pela chegada dos chamados agentes de IA , sistemas que conseguem executar tarefas de forma autônoma, indo além das respostas tradicionais de chatbots. Nesse cenário, o Gemini Spark é um agente de IA pessoal do Google projetado para atuar de forma contínua dentro do ecossistema digital do usuário. A proposta acompanha uma tendência mais ampla do setor, em que grandes empresas de tecnologia disputam a criação de assistentes mais independentes e integrados à rotina de trabalho e vida pessoal. Nomes como Copilot Cowork, OpenAI Operator e Claude Cowork representam essa nova geração de ferramentas que executam tarefas completas. Esses sistemas refletem a transição da IA como ferramenta reativa para uma IA operacional , capaz de planejar, organizar e executar fluxos de trabalho com pouca intervenção humana. O Gemini Spark se insere exatamente nesse movimento. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Gemini Spark conecta diferentes serviços do Google para automatizar tarefas e simplificar a rotina digital do usuário. (Imagem: Viviane França/Canaltech) O que é o Gemini Spark? O Gemini Spark é um agente de inteligência artificial pessoal desenvolvido para operar dentro dos serviços do Google e executar tarefas de forma autônoma . Diferente de um chatbot tradicional, ele não depende apenas de comandos diretos. O sistema pode interpretar objetivos mais amplos e dividir essas metas em etapas , realizando ações em segundo plano. A ideia é que ele funcione como um assistente contínuo, conectado a ferramentas, como e-mail, documentos e armazenamento em nuvem. Assim, o Gemini Spark atua como um “operador digital” , que organiza informações, automatiza rotinas e ajuda o usuário a gerenciar tarefas complexas sem necessidade de interação constante. O agente de IA funciona em segundo plano e continua executando tarefas mesmo sem o dispos",
+      "lang": "pt",
+      "depts": [
+        "Marketing",
+        "RH",
+        "Comercial",
+        "Gestão"
+      ]
+    },
+    {
+      "title": "OpenAI lança sua nova família de modelos com GPT-5.6",
+      "description": "A mais recente família de modelos da OpenAI promete melhorias em diversas áreas, incluindo segurança cibernética.",
+      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "publishedAt": "Thu, 09 Jul 2026 22:24:24 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "OpenAI está encerrando o Atlas, mas suas ambições de navegador de IA ainda estão crescendo",
+      "description": "A OpenAI está encerrando seu navegador com tecnologia de IA depois de menos de um ano. Mas está transferindo alguns recursos de navegação de agente para seu aplicativo de desktop e uma extensão do Chrome.",
+      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+      "publishedAt": "Thu, 09 Jul 2026 22:03:54 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "A OpenAI está encerrando seu navegador com tecnologia de IA depois de menos de um ano. Mas está transferindo alguns recursos de navegação de agente para seu aplicativo de desktop e uma extensão do Chrome.",
+      "lang": "en",
+      "depts": [
+        "Educação"
+      ]
+    },
+    {
+      "title": "Elon Musk elogia Mythos/Fable, promete não cortar Antrópico",
+      "description": "A Anthropic deveria confiar em Elon Musk para hospedar seus modelos? Com cerca de US$ 40 bilhões em receitas em jogo, Musk insiste que a empresa pode.",
+      "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+      "publishedAt": "Thu, 09 Jul 2026 21:57:42 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "Financeiro"
+      ]
+    },
+    {
+      "title": "OpenAI lança ChatGPT Work, assistente de IA para o trabalho",
+      "description": "Agente autônomo de inteligência artificial chega ao mercado junto com a nova família de modelos GPT-5.6. OpenAI lança ChatGPT Work, assistente de IA para o trabalho",
+      "url": "https://tecnoblog.net/noticias/openai-lanca-chatgpt-work-assistente-de-ia-para-o-trabalho/",
+      "publishedAt": "Thu, 09 Jul 2026 20:12:26 +0000",
+      "image": "https://www.youtube.com/embed/yRc5HcGJ-Cs",
+      "source": "Tecnoblog",
+      "content": "ChatGPT Work é um assistente capaz de concluir projetos em segundo plano (imagem: divulgação) Resumo OpenAI lançou o ChatGPT Work, um assistente de IA projetado para executar atividades de forma autônoma e reduzir tarefas repetitivas. O ChatGPT Work conecta arquivos e aplicativos para criar materiais prontos, com integração nativa a ecossistemas populares como Microsoft Teams e Slack. A novidade chega junto com o GPT-5.6 e um novo app para desktop, que integra ChatGPT, Work e Codex. A OpenAI anunciou nesta quinta-feira (09/07) o lançamento do ChatGPT Work, um novo agente projetado para executar atividades de forma autônoma e reduzir tarefas repetitivas. A novidade chega junto com a família de modelos GPT-5.6, liberada para o público após um período de acesso restrito . O agente é uma aposta da OpenAI para transformar o popular chatbot em um assistente corporativo capaz de concluir projetos inteiros sozinho. Como o ChatGPT Work funciona? A novidade funciona conectando arquivos e aplicativos para criar materiais prontos. Segundo a OpenAI, basta o usuário fornecer um objetivo amplo, como “preparar uma reunião de vendas” ou analisar o orçamento , e o agente reunirá todo o contexto necessário para gerar documentos, apresentações e planilhas de forma independente. Para alcançar esse nível de automação, a ferramenta possui integração nativa a ecossistemas populares, como Microsoft Teams, Slack, Gmail e Google Drive. Para reduzir os riscos de um agente autônomo operando com dados confidenciais, a OpenAI permitirá que os administradores de TI controlem quais arquivos e aplicativos a IA pode acessar. A empresa destaca que o sistema passou por rigorosos testes e bloqueou todas as tentativas de extração de dados protegidos. Chegada do GPT-5.6 após pressão regulatória Introducing ChatGPT Work, a new agent in ChatGPT powered by Codex and GPT-5.6. It can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work. It’s a whole new way to get work done. pic.twitter.com/uGbvjU1LsV &mdash; OpenAI (@OpenAI) July 9, 2026 A tecnologia que alimenta o agente de IA é a nova família de modelos GPT-5.6, que chega ao público após um período de pré-visualização limitado a clientes aprovados pelas autoridades norte-americanas. A pausa no lançamento foi um pedido direto do governo de Donald Trump , que exigiu tempo para reavaliar medidas de segurança diante do poder da ferramenta. Após uma colaboração técnica entre a startup e as agências reguladoras, o modelo foi liberado hoje. O GPT-5.6 se divide em três versões para diferentes demandas de mercado: Sol : é o modelo principal e mais inteligente. Segundo o CEO Sam Altman, ele é 54% mais eficiente no uso de tokens em tarefas de programação e conta com um modo ultra , focado em acelerar grandes projetos usando múltiplos agentes. Terra : uma versão intermediária que equilibra desempenho e custo. Luna : o modelo mais leve da família, focado em custo-benefício. IA da OpenAI tem integração nativa com ferramentas como Slack e Gmail (imagem: divulgação) Novo aplicativo com ChatGPT e Codex Junto com as novidades, um novo aplicativo para Windows e Mac, que centraliza o ChatGPT, o Work e o Codex em uma única interface, também está chegando ao mercado. Ele foi apresentado na live de lançamento e tem como destaque o recurso “Uso do Computador”, que autoriza a IA a executar ações em segundo plano na máquina, como clicar, digitar e mover arquivos por conta própria. O app também inclui um navegador integrado e a função Sites, que possibilita transformar rascunhos de ideias em páginas interativas. O cronograma de disponibilidade varia de acordo com o plano do usuário. O novo app para desktop pode ser baixado globalmente por usuários de todos os planos, incluindo a versão gratuita. Na web e dispositivos móveis, o ChatGPT Work está sendo liberado para assinantes Pro, Enterprise e Edu, com previsão de chegada aos planos Plus e Business nos próximos dias. OpenAI lança ChatGPT Work, assistente de IA para o trabalho",
+      "lang": "pt",
+      "depts": [
+        "RH",
+        "Gestão"
+      ]
+    },
+    {
+      "title": "Microsoft vai usar IA para sair na frente dos hackers no Windows",
+      "description": "Microsoft usará recursos de inteligência artificial para identificar e corrigir falhas no Windows mais rapidamente, se antecipando a eventuais explorações de vulnerabilidades. Microsoft vai usar IA para sair na frente dos hackers no Windows",
+      "url": "https://tecnoblog.net/noticias/microsoft-vai-usar-ia-para-sair-na-frente-dos-hackers-no-windows/",
+      "publishedAt": "Thu, 09 Jul 2026 19:57:32 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/07/windows-11-1.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Educação"
+      ]
+    },
+    {
+      "title": "New York Times diz que OpenAI escondeu evidências no julgamento de direitos autorais do ChatGPT",
+      "description": "Os editores de notícias dizem que a OpenAI escondeu ferramentas e conjuntos de dados que poderiam identificar jornalismo protegido por direitos autorais nos resultados do ChatGPT, intensificando seu processo com uma nova moção de sanções.",
+      "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+      "publishedAt": "Thu, 09 Jul 2026 19:05:58 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Os editores de notícias dizem que a OpenAI escondeu ferramentas e conjuntos de dados que poderiam identificar jornalismo protegido por direitos autorais nos resultados do ChatGPT, intensificando seu processo com uma nova moção de sanções.",
+      "lang": "en",
+      "depts": [
+        "Jurídico",
+        "Gestão"
+      ]
+    },
+    {
+      "title": "Como o governo decidiu que o modelo de fronteira da OpenAI era seguro para lançamento?",
+      "description": "“Exatamente como foi esse diálogo entre o governo e a Antthropic e a OpenAI não está claro.”",
+      "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
+      "publishedAt": "Thu, 09 Jul 2026 18:22:39 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "Financeiro"
+      ]
+    },
+    {
+      "title": "O novo recurso Claude da Anthropic está silenciosamente vendendo IA para você",
+      "description": "O novo painel Reflect de Claude não apenas visualiza como você usa a IA. Também reforça sutilmente o quanto o seu trabalho diário agora depende do chatbot da Anthropic.",
+      "url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+      "publishedAt": "Thu, 09 Jul 2026 14:53:09 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "O novo painel Reflect de Claude não apenas visualiza como você usa a IA. Também reforça sutilmente o quanto o seu trabalho diário agora depende do chatbot da Anthropic.",
+      "lang": "en",
+      "depts": [
+        "RH",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Anthropic, OpenAI e SpaceX são maiores do que os últimos 25 anos de saídas de tecnologia",
+      "description": "Três grandes IPOs de IA deverão gerar mais valor do que todas as saídas apoiadas por capital de risco nos EUA desde 2000.",
+      "url": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
+      "publishedAt": "Thu, 09 Jul 2026 14:51:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
     {
       "title": "Smartwatch bom e barato: qual modelo comprar em 2026?",
       "description": "Conheça os melhores relógios inteligentes com preço acessível e boas especificações para monitorar saúde, exercícios e esportes Smartwatch bom e barato: qual modelo comprar em 2026?",
@@ -42,41 +201,6 @@
       ]
     },
     {
-      "title": "SpaceXAI lança Grok 4.5, que Elon descreve como um modelo da classe Opus",
-      "description": "A empresa de tecnologia de Elon Musk lançou a versão mais recente do Grok na quarta-feira, prometendo uma alternativa mais barata e eficiente a outros modelos poderosos de IA.",
-      "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
-      "publishedAt": "Wed, 08 Jul 2026 19:30:16 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "A empresa de tecnologia de Elon Musk lançou a versão mais recente do Grok na quarta-feira, prometendo uma alternativa mais barata e eficiente a outros modelos poderosos de IA.",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Esta startup acha que a robótica está prestes a ter seu momento ChatGPT",
-      "description": "A General Intuition está apostando que milhões de horas de dados de videogame podem treinar os modelos básicos para IA física, facilitando a construção de robôs mais inteligentes com o mínimo de dados do mundo real.",
-      "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
-      "publishedAt": "Wed, 08 Jul 2026 19:19:15 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "A General Intuition está apostando que milhões de horas de dados de videogame podem treinar os modelos básicos para IA física, facilitando a construção de robôs mais inteligentes com o mínimo de dados do mundo real.",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Por que este CEO acha que os videogames produzem melhores dados de treinamento do que a Internet",
-      "description": "Quando se trata de alcançar inteligência artificial geral (AGI), grandes modelos de linguagem simplesmente não têm o que é preciso. Modelos como ChatGPT e Claude são ótimos em texto, mas são menos hábeis em entender como as coisas realmente se movem no espaço e no tempo – uma habilidade essencial para produzir inteligência.",
-      "url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
-      "publishedAt": "Wed, 08 Jul 2026 17:47:55 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Quando se trata de alcançar inteligência artificial geral (AGI), grandes modelos de linguagem simplesmente não têm o que é preciso. Modelos como ChatGPT e Claude são ótimos em texto, mas são menos hábeis em compreender como as coisas realmente se movem no espaço e no tempo – uma habilidade essencial para produzir inteligência que generaliza. Acontece que essa lacuna pode ser preenchida por dados de jogos. Essa é a aposta por trás da General Intuition, uma [ ]",
-      "lang": "en",
-      "depts": [
-        "Educação"
-      ]
-    },
-    {
       "title": "OpenAI lança novo modelo de voz para deixar ChatGPT mais humano e natural",
       "description": "Família GPT-Live consegue ouvir e falar ao mesmo tempo. Pesquisas na web e tarefas de raciocínio são delegadas ao GPT-5.5. OpenAI lança novo modelo de voz para deixar ChatGPT mais humano e natural",
       "url": "https://tecnoblog.net/noticias/openai-lanca-novo-modelo-de-voz-para-deixar-chatgpt-mais-humano-e-natural/",
@@ -90,20 +214,6 @@
       ]
     },
     {
-      "title": "OpenAI lança novos modelos de voz para conversas ao vivo mais naturais",
-      "description": "OpenAI afirma que seu novo modo de voz pode falar e ouvir ao mesmo tempo, uma habilidade fundamental para tradução ao vivo.",
-      "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
-      "publishedAt": "Wed, 08 Jul 2026 17:00:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Saúde",
-        "Educação"
-      ]
-    },
-    {
       "title": "GPT-5.6 Sol: OpenAI confirma lançamento da sua IA mais poderosa para todos",
       "description": "A OpenAI vai liberar nesta quinta-feira (9) o acesso público ao GPT-5.6 Sol , seu modelo de IA mais avançado até hoje, junto das versões Terra e Luna . O lançamento amplo chega depois de um impasse com o governo dos Estados Unidos, que havia pedido para a empresa restringir a distribuição do modelo ",
       "url": "https://canaltech.com.br/inteligencia-artificial/gpt-56-sol-openai-confirma-lancamento-da-sua-ia-mais-poderosa-para-todos/",
@@ -114,56 +224,6 @@
       "lang": "pt",
       "depts": [
         "Gestão"
-      ]
-    },
-    {
-      "title": "Essas startups de IA estão aumentando a receita em taxas cada vez mais rápidas",
-      "description": "Existem muitas startups de IA em rápido crescimento, mas algumas estão crescendo ainda mais rápido, dizem eles.",
-      "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
-      "publishedAt": "Wed, 08 Jul 2026 15:41:06 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Financeiro"
-      ]
-    },
-    {
-      "title": "Seus dados de jogo podem ser o segredo da AGI, de acordo com esta startup apoiada por Bezos",
-      "description": "Quando se trata de alcançar inteligência artificial geral (AGI), grandes modelos de linguagem simplesmente não têm o que é preciso. Modelos como ChatGPT e Claude são ótimos em texto, mas são menos hábeis em entender como as coisas realmente se movem no espaço e no tempo – uma habilidade essencial para produzir inteligência.",
-      "url": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/",
-      "publishedAt": "Wed, 08 Jul 2026 13:00:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Quando se trata de alcançar inteligência artificial geral (AGI), grandes modelos de linguagem simplesmente não têm o que é preciso. Modelos como ChatGPT e Claude são ótimos em texto, mas são menos hábeis em compreender como as coisas realmente se movem no espaço e no tempo – uma habilidade essencial para produzir inteligência que generaliza. Acontece que essa lacuna pode ser preenchida por dados de jogos. Essa é a aposta por trás da General Intuition, uma [ ]",
-      "lang": "en",
-      "depts": [
-        "Educação"
-      ]
-    },
-    {
-      "title": "O ex-executivo da OpenAI Kevin Weil agora faz parte do conselho da Stoke Space",
-      "description": "A nova função de Kevin Weil na Stoke Space sugere que foguetes reutilizáveis ​​​​são a próxima novidade no Vale do Silício.",
-      "url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
-      "publishedAt": "Wed, 08 Jul 2026 12:00:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "A startup francesa ZML lança produto gratuito para acelerar a inferência em muitos chips de IA",
-      "description": "ZML, uma startup francesa de IA endossada pelo vencedor do Prêmio Turing Yann LeCun, lançou agora o ZML/LLMD, software que pode tornar a execução de IA menos dispendiosa.",
-      "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
-      "publishedAt": "Wed, 08 Jul 2026 08:00:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Comercial"
       ]
     },
     {
@@ -193,17 +253,6 @@
       "depts": [
         "Educação"
       ]
-    },
-    {
-      "title": "Por que a ascensão da IA ​​de código aberto ainda não está prejudicando a Antrópica",
-      "description": "O sucesso dos modelos de código aberto não ocorre às custas dos laboratórios de ponta. Em vez disso, cada um deles parece capturar duas fases do mesmo ciclo de vida.",
-      "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
-      "publishedAt": "Tue, 07 Jul 2026 20:04:32 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
     },
     {
       "title": "Meta faz grande aposta para rivalizar com Nano Banana e ChatGPT Images",
@@ -245,33 +294,6 @@
         "RH",
         "Financeiro",
         "Educação"
-      ]
-    },
-    {
-      "title": "Claude Cowork se expande para dispositivos móveis e web",
-      "description": "Com esta atualização, os usuários podem iniciar uma tarefa em sua mesa, obter atualizações de status em seus telefones e retomar o resultado final mais tarde, mesmo que o laptop esteja fechado.",
-      "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
-      "publishedAt": "Tue, 07 Jul 2026 16:27:18 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Com esta atualização, os usuários podem iniciar uma tarefa em sua mesa, obter atualizações de status em seus telefones e retomar o resultado final mais tarde, mesmo que o laptop esteja fechado.",
-      "lang": "en",
-      "depts": [
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Midjourney quer que estúdios de Hollywood revelem como usam IA",
-      "description": "Startup tenta ampliar acesso a documentos internos de Disney, Universal e Warner em processo sobre personagens protegidos por direitos autorais. Midjourney quer que estúdios de Hollywood revelem como usam IA",
-      "url": "https://tecnoblog.net/noticias/midjourney-quer-que-estudios-de-hollywood-revelem-como-usam-ia/",
-      "publishedAt": "Mon, 06 Jul 2026 21:23:14 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/09/capa-midjourney-1-tbr.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Jurídico",
-        "Gestão"
       ]
     },
     {
@@ -525,19 +547,6 @@
       "depts": [
         "RH",
         "Gestão"
-      ]
-    },
-    {
-      "title": "Google testa recurso para você conversar por voz com seus e-mails do Gmail",
-      "description": "O Google anunciou o Gmail Live , um novo recurso para conversar por voz com a caixa de entrada do Gmail usando o Gemini. Apresentada durante o Google I/O 2026, a novidade entrou em fase de testes para Android e iPhone e promete facilitar a busca por informações nos e-mails por meio de perguntas feit",
-      "url": "https://canaltech.com.br/inteligencia-artificial/google-testa-recurso-para-voce-conversar-por-voz-com-seus-e-mails-do-gmail/",
-      "publishedAt": "Tue, 30 Jun 2026 16:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/8C_0geXovl0iMMGcbsCgZDGz5Qk=/700x394/smart/i1137523.png",
-      "source": "Canaltech IA",
-      "content": "O Google anunciou o Gmail Live , um novo recurso para conversar por voz com a caixa de entrada do Gmail usando o Gemini. Apresentada durante o Google I/O 2026, a novidade entrou em fase de testes para Android e iPhone e promete facilitar a busca por informações nos e-mails por meio de perguntas feitas por comandos de voz. O funcionamento é semelhante ao do Gemini Live . Ao tocar no ícone de ondas sonoras na barra de pesquisa do Gmail, o usuário poderá iniciar uma conversa com a IA e fazer perguntas, como “Quais são as datas da minha próxima viagem?” ou “Quais foram as atualizações dos meus últimos pedidos?”. A interface também terá botões na parte inferior para que o usuário possa silenciar o microfone ou sair rapidamente da ferramenta. O sistema vai poder analisar os e-mails da conta, responder por voz e texto, exibir uma transcrição da conversa em tempo real e destacar as mensagens usadas para gerar a resposta. O Gmail Live também vai conseguir responder perguntas de acompanhamento e mudar de assunto durante a conversa. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Gmail Live usa IA para responder perguntas sobre seus e-mails por meio de comandos de voz. (Imagem: Viviane França/Canaltech) Paralelamente, o Google também está implementando o Ask Gmail , recurso focado em buscas por texto. Em vez de usar palavras-chave, o usuário pode digitar perguntas em linguagem natural na barra de pesquisa do Gmail. A IA então analisa os e-mails e apresenta um resumo com as principais informações encontradas, em um formato semelhante aos AI Overviews da Busca do Google. O anúncio faz parte de uma série de novidades do Google para produtividade com IA, que também inclui o Docs Live , para criar e editar documentos por voz no Google Docs e notas no Google Keep, e a expansão do AI Inbox , recurso que organiza a caixa de entrada por tarefas e assuntos importantes, para assinantes do Goog",
-      "lang": "pt",
-      "depts": [
-        "Educação"
       ]
     }
   ]
