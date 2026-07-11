@@ -1,7 +1,129 @@
 {
-  "updatedAt": "2026-07-10T12:18:49.692Z",
+  "updatedAt": "2026-07-11T10:53:34.787Z",
   "count": 40,
   "articles": [
+    {
+      "title": "Apple processa OpenAI por suposto roubo de segredo comercial",
+      "description": "A Apple alega que a má conduta foi dirigida pela liderança sênior da OpenAI, incluindo um ex-funcionário de longa data.",
+      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "publishedAt": "Fri, 10 Jul 2026 21:00:29 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "RH",
+        "Gestão"
+      ]
+    },
+    {
+      "title": "Detector de IA da Meta falha ao identificar imagens do próprio modelo de IA",
+      "description": "Uma ferramenta de detecção de imagens geradas por inteligência artificial (IA) da Meta falhou em identificar 55% das próprias imagens produzidas pelo Muse Image depois que elas foram cortadas, segundo análise da Reuters publicada nesta sexta-feira (10). O teste avaliou 40 imagens geradas pelo modelo",
+      "url": "https://canaltech.com.br/inteligencia-artificial/detector-de-ia-da-meta-falha-ao-identificar-imagens-do-proprio-modelo-de-ia/",
+      "publishedAt": "Fri, 10 Jul 2026 17:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/Tl6F51vG5by3Aybp8rU__kSdw-8=/700x394/smart/i1068353.png",
+      "source": "Canaltech IA",
+      "content": "Uma ferramenta de detecção de imagens geradas por inteligência artificial (IA) da Meta falhou em identificar 55% das próprias imagens produzidas pelo Muse Image depois que elas foram cortadas, segundo análise da Reuters publicada nesta sexta-feira (10). O teste avaliou 40 imagens geradas pelo modelo de IA da empresa. A ferramenta, apresentada em pré-visualização na mesma semana do lançamento do Muse Image, conseguiu identificar corretamente todas as imagens originais submetidas pela reportagem. O problema apareceu quando as fotos foram cortadas para cerca de um terço a metade do tamanho original. Como funciona a detecção da Meta A empresa afirma, em seu site, que a ferramenta consegue reconhecer imagens geradas por seus modelos de IA mesmo após cortes, graças a um sistema de marca d'água invisível chamado Content Seal. A tecnologia é incorporada a toda imagem criada pelo Muse Image e serve para indicar se o conteúdo foi produzido por sistemas da Meta. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Questionada pela Reuters sobre os resultados da análise, a Meta respondeu que a ferramenta ainda está em fase de pré-visualização. A empresa disse que a marca d'água foi projetada para resistir a edições comuns, mas que o sinal pode se perder em cortes mais agressivos. Google e OpenAI já alertaram que suas próprias ferramentas de detecção também não são infalíveis diante de técnicas de alteração de imagens. Especialistas apontam limites da tecnologia de marca d'água Siwei Lyu, professor de ciência da computação na Universidade de Buffalo e pesquisador de forense de imagens de IA, afirmou à Reuters que sistemas baseados em marca d'água têm limitações conhecidas, já que qualquer modificação capaz de remover ou enfraquecer o sinal embutido, como corte, redimensionamento, compressão pesada ou edição, pode reduzir a eficácia da detecção. Sarah Barrington, pesquisadora de IA e doutor",
+      "lang": "pt",
+      "depts": [
+        "Marketing"
+      ]
+    },
+    {
+      "title": "IA não deveria aparecer para quem não gosta, diz chefe do Instagram",
+      "description": "Adam Mosseri diz que algoritmo deve aprender preferências do usuário, mas descarta bloquear conteúdo de IA na rede. IA não deveria aparecer para quem não gosta, diz chefe do Instagram",
+      "url": "https://tecnoblog.net/noticias/ia-nao-deveria-aparecer-para-quem-nao-gosta-diz-chefe-do-instagram/",
+      "publishedAt": "Fri, 10 Jul 2026 18:54:42 +0000",
+      "image": "https://www.youtube.com/embed/yQ_EWmtfWvQ",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Marketing",
+        "Educação"
+      ]
+    },
+    {
+      "title": "SK Hynix quebra recorde e tem estreia bilionária na Nasdaq",
+      "description": "Fabricante sul-coreana de memória levanta US$ 26,5 bilhões. Dinheiro deve ajudar a financiar novas fábricas para atender às demandas criadas pela IA generativa. SK Hynix quebra recorde e tem estreia bilionária na Nasdaq",
+      "url": "https://tecnoblog.net/noticias/sk-hynix-quebra-recorde-e-tem-estreia-bilionaria-na-nasdaq/",
+      "publishedAt": "Fri, 10 Jul 2026 18:24:05 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/05/predio-sk-hynix.jpg",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "ChatGPT Work: qual a diferença entre o novo agente e a versão padrão da IA?",
+      "description": "A OpenAI anunciou o ChatGPT Work , um novo agente de IA focado em tarefas que podem levar minutos ou horas para serem concluídas. Diferente da experiência tradicional do ChatGPT, baseada em conversas em tempo real, o recurso foi desenvolvido para assumir projetos completos, trabalhar de forma autôno",
+      "url": "https://canaltech.com.br/inteligencia-artificial/chatgpt-work-qual-a-diferenca-entre-o-novo-agente-e-a-versao-padrao-da-ia/",
+      "publishedAt": "Fri, 10 Jul 2026 14:05:00 -0300",
+      "image": "https://t.ctcdn.com.br/t4uumEWy4N7Kff9hPJgA56C05wU=/700x394/smart/i1142079.png",
+      "source": "Canaltech IA",
+      "content": "A OpenAI anunciou o ChatGPT Work , um novo agente de IA focado em tarefas que podem levar minutos ou horas para serem concluídas. Diferente da experiência tradicional do ChatGPT, baseada em conversas em tempo real, o recurso foi desenvolvido para assumir projetos completos, trabalhar de forma autônoma e entregar documentos, planilhas, apresentações e outros materiais prontos para uso. Além de executar projetos de imediato, é possível agendar trabalhos recorrentes ou pedir para que o ChatGPT Work \"ficar de olho\" em atualizações de informações. Ele trabalha em segundo plano e só interrompe para consultar o usuário quando precisa de alguma aprovação ou julgamento humano. O trabalho pode ser iniciado, revisado e acompanhado pela versão web ou pelo celular, mas a OpenAI recomenda usar o aplicativo para desktop em tarefas mais complexas, já que ele oferece acesso amplo a arquivos locais, ao navegador e a ferramentas, como o Codex . - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O lançamento reforça a tendência dos agentes de IA , que são capazes de executar fluxos de trabalho completos em vez de apenas responder a perguntas. Nos últimos meses, outras empresas também seguiram esse caminho, com o lançamento do Gemini Spark , do Google, o Perplexity Computer e o Claude Cowork , da Anthropic, todos focados em automatizar tarefas complexas. O ChatGPT Work é um novo agente da OpenAI que executa tarefas de forma autônoma em segundo plano. (Imagem: Marcelo Fischer/Canaltech) O que é o ChatGPT Work? O ChatGPT Work é um agente de IA da OpenAI desenvolvido para auxiliar em atividades profissionais que exigem planejamento, pesquisa e execução de várias etapas. Em vez de responder apenas a um comando, ele reúne informações, organiza o trabalho e utiliza ferramentas conectadas para produzir um resultado. Para isso, o agente pode acessar serviços , mediante autorização do usuário, como Slack",
+      "lang": "pt",
+      "depts": [
+        "RH",
+        "Gestão",
+        "Educação"
+      ]
+    },
+    {
+      "title": "OpenAI acaba com navegador após menos de um ano",
+      "description": "Recursos do ChatGPT Atlas foram incorporados ao novo app de desktop ChatGPT Work. Navegador será encerrado em 9 de agosto. OpenAI acaba com navegador após menos de um ano",
+      "url": "https://tecnoblog.net/noticias/openai-acaba-com-navegador-apos-menos-de-um-ano/",
+      "publishedAt": "Fri, 10 Jul 2026 15:53:40 +0000",
+      "image": "https://www.youtube.com/embed/Wq45rvPGNHs",
+      "source": "Tecnoblog",
+      "content": "OpenAI encerra ChatGPT Atlas menos de um ano após o lançamento (imagem: reprodução) Resumo OpenAI encerrará o ChatGPT Atlas em 9 de agosto, menos de um ano após seu lançamento. Os recursos do navegador serão incorporados ao ChatGPT Work, um novo aplicativo de desktop que reúne ChatGPT, Codex e navegação. O ChatGPT Work terá um browser interno e uma extensão oficial para o Google Chrome, permitindo que o chatbot acessea página e execute tarefas. Menos de um ano após chegar ao mercado, o ChatGPT Atlas será encerrado em 9 de agosto. O navegador próprio da OpenAI foi lançado em outubro do ano passado com integração aos modelos de IA da empresa, incluindo funcionalidades agênticas. A decisão faz parte de uma mudança de foco dentro da empresa , que pretende levar os recursos de navegação automatizada do Atlas para experiências mais centralizadas, como o recém-anunciado ChatGPT Work e uma nova extensão oficial para o Google Chrome, de acordo com o site TechCrunch . A OpenAI também tenta reduzir iniciativas paralelas e concentrar recursos em produtos mais estratégicos. Essa mudança de foco teria influenciado escolhas recentes envolvendo o fim do aplicativo Sora e os planos para um “modo adulto” no ChatGPT . ChatGPT Work herda funções do Atlas Parte das funções do ChatGPT Atlas será incorporada ao ChatGPT Work, novo aplicativo de desktop lançado pela OpenAI junto a nova família de modelos de linguagem GPT-5.6 . A união dos serviços da empresa já era esperada desde março e, com a confirmação neste mês, reúne em um único ambiente recursos do ChatGPT, do Codex e do navegador. O app terá um browser interno para consultas e interações na internet e um outro navegador em nuvem, executado nos servidores da OpenAI, para que agentes possam acessar os sites, fazer login em contas e baixar arquivos em segundo plano. A OpenAI também está lançando uma extensão oficial do ChatGPT para o Google Chrome. O complemento dá ao chatbot acesso ao contexto da página aberta pelo usuário, permitindo resumir textos, responder perguntas sobre o conteúdo exibido e iniciar tarefas mais longas a partir do próprio navegador. “Todas essas funcionalidades foram construídas com base no que aprendemos com os usuários do Atlas que deram um voto de confiança a um novo navegador , publicou James Sun , da equipe de produtos da OpenAI. Atlas colocou ChatGPT dentro do navegador A proposta do Atlas era permitir que o ChatGPT acompanhasse a navegação do usuário, entendendo o contexto das páginas abertas e auxiliando em tarefas sem a necessidade de copiar e colar informações entre sites e o chatbot. O navegador também integrava recursos de agente, permitindo que a IA executasse algumas ações dentro das páginas. Durante o ano passado, outras companhias entraram nessa onda, apresentando soluções como o Comet AI , da Perplextiy; o Dia, da The Browser Company ; e o Opera Neon . O Google e a Microsoft também colocaram recursos de IA nativos nos seus navegadores: o Chrome fez uma profunda integração com o Gemini , enquanto o Edge recebeu o Copilot Mode . OpenAI acaba com navegador após menos de um ano",
+      "lang": "pt",
+      "depts": [
+        "Gestão",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Como ativar a nova Alexa+ de graça no benefício do Amazon Prime",
+      "description": "A Alexa+ ajuda a planejar e executar tarefas complexas com IA generativa, oferecendo conversas fluidas, automação de rotinas e gerenciamento de casa inteligente Como ativar a nova Alexa+ de graça no benefício do Amazon Prime",
+      "url": "https://tecnoblog.net/responde/como-ativar-a-nova-alexa-de-graca-no-beneficio-do-amazon-prime/",
+      "publishedAt": "Fri, 10 Jul 2026 14:24:06 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/como-ativar-a-nova-alexa-de-graca-no-beneficio-do-amazon-prime.jpeg",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Gestão"
+      ]
+    },
+    {
+      "title": "Claude ganha painel que detalha como você usa a IA",
+      "description": "Nova ferramenta da Anthropic oferece dados de uso, dicas de produtividade e alertas de pausa. Claude ganha painel que detalha como você usa a IA",
+      "url": "https://tecnoblog.net/noticias/claude-ganha-painel-que-detalha-como-voce-usa-a-ia/",
+      "publishedAt": "Fri, 10 Jul 2026 14:12:43 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/claude-2.webp",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Gestão"
+      ]
+    },
+    {
+      "title": "Google vai \"dedurar\" anúncios que usarem IA",
+      "description": "O Google anunciou nesta quinta-feira (9) uma nova funcionalidade que vai indicar quando um anúncio foi criado ou editado com inteligência artificial (IA) . A informação fica disponível no painel \"My Ad Center\", segundo publicação no blog oficial da empresa. Até então, a exigência de identificação de",
+      "url": "https://canaltech.com.br/inteligencia-artificial/google-vai-dedurar-anuncios-que-usarem-ia/",
+      "publishedAt": "Fri, 10 Jul 2026 11:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/W0fYsTilS9jiNXJMFaeqTH-Z5o0=/700x394/smart/i1130231.png",
+      "source": "Canaltech IA",
+      "content": "O Google anunciou nesta quinta-feira (9) uma nova funcionalidade que vai indicar quando um anúncio foi criado ou editado com inteligência artificial (IA) . A informação fica disponível no painel \"My Ad Center\", segundo publicação no blog oficial da empresa. Até então, a exigência de identificação de conteúdo sintético valia apenas para anúncios de conteúdo eleitoral , adotada desde 2023. Com a mudança, a prática se estende a qualquer anúncio veiculado pela plataforma. Como vai funcionar o novo rótulo A seção \"Como este anúncio foi feito\" ficará acessível globalmente por meio do menu de três pontos ou do ícone de informações que aparece sobre os anúncios. O recurso vale para peças exibidas na Busca, no YouTube e no Google Discover , de acordo com o Google. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O My Ad Center já permitia bloquear ou denunciar anúncios e consultar dados sobre o anunciante ou o motivo pelo qual aquele anúncio apareceu para o usuário. Agora, o painel também informará se houve geração ou edição por IA na peça publicitária. Quando o anunciante usa as próprias ferramentas de IA generativa do Google para montar a campanha, a divulgação é ativada automaticamente . Se a criação ocorrer fora do ecossistema do Google, cabe ao anunciante marcar manualmente que utilizou IA em um novo controle disponibilizado pela empresa. O Google afirmou que não fará verificação própria para confirmar se um anúncio foi ou não gerado por IA, o que deixa a exatidão da informação dependente da declaração de quem contratou o espaço publicitário. Em alguns mercados, a legislação local pode obrigar que o rótulo apareça diretamente sobre o anúncio, e não apenas no painel de detalhes, segundo a empresa. A nova marcação não vem em formato de \"tarja\", é necessário procurá-la (Imagem: Reprodução/Google) Por que a mudança importa A IA generativa reduziu o custo e a complexidade de produz",
+      "lang": "pt",
+      "depts": [
+        "Marketing",
+        "Jurídico",
+        "Educação"
+      ]
+    },
     {
       "title": "OpenAI diz que GPT 5.6 é o modelo preferido para Microsoft Copilot 365 em meio a conversas sobre rompimento",
       "description": "A nova família de modelos da OpenAI continuará a impulsionar o conjunto de aplicativos de trabalho e produtividade da Microsoft.",
@@ -137,31 +259,6 @@
       ]
     },
     {
-      "title": "O novo recurso Claude da Anthropic está silenciosamente vendendo IA para você",
-      "description": "O novo painel Reflect de Claude não apenas visualiza como você usa a IA. Também reforça sutilmente o quanto o seu trabalho diário agora depende do chatbot da Anthropic.",
-      "url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
-      "publishedAt": "Thu, 09 Jul 2026 14:53:09 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "O novo painel Reflect de Claude não apenas visualiza como você usa a IA. Também reforça sutilmente o quanto o seu trabalho diário agora depende do chatbot da Anthropic.",
-      "lang": "en",
-      "depts": [
-        "RH",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Anthropic, OpenAI e SpaceX são maiores do que os últimos 25 anos de saídas de tecnologia",
-      "description": "Três grandes IPOs de IA deverão gerar mais valor do que todas as saídas apoiadas por capital de risco nos EUA desde 2000.",
-      "url": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
-      "publishedAt": "Thu, 09 Jul 2026 14:51:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
       "title": "Smartwatch bom e barato: qual modelo comprar em 2026?",
       "description": "Conheça os melhores relógios inteligentes com preço acessível e boas especificações para monitorar saúde, exercícios e esportes Smartwatch bom e barato: qual modelo comprar em 2026?",
       "url": "https://tecnoblog.net/guias/smartwatch-bom-e-barato/",
@@ -201,19 +298,6 @@
       ]
     },
     {
-      "title": "OpenAI lança novo modelo de voz para deixar ChatGPT mais humano e natural",
-      "description": "Família GPT-Live consegue ouvir e falar ao mesmo tempo. Pesquisas na web e tarefas de raciocínio são delegadas ao GPT-5.5. OpenAI lança novo modelo de voz para deixar ChatGPT mais humano e natural",
-      "url": "https://tecnoblog.net/noticias/openai-lanca-novo-modelo-de-voz-para-deixar-chatgpt-mais-humano-e-natural/",
-      "publishedAt": "Wed, 08 Jul 2026 17:00:50 +0000",
-      "image": "https://www.youtube.com/embed/EAN5Cj347PY",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Gestão"
-      ]
-    },
-    {
       "title": "GPT-5.6 Sol: OpenAI confirma lançamento da sua IA mais poderosa para todos",
       "description": "A OpenAI vai liberar nesta quinta-feira (9) o acesso público ao GPT-5.6 Sol , seu modelo de IA mais avançado até hoje, junto das versões Terra e Luna . O lançamento amplo chega depois de um impasse com o governo dos Estados Unidos, que havia pedido para a empresa restringir a distribuição do modelo ",
       "url": "https://canaltech.com.br/inteligencia-artificial/gpt-56-sol-openai-confirma-lancamento-da-sua-ia-mais-poderosa-para-todos/",
@@ -223,21 +307,6 @@
       "content": "A OpenAI vai liberar nesta quinta-feira (9) o acesso público ao GPT-5.6 Sol , seu modelo de IA mais avançado até hoje, junto das versões Terra e Luna . O lançamento amplo chega depois de um impasse com o governo dos Estados Unidos, que havia pedido para a empresa restringir a distribuição do modelo por preocupações com segurança nacional. A liberação foi, inicialmente, anunciada em junho, mas a OpenAI concordou em limitar o acesso a um grupo pequeno de parceiros \"confiáveis\", cuja participação foi compartilhada com o governo americano, de acordo com um post no blog da empresa. Agora, segundo a Axios, a administração Trump aprovou o lançamento amplo depois de testes adicionais e reuniões entre a OpenAI e autoridades do governo. A OpenAI também fez uma publicação no X nesta quarta-feira (8) para anunciar que o modelo será lançado amanhã. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday. We’re expanding preview access globally now. pic.twitter.com/Uk5HcfSc2e — OpenAI (@OpenAI) July 8, 2026 Disputa com o governo dos EUA Washington intensificou a fiscalização sobre lançamentos de modelos de IA avançados nas últimas semanas. A preocupação central é que essas tecnologias possam ser usadas por forças militares ou de inteligência de países como China e Rússia para acelerar ciberataques sofisticados contra sistemas interconectados e, muitas vezes, desatualizados. O presidente Donald Trump assinou em junho uma ordem executiva que cria uma estrutura voluntária para modelos de \"fronteira\". Por ela, desenvolvedores de IA podem oferecer esses modelos ao governo americano por até 30 dias antes de liberá-los a parceiros de confiança. A OpenAI afirmou, em comunicado publicado no site da empresa, discordar de que esse tipo de processo de acesso governamental vire padrão de longo prazo. Segundo a empresa, o modelo rest",
       "lang": "pt",
       "depts": [
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Meta AI, WhatsApp e Instagram ganham novo modelo de IA para gerar imagens",
-      "description": "Muse Image é o primeiro modelo de imagens e o segundo modelo de IA desenvolvido pelo novo laboratório de superinteligência da Meta. Meta AI, WhatsApp e Instagram ganham novo modelo de IA para gerar imagens",
-      "url": "https://tecnoblog.net/noticias/meta-ai-whatsapp-e-instagram-ganham-novo-modelo-de-ia-para-gerar-imagens/",
-      "publishedAt": "Tue, 07 Jul 2026 22:52:37 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/04_text_prompt_carousel-03-edited.webp",
-      "source": "Tecnoblog",
-      "content": "Muse Image estará disponível na Meta AI (imagem: divulgação) Resumo A Meta lançou o Muse Image, um modelo de IA para gerar imagens, desenvolvido pelo Meta Superintelligence Lab. O Muse Image será usado na Meta AI, WhatsApp e Instagram para gerar imagens e aplicar efeitos, e também estará disponível para anunciantes como parte do serviço Advantage Plus. A ferramenta permite incorporar fotos de contas públicas do Instagram e ajustar elementos, mudar estilos e criar variações de alta qualidade. A Meta anunciou, nesta terça-feira (07/07), o lançamento do modelo de inteligência artificial Muse Image. Ele deverá ser o responsável por gerar imagens na Meta AI, bem como executar algumas tarefas no WhatsApp e no Instagram. Essa é a primeira tecnologia do tipo desenvolvida pelo Meta Superintelligence Lab, braço da gigante das redes sociais dedicado à inteligência artificial e chefiado por Alexandr Wang. Em abril, a divisão fez sua estreia com o Muse Spark, de geração de texto. O que o Muse Image é capaz de fazer? Segundo a Meta, o Muse Image fica à frente do Nano Banana 2, do Google, em diversos benchmarks, ficando atrás apenas do gerador de imagens do ChatGPT, o GPT Image 2. O novo modelo estará disponível via Meta AI para geração de imagens. Antes, a empresa contava com o Midjourney para essa tarefa. No WhatsApp e no Instagram, ele também poderá ser usado para aplicar mais de 30 efeitos. Efeitos para imagens no WhatsApp também vão usar o Muse Image (imagem: divulgação) Na Meta AI, usuários poderão incorporar fotos de contas públicas do Instagram às suas criações, marcando os perfis donos das imagens usadas. Vale ter atenção a isso: o recurso vem ativado por padrão. Se você tem uma conta sem cadeado e não gostaria de ver suas fotos editadas por outras pessoas, é bom entrar nas configurações e desativar esse uso. Facebook e Messenger ganharão acesso ao Muse Image futuramente. A Meta também prepara um modelo de vídeo chamado Muse Video, ainda sem previsão de lançamento. Ferramenta estará disponível em pacote para anunciantes A Meta não quer que o Muse Image seja apenas um recurso para redes sociais. A empresa também aposta no modelo como uma ferramenta para anunciantes. Ele estará no serviço Advantage Plus, serviço da companhia voltado ao mercado publicitário, que deve chegar nas próximas semanas. “O Muse Image traz raciocínio nativo ao processo criativo para ajustar elementos, mudar estilos e criar variações com base no material original, chegando em menos iterações a versões de alta qualidade e alinhadas com a marca”, diz a Meta em um texto dedicado aos anunciantes. Com informações do Axios e da CNBC . Meta AI, WhatsApp e Instagram ganham novo modelo de IA para gerar imagens",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Comercial",
         "Gestão"
       ]
     },
@@ -480,74 +549,6 @@
       "content": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três semanas depois de o governo ter suspendido o acesso aos dois sistemas por risco à segurança nacional. Segundo a Reuters, o acesso ao Fable 5 será restaurado a partir desta quarta-feira (1º) , ficando disponível ao público em geral. Já o Mythos 5, direcionado à detecção de vulnerabilidades de cibersegurança, será liberado para um grupo maior de parceiros domésticos e internacionais do programa Glasswing, da Anthropic. Como começou a restrição Em 12 de junho, o governo americano incluiu os dois modelos em sua lista de tecnologias sob controle de exportação , impedindo o acesso de estrangeiros sem aprovação especial . Como a Anthropic não tinha como verificar a nacionalidade dos usuários em tempo real, a companhia optou por suspender o Fable 5 e o Mythos 5 para todo mundo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A decisão, segundo a Reuters, partiu de uma denúncia de pesquisadores da Amazon , que encontraram uma forma de contornar as proteções do Fable 5. Com essa brecha, o modelo passou a identificar falhas de software e, em um dos casos registrados, chegou a gerar código demonstrando como explorar uma vulnerabilidade. No último domingo (28), o governo abriu uma primeira exceção , permitindo o uso do Mythos 5 por organizações selecionadas e por funcionários da própria Anthropic, incluindo estrangeiros vinculados a esses grupos. O Fable 5 seguia fora do ar até esta terça. O Claude é, atualmente, a terceira IA mais utilizada no mundo (Imagem: Marcelo Fischer/Canaltech) Por que são modelos tão perigosos O Mythos 5 concentra as capacidades que mais preocupam o governo american",
       "lang": "pt",
       "depts": []
-    },
-    {
-      "title": "Português é o 3º idioma mais usado no ChatGPT",
-      "description": "O português é agora o terceiro idioma mais usado no ChatGPT , segundo dados da OpenAI divulgados no relatório OpenAI Signals. Ele fica atrás apenas do inglês e do espanhol. O levantamento também mostra que, pela primeira vez, mais da metade dos usuários ativos usa o ChatGPT principalmente em idiomas",
-      "url": "https://canaltech.com.br/inteligencia-artificial/portugues-e-o-3o-idioma-mais-usado-no-chatgpt/",
-      "publishedAt": "Wed, 01 Jul 2026 09:27:36 -0300",
-      "image": "https://t.ctcdn.com.br/elWRGd7DozFcUzbnLeKmr45Ecyw=/700x394/smart/i1137007.png",
-      "source": "Canaltech IA",
-      "content": "O português é agora o terceiro idioma mais usado no ChatGPT , segundo dados da OpenAI divulgados no relatório OpenAI Signals. Ele fica atrás apenas do inglês e do espanhol. O levantamento também mostra que, pela primeira vez, mais da metade dos usuários ativos usa o ChatGPT principalmente em idiomas diferentes do inglês. Em quarto, quinto e sexto lugar aparecem, respectivamente, o francês, o indonésio e o árabe. A análise mede as interações de usuários nos planos individuais do ChatGPT , incluindo as assinaturas Free (gratuito), Go, Plus e Pro. Além disso, os idiomas uzbeque, cazaque e birmanês foram os que mais cresceram em participação desde julho de 2023. O relatório também mostra que usuários mais antigos usam o ChatGPT com mais frequência. Após seis meses na plataforma, eles enviam, em média, 50% mais mensagens por dia e realizam o dobro de tarefas diferentes em relação ao início do uso. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Português é o terceiro idioma mais usado no ChatGPT. (Imagem: Divulgação/OpenAI) Adoção do ChatGPT cresceu em todas as regiões O relatório também mostra que o uso do ChatGPT cresceu em todos os continentes desde julho de 2023, deixando a base de usuários mais global e diversa. O crescimento foi mais rápido na África, seguida pela Ásia, América do Sul, Europa, América do Norte e Oceania. Segundo a OpenAI, o crescimento foi mais rápido em países com menor Índice de Desenvolvimento Humano (IDH) , que registraram o maior aumento no número de usuários ativos por semana. O levantamento também aponta mudanças no perfil dos usuários. Pessoas com nomes tipicamente femininos representam a maior parte do uso global do ChatGPT. O Brasil, Colômbia, Polônia e Namíbia estão entre os países onde esse grupo supera os usuários com nomes tipicamente masculinos. Já Paquistão, Bangladesh, Angola, República Democrática do Congo e Mali têm a maior presença de",
-      "lang": "pt",
-      "depts": [
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Novo sistema usará IA para \"traduzir\" o que o seu corpo realmente precisa",
-      "description": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30",
-      "url": "https://canaltech.com.br/inteligencia-artificial/novo-sistema-usara-ia-para-traduzir-o-que-o-seu-corpo-realmente-precisa/",
-      "publishedAt": "Wed, 01 Jul 2026 08:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/4BlAeU73zGDl24KwhTRIfUE4ZkA=/700x394/smart/i1138901.png",
-      "source": "Canaltech IA",
-      "content": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30) e foi divulgado pelo site Android Police. A empresa afirma que dispositivos vestíveis já evoluíram na coleta de dados, mas ainda falham em explicar o significado desses números para quem os usa. Gee Gu, cofundador da Vilo ao lado de Andy Xu, descreveu o Signal OS como um sistema que ajuda o usuário a entender o que mudou no corpo , priorizar o que importa e transformar sinais corporais em suporte real. Como funciona o Signal OS O sistema reúne quatro frentes principais. A primeira é o Signals , um recurso de cartões que aponta alterações nos indicadores de saúde e sugere o que fazer a respeito. Já o Pulse funciona como um painel com o histórico de dados e tendências ao longo do tempo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Há ainda o Vibes , um chatbot com IA para tirar dúvidas sobre as informações coletadas, e uma camada dedicada à saúde da mulher . A Vilo descreve o Signal OS como uma plataforma \"ring-first\", ou seja, pensada primeiro para anéis inteligentes, e ela vai estrear no próprio anel da empresa. A companhia evita o terreno regulatório mais rígido reservado a dispositivos médicos. Segundo o comunicado oficial, a proposta do sistema é oferecer \"orientação de bem-estar e autoconhecimento, não diagnóstico ou tratamento\", o que dispensa aprovação de agências como a FDA, órgão regulador dos Estados Unidos. Fitbit já segue caminho parecido com o AI Coach e o Fitbit Air, usando IA para interpretar pontuações sem depender desse tipo de aval. Possível interface do app dedicado ao sistema, presente no vídeo de divulgação (Imagem: Reprodução/YouTube/VILO) Anel da Vilo",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Comercial",
-        "Saúde",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Caso do ChatGPT: o que a IA faz quando alguém relata um crime a ela",
-      "description": "Um agricultor de 36 anos foi preso em São Gabriel da Palha, no Espírito Santo, no dia 19 de junho, suspeito de planejar a morte do próprio filho, de 8 anos, para deixar de pagar pensão alimentícia. O plano foi identificado pela OpenAI, criadora do ChatGPT, a partir de mensagens trocadas pelo suspeit",
-      "url": "https://canaltech.com.br/inteligencia-artificial/caso-do-chatgpt-o-que-a-ia-faz-quando-alguem-relata-um-crime-a-ela/",
-      "publishedAt": "Wed, 01 Jul 2026 07:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/Q9uqQatidyu4GTZGOKTDp0XrwdA=/700x394/smart/i1138899.png",
-      "source": "Canaltech IA",
-      "content": "Um agricultor de 36 anos foi preso em São Gabriel da Palha, no Espírito Santo, no dia 19 de junho, suspeito de planejar a morte do próprio filho, de 8 anos, para deixar de pagar pensão alimentícia. O plano foi identificado pela OpenAI, criadora do ChatGPT, a partir de mensagens trocadas pelo suspeito com a ferramenta , e repassado ao FBI — Polícia Federal dos Estados Unidos —, que acionou o Ministério da Justiça e a Polícia Civil capixaba. 🎧Ouça o Podcast Canaltech no Spotify 🎧Ouça o Podcast Canaltech na Deezer 🎧Ouça o Podcast Canaltech no Apple Podcasts O caso ganhou repercussão nacional e reacendeu uma dúvida recorrente sobre o papel da inteligência artificial: até que ponto um chatbot decide, denuncia ou apenas devolve ao usuário aquilo que ele já trazia consigo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - \"Eu não acredito que a IA tenha feito denúncia, mas o fato é que a IA não tem valor moral. Ela vai te sugerir que você tome uma ação A, B ou C\", afirma Igor Baliberdin, designer estratégico, fundador da consultoria LOOOP e com mais de 20 anos de experiência na interseção entre design, negócios e tecnologia. O especialista afirma que ferramentas como ChatGPT, Gemini e Claude trabalham com análise probabilística . Ou seja, organizam cenários a partir do que o usuário relata, sem assumir a decisão final. O risco, segundo ele, está em transformar esse organizador de raciocínio em substituto de uma conversa com outra pessoa. Vieses herdados e responsabilidade dividida Baliberdin lembra que cada modelo de IA carrega o ponto de vista de quem o desenvolveu . \"Elas não são só seres que surgem do nada. Elas surgem a partir de um ponto de vista de humanidade, de sociedade\", diz. Essa diferença de comportamento entre ferramentas, segundo ele, também aparece em testes recentes que colocam agentes de diferentes IAs para interagir em ambientes simulados. Sobre quem responde ",
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "Google lança IA que cria imagens em 4 segundos e edita vídeos por voz",
-      "description": "O Google anunciou dois novos modelos de inteligência artificial capazes de acelerar a criação de imagens e vídeos: o Nano Banana 2 Lite , que gera imagens em até 4 segundos, e o Gemini Omni Flash , que permite criar e editar vídeos usando comandos de voz ou texto. Segundo a empresa, o Nano Banana 2 ",
-      "url": "https://canaltech.com.br/inteligencia-artificial/google-lanca-ia-que-cria-imagens-em-4-segundos-e-edita-videos-por-voz/",
-      "publishedAt": "Tue, 30 Jun 2026 21:05:00 -0300",
-      "image": "https://t.ctcdn.com.br/EjoC2BgBPs0m6x8imu4sGDkEYDk=/700x394/smart/i1138889.png",
-      "source": "Canaltech IA",
-      "content": "O Google anunciou dois novos modelos de inteligência artificial capazes de acelerar a criação de imagens e vídeos: o Nano Banana 2 Lite , que gera imagens em até 4 segundos, e o Gemini Omni Flash , que permite criar e editar vídeos usando comandos de voz ou texto. Segundo a empresa, o Nano Banana 2 Lite foi feito para ser rápido e eficiente em grande escala. Ele cria imagens a partir de comandos de texto em poucos segundos, com foco em respostas rápidas, imagens consistentes e textos mais legíveis dentro das imagens. Além disso, o modelo de imagem tem um custo menor que suas versões anteriores. Por exemplo, o Nano Banana 2 Lite custa cerca de US$ 0,034 por imagem de resolução 1K comparado ao Nano Banana 2 que custa US$ 0,067. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Já o Gemini Omni Flash leva a IA para a criação de vídeos . O modelo permite gerar vídeos curtos e editar cenas usando comandos de texto ou voz. Também combina texto, imagens e vídeos para manter a consistência do conteúdo e facilitar mudanças de cena ou estilo. Além disso, ele usa o conhecimento de mundo do Gemini , incluindo lógica narrativa e conceitos de áreas, como história e biologia, para criar vídeos coerentes e realistas. Novos modelos de IA do Google criam imagens em segundos e permitem editar vídeos por voz. (Imagem: Viviane França/Canaltech) Os dois sistemas usam a marca d’água SynthID para identificar conteúdos feitos por IA e funcionam de forma integrada . O usuário pode criar uma imagem no Nano Banana 2 Lite e usá-la como base no Gemini Omni Flash para transformá-la em um vídeo curto. Nesse fluxo, desenvolvedores podem utilizar a Interactions API , que mantém o histórico e o contexto da sessão, permitindo até três edições sequenciais sem perda do conteúdo gerado. Apesar dos avanços, o Gemini Omni Flash ainda tem limitações . Ele gera vídeos de até 10 segundos, com versões mais longas prev",
-      "lang": "pt",
-      "depts": [
-        "Financeiro",
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Claude lança Sonnet 5, modelo gratuito quase tão bom quanto o pago",
-      "description": "A Anthropic lançou nesta terça-feira (30) o Claude Sonnet 5 , novo modelo de inteligência artificial que passa a ser a opção padrão tanto no plano gratuito quanto no Pro do chatbot Claude. A empresa descreve a versão como a mais \"agente\" da linha Sonnet, com desempenho próximo ao do Opus 4.8 , model",
-      "url": "https://canaltech.com.br/inteligencia-artificial/claude-lanca-sonnet-5-modelo-gratuito-quase-tao-bom-quanto-o-pago/",
-      "publishedAt": "Tue, 30 Jun 2026 17:43:51 -0300",
-      "image": "https://t.ctcdn.com.br/4lB-ex4rSGJFX2i-Krfo1u0aESM=/700x394/smart/i1138883.png",
-      "source": "Canaltech IA",
-      "content": "A Anthropic lançou nesta terça-feira (30) o Claude Sonnet 5 , novo modelo de inteligência artificial que passa a ser a opção padrão tanto no plano gratuito quanto no Pro do chatbot Claude. A empresa descreve a versão como a mais \"agente\" da linha Sonnet, com desempenho próximo ao do Opus 4.8 , modelo mais caro reservado aos planos pagos superiores. O lançamento segue uma tendência também adotada por OpenAI e Google, que recentemente atualizaram os modelos padrão de seus planos gratuitos para versões mais avançadas. O que muda em relação ao Sonnet 4.6 Segundo a Anthropic, o Sonnet 5 representa uma melhoria expressiva sobre o Sonnet 4.6 em tarefas de raciocínio, uso de ferramentas, programação e trabalho de conhecimento. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - No teste de codificação SWE-bench Pro, o novo modelo atingiu 63,2% de acerto, ante 58,1% do antecessor. No Terminal-Bench 2.1, o salto foi de 67% para 80,4%. O ganho aparece também em avaliações de raciocínio multidisciplinar. No Humanity's Last Exam, com uso de ferramentas, o Sonnet 5 chegou a 57,4%, contra 46,8% do Sonnet 4.6. Em uso de computador, medido pelo OSWorld-Verified, a pontuação subiu de 78,5% para 81,2%. Apesar da evolução, o Sonnet 5 ainda fica atrás do Opus 4.8 na maioria dos testes divulgados pela empresa. A distância, porém, diminuiu bastante em relação às gerações anteriores, o que sustenta o discurso da Anthropic de que o novo modelo reduz o hiato entre as duas famílias. Testadores também relataram mudanças de comportamento. De acordo com a Anthropic, o Sonnet 5 costuma concluir tarefas complexas até o fim, algo que versões anteriores da linha Sonnet interrompiam antes do previsto. O modelo também passou a revisar o próprio resultado sem que isso seja solicitado. Nos testes divulgados, o Sonnet 5 está muito próximo do Opus 4.8, que é pago (Imagem: Divulgação/Anthropic) Preço e disponibilida",
-      "lang": "pt",
-      "depts": [
-        "RH",
-        "Gestão"
-      ]
     }
   ]
 }
