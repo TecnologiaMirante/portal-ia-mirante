@@ -1,7 +1,77 @@
 {
-  "updatedAt": "2026-07-12T11:03:48.712Z",
+  "updatedAt": "2026-07-13T12:25:22.770Z",
   "count": 40,
   "articles": [
+    {
+      "title": "Waze ganha navegação para motos e busca por voz com Gemini",
+      "description": "Atualização integra recursos para motociclistas, comandos por voz com IA e rotas personalizadas. Brasil está entre os primeiros países a receber as novidades. Waze ganha navegação para motos e busca por voz com Gemini",
+      "url": "https://tecnoblog.net/noticias/waze-ganha-navegacao-para-motos-e-busca-por-voz-com-gemini/",
+      "publishedAt": "Mon, 13 Jul 2026 09:00:00 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/modo-moto-waze.png",
+      "source": "Tecnoblog",
+      "content": "Navegação foi personalizada para motociclistas (imagem: divulgação) Resumo Waze lançou um modo para motociclistas, que deve fornecer estimativas de chegada mais precisas. O app também introduziu novos recursos de IA com o Google Gemini, que permitem conversar para buscar destinos e relatar mudanças no mapa. Recursos começam a ser liberados hoje para Android, iPhone, Android Auto e Apple CarPlay. O Waze agora tem um modo exclusivo para motociclistas. A partir desta segunda-feira (13/07), uma navegação desenvolvida para veículos de duas rodas estará disponível no app, além de rotas personalizadas e novos recursos de inteligência artificial com o Google Gemini. O Brasil está entre os primeiros países a receber as novidades. Essa maior integração com o Gemini, no entanto, não deve mudar o funcionamento das rotas. Durante a coletiva acompanhada pelo Tecnoblog , o vice-presidente e gerente-geral do Waze, Gai Berkovich, reforçou que a IA não define os percursos e nem avalia se um caminho é seguro. Segundo o executivo, essas decisões continuam baseadas em relatos da comunidade e nos modelos próprios de machine learning . Berkovich também revelou que o Brasil abriga a maior comunidade do Waze na América Latina e está entre os três maiores mercados do aplicativo no mundo, com quase 600 milhões de viagens por mês. Modo Moto Segundo o Waze, o Modo Moto foi desenvolvido para oferecer uma navegação mais específica. “As necessidades de quem anda de moto são muito diferentes das de quem dirige um carro”, afirmou Berkovich. Esse novo recurso considera atalhos e restrições exclusivos para motociclistas, oferecendo estimativas de chegada mais precisas. A troca para esse perfil será por um atalho disponível na tela inicial do app. Em contrapartida, os motociclistas receberão mais alertas de segurança. Além de avisos sobre buracos, lombadas e pista escorregadia, o app passa a alertar sobre travessias elevadas de pedestres, pontes estreitas, fim de faixa e fim de acostamento.&nbsp; A plataforma também inseriu um recurso de navegação personalizada, que se baseia no histórico de viagens anteriores. De acordo com o Waze, se você prefere dirigir em rodovias, verá essas opções primeiro.&nbsp; Gemini como assistente Gemini ajuda a atualizar mapas e encontrar destinos (imagem: divulgação) O Waze anunciou a integração com o Gemini no ano passado . Agora, as novidades chegam ao país com dois novos recursos, ambos baseados em comandos de voz. Waze MapMate : permite relatar mudanças no mapa, como novas ruas, bloqueios ou alterações de conversão, usando linguagem natural. A IA organiza essas informações e as encaminha para validação da comunidade. Para usar o recurso, basta tocar em um botão e iniciar a conversa, mas a empresa vai avaliar a demanda para incluir uma palavra de ativação no futuro, como Ok, Google . Waze Search Mate : um assistente para buscar destinos em tom de conversa. Em vez de pesquisar por palavras-chave, o motorista poderá fazer pedidos como encontre uma cafeteria aberta agora ou procure um posto com combustível barato . Esse recurso chega em fase beta. Waze reduz instruções por voz Modo Menos Falante reduz instruções durante a navegação (imagem: divulgação) O Waze também ganhou o modo de voz Menos Falante, que reduz a quantidade de instruções durante a navegação. Ele mantém apenas os avisos essenciais.&nbsp; O motorista continuará recebendo alertas sobre conversões, mudanças de faixa e situações de risco, mas com menos interrupções para ouvir suas músicas durante a viagem. Esse recurso chega primeiro ao Android e deve ser liberado nos iPhones até agosto. Já as demais novidades começam a ser liberadas simultaneamente para Android, iPhone, Android Auto e Apple CarPlay. O lançamento também acontece no México, Argentina, Peru e Colômbia. Waze ganha navegação para motos e busca por voz com Gemini",
+      "lang": "pt",
+      "depts": [
+        "Educação"
+      ]
+    },
+    {
+      "title": "8 prompts para conversar com voz no ChatGPT",
+      "description": "O ChatGPT ganhou uma nova geração de recursos de voz com o GPT-Live , que deixa as conversas com a inteligência artificial mais naturais e próximas de um diálogo real. A tecnologia consegue acompanhar interrupções, responder com mais fluidez e manter o contexto da conversa sem exigir que o usuário e",
+      "url": "https://canaltech.com.br/inteligencia-artificial/8-prompts-para-conversar-com-voz-no-chatgpt/",
+      "publishedAt": "Sun, 12 Jul 2026 20:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/dZNITw6rBxnUm_Quv0YIawc78O8=/700x394/smart/i1142147.png",
+      "source": "Canaltech IA",
+      "content": "O ChatGPT ganhou uma nova geração de recursos de voz com o GPT-Live , que deixa as conversas com a inteligência artificial mais naturais e próximas de um diálogo real. A tecnologia consegue acompanhar interrupções, responder com mais fluidez e manter o contexto da conversa sem exigir que o usuário espere a IA terminar de falar. A atualização também amplia o uso de recursos visuais durante a conversa . Pelo modo de voz, o ChatGPT pode apresentar informações, como mapas, resultados esportivos, previsão do tempo e outros dados em cards na tela. Além disso, os modelos de raciocínio ajudam a resolver tarefas mais complexas, como analisar problemas, estudar assuntos difíceis ou organizar projetos. GPT-Live deixa o modo de voz do ChatGPT mais natural, com respostas em tempo real e novos recursos visuais durante a conversa. (Imagem: André Magalhães/Canaltech) 8 comandos para usar o GPT-Live A seguir, veja oito prompts para conversar por voz com o ChatGPT: - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Planejar uma viagem Saber a previsão do tempo Aprender sobre temas variados Pensar em diferentes soluções para um problema Encontrar restaurantes Se atualizar sobre o jogo do seu time Estudar a pronúncia de inglês e outros idiomas Obter resumos rápidos 1. Planejar uma viagem O GPT-Live pode ajudar a organizar uma viagem enquanto você conversa por voz sobre suas preferências. É possível ajustar o roteiro no meio da conversa, trocar destinos ou pedir novas opções conforme o orçamento e o tempo disponível. Com o apoio de recursos visuais, a IA também consegue mostrar informações , como localização de pontos turísticos e detalhes importantes do planejamento. Exemplo de prompt: “Quero viajar para [destino]. Monte um roteiro com lugares para visitar, restaurantes, melhor época para ir e uma estimativa de gastos.” 2. Saber a previsão do tempo O modo de voz facilita consultas rápidas sobre",
+      "lang": "pt",
+      "depts": [
+        "Gestão",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Como criar apps com IA só conversando: 5 ideias para começar no Vibe Coding",
+      "description": "Uma nova geração de ferramentas de inteligência artificial permite criar aplicativos, sites e calculadoras sem escrever código, apenas descrevendo em texto o que se quer construir. O método, chamado de vibe coding, inverte a lógica tradicional de desenvolvimento: em vez de começar pela linguagem de ",
+      "url": "https://canaltech.com.br/inteligencia-artificial/como-criar-apps-com-ia-so-conversando-5-ideias-para-comecar-no-vibe-coding/",
+      "publishedAt": "Sun, 12 Jul 2026 16:30:00 -0300",
+      "image": "https://t.ctcdn.com.br/aHTdDHH-PuXftTvprxhaVfezbH0=/700x394/smart/i1142113.png",
+      "source": "Canaltech IA",
+      "content": "Uma nova geração de ferramentas de inteligência artificial permite criar aplicativos, sites e calculadoras sem escrever código, apenas descrevendo em texto o que se quer construir. O método, chamado de vibe coding, inverte a lógica tradicional de desenvolvimento: em vez de começar pela linguagem de programação, o usuário começa pela intenção. Plataformas como Claude com Artifacts , Replit Agent , Lovable e Bolt.new transformam essas descrições em interface, lógica de funcionamento e, dependendo do caso, banco de dados e publicação. Abaixo, o Canaltech preparou um guia de como começar a criar aplicativos com vibe coding, com exemplos práticos de prompts para utilizar. No texto, você confere: - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O que é vibe coding Planejamento antes de abrir a ferramenta de IA Qual ferramenta usar em cada projeto Passo a passo para criar um app com vibe coding Ideias de projeto para começar O que é vibe coding Vibe coding é o processo de criar software por meio de diálogo com uma IA . O usuário informa o que quer construir, quais regras o projeto deve seguir, qual aparência deseja e como a ferramenta deve se comportar. A inteligência artificial converte essas instruções em código e interface. Mas isso não elimina a necessidade de revisão . Projetos que lidam com pagamentos, dados sensíveis, login, informações de saúde ou de clientes exigem testes e checagem técnica antes de irem ao ar. Planejamento antes de abrir a ferramenta de IA A qualidade do pedido inicial é essencial para o bom resultado de um projeto criado por vibe coding. Quanto mais específico for o prompt, menos a IA precisa adivinhar sobre o funcionamento esperado do aplicativo. Um modelo simples de planejamento ajuda a organizar essas informações antes da primeira interação com a ferramenta. Ele funciona como um roteiro que reúne objetivo do projeto, público-alvo, dados de entrada, ",
+      "lang": "pt",
+      "depts": [
+        "Financeiro",
+        "Gestão"
+      ]
+    },
+    {
+      "title": "16 comandos para usar o Gemini no Google Maps",
+      "description": "O Google Maps está deixando de ser apenas um aplicativo de rotas para se tornar um assistente de viagem com ajuda do Gemini. Com o recurso “Perguntar ao Maps” , os usuários podem fazer perguntas mais complexas, encontrar lugares com características específicas e receber sugestões baseadas em informa",
+      "url": "https://canaltech.com.br/inteligencia-artificial/16-comandos-para-usar-o-gemini-no-google-maps/",
+      "publishedAt": "Sun, 12 Jul 2026 15:30:00 -0300",
+      "image": "https://t.ctcdn.com.br/jIaUTM2GHqOx0JMmNHJ3YeQ2qfM=/700x394/smart/i1141273.png",
+      "source": "Canaltech IA",
+      "content": "O Google Maps está deixando de ser apenas um aplicativo de rotas para se tornar um assistente de viagem com ajuda do Gemini. Com o recurso “Perguntar ao Maps” , os usuários podem fazer perguntas mais complexas, encontrar lugares com características específicas e receber sugestões baseadas em informações de vários locais. A integração também melhora a experiência durante a direção. O Gemini ajuda a encontrar informações sem precisar tocar no celular e o recurso Navegação Imersiva usa inteligência artificial para exibir detalhes em 3D de ruas, prédios, cruzamentos e elementos importantes do trajeto. Com comandos de voz , é possível pedir rotas alternativas, descobrir estabelecimentos próximos, consultar informações sobre locais e compartilhar o horário estimado de chegada. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O Gemini transforma o Google Maps em um assistente de viagem por meio de comandos de voz. (Imagem: Viviane França/Canaltech) 16 prompts para usar o Google Maps com Gemini Os comandos podem ser ativados dizendo “Ok Google” ou tocando no ícone do assistente no aplicativo do Google Maps. Navegação e rotas Você pode usar o Gemini para ajustar trajetos, prever o tempo de viagem e encontrar alternativas durante o percurso no Google Maps. Veja alguns exemplos de prompts: 1. \"Traçar rota para o trabalho evitando pedágios.\" 2. \"Quanto tempo vou demorar para chegar em casa com o trânsito atual?\" 3. \"Adicione uma parada em um posto de combustível no meu caminho.\" 4. \"Altere a rota para o caminho mais ecológico.\" Descoberta e recomendações O assistente ajuda a encontrar lugares com filtros específicos , como tipo de estabelecimento, localização e avaliações. Veja exemplos: 5. \"Encontre cafeterias bem avaliadas abertas agora perto de mim.\" 6. \"Gere uma lista de restaurantes italianos românticos no centro da cidade.\" 7. \"Onde tem um estacionamento público perto do meu des",
+      "lang": "pt",
+      "depts": [
+        "Educação"
+      ]
+    },
+    {
+      "title": "Como impedir que o Gemini use seus dados para treinar IA",
+      "description": "O Gemini, assim como outras inteligências artificiais generativas, usa dados fornecidos pelos usuários para aprimorar seus modelos de IA . As conversas feitas no chatbot, arquivos enviados e outros conteúdos compartilhados podem ser analisados para melhorar a qualidade das respostas e o funcionament",
+      "url": "https://canaltech.com.br/inteligencia-artificial/como-impedir-que-o-gemini-use-seus-dados-para-treinar-ia/",
+      "publishedAt": "Sun, 12 Jul 2026 14:30:00 -0300",
+      "image": "https://t.ctcdn.com.br/c92TVkOI7wQC41OlpJQENH1HJ_k=/700x394/smart/i1127127.png",
+      "source": "Canaltech IA",
+      "content": "O Gemini, assim como outras inteligências artificiais generativas, usa dados fornecidos pelos usuários para aprimorar seus modelos de IA . As conversas feitas no chatbot, arquivos enviados e outros conteúdos compartilhados podem ser analisados para melhorar a qualidade das respostas e o funcionamento da tecnologia. Esse processo ajuda o Google a treinar e ajustar seus modelos de inteligência artificial, mas também envolve o uso de informações pessoais fornecidas durante a interação com o Gemini. Por isso, a empresa oferece opções para controlar como esses dados são utilizados. Nas configurações do chatbot, é possível desativar o armazenamento de atividades e impedir que novas conversas sejam usadas para aprimorar os serviços de IA. Também existe a opção de usar conversas temporárias, que não entram no processo de treinamento com revisão humana. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O Gemini usa conversas e conteúdos compartilhados pelos usuários para aprimorar seus modelos de IA (Imagem: Viviane França/Canaltech) Quais dados são usados para treinar IA? Durante o uso do Gemini, o Google pode coletar diferentes informações para melhorar seus modelos de inteligência artificial. Entre os dados que podem ser utilizados estão: Conversas com o chatbot : comandos enviados por texto ou voz, pedidos feitos ao Gemini e respostas geradas pela IA; Conteúdos compartilhados : arquivos, fotos, vídeos, documentos e capturas de tela enviados durante as conversas; Interações com o Gemini Live : transcrições, gravações de áudio, vídeo e compartilhamento de tela em conversas em tempo real; Feedback dos usuários : avaliações sobre as respostas e informações relacionadas aos comentários enviados; Dados de contexto : inclui localização aproximada, configurações do dispositivo e dados de serviços conectados; Recursos de personalização : informações salvas na memória do Gemini, Gems e ou",
+      "lang": "pt",
+      "depts": [
+        "Marketing",
+        "Comercial",
+        "Gestão",
+        "Educação"
+      ]
+    },
     {
       "title": "Rival do Pinterest com IA: conheça as principais funções do Mixboard, do Google",
       "description": "O Google Mixboard é um experimento do Google Labs que usa inteligência artificial para criar quadros de inspiração e organizar ideias visualmente. A ferramenta lembra o Pinterest, mas aposta na IA generativa para criar, editar e combinar imagens a partir de comandos em linguagem natural. Diferente d",
@@ -478,80 +548,6 @@
       "lang": "pt",
       "depts": [
         "Gestão"
-      ]
-    },
-    {
-      "title": "Use o ChatGPT para descobrir talentos ocultos e transformar a sua carreira",
-      "description": "O ChatGPT pode ajudar na autoanálise e na descoberta de talentos ocultos por meio de uma conversa guiada. Nesse processo, o usuário responde perguntas sobre carreira e vida pessoal, e a IA identifica padrões de comportamento, transformando essas informações em pontos fortes e sugestões para a vida p",
-      "url": "https://canaltech.com.br/inteligencia-artificial/use-o-chatgpt-para-descobrir-talentos-ocultos-e-transformar-a-sua-carreira/",
-      "publishedAt": "Sat, 04 Jul 2026 18:05:00 -0300",
-      "image": "https://t.ctcdn.com.br/ZYG6Fut2RaMaLKaCUk5JQX-psxM=/700x394/smart/i1119851.png",
-      "source": "Canaltech IA",
-      "content": "O ChatGPT pode ajudar na autoanálise e na descoberta de talentos ocultos por meio de uma conversa guiada. Nesse processo, o usuário responde perguntas sobre carreira e vida pessoal, e a IA identifica padrões de comportamento, transformando essas informações em pontos fortes e sugestões para a vida profissional. Como usar o ChatGPT para revisar currículo, LinkedIn e carta de apresentação 6 prompts do ChatGPT para criar apresentações no trabalho e faculdade Para isso, é importante responder as perguntas da IA com sinceridade e com o máximo de detalhes possível, pois, assim, será mais fácil identificar padrões, pontos fortes e habilidades que podem estar sendo subestimadas. Como usar o ChatGPT para descobrir talentos ocultos? Nesse processo, o ChatGPT não entrega respostas prontas. Ele funciona como um guia de reflexão . Uma única pergunta feita pela IA já é suficiente para iniciar uma sequência de outras questões mais profundas sobre sua trajetória, seus hábitos de trabalho e os padrões que se repetem na sua forma de agir. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A partir disso, a IA conduz uma espécie de entrevista guiada . Ela começa a explorar experiências, decisões e momentos marcantes, ajudando a organizar informações que normalmente ficam espalhadas na memória. Um exemplo de prompt para esse tipo de análise é: “Aja como um coach de pontos fortes e psicólogo comportamental. Faça 15 perguntas sobre minha carreira, hobbies, relacionamentos, desafios, conquistas e momentos em que me senti mais energizado(a). Depois que eu responder a todas, identifique 10 pontos fortes que posso estar subestimando. Para cada ponto forte, explique com base nas minhas respostas, mostre como ele aparece no meu dia a dia e indique formas práticas de aplicar isso na minha carreira e vida pessoal.” O ChatGPT pode ser usado como ferramenta de autoanálise para identificar talentos ocultos.",
-      "lang": "pt",
-      "depts": [
-        "RH",
-        "Gestão",
-        "Educação"
-      ]
-    },
-    {
-      "title": "12 prompts do Gemini para pesquisar, comparar e comprar um celular novo",
-      "description": "Comprar produtos de tecnologia deveria ser simples, mas quase nunca é. Você entra querendo só escolher um celular e, quando percebe, já está preso em abas, reviews que dizem coisas opostas, fichas técnicas cheias de números difíceis de comparar e promoções que aparecem e somem o tempo todo. Vale com",
-      "url": "https://canaltech.com.br/inteligencia-artificial/prompts-gemini-pesquisar-comparar-comprar-celular-novo/",
-      "publishedAt": "Sat, 04 Jul 2026 16:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/u-ApvEXeczP3CmhwQ0AK7cHkEGs=/700x394/smart/i1132313.png",
-      "source": "Canaltech IA",
-      "content": "Comprar produtos de tecnologia deveria ser simples, mas quase nunca é. Você entra querendo só escolher um celular e, quando percebe, já está preso em abas, reviews que dizem coisas opostas, fichas técnicas cheias de números difíceis de comparar e promoções que aparecem e somem o tempo todo. Vale comprar celular com 256 GB ou 512 GB hoje? Veja cenário real Celular usado: como avaliar o aparelho em 8 passos e saber se vale a pena compra No meio disso tudo, fica a sensação de que sempre falta alguma informação importante e que decidir “certo” virou mais cansativo do que deveria. É justamente aqui que o Gemini pode ajudar a organizar esse caos. A ideia deste guia é te mostrar como transformar essa busca em algo mais simples e guiado . Para isso, você pode dividir o caminho em quatro etapas: entender a categoria, comparar opções, analisar preço e só então decidir com mais segurança. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Ao longo do texto, vamos usar como exemplo alguém procurando um celular entre R$ 2.000 e R$ 2.500, mas o mesmo método funciona para notebooks, TVs, fones, consoles e outros eletrônicos do dia a dia. A seguir, confira: Etapa 1: Pesquisa de categoria Etapa 2: Comparação técnica Etapa 3: Busca de preço e custo-benefício Etapa 4: Decisão final Etapa 1: Pesquisa de categoria Antes de olhar modelo, marca ou promoção, vale dar um passo atrás e entender o cenário. É aqui que você começa a enxergar o que realmente existe dentro do seu orçamento . Nesse momento, a ideia não é escolher o modelo ainda, mas sim montar uma primeira lista de opções confiáveis para não ficar perdido depois. Nesta etapa, veja: 1. Panorama da categoria 2. Perfil de uso 3. Quais critérios usar 1. Panorama da categoria Se você ainda não sabe quais celulares fazem sentido na faixa de R$ 2.000 a R$ 2.500, o primeiro passo é pedir uma visão geral do mercado. O Gemini pode organizar isso sep",
-      "lang": "pt",
-      "depts": [
-        "Comercial"
-      ]
-    },
-    {
-      "title": "IA pode destruir a bateria do seu celular; veja como resolver",
-      "description": "A inteligência artificial está cada vez mais presente nos smartphones, sendo integrada ao sistema e a diversos aplicativos para executar tarefas, como resumos de notificações, edição de fotos, sugestões personalizadas, além de atuar como assistentes de voz avançados. 15 recursos secretos do Apple In",
-      "url": "https://canaltech.com.br/inteligencia-artificial/ia-pode-destruir-a-bateria-do-seu-celular-veja-como-resolver/",
-      "publishedAt": "Sat, 04 Jul 2026 12:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/ZHTeRLBEvZ9V6ryjoDtw8E9DI2E=/700x394/smart/i1086691.jpeg",
-      "source": "Canaltech IA",
-      "content": "A inteligência artificial está cada vez mais presente nos smartphones, sendo integrada ao sistema e a diversos aplicativos para executar tarefas, como resumos de notificações, edição de fotos, sugestões personalizadas, além de atuar como assistentes de voz avançados. 15 recursos secretos do Apple Intelligence que a Apple \"escondeu\" Qual celular tem a melhor IA para tirar pessoas indesejadas das suas fotos? Apesar de trazer mais praticidade no dia a dia, isso tem um custo invisível: a necessidade de processamento constante . No próprio aparelho ou na nuvem, essas ferramentas permanecem ativas em segundo plano e podem consumir energia de forma contínua, o que acaba com a bateria sem que o usuário perceba. A seguir, tire suas dúvidas sobre: - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Por que a IA consome tanta energia? Como ajustar a IA no iPhone para economizar bateria? Como reduzir o consumo de IA no Android? Como ter certeza que a IA é realmente o problema? Por que a IA consome tanta energia? A IA nos celulares funciona de forma diferente dos aplicativos tradicionais. Ela não é ativada apenas quando o usuário abre um app, ela permanece parcialmente ativa o tempo todo para realizar tarefas, como a análise de fotos, interpretação de comandos de voz e geração de sugestões em tempo real. O custo oculto aparece justamente nessa ideia de IA “sempre disponível”. Para que ela responda imediatamente, são executados processos contínuos em segundo plano , com previsão de ações e análise de padrões de uso. Quanto maior o nível de personalização, maior o volume de dados processados de forma constante, o que aumenta o consumo de energia ao longo do dia. Como ajustar a IA no iPhone para economizar bateria? No iPhone, alguns recursos ligados à Apple Intelligence e à Siri podem impactar a autonomia da bateria. O ideal é revisar quais funções realmente são necessárias no uso diário. Po",
-      "lang": "pt",
-      "depts": [
-        "Financeiro",
-        "Gestão",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Governo Federal lança matriz de competências para uso de IA",
-      "description": "O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) divulgou, na última semana, a Matriz de Competências em Inteligência Artificial do Governo do Brasil . O documento vai orientar os cursos e treinamentos oferecidos a servidores federais sobre o uso da tecnologia, com eixos voltados à ét",
-      "url": "https://canaltech.com.br/inteligencia-artificial/governo-federal-lanca-matriz-de-competencias-para-uso-de-ia/",
-      "publishedAt": "Fri, 03 Jul 2026 19:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/kzQDM-16SY2FIYKPRKkiU42iGYs=/700x394/smart/i1140307.png",
-      "source": "Canaltech IA",
-      "content": "O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) divulgou, na última semana, a Matriz de Competências em Inteligência Artificial do Governo do Brasil . O documento vai orientar os cursos e treinamentos oferecidos a servidores federais sobre o uso da tecnologia, com eixos voltados à ética, segurança, privacidade e soberania digital. A publicação é do Núcleo de Inteligência Artificial (NIA), iniciativa da Secretaria de Governo Digital (SGD) para apoiar a adoção de IA no Poder Executivo Federal. A matriz passa a nortear todas as capacitações conduzidas pelo núcleo. Mais de 167 mil servidores já foram capacitados Segundo o secretário de Governo Digital, Rogério Mascarenhas, ao menos 167 mil servidores já concluíram alguma capacitação dos programas do ministério. Para ele, o número demonstra interesse crescente pelo uso da tecnologia no serviço público. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Mascarenhas afirma que a matriz foi criada para orientar o desenvolvimento de novos cursos e identificar lacunas de competência em cada perfil de servidor. O secretário também classificou o documento como inovador e disse que ele pode servir de referência para outros países e para empresas privadas. Seis perfis de servidores e onze programas de formação O MGI dividiu o público-alvo das capacitações em seis perfis: agente público, gestor de TIC, gestor público, executivo de dados, curador de dados e altas lideranças. Cada perfil tem competências específicas a desenvolver, conforme a rotina de trabalho ou o nível de decisão sobre o uso da tecnologia no órgão. As formações somam 11 programas, oferecidos pela Escola Virtual de Governo (EV.G), vinculada à Escola Nacional de Administração Pública (Enap), em parceria com o Serpro. Os cursos são gratuitos, a distância e abertos a qualquer servidor, e abrangem temas como IA generativa, ética em IA, proteção de dados pessoais",
-      "lang": "pt",
-      "depts": [
-        "Comercial",
-        "Jurídico",
-        "Gestão",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Novo app da Meta mostra criações feitas por vibe coding",
-      "description": "A Meta lançou silenciosamente o Pocket , um novo aplicativo para criar e compartilhar pequenos jogos e experiências interativas, chamados de \"gizmos\", usando comandos de inteligência artificial. O app já está disponível na App Store e no Google Play, mas a empresa ainda não fez um anúncio sobre o la",
-      "url": "https://canaltech.com.br/inteligencia-artificial/novo-app-da-meta-mostra-criacoes-feitas-por-vibe-coding/",
-      "publishedAt": "Fri, 03 Jul 2026 17:10:00 -0300",
-      "image": "https://t.ctcdn.com.br/o35a_R-0f5b8pzB7LdM_9qhgmOE=/700x394/smart/i1140309.png",
-      "source": "Canaltech IA",
-      "content": "A Meta lançou silenciosamente o Pocket , um novo aplicativo para criar e compartilhar pequenos jogos e experiências interativas, chamados de \"gizmos\", usando comandos de inteligência artificial. O app já está disponível na App Store e no Google Play, mas a empresa ainda não fez um anúncio sobre o lançamento, o que sugere que a ferramenta pode estar em fase inicial de testes. O aplicativo foi descoberto e divulgado primeiro no X por Alessandro Paluzzi, engenheiro reverso conhecido por encontrar novos aplicativos e recursos antes dos anúncios oficiais. Segundo dados da Appfigures, no entanto, o Pocket já estava disponível nas lojas desde 29 de junho. #Meta is working on a new app called Pocket 👀 ℹ️ A new creative platform to make and share gizmos. pic.twitter.com/zFjMU5jj1U - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - — Alessandro Paluzzi (@alex193a) July 2, 2026 O Pocket usa prompts de texto para gerar conteúdos interativos . Assim, até pessoas sem conhecimento em programação conseguem criar seus próprios miniapps. Além da ferramenta de criação, o aplicativo conta com um feed em que os usuários podem descobrir e testar gizmos desenvolvidos por outras pessoas. O projeto foi criado após a Meta adquirir, no início de 2026, a equipe da Gizmo, plataforma que já utilizava o conceito de vibe coding e acumulava mais de 635 mil instalações. O aplicativo original registrava 98% de avaliações positivas entre os usuários e, curiosamente, continua disponível nas lojas de aplicativos mesmo após o lançamento do Pocket pela Meta. A iniciativa reforça a estratégia da Meta de ampliar o acesso às ferramentas de criação com inteligência artificial. O Pocket ( play.google.com ) integra um ecossistema que já inclui o Vibes, de vídeos gerados por IA, e o Meta AI, focado na criação de imagens. Recentemente, a empresa também adicionou recursos de IA ao editor de vídeos Edits. O Pocket é o novo",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Comercial",
-        "Educação"
       ]
     }
   ]
