@@ -1,7 +1,72 @@
 {
-  "updatedAt": "2026-07-13T12:25:22.770Z",
+  "updatedAt": "2026-07-14T11:16:43.712Z",
   "count": 40,
   "articles": [
+    {
+      "title": "As alegações mais selvagens no processo de segredos comerciais da Apple contra a OpenAI",
+      "description": "O processo de segredos comerciais da Apple contra a OpenAI contém alegações que vão desde funcionários brincando sobre o acesso não autorizado aos sistemas da Apple até alegações de que os candidatos a empregos foram solicitados a trazer hardware da Apple para entrevistas. Aqui estão as afirmações mais atraentes da reclamação.",
+      "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+      "publishedAt": "Mon, 13 Jul 2026 18:22:10 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "O processo de segredos comerciais da Apple contra a OpenAI contém alegações que vão desde funcionários brincando sobre o acesso não autorizado aos sistemas da Apple até alegações de que os candidatos a empregos foram solicitados a trazer hardware da Apple para entrevistas. Aqui estão as afirmações mais atraentes da reclamação.",
+      "lang": "en",
+      "depts": [
+        "RH",
+        "Gestão"
+      ]
+    },
+    {
+      "title": "Anthropic começa a localizar preços de Claude para a Índia, seu maior mercado depois dos EUA",
+      "description": "Os usuários do Claude na Índia estão começando a ver planos de assinatura denominados em rúpias indianas.",
+      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "publishedAt": "Mon, 13 Jul 2026 15:34:59 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Apple processa OpenAI por suposto roubo de segredos comerciais",
+      "description": "Ação acusa a dona do ChatGPT de contratar ex-funcionários da Apple para obter informações confidenciais sobre projetos e fornecedores. Apple processa OpenAI por suposto roubo de segredos comerciais",
+      "url": "https://tecnoblog.net/noticias/apple-processa-openai-por-suposto-roubo-de-segredos-comerciais/",
+      "publishedAt": "Mon, 13 Jul 2026 14:49:06 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/04/apple_capa-1_tb.jpg",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "RH"
+      ]
+    },
+    {
+      "title": "Copilot vai dizer o que está deixando o Windows 11 lento",
+      "description": "Assistente com IA ganha acesso a dados de sistema para analisar uso de recursos, mas ele mesmo pode ser um problema para máquinas com pouca memória. Copilot vai dizer o que está deixando o Windows 11 lento",
+      "url": "https://tecnoblog.net/noticias/copilot-vai-dizer-o-que-esta-deixando-o-windows-11-lento/",
+      "publishedAt": "Mon, 13 Jul 2026 14:45:43 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/07/windows-11-1.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Educação"
+      ]
+    },
+    {
+      "title": "Waze adiciona novos recursos alimentados por IA e atualizações de personalização",
+      "description": "Alguns dos novos recursos são alimentados pelo assistente Gemini AI do Google, que reflete o esforço mais amplo da gigante da tecnologia para integrar o Gemini em seus produtos, ao mesmo tempo que posiciona melhor o Waze para competir com serviços rivais, como o Apple Maps.",
+      "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "publishedAt": "Mon, 13 Jul 2026 14:18:16 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Alguns dos novos recursos são alimentados pelo assistente Gemini AI do Google, que reflete o esforço mais amplo da gigante da tecnologia para integrar o Gemini em seus produtos, ao mesmo tempo que posiciona melhor o Waze para competir com serviços rivais, como o Apple Maps.",
+      "lang": "en",
+      "depts": [
+        "Comercial",
+        "Educação"
+      ]
+    },
     {
       "title": "Waze ganha navegação para motos e busca por voz com Gemini",
       "description": "Atualização integra recursos para motociclistas, comandos por voz com IA e rotas personalizadas. Brasil está entre os primeiros países a receber as novidades. Waze ganha navegação para motos e busca por voz com Gemini",
@@ -306,32 +371,6 @@
       "depts": []
     },
     {
-      "title": "OpenAI está encerrando o Atlas, mas suas ambições de navegador de IA ainda estão crescendo",
-      "description": "A OpenAI está encerrando seu navegador com tecnologia de IA depois de menos de um ano. Mas está transferindo alguns recursos de navegação de agente para seu aplicativo de desktop e uma extensão do Chrome.",
-      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-      "publishedAt": "Thu, 09 Jul 2026 22:03:54 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "A OpenAI está encerrando seu navegador com tecnologia de IA depois de menos de um ano. Mas está transferindo alguns recursos de navegação de agente para seu aplicativo de desktop e uma extensão do Chrome.",
-      "lang": "en",
-      "depts": [
-        "Educação"
-      ]
-    },
-    {
-      "title": "Elon Musk elogia Mythos/Fable, promete não cortar Antrópico",
-      "description": "A Anthropic deveria confiar em Elon Musk para hospedar seus modelos? Com cerca de US$ 40 bilhões em receitas em jogo, Musk insiste que a empresa pode.",
-      "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
-      "publishedAt": "Thu, 09 Jul 2026 21:57:42 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Financeiro"
-      ]
-    },
-    {
       "title": "OpenAI lança ChatGPT Work, assistente de IA para o trabalho",
       "description": "Agente autônomo de inteligência artificial chega ao mercado junto com a nova família de modelos GPT-5.6. OpenAI lança ChatGPT Work, assistente de IA para o trabalho",
       "url": "https://tecnoblog.net/noticias/openai-lanca-chatgpt-work-assistente-de-ia-para-o-trabalho/",
@@ -356,59 +395,6 @@
       "lang": "pt",
       "depts": [
         "Educação"
-      ]
-    },
-    {
-      "title": "New York Times diz que OpenAI escondeu evidências no julgamento de direitos autorais do ChatGPT",
-      "description": "Os editores de notícias dizem que a OpenAI escondeu ferramentas e conjuntos de dados que poderiam identificar jornalismo protegido por direitos autorais nos resultados do ChatGPT, intensificando seu processo com uma nova moção de sanções.",
-      "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
-      "publishedAt": "Thu, 09 Jul 2026 19:05:58 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Os editores de notícias dizem que a OpenAI escondeu ferramentas e conjuntos de dados que poderiam identificar jornalismo protegido por direitos autorais nos resultados do ChatGPT, intensificando seu processo com uma nova moção de sanções.",
-      "lang": "en",
-      "depts": [
-        "Jurídico",
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Como o governo decidiu que o modelo de fronteira da OpenAI era seguro para lançamento?",
-      "description": "“Exatamente como foi esse diálogo entre o governo e a Antthropic e a OpenAI não está claro.”",
-      "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
-      "publishedAt": "Thu, 09 Jul 2026 18:22:39 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Financeiro"
-      ]
-    },
-    {
-      "title": "Smartwatch bom e barato: qual modelo comprar em 2026?",
-      "description": "Conheça os melhores relógios inteligentes com preço acessível e boas especificações para monitorar saúde, exercícios e esportes Smartwatch bom e barato: qual modelo comprar em 2026?",
-      "url": "https://tecnoblog.net/guias/smartwatch-bom-e-barato/",
-      "publishedAt": "Wed, 08 Jul 2026 21:52:47 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/samsung-galaxy-fit3-guia.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Saúde"
-      ]
-    },
-    {
-      "title": "OpenAI vai liberar GPT-5.6 após governo Trump remover restrições",
-      "description": "Nova família de IA será lançada nesta quinta-feira (09/07) após período de acesso restrito a clientes selecionados. OpenAI vai liberar GPT-5.6 após governo Trump remover restrições",
-      "url": "https://tecnoblog.net/noticias/openai-vai-liberar-gpt-5-6-apos-governo-trump-remover-restricoes/",
-      "publishedAt": "Wed, 08 Jul 2026 20:15:21 +0000",
-      "image": "https://www.youtube.com/embed/EAN5Cj347PY",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Comercial"
       ]
     },
     {
@@ -548,6 +534,21 @@
       "lang": "pt",
       "depts": [
         "Gestão"
+      ]
+    },
+    {
+      "title": "Use o ChatGPT para descobrir talentos ocultos e transformar a sua carreira",
+      "description": "O ChatGPT pode ajudar na autoanálise e na descoberta de talentos ocultos por meio de uma conversa guiada. Nesse processo, o usuário responde perguntas sobre carreira e vida pessoal, e a IA identifica padrões de comportamento, transformando essas informações em pontos fortes e sugestões para a vida p",
+      "url": "https://canaltech.com.br/inteligencia-artificial/use-o-chatgpt-para-descobrir-talentos-ocultos-e-transformar-a-sua-carreira/",
+      "publishedAt": "Sat, 04 Jul 2026 18:05:00 -0300",
+      "image": "https://t.ctcdn.com.br/ZYG6Fut2RaMaLKaCUk5JQX-psxM=/700x394/smart/i1119851.png",
+      "source": "Canaltech IA",
+      "content": "O ChatGPT pode ajudar na autoanálise e na descoberta de talentos ocultos por meio de uma conversa guiada. Nesse processo, o usuário responde perguntas sobre carreira e vida pessoal, e a IA identifica padrões de comportamento, transformando essas informações em pontos fortes e sugestões para a vida profissional. Como usar o ChatGPT para revisar currículo, LinkedIn e carta de apresentação 6 prompts do ChatGPT para criar apresentações no trabalho e faculdade Para isso, é importante responder as perguntas da IA com sinceridade e com o máximo de detalhes possível, pois, assim, será mais fácil identificar padrões, pontos fortes e habilidades que podem estar sendo subestimadas. Como usar o ChatGPT para descobrir talentos ocultos? Nesse processo, o ChatGPT não entrega respostas prontas. Ele funciona como um guia de reflexão . Uma única pergunta feita pela IA já é suficiente para iniciar uma sequência de outras questões mais profundas sobre sua trajetória, seus hábitos de trabalho e os padrões que se repetem na sua forma de agir. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A partir disso, a IA conduz uma espécie de entrevista guiada . Ela começa a explorar experiências, decisões e momentos marcantes, ajudando a organizar informações que normalmente ficam espalhadas na memória. Um exemplo de prompt para esse tipo de análise é: “Aja como um coach de pontos fortes e psicólogo comportamental. Faça 15 perguntas sobre minha carreira, hobbies, relacionamentos, desafios, conquistas e momentos em que me senti mais energizado(a). Depois que eu responder a todas, identifique 10 pontos fortes que posso estar subestimando. Para cada ponto forte, explique com base nas minhas respostas, mostre como ele aparece no meu dia a dia e indique formas práticas de aplicar isso na minha carreira e vida pessoal.” O ChatGPT pode ser usado como ferramenta de autoanálise para identificar talentos ocultos.",
+      "lang": "pt",
+      "depts": [
+        "RH",
+        "Gestão",
+        "Educação"
       ]
     }
   ]
