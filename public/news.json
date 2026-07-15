@@ -1,31 +1,94 @@
 {
-  "updatedAt": "2026-07-14T11:16:43.712Z",
+  "updatedAt": "2026-07-15T11:20:48.015Z",
   "count": 40,
   "articles": [
     {
-      "title": "As alegações mais selvagens no processo de segredos comerciais da Apple contra a OpenAI",
-      "description": "O processo de segredos comerciais da Apple contra a OpenAI contém alegações que vão desde funcionários brincando sobre o acesso não autorizado aos sistemas da Apple até alegações de que os candidatos a empregos foram solicitados a trazer hardware da Apple para entrevistas. Aqui estão as afirmações mais atraentes da reclamação.",
-      "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
-      "publishedAt": "Mon, 13 Jul 2026 18:22:10 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "O processo de segredos comerciais da Apple contra a OpenAI contém alegações que vão desde funcionários brincando sobre o acesso não autorizado aos sistemas da Apple até alegações de que os candidatos a empregos foram solicitados a trazer hardware da Apple para entrevistas. Aqui estão as afirmações mais atraentes da reclamação.",
-      "lang": "en",
-      "depts": [
-        "RH",
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Anthropic começa a localizar preços de Claude para a Índia, seu maior mercado depois dos EUA",
-      "description": "Os usuários do Claude na Índia estão começando a ver planos de assinatura denominados em rúpias indianas.",
-      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
-      "publishedAt": "Mon, 13 Jul 2026 15:34:59 +0000",
+      "title": "O pesquisador da OpenAI, Miles Wang, está em negociações para lançar uma startup de descoberta de medicamentos com IA avaliada em US$ 2 bilhões",
+      "description": "As discussões sobre financiamento apontam para o interesse dos investidores em aplicar a IA para fazer avanços nas ciências da vida.",
+      "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+      "publishedAt": "Wed, 15 Jul 2026 00:27:04 +0000",
       "image": null,
       "source": "TechCrunch AI",
       "content": null,
       "lang": "en",
       "depts": []
+    },
+    {
+      "title": "O primeiro dispositivo de hardware da OpenAI é supostamente um alto-falante sem tela que pode se mover",
+      "description": "O dispositivo é estranhamente descrito como envolvendo “elementos mecânicos que podem se mover por conta própria” e o relatório da Bloomberg inclui o detalhe de que o dispositivo foi projetado para “sentir-se como um companheiro e se tornar uma manifestação física do ChatGPT da OpenAI”.",
+      "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+      "publishedAt": "Tue, 14 Jul 2026 22:22:24 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "O dispositivo é estranhamente descrito como envolvendo “elementos mecânicos que podem se mover por conta própria” e o relatório da Bloomberg inclui o detalhe de que o dispositivo foi projetado para “sentir-se como um companheiro e se tornar uma manifestação física do ChatGPT da OpenAI”.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "OpenAI recua no processo de segredo comercial da Apple",
+      "description": "A OpenAI emitiu outra declaração sobre o processo, desta vez sugerindo que falta mérito.",
+      "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+      "publishedAt": "Tue, 14 Jul 2026 22:07:42 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "Gestão"
+      ]
+    },
+    {
+      "title": "O novo modelo carro-chefe da OpenAI exclui arquivos por conta própria, as pessoas continuam alertando",
+      "description": "Várias postagens nas redes sociais afirmam que o GPT-5.6 Sol excluiu arquivos e dados sem aviso prévio. A OpenAI basicamente divulgou o problema em junho.",
+      "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+      "publishedAt": "Tue, 14 Jul 2026 21:50:11 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "Marketing"
+      ]
+    },
+    {
+      "title": "O mais novo anúncio da Anthropic está assustando as pessoas",
+      "description": "A Anthropic tem consistentemente tentado se apresentar como um contraste ético para outras empresas de IA. Este último golpe de marketing – que se inclina para as críticas à IA como uma forma de fazer a Anthropic parecer consciente da responsabilidade que carrega – parece ser mais do mesmo.",
+      "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
+      "publishedAt": "Tue, 14 Jul 2026 19:41:27 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "A Anthropic tem consistentemente tentado se apresentar como um contraste ético para outras empresas de IA. Este último golpe de marketing – que se inclina para as críticas à IA como uma forma de fazer a Anthropic parecer consciente da responsabilidade que carrega – parece ser mais do mesmo.",
+      "lang": "en",
+      "depts": [
+        "Marketing"
+      ]
+    },
+    {
+      "title": "Adam Mosseri da Meta diz que os orçamentos de tokens de IA poderão em breve ser limitados por engenheiro",
+      "description": "O chefe do Instagram, Adam Mosseri, acredita que as empresas eventualmente precisarão gerenciar os gastos com tokens de IA da mesma forma que gerenciam a folha de pagamento ou outras despesas operacionais, prevendo que os engenheiros poderão em breve enfrentar limites sobre quanto gastam usando ferramentas de IA.",
+      "url": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
+      "publishedAt": "Tue, 14 Jul 2026 16:22:15 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "O chefe do Instagram, Adam Mosseri, acredita que as empresas eventualmente precisarão gerenciar os gastos com tokens de IA da mesma forma que gerenciam a folha de pagamento ou outras despesas operacionais, prevendo que os engenheiros poderão em breve enfrentar limites sobre quanto gastam usando ferramentas de IA.",
+      "lang": "en",
+      "depts": [
+        "Marketing",
+        "Financeiro"
+      ]
+    },
+    {
+      "title": "Spotify expande seu impulso de IA com um assistente de música semelhante ao ChatGPT",
+      "description": "O Spotify está lançando um novo recurso de conversação baseado em IA que permite aos assinantes Premium conversar com o aplicativo para descobrir músicas, podcasts, audiolivros e muito mais.",
+      "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+      "publishedAt": "Tue, 14 Jul 2026 14:06:47 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "O Spotify está lançando um novo recurso de conversação baseado em IA que permite aos assinantes Premium conversar com o aplicativo para descobrir músicas, podcasts, audiolivros e muito mais.",
+      "lang": "en",
+      "depts": [
+        "Educação"
+      ]
     },
     {
       "title": "Apple processa OpenAI por suposto roubo de segredos comerciais",
@@ -50,20 +113,6 @@
       "content": null,
       "lang": "pt",
       "depts": [
-        "Educação"
-      ]
-    },
-    {
-      "title": "Waze adiciona novos recursos alimentados por IA e atualizações de personalização",
-      "description": "Alguns dos novos recursos são alimentados pelo assistente Gemini AI do Google, que reflete o esforço mais amplo da gigante da tecnologia para integrar o Gemini em seus produtos, ao mesmo tempo que posiciona melhor o Waze para competir com serviços rivais, como o Apple Maps.",
-      "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
-      "publishedAt": "Mon, 13 Jul 2026 14:18:16 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Alguns dos novos recursos são alimentados pelo assistente Gemini AI do Google, que reflete o esforço mais amplo da gigante da tecnologia para integrar o Gemini em seus produtos, ao mesmo tempo que posiciona melhor o Waze para competir com serviços rivais, como o Apple Maps.",
-      "lang": "en",
-      "depts": [
-        "Comercial",
         "Educação"
       ]
     },
@@ -166,21 +215,6 @@
       ]
     },
     {
-      "title": "OpenAI aposta nas famílias à medida que ChatGPT se aprofunda nas famílias",
-      "description": "ChatGPT está contratando um gerente de produto dedicado para construir experiências para famílias, cuidadores e idosos, de acordo com um anúncio de emprego.",
-      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-      "publishedAt": "Sat, 11 Jul 2026 14:13:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Marketing",
-        "RH",
-        "Comercial"
-      ]
-    },
-    {
       "title": "Especialista em deepfake usa a física para identificar imagens feitas por IA",
       "description": "O especialista em forense digital Hany Farid utiliza princípios básicos da física e da geometria para identificar imagens geradas por inteligência artificial. A metodologia foca na análise de linhas paralelas e projeções de sombras, elementos que os modelos generativos atuais ainda não conseguem rep",
       "url": "https://canaltech.com.br/inteligencia-artificial/especialista-em-deepfake-usa-a-fisica-para-identificar-imagens-feitas-por-ia/",
@@ -192,20 +226,6 @@
       "depts": [
         "Marketing",
         "Educação"
-      ]
-    },
-    {
-      "title": "Apple processa OpenAI por suposto roubo de segredo comercial",
-      "description": "A Apple alega que a má conduta foi dirigida pela liderança sênior da OpenAI, incluindo um ex-funcionário de longa data.",
-      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-      "publishedAt": "Fri, 10 Jul 2026 21:00:29 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "RH",
-        "Gestão"
       ]
     },
     {
@@ -222,31 +242,6 @@
       ]
     },
     {
-      "title": "IA não deveria aparecer para quem não gosta, diz chefe do Instagram",
-      "description": "Adam Mosseri diz que algoritmo deve aprender preferências do usuário, mas descarta bloquear conteúdo de IA na rede. IA não deveria aparecer para quem não gosta, diz chefe do Instagram",
-      "url": "https://tecnoblog.net/noticias/ia-nao-deveria-aparecer-para-quem-nao-gosta-diz-chefe-do-instagram/",
-      "publishedAt": "Fri, 10 Jul 2026 18:54:42 +0000",
-      "image": "https://www.youtube.com/embed/yQ_EWmtfWvQ",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Educação"
-      ]
-    },
-    {
-      "title": "SK Hynix quebra recorde e tem estreia bilionária na Nasdaq",
-      "description": "Fabricante sul-coreana de memória levanta US$ 26,5 bilhões. Dinheiro deve ajudar a financiar novas fábricas para atender às demandas criadas pela IA generativa. SK Hynix quebra recorde e tem estreia bilionária na Nasdaq",
-      "url": "https://tecnoblog.net/noticias/sk-hynix-quebra-recorde-e-tem-estreia-bilionaria-na-nasdaq/",
-      "publishedAt": "Fri, 10 Jul 2026 18:24:05 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/05/predio-sk-hynix.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
-    },
-    {
       "title": "ChatGPT Work: qual a diferença entre o novo agente e a versão padrão da IA?",
       "description": "A OpenAI anunciou o ChatGPT Work , um novo agente de IA focado em tarefas que podem levar minutos ou horas para serem concluídas. Diferente da experiência tradicional do ChatGPT, baseada em conversas em tempo real, o recurso foi desenvolvido para assumir projetos completos, trabalhar de forma autôno",
       "url": "https://canaltech.com.br/inteligencia-artificial/chatgpt-work-qual-a-diferenca-entre-o-novo-agente-e-a-versao-padrao-da-ia/",
@@ -259,46 +254,6 @@
         "RH",
         "Gestão",
         "Educação"
-      ]
-    },
-    {
-      "title": "OpenAI acaba com navegador após menos de um ano",
-      "description": "Recursos do ChatGPT Atlas foram incorporados ao novo app de desktop ChatGPT Work. Navegador será encerrado em 9 de agosto. OpenAI acaba com navegador após menos de um ano",
-      "url": "https://tecnoblog.net/noticias/openai-acaba-com-navegador-apos-menos-de-um-ano/",
-      "publishedAt": "Fri, 10 Jul 2026 15:53:40 +0000",
-      "image": "https://www.youtube.com/embed/Wq45rvPGNHs",
-      "source": "Tecnoblog",
-      "content": "OpenAI encerra ChatGPT Atlas menos de um ano após o lançamento (imagem: reprodução) Resumo OpenAI encerrará o ChatGPT Atlas em 9 de agosto, menos de um ano após seu lançamento. Os recursos do navegador serão incorporados ao ChatGPT Work, um novo aplicativo de desktop que reúne ChatGPT, Codex e navegação. O ChatGPT Work terá um browser interno e uma extensão oficial para o Google Chrome, permitindo que o chatbot acessea página e execute tarefas. Menos de um ano após chegar ao mercado, o ChatGPT Atlas será encerrado em 9 de agosto. O navegador próprio da OpenAI foi lançado em outubro do ano passado com integração aos modelos de IA da empresa, incluindo funcionalidades agênticas. A decisão faz parte de uma mudança de foco dentro da empresa , que pretende levar os recursos de navegação automatizada do Atlas para experiências mais centralizadas, como o recém-anunciado ChatGPT Work e uma nova extensão oficial para o Google Chrome, de acordo com o site TechCrunch . A OpenAI também tenta reduzir iniciativas paralelas e concentrar recursos em produtos mais estratégicos. Essa mudança de foco teria influenciado escolhas recentes envolvendo o fim do aplicativo Sora e os planos para um “modo adulto” no ChatGPT . ChatGPT Work herda funções do Atlas Parte das funções do ChatGPT Atlas será incorporada ao ChatGPT Work, novo aplicativo de desktop lançado pela OpenAI junto a nova família de modelos de linguagem GPT-5.6 . A união dos serviços da empresa já era esperada desde março e, com a confirmação neste mês, reúne em um único ambiente recursos do ChatGPT, do Codex e do navegador. O app terá um browser interno para consultas e interações na internet e um outro navegador em nuvem, executado nos servidores da OpenAI, para que agentes possam acessar os sites, fazer login em contas e baixar arquivos em segundo plano. A OpenAI também está lançando uma extensão oficial do ChatGPT para o Google Chrome. O complemento dá ao chatbot acesso ao contexto da página aberta pelo usuário, permitindo resumir textos, responder perguntas sobre o conteúdo exibido e iniciar tarefas mais longas a partir do próprio navegador. “Todas essas funcionalidades foram construídas com base no que aprendemos com os usuários do Atlas que deram um voto de confiança a um novo navegador , publicou James Sun , da equipe de produtos da OpenAI. Atlas colocou ChatGPT dentro do navegador A proposta do Atlas era permitir que o ChatGPT acompanhasse a navegação do usuário, entendendo o contexto das páginas abertas e auxiliando em tarefas sem a necessidade de copiar e colar informações entre sites e o chatbot. O navegador também integrava recursos de agente, permitindo que a IA executasse algumas ações dentro das páginas. Durante o ano passado, outras companhias entraram nessa onda, apresentando soluções como o Comet AI , da Perplextiy; o Dia, da The Browser Company ; e o Opera Neon . O Google e a Microsoft também colocaram recursos de IA nativos nos seus navegadores: o Chrome fez uma profunda integração com o Gemini , enquanto o Edge recebeu o Copilot Mode . OpenAI acaba com navegador após menos de um ano",
-      "lang": "pt",
-      "depts": [
-        "Gestão",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Como ativar a nova Alexa+ de graça no benefício do Amazon Prime",
-      "description": "A Alexa+ ajuda a planejar e executar tarefas complexas com IA generativa, oferecendo conversas fluidas, automação de rotinas e gerenciamento de casa inteligente Como ativar a nova Alexa+ de graça no benefício do Amazon Prime",
-      "url": "https://tecnoblog.net/responde/como-ativar-a-nova-alexa-de-graca-no-beneficio-do-amazon-prime/",
-      "publishedAt": "Fri, 10 Jul 2026 14:24:06 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/como-ativar-a-nova-alexa-de-graca-no-beneficio-do-amazon-prime.jpeg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Claude ganha painel que detalha como você usa a IA",
-      "description": "Nova ferramenta da Anthropic oferece dados de uso, dicas de produtividade e alertas de pausa. Claude ganha painel que detalha como você usa a IA",
-      "url": "https://tecnoblog.net/noticias/claude-ganha-painel-que-detalha-como-voce-usa-a-ia/",
-      "publishedAt": "Fri, 10 Jul 2026 14:12:43 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/claude-2.webp",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Gestão"
       ]
     },
     {
@@ -317,33 +272,6 @@
       ]
     },
     {
-      "title": "OpenAI diz que GPT 5.6 é o modelo preferido para Microsoft Copilot 365 em meio a conversas sobre rompimento",
-      "description": "A nova família de modelos da OpenAI continuará a impulsionar o conjunto de aplicativos de trabalho e produtividade da Microsoft.",
-      "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-      "publishedAt": "Fri, 10 Jul 2026 00:16:54 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "RH",
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Fidji Simo deixa o cargo de número 2 da OpenAI",
-      "description": "O segundo executivo da OpenAI, Fidji Simo, está deixando seu cargo de tempo integral depois que sua licença médica foi mais longa do que o esperado – um vácuo de liderança que surge em um momento complicado, enquanto a empresa olha para um possível IPO e corre para pegar a Anthropic no mercado corporativo.",
-      "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
-      "publishedAt": "Thu, 09 Jul 2026 23:38:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "O segundo executivo da OpenAI, Fidji Simo, está deixando seu cargo de tempo integral depois que sua licença médica foi mais longa do que o esperado – um vácuo de liderança que surge em um momento complicado, enquanto a empresa olha para um possível IPO e corre para pegar a Anthropic no mercado corporativo.",
-      "lang": "en",
-      "depts": [
-        "Gestão"
-      ]
-    },
-    {
       "title": "O que é Gemini Spark? Conheça o agente de IA pessoal do Google",
       "description": "A nova fase da inteligência artificial é marcada pela chegada dos chamados agentes de IA , sistemas que conseguem executar tarefas de forma autônoma, indo além das respostas tradicionais de chatbots. Nesse cenário, o Gemini Spark é um agente de IA pessoal do Google projetado para atuar de forma cont",
       "url": "https://canaltech.com.br/inteligencia-artificial/o-que-e-gemini-spark-conheca-o-agente-de-ia-pessoal-do-google/",
@@ -357,44 +285,6 @@
         "RH",
         "Comercial",
         "Gestão"
-      ]
-    },
-    {
-      "title": "OpenAI lança sua nova família de modelos com GPT-5.6",
-      "description": "A mais recente família de modelos da OpenAI promete melhorias em diversas áreas, incluindo segurança cibernética.",
-      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-      "publishedAt": "Thu, 09 Jul 2026 22:24:24 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "OpenAI lança ChatGPT Work, assistente de IA para o trabalho",
-      "description": "Agente autônomo de inteligência artificial chega ao mercado junto com a nova família de modelos GPT-5.6. OpenAI lança ChatGPT Work, assistente de IA para o trabalho",
-      "url": "https://tecnoblog.net/noticias/openai-lanca-chatgpt-work-assistente-de-ia-para-o-trabalho/",
-      "publishedAt": "Thu, 09 Jul 2026 20:12:26 +0000",
-      "image": "https://www.youtube.com/embed/yRc5HcGJ-Cs",
-      "source": "Tecnoblog",
-      "content": "ChatGPT Work é um assistente capaz de concluir projetos em segundo plano (imagem: divulgação) Resumo OpenAI lançou o ChatGPT Work, um assistente de IA projetado para executar atividades de forma autônoma e reduzir tarefas repetitivas. O ChatGPT Work conecta arquivos e aplicativos para criar materiais prontos, com integração nativa a ecossistemas populares como Microsoft Teams e Slack. A novidade chega junto com o GPT-5.6 e um novo app para desktop, que integra ChatGPT, Work e Codex. A OpenAI anunciou nesta quinta-feira (09/07) o lançamento do ChatGPT Work, um novo agente projetado para executar atividades de forma autônoma e reduzir tarefas repetitivas. A novidade chega junto com a família de modelos GPT-5.6, liberada para o público após um período de acesso restrito . O agente é uma aposta da OpenAI para transformar o popular chatbot em um assistente corporativo capaz de concluir projetos inteiros sozinho. Como o ChatGPT Work funciona? A novidade funciona conectando arquivos e aplicativos para criar materiais prontos. Segundo a OpenAI, basta o usuário fornecer um objetivo amplo, como “preparar uma reunião de vendas” ou analisar o orçamento , e o agente reunirá todo o contexto necessário para gerar documentos, apresentações e planilhas de forma independente. Para alcançar esse nível de automação, a ferramenta possui integração nativa a ecossistemas populares, como Microsoft Teams, Slack, Gmail e Google Drive. Para reduzir os riscos de um agente autônomo operando com dados confidenciais, a OpenAI permitirá que os administradores de TI controlem quais arquivos e aplicativos a IA pode acessar. A empresa destaca que o sistema passou por rigorosos testes e bloqueou todas as tentativas de extração de dados protegidos. Chegada do GPT-5.6 após pressão regulatória Introducing ChatGPT Work, a new agent in ChatGPT powered by Codex and GPT-5.6. It can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work. It’s a whole new way to get work done. pic.twitter.com/uGbvjU1LsV &mdash; OpenAI (@OpenAI) July 9, 2026 A tecnologia que alimenta o agente de IA é a nova família de modelos GPT-5.6, que chega ao público após um período de pré-visualização limitado a clientes aprovados pelas autoridades norte-americanas. A pausa no lançamento foi um pedido direto do governo de Donald Trump , que exigiu tempo para reavaliar medidas de segurança diante do poder da ferramenta. Após uma colaboração técnica entre a startup e as agências reguladoras, o modelo foi liberado hoje. O GPT-5.6 se divide em três versões para diferentes demandas de mercado: Sol : é o modelo principal e mais inteligente. Segundo o CEO Sam Altman, ele é 54% mais eficiente no uso de tokens em tarefas de programação e conta com um modo ultra , focado em acelerar grandes projetos usando múltiplos agentes. Terra : uma versão intermediária que equilibra desempenho e custo. Luna : o modelo mais leve da família, focado em custo-benefício. IA da OpenAI tem integração nativa com ferramentas como Slack e Gmail (imagem: divulgação) Novo aplicativo com ChatGPT e Codex Junto com as novidades, um novo aplicativo para Windows e Mac, que centraliza o ChatGPT, o Work e o Codex em uma única interface, também está chegando ao mercado. Ele foi apresentado na live de lançamento e tem como destaque o recurso “Uso do Computador”, que autoriza a IA a executar ações em segundo plano na máquina, como clicar, digitar e mover arquivos por conta própria. O app também inclui um navegador integrado e a função Sites, que possibilita transformar rascunhos de ideias em páginas interativas. O cronograma de disponibilidade varia de acordo com o plano do usuário. O novo app para desktop pode ser baixado globalmente por usuários de todos os planos, incluindo a versão gratuita. Na web e dispositivos móveis, o ChatGPT Work está sendo liberado para assinantes Pro, Enterprise e Edu, com previsão de chegada aos planos Plus e Business nos próximos dias. OpenAI lança ChatGPT Work, assistente de IA para o trabalho",
-      "lang": "pt",
-      "depts": [
-        "RH",
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Microsoft vai usar IA para sair na frente dos hackers no Windows",
-      "description": "Microsoft usará recursos de inteligência artificial para identificar e corrigir falhas no Windows mais rapidamente, se antecipando a eventuais explorações de vulnerabilidades. Microsoft vai usar IA para sair na frente dos hackers no Windows",
-      "url": "https://tecnoblog.net/noticias/microsoft-vai-usar-ia-para-sair-na-frente-dos-hackers-no-windows/",
-      "publishedAt": "Thu, 09 Jul 2026 19:57:32 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/07/windows-11-1.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Educação"
       ]
     },
     {
@@ -550,6 +440,118 @@
         "Gestão",
         "Educação"
       ]
+    },
+    {
+      "title": "12 prompts do Gemini para pesquisar, comparar e comprar um celular novo",
+      "description": "Comprar produtos de tecnologia deveria ser simples, mas quase nunca é. Você entra querendo só escolher um celular e, quando percebe, já está preso em abas, reviews que dizem coisas opostas, fichas técnicas cheias de números difíceis de comparar e promoções que aparecem e somem o tempo todo. Vale com",
+      "url": "https://canaltech.com.br/inteligencia-artificial/prompts-gemini-pesquisar-comparar-comprar-celular-novo/",
+      "publishedAt": "Sat, 04 Jul 2026 16:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/u-ApvEXeczP3CmhwQ0AK7cHkEGs=/700x394/smart/i1132313.png",
+      "source": "Canaltech IA",
+      "content": "Comprar produtos de tecnologia deveria ser simples, mas quase nunca é. Você entra querendo só escolher um celular e, quando percebe, já está preso em abas, reviews que dizem coisas opostas, fichas técnicas cheias de números difíceis de comparar e promoções que aparecem e somem o tempo todo. Vale comprar celular com 256 GB ou 512 GB hoje? Veja cenário real Celular usado: como avaliar o aparelho em 8 passos e saber se vale a pena compra No meio disso tudo, fica a sensação de que sempre falta alguma informação importante e que decidir “certo” virou mais cansativo do que deveria. É justamente aqui que o Gemini pode ajudar a organizar esse caos. A ideia deste guia é te mostrar como transformar essa busca em algo mais simples e guiado . Para isso, você pode dividir o caminho em quatro etapas: entender a categoria, comparar opções, analisar preço e só então decidir com mais segurança. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Ao longo do texto, vamos usar como exemplo alguém procurando um celular entre R$ 2.000 e R$ 2.500, mas o mesmo método funciona para notebooks, TVs, fones, consoles e outros eletrônicos do dia a dia. A seguir, confira: Etapa 1: Pesquisa de categoria Etapa 2: Comparação técnica Etapa 3: Busca de preço e custo-benefício Etapa 4: Decisão final Etapa 1: Pesquisa de categoria Antes de olhar modelo, marca ou promoção, vale dar um passo atrás e entender o cenário. É aqui que você começa a enxergar o que realmente existe dentro do seu orçamento . Nesse momento, a ideia não é escolher o modelo ainda, mas sim montar uma primeira lista de opções confiáveis para não ficar perdido depois. Nesta etapa, veja: 1. Panorama da categoria 2. Perfil de uso 3. Quais critérios usar 1. Panorama da categoria Se você ainda não sabe quais celulares fazem sentido na faixa de R$ 2.000 a R$ 2.500, o primeiro passo é pedir uma visão geral do mercado. O Gemini pode organizar isso sep",
+      "lang": "pt",
+      "depts": [
+        "Comercial"
+      ]
+    },
+    {
+      "title": "IA pode destruir a bateria do seu celular; veja como resolver",
+      "description": "A inteligência artificial está cada vez mais presente nos smartphones, sendo integrada ao sistema e a diversos aplicativos para executar tarefas, como resumos de notificações, edição de fotos, sugestões personalizadas, além de atuar como assistentes de voz avançados. 15 recursos secretos do Apple In",
+      "url": "https://canaltech.com.br/inteligencia-artificial/ia-pode-destruir-a-bateria-do-seu-celular-veja-como-resolver/",
+      "publishedAt": "Sat, 04 Jul 2026 12:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/ZHTeRLBEvZ9V6ryjoDtw8E9DI2E=/700x394/smart/i1086691.jpeg",
+      "source": "Canaltech IA",
+      "content": "A inteligência artificial está cada vez mais presente nos smartphones, sendo integrada ao sistema e a diversos aplicativos para executar tarefas, como resumos de notificações, edição de fotos, sugestões personalizadas, além de atuar como assistentes de voz avançados. 15 recursos secretos do Apple Intelligence que a Apple \"escondeu\" Qual celular tem a melhor IA para tirar pessoas indesejadas das suas fotos? Apesar de trazer mais praticidade no dia a dia, isso tem um custo invisível: a necessidade de processamento constante . No próprio aparelho ou na nuvem, essas ferramentas permanecem ativas em segundo plano e podem consumir energia de forma contínua, o que acaba com a bateria sem que o usuário perceba. A seguir, tire suas dúvidas sobre: - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Por que a IA consome tanta energia? Como ajustar a IA no iPhone para economizar bateria? Como reduzir o consumo de IA no Android? Como ter certeza que a IA é realmente o problema? Por que a IA consome tanta energia? A IA nos celulares funciona de forma diferente dos aplicativos tradicionais. Ela não é ativada apenas quando o usuário abre um app, ela permanece parcialmente ativa o tempo todo para realizar tarefas, como a análise de fotos, interpretação de comandos de voz e geração de sugestões em tempo real. O custo oculto aparece justamente nessa ideia de IA “sempre disponível”. Para que ela responda imediatamente, são executados processos contínuos em segundo plano , com previsão de ações e análise de padrões de uso. Quanto maior o nível de personalização, maior o volume de dados processados de forma constante, o que aumenta o consumo de energia ao longo do dia. Como ajustar a IA no iPhone para economizar bateria? No iPhone, alguns recursos ligados à Apple Intelligence e à Siri podem impactar a autonomia da bateria. O ideal é revisar quais funções realmente são necessárias no uso diário. Po",
+      "lang": "pt",
+      "depts": [
+        "Financeiro",
+        "Gestão",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Governo Federal lança matriz de competências para uso de IA",
+      "description": "O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) divulgou, na última semana, a Matriz de Competências em Inteligência Artificial do Governo do Brasil . O documento vai orientar os cursos e treinamentos oferecidos a servidores federais sobre o uso da tecnologia, com eixos voltados à ét",
+      "url": "https://canaltech.com.br/inteligencia-artificial/governo-federal-lanca-matriz-de-competencias-para-uso-de-ia/",
+      "publishedAt": "Fri, 03 Jul 2026 19:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/kzQDM-16SY2FIYKPRKkiU42iGYs=/700x394/smart/i1140307.png",
+      "source": "Canaltech IA",
+      "content": "O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) divulgou, na última semana, a Matriz de Competências em Inteligência Artificial do Governo do Brasil . O documento vai orientar os cursos e treinamentos oferecidos a servidores federais sobre o uso da tecnologia, com eixos voltados à ética, segurança, privacidade e soberania digital. A publicação é do Núcleo de Inteligência Artificial (NIA), iniciativa da Secretaria de Governo Digital (SGD) para apoiar a adoção de IA no Poder Executivo Federal. A matriz passa a nortear todas as capacitações conduzidas pelo núcleo. Mais de 167 mil servidores já foram capacitados Segundo o secretário de Governo Digital, Rogério Mascarenhas, ao menos 167 mil servidores já concluíram alguma capacitação dos programas do ministério. Para ele, o número demonstra interesse crescente pelo uso da tecnologia no serviço público. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Mascarenhas afirma que a matriz foi criada para orientar o desenvolvimento de novos cursos e identificar lacunas de competência em cada perfil de servidor. O secretário também classificou o documento como inovador e disse que ele pode servir de referência para outros países e para empresas privadas. Seis perfis de servidores e onze programas de formação O MGI dividiu o público-alvo das capacitações em seis perfis: agente público, gestor de TIC, gestor público, executivo de dados, curador de dados e altas lideranças. Cada perfil tem competências específicas a desenvolver, conforme a rotina de trabalho ou o nível de decisão sobre o uso da tecnologia no órgão. As formações somam 11 programas, oferecidos pela Escola Virtual de Governo (EV.G), vinculada à Escola Nacional de Administração Pública (Enap), em parceria com o Serpro. Os cursos são gratuitos, a distância e abertos a qualquer servidor, e abrangem temas como IA generativa, ética em IA, proteção de dados pessoais",
+      "lang": "pt",
+      "depts": [
+        "Comercial",
+        "Jurídico",
+        "Gestão",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Novo app da Meta mostra criações feitas por vibe coding",
+      "description": "A Meta lançou silenciosamente o Pocket , um novo aplicativo para criar e compartilhar pequenos jogos e experiências interativas, chamados de \"gizmos\", usando comandos de inteligência artificial. O app já está disponível na App Store e no Google Play, mas a empresa ainda não fez um anúncio sobre o la",
+      "url": "https://canaltech.com.br/inteligencia-artificial/novo-app-da-meta-mostra-criacoes-feitas-por-vibe-coding/",
+      "publishedAt": "Fri, 03 Jul 2026 17:10:00 -0300",
+      "image": "https://t.ctcdn.com.br/o35a_R-0f5b8pzB7LdM_9qhgmOE=/700x394/smart/i1140309.png",
+      "source": "Canaltech IA",
+      "content": "A Meta lançou silenciosamente o Pocket , um novo aplicativo para criar e compartilhar pequenos jogos e experiências interativas, chamados de \"gizmos\", usando comandos de inteligência artificial. O app já está disponível na App Store e no Google Play, mas a empresa ainda não fez um anúncio sobre o lançamento, o que sugere que a ferramenta pode estar em fase inicial de testes. O aplicativo foi descoberto e divulgado primeiro no X por Alessandro Paluzzi, engenheiro reverso conhecido por encontrar novos aplicativos e recursos antes dos anúncios oficiais. Segundo dados da Appfigures, no entanto, o Pocket já estava disponível nas lojas desde 29 de junho. #Meta is working on a new app called Pocket 👀 ℹ️ A new creative platform to make and share gizmos. pic.twitter.com/zFjMU5jj1U - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - — Alessandro Paluzzi (@alex193a) July 2, 2026 O Pocket usa prompts de texto para gerar conteúdos interativos . Assim, até pessoas sem conhecimento em programação conseguem criar seus próprios miniapps. Além da ferramenta de criação, o aplicativo conta com um feed em que os usuários podem descobrir e testar gizmos desenvolvidos por outras pessoas. O projeto foi criado após a Meta adquirir, no início de 2026, a equipe da Gizmo, plataforma que já utilizava o conceito de vibe coding e acumulava mais de 635 mil instalações. O aplicativo original registrava 98% de avaliações positivas entre os usuários e, curiosamente, continua disponível nas lojas de aplicativos mesmo após o lançamento do Pocket pela Meta. A iniciativa reforça a estratégia da Meta de ampliar o acesso às ferramentas de criação com inteligência artificial. O Pocket ( play.google.com ) integra um ecossistema que já inclui o Vibes, de vídeos gerados por IA, e o Meta AI, focado na criação de imagens. Recentemente, a empresa também adicionou recursos de IA ao editor de vídeos Edits. O Pocket é o novo",
+      "lang": "pt",
+      "depts": [
+        "Marketing",
+        "Comercial",
+        "Educação"
+      ]
+    },
+    {
+      "title": "O que é o “erro 1099” no Gemini? Saiba o que acontece com a IA",
+      "description": "Os usuários do Gemini, tanto na versão web quanto em celulares Android, têm relatado o aparecimento do “erro 1099” , uma falha que interrompe o uso da inteligência artificial. Quando isso acontece, o serviço deixa de responder, impedindo a continuidade da conversa. Segundo os relatos, o problema afe",
+      "url": "https://canaltech.com.br/inteligencia-artificial/o-que-e-o-erro-1099-no-gemini-saiba-o-que-acontece-com-a-ia/",
+      "publishedAt": "Fri, 03 Jul 2026 11:37:55 -0300",
+      "image": "https://t.ctcdn.com.br/BUD5tnSrkkYlVQlUMUP7n-eLQ5U=/700x394/smart/i1111873.png",
+      "source": "Canaltech IA",
+      "content": "Os usuários do Gemini, tanto na versão web quanto em celulares Android, têm relatado o aparecimento do “erro 1099” , uma falha que interrompe o uso da inteligência artificial. Quando isso acontece, o serviço deixa de responder, impedindo a continuidade da conversa. Segundo os relatos, o problema afeta os usuários da versão gratuita e os assinantes dos planos pagos . Em alguns casos, a falha aparece apenas ocasionalmente. Em outros, surge sempre que a pessoa tenta abrir ou usar o Gemini em determinado dispositivo. O erro também tem sido observado com frequência em smartphones da linha Pixel , principalmente ao acionar o Gemini pelo botão lateral. Também há relatos de que a falha acontece após um período de inatividade ou durante conversas longas no NotebookLM , o que pode indicar relação com o volume de informações que a IA precisa processar. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O erro 1099 impede o funcionamento do Gemini e pode afetar usuários da versão web e do Android. (Imagem: Viviane França/Canaltech) O que é o “erro 1099” no Gemini? Segundo especialistas da Comunidade de Suporte do Google, o erro 1099 é uma falha nos servidores do Gemini . Isso significa que o problema não está no celular, no computador ou na conexão com a internet do usuário. As possíveis causas incluem: Falha de autenticação : ocorre quando há um problema na comunicação entre o dispositivo e os servidores do Gemini durante a verificação de acesso; Limite de contexto : o erro pode aparecer quando o prompt ou o histórico da conversa fica grande demais para ser processado pela IA; Limitação de memória : o sistema pode atingir o limite de recursos disponíveis durante o processamento da solicitação; Instabilidade do serviço : o código 1099 também costuma aparecer durante períodos de instabilidade ou indisponibilidade do Gemini. A falha está relacionada aos servidores do Google e pode interro",
+      "lang": "pt",
+      "depts": [
+        "Comercial"
+      ]
+    },
+    {
+      "title": "Virginia Fonseca tem “clone de IA” para conversar com fãs por até R$ 89",
+      "description": "A plataforma Versio funciona como um chatbot de IA na qual é possível conversar com versões inspiradas em especialistas e celebridades, como a influenciadora Virginia Fonseca . O serviço cobra até R$ 89 por mês para liberar conversas com os clones de IA inspirados em pessoas famosas, mas há uma vers",
+      "url": "https://canaltech.com.br/inteligencia-artificial/virginia-fonseca-tem-clone-de-ia-para-conversar-com-fas-por-ate-r-89/",
+      "publishedAt": "Thu, 02 Jul 2026 18:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/k8MEe2l3PH5iKwUNiwyAeaBzMwA=/700x394/smart/i1139979.png",
+      "source": "Canaltech IA",
+      "content": "A plataforma Versio funciona como um chatbot de IA na qual é possível conversar com versões inspiradas em especialistas e celebridades, como a influenciadora Virginia Fonseca . O serviço cobra até R$ 89 por mês para liberar conversas com os clones de IA inspirados em pessoas famosas, mas há uma versão gratuita “escondida” . A ferramenta foi divulgada pela influenciadora nesta quarta-feira (1º) em post no Instagram. No caso, Fonseca simula uma situação em que uam seguidora pede sugestões de como se vestir para um jantar. De acordo com o site oficial, a Versio se difere de outros chatbots por ter sido treinada diretamente pelos especialistas mencionados . Algumas das personalidades disponíveis são o empresário e fisiculturista Renato Cariani, o empresário Carlos Wizard e a economista Nathalia Arcuri. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O app funciona como um chatbot convencional e permite enviar arquivos nas conversas ao assinar os planos mais caros. Ver essa foto no Instagram Um post compartilhado por Virginia (@virginia) Versão gratuita fica escondida Um detalhe sobre o Versio chamou a atenção: o site oficial (inserido no perfil da marca vinculado ao post de Virgínia) exige uma assinatura paga para usar a plataforma, mas é possível usar uma versão gratuita por outro caminho . Os planos pagos partem de R$ 29 por mês a R$ 89 por mês. A página com os Termos de Uso não carrega no site oficial, mas pode ser acessada ao iniciar um pagamento. Lá, a empresa informa que existe uma versão gratuita com versões limitadas e tem um link para o serviç o, também disponível em aplicativo para Android e iOS (as versões não são divulgadas no site principal , vinculado ao perfil da marca no post de Virginia). O CT testou a IA que conversa como a influenciadora, mas há um limite diário de conversas na versão gratuita. Os planos pagos aumentam as taxas de uso diárias e permitem env",
+      "lang": "pt",
+      "depts": [
+        "Marketing",
+        "Comercial"
+      ]
+    },
+    {
+      "title": "Por que o próximo ciclo computacional precisa ser construído para todos",
+      "description": "Nos últimos três anos, a capacidade computacional global dedicada à inteligência artificial cresceu aproximadamente 100 vezes . É uma das revoluções tecnológicas mais impactantes das últimas décadas. A IA já chegou indiscutivelmente. Mas a questão que surge agora é: ela está acessível a todos? De um",
+      "url": "https://canaltech.com.br/colunas/por-que-o-proximo-ciclo-computacional-precisa-ser-construido-para-todos/",
+      "publishedAt": "Thu, 02 Jul 2026 10:43:03 -0300",
+      "image": "https://t.ctcdn.com.br/nZ6sNq7PsgAB4H-oy5G3Tk3upoA=/700x394/smart/i1003705.png",
+      "source": "Canaltech IA",
+      "content": "Nos últimos três anos, a capacidade computacional global dedicada à inteligência artificial cresceu aproximadamente 100 vezes . É uma das revoluções tecnológicas mais impactantes das últimas décadas. A IA já chegou indiscutivelmente. Mas a questão que surge agora é: ela está acessível a todos? De um lado, temos modelos cada vez mais capazes, infraestruturas de bilhões de dólares, parcerias entre algumas das maiores empresas do planeta. De outro, desenvolvedores independentes, pesquisadores em países emergentes, startups sem acesso a crédito cloud e laboratórios universitários com acesso limitado. O próximo ciclo computacional pode encontrar caminhos para solucionar essa assimetria. O problema não é só hardware Quando falamos em democratizar a IA, GPUs e custos de treinamento são pontos importantes, mas há um gargalo além do hardware: a dependência de ecossistemas fechados que prendem desenvolvedores a plataformas específicas e concentram o poder de inovação nas mãos de poucos. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A analogia com o software é útil aqui. O movimento open source levou décadas para amadurecer, mas hoje a infraestrutura que sustenta a internet é majoritariamente aberta . Isso porque a inovação aberta com frequência se mostrou altamente resiliente e amplamente adotada em comparação com alternativas proprietárias. A IA está no começo do mesmo caminho. Plataformas abertas saltaram de nichos experimentais para infraestrutura de produção em escala global. Um pesquisador no Brasil, na Índia ou na Nigéria pode acessar hoje muitas das mesmas ferramentas utilizadas por grandes centros de tecnologia — desde que disponha de recursos de hardware adequados . A IA que mora no seu dispositivo Outra transformação relevante: a migração da IA da nuvem para o dispositivo. Processadores modernos com NPUs integradas permitem rodar inteligência artificial localmente , sem",
+      "lang": "pt",
+      "depts": [
+        "Financeiro",
+        "Comercial",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Fable e Mythos 5: governo Trump libera IAs mais perigosas da Anthropic",
+      "description": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três s",
+      "url": "https://canaltech.com.br/inteligencia-artificial/fable-e-mythos-5-governo-trump-libera-ias-mais-perigosas-da-anthropic/",
+      "publishedAt": "Wed, 01 Jul 2026 12:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/Am6VaUx8jmQtCNJCxA_znmbrltc=/700x394/smart/i1107289.png",
+      "source": "Canaltech IA",
+      "content": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três semanas depois de o governo ter suspendido o acesso aos dois sistemas por risco à segurança nacional. Segundo a Reuters, o acesso ao Fable 5 será restaurado a partir desta quarta-feira (1º) , ficando disponível ao público em geral. Já o Mythos 5, direcionado à detecção de vulnerabilidades de cibersegurança, será liberado para um grupo maior de parceiros domésticos e internacionais do programa Glasswing, da Anthropic. Como começou a restrição Em 12 de junho, o governo americano incluiu os dois modelos em sua lista de tecnologias sob controle de exportação , impedindo o acesso de estrangeiros sem aprovação especial . Como a Anthropic não tinha como verificar a nacionalidade dos usuários em tempo real, a companhia optou por suspender o Fable 5 e o Mythos 5 para todo mundo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A decisão, segundo a Reuters, partiu de uma denúncia de pesquisadores da Amazon , que encontraram uma forma de contornar as proteções do Fable 5. Com essa brecha, o modelo passou a identificar falhas de software e, em um dos casos registrados, chegou a gerar código demonstrando como explorar uma vulnerabilidade. No último domingo (28), o governo abriu uma primeira exceção , permitindo o uso do Mythos 5 por organizações selecionadas e por funcionários da própria Anthropic, incluindo estrangeiros vinculados a esses grupos. O Fable 5 seguia fora do ar até esta terça. O Claude é, atualmente, a terceira IA mais utilizada no mundo (Imagem: Marcelo Fischer/Canaltech) Por que são modelos tão perigosos O Mythos 5 concentra as capacidades que mais preocupam o governo american",
+      "lang": "pt",
+      "depts": []
     }
   ]
 }
