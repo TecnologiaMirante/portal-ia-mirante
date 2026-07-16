@@ -1,7 +1,107 @@
 {
-  "updatedAt": "2026-07-15T11:20:48.015Z",
+  "updatedAt": "2026-07-16T11:26:15.726Z",
   "count": 40,
   "articles": [
+    {
+      "title": "A Computação Aplicada quer dar aos operadores de petróleo e gás um modelo de IA para toda a planta",
+      "description": "A Applied Computing arrecadou US$ 20 milhões da Série A para construir um modelo básico de IA para a indústria de petróleo, gás e petroquímica.",
+      "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+      "publishedAt": "Thu, 16 Jul 2026 04:00:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "A Microsoft está supostamente treinando vendedores para reprimir OpenAI e Anthropic",
+      "description": "A Microsoft pretende vender seus modelos internos de IA como mais eficientes e econômicos do que os modelos de seus concorrentes.",
+      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "publishedAt": "Wed, 15 Jul 2026 23:59:44 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Em meio à batalha legal de hardware, OpenAI lança um teclado de US$ 230 para Codex",
+      "description": "A OpenAI, que está no meio de uma batalha legal com a Apple por alegações de roubo comercial de hardware, acaba de lançar um teclado iluminado projetado para ser emparelhado com seu aplicativo de codificação de agente.",
+      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "publishedAt": "Wed, 15 Jul 2026 19:41:38 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "A OpenAI, que está no meio de uma batalha legal com a Apple por alegações de roubo comercial de hardware, acaba de lançar um teclado iluminado projetado para ser emparelhado com seu aplicativo de codificação de agente.",
+      "lang": "en",
+      "depts": [
+        "Jurídico"
+      ]
+    },
+    {
+      "title": "OpenAI pode lançar caixa de som que conversa e parece viva",
+      "description": "Rumores indicam que dispositivo com IA tem elementos mecânicos para reagir e simular movimentos naturais. Lançamento é esperado para 2027. OpenAI pode lançar caixa de som que conversa e parece viva",
+      "url": "https://tecnoblog.net/noticias/openai-pode-lancar-caixa-de-som-que-conversa-e-parece-viva/",
+      "publishedAt": "Wed, 15 Jul 2026 19:02:46 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/sam-altman-3-capa.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Claude muda personalidade conforme o idioma, diz Anthropic",
+      "description": "Estudo mostra que a IA responde de forma diferente em cada língua. Em português, chatbot tende a ser mais técnico. Claude muda personalidade conforme o idioma, diz Anthropic",
+      "url": "https://tecnoblog.net/noticias/claude-muda-personalidade-conforme-o-idioma-diz-anthropic/",
+      "publishedAt": "Wed, 15 Jul 2026 18:12:02 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/claude-design-edited.webp",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Educação"
+      ]
+    },
+    {
+      "title": "Whatnot adquire Shaped para fornecer recomendações de compras ao vivo em tempo real",
+      "description": "A plataforma de compras Livestream Whatnot adquiriu a startup AI Shaped, uma empresa de aprendizado de máquina focada em recomendações e pesquisas em tempo real. O acordo reforçará os recursos de personalização e descoberta do Whatnot à medida que ele se expande para novas categorias de produtos.",
+      "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+      "publishedAt": "Wed, 15 Jul 2026 17:00:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "A plataforma de compras Livestream Whatnot adquiriu a startup AI Shaped, uma empresa de aprendizado de máquina focada em recomendações e pesquisas em tempo real. O acordo reforçará os recursos de personalização e descoberta do Whatnot à medida que ele se expande para novas categorias de produtos.",
+      "lang": "en",
+      "depts": [
+        "Comercial",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Por dentro da Ode com a Anthropic, a startup que aposta nos serviços de IA é o futuro das empresas",
+      "description": "Será que um punhado de engenheiros pode realmente fazer o trabalho de um exército de consultores? Essa é a aposta por trás da Ode com a Anthropic – a joint venture dedicada a incorporar engenheiros destacados em empresas empresariais, apoiada pela Anthropic, Blackstone, Hellman Friedman, Goldman Sachs e outras. Neste episódio de",
+      "url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
+      "publishedAt": "Wed, 15 Jul 2026 15:00:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Será que um punhado de engenheiros pode realmente fazer o trabalho de um exército de consultores? Essa é a aposta por trás da Ode com a Anthropic – a joint venture dedicada a incorporar engenheiros destacados em empresas empresariais, apoiada pela Anthropic, Blackstone, Hellman Friedman, Goldman Sachs e outras. Neste episódio do podcast Equity do TechCrunch, Rebecca Bellan conversa com os líderes da Ode, Chris Taylor e Eddie Siegel, que fundaram a Fractional AI, []",
+      "lang": "en",
+      "depts": [
+        "RH",
+        "Comercial"
+      ]
+    },
+    {
+      "title": "Antrópico, Blackstone aposta que o próximo negócio de IA de um trilhão de dólares é a implementação, não apenas modelos",
+      "description": "O Ode, apoiado pela Anthropic, é lançado enquanto os laboratórios de IA apostam que incorporar engenheiros implantados nas empresas é a chave para acelerar a adoção da IA ​​pelas empresas.",
+      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+      "publishedAt": "Wed, 15 Jul 2026 13:10:47 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "O Ode, apoiado pela Anthropic, é lançado enquanto os laboratórios de IA apostam que incorporar engenheiros implantados nas empresas é a chave para acelerar a adoção da IA ​​pelas empresas.",
+      "lang": "en",
+      "depts": [
+        "Comercial"
+      ]
+    },
     {
       "title": "O pesquisador da OpenAI, Miles Wang, está em negociações para lançar uma startup de descoberta de medicamentos com IA avaliada em US$ 2 bilhões",
       "description": "As discussões sobre financiamento apontam para o interesse dos investidores em aplicar a IA para fazer avanços nas ciências da vida.",
@@ -48,85 +148,6 @@
       "lang": "en",
       "depts": [
         "Marketing"
-      ]
-    },
-    {
-      "title": "O mais novo anúncio da Anthropic está assustando as pessoas",
-      "description": "A Anthropic tem consistentemente tentado se apresentar como um contraste ético para outras empresas de IA. Este último golpe de marketing – que se inclina para as críticas à IA como uma forma de fazer a Anthropic parecer consciente da responsabilidade que carrega – parece ser mais do mesmo.",
-      "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
-      "publishedAt": "Tue, 14 Jul 2026 19:41:27 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "A Anthropic tem consistentemente tentado se apresentar como um contraste ético para outras empresas de IA. Este último golpe de marketing – que se inclina para as críticas à IA como uma forma de fazer a Anthropic parecer consciente da responsabilidade que carrega – parece ser mais do mesmo.",
-      "lang": "en",
-      "depts": [
-        "Marketing"
-      ]
-    },
-    {
-      "title": "Adam Mosseri da Meta diz que os orçamentos de tokens de IA poderão em breve ser limitados por engenheiro",
-      "description": "O chefe do Instagram, Adam Mosseri, acredita que as empresas eventualmente precisarão gerenciar os gastos com tokens de IA da mesma forma que gerenciam a folha de pagamento ou outras despesas operacionais, prevendo que os engenheiros poderão em breve enfrentar limites sobre quanto gastam usando ferramentas de IA.",
-      "url": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
-      "publishedAt": "Tue, 14 Jul 2026 16:22:15 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "O chefe do Instagram, Adam Mosseri, acredita que as empresas eventualmente precisarão gerenciar os gastos com tokens de IA da mesma forma que gerenciam a folha de pagamento ou outras despesas operacionais, prevendo que os engenheiros poderão em breve enfrentar limites sobre quanto gastam usando ferramentas de IA.",
-      "lang": "en",
-      "depts": [
-        "Marketing",
-        "Financeiro"
-      ]
-    },
-    {
-      "title": "Spotify expande seu impulso de IA com um assistente de música semelhante ao ChatGPT",
-      "description": "O Spotify está lançando um novo recurso de conversação baseado em IA que permite aos assinantes Premium conversar com o aplicativo para descobrir músicas, podcasts, audiolivros e muito mais.",
-      "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
-      "publishedAt": "Tue, 14 Jul 2026 14:06:47 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "O Spotify está lançando um novo recurso de conversação baseado em IA que permite aos assinantes Premium conversar com o aplicativo para descobrir músicas, podcasts, audiolivros e muito mais.",
-      "lang": "en",
-      "depts": [
-        "Educação"
-      ]
-    },
-    {
-      "title": "Apple processa OpenAI por suposto roubo de segredos comerciais",
-      "description": "Ação acusa a dona do ChatGPT de contratar ex-funcionários da Apple para obter informações confidenciais sobre projetos e fornecedores. Apple processa OpenAI por suposto roubo de segredos comerciais",
-      "url": "https://tecnoblog.net/noticias/apple-processa-openai-por-suposto-roubo-de-segredos-comerciais/",
-      "publishedAt": "Mon, 13 Jul 2026 14:49:06 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/04/apple_capa-1_tb.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "RH"
-      ]
-    },
-    {
-      "title": "Copilot vai dizer o que está deixando o Windows 11 lento",
-      "description": "Assistente com IA ganha acesso a dados de sistema para analisar uso de recursos, mas ele mesmo pode ser um problema para máquinas com pouca memória. Copilot vai dizer o que está deixando o Windows 11 lento",
-      "url": "https://tecnoblog.net/noticias/copilot-vai-dizer-o-que-esta-deixando-o-windows-11-lento/",
-      "publishedAt": "Mon, 13 Jul 2026 14:45:43 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/07/windows-11-1.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Educação"
-      ]
-    },
-    {
-      "title": "Waze ganha navegação para motos e busca por voz com Gemini",
-      "description": "Atualização integra recursos para motociclistas, comandos por voz com IA e rotas personalizadas. Brasil está entre os primeiros países a receber as novidades. Waze ganha navegação para motos e busca por voz com Gemini",
-      "url": "https://tecnoblog.net/noticias/waze-ganha-navegacao-para-motos-e-busca-por-voz-com-gemini/",
-      "publishedAt": "Mon, 13 Jul 2026 09:00:00 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/modo-moto-waze.png",
-      "source": "Tecnoblog",
-      "content": "Navegação foi personalizada para motociclistas (imagem: divulgação) Resumo Waze lançou um modo para motociclistas, que deve fornecer estimativas de chegada mais precisas. O app também introduziu novos recursos de IA com o Google Gemini, que permitem conversar para buscar destinos e relatar mudanças no mapa. Recursos começam a ser liberados hoje para Android, iPhone, Android Auto e Apple CarPlay. O Waze agora tem um modo exclusivo para motociclistas. A partir desta segunda-feira (13/07), uma navegação desenvolvida para veículos de duas rodas estará disponível no app, além de rotas personalizadas e novos recursos de inteligência artificial com o Google Gemini. O Brasil está entre os primeiros países a receber as novidades. Essa maior integração com o Gemini, no entanto, não deve mudar o funcionamento das rotas. Durante a coletiva acompanhada pelo Tecnoblog , o vice-presidente e gerente-geral do Waze, Gai Berkovich, reforçou que a IA não define os percursos e nem avalia se um caminho é seguro. Segundo o executivo, essas decisões continuam baseadas em relatos da comunidade e nos modelos próprios de machine learning . Berkovich também revelou que o Brasil abriga a maior comunidade do Waze na América Latina e está entre os três maiores mercados do aplicativo no mundo, com quase 600 milhões de viagens por mês. Modo Moto Segundo o Waze, o Modo Moto foi desenvolvido para oferecer uma navegação mais específica. “As necessidades de quem anda de moto são muito diferentes das de quem dirige um carro”, afirmou Berkovich. Esse novo recurso considera atalhos e restrições exclusivos para motociclistas, oferecendo estimativas de chegada mais precisas. A troca para esse perfil será por um atalho disponível na tela inicial do app. Em contrapartida, os motociclistas receberão mais alertas de segurança. Além de avisos sobre buracos, lombadas e pista escorregadia, o app passa a alertar sobre travessias elevadas de pedestres, pontes estreitas, fim de faixa e fim de acostamento.&nbsp; A plataforma também inseriu um recurso de navegação personalizada, que se baseia no histórico de viagens anteriores. De acordo com o Waze, se você prefere dirigir em rodovias, verá essas opções primeiro.&nbsp; Gemini como assistente Gemini ajuda a atualizar mapas e encontrar destinos (imagem: divulgação) O Waze anunciou a integração com o Gemini no ano passado . Agora, as novidades chegam ao país com dois novos recursos, ambos baseados em comandos de voz. Waze MapMate : permite relatar mudanças no mapa, como novas ruas, bloqueios ou alterações de conversão, usando linguagem natural. A IA organiza essas informações e as encaminha para validação da comunidade. Para usar o recurso, basta tocar em um botão e iniciar a conversa, mas a empresa vai avaliar a demanda para incluir uma palavra de ativação no futuro, como Ok, Google . Waze Search Mate : um assistente para buscar destinos em tom de conversa. Em vez de pesquisar por palavras-chave, o motorista poderá fazer pedidos como encontre uma cafeteria aberta agora ou procure um posto com combustível barato . Esse recurso chega em fase beta. Waze reduz instruções por voz Modo Menos Falante reduz instruções durante a navegação (imagem: divulgação) O Waze também ganhou o modo de voz Menos Falante, que reduz a quantidade de instruções durante a navegação. Ele mantém apenas os avisos essenciais.&nbsp; O motorista continuará recebendo alertas sobre conversões, mudanças de faixa e situações de risco, mas com menos interrupções para ouvir suas músicas durante a viagem. Esse recurso chega primeiro ao Android e deve ser liberado nos iPhones até agosto. Já as demais novidades começam a ser liberadas simultaneamente para Android, iPhone, Android Auto e Apple CarPlay. O lançamento também acontece no México, Argentina, Peru e Colômbia. Waze ganha navegação para motos e busca por voz com Gemini",
-      "lang": "pt",
-      "depts": [
-        "Educação"
       ]
     },
     {
@@ -199,19 +220,6 @@
         "Marketing",
         "Comercial",
         "Gestão"
-      ]
-    },
-    {
-      "title": "Empresa quer espalhar servidores de IA pelas casas dos usuários",
-      "description": "Sunrun quer distribuir computadores específicos para rodar inteligência artificial para o cliente, e pode pagar quem aderir ao projeto. Empresa quer espalhar servidores de IA pelas casas dos usuários",
-      "url": "https://tecnoblog.net/noticias/empresa-quer-espalhar-servidores-de-ia-pelas-casas-dos-usuarios/",
-      "publishedAt": "Sat, 11 Jul 2026 17:27:33 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/img_1629-edited.webp",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Comercial"
       ]
     },
     {
@@ -541,17 +549,6 @@
         "Comercial",
         "Educação"
       ]
-    },
-    {
-      "title": "Fable e Mythos 5: governo Trump libera IAs mais perigosas da Anthropic",
-      "description": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três s",
-      "url": "https://canaltech.com.br/inteligencia-artificial/fable-e-mythos-5-governo-trump-libera-ias-mais-perigosas-da-anthropic/",
-      "publishedAt": "Wed, 01 Jul 2026 12:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/Am6VaUx8jmQtCNJCxA_znmbrltc=/700x394/smart/i1107289.png",
-      "source": "Canaltech IA",
-      "content": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três semanas depois de o governo ter suspendido o acesso aos dois sistemas por risco à segurança nacional. Segundo a Reuters, o acesso ao Fable 5 será restaurado a partir desta quarta-feira (1º) , ficando disponível ao público em geral. Já o Mythos 5, direcionado à detecção de vulnerabilidades de cibersegurança, será liberado para um grupo maior de parceiros domésticos e internacionais do programa Glasswing, da Anthropic. Como começou a restrição Em 12 de junho, o governo americano incluiu os dois modelos em sua lista de tecnologias sob controle de exportação , impedindo o acesso de estrangeiros sem aprovação especial . Como a Anthropic não tinha como verificar a nacionalidade dos usuários em tempo real, a companhia optou por suspender o Fable 5 e o Mythos 5 para todo mundo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A decisão, segundo a Reuters, partiu de uma denúncia de pesquisadores da Amazon , que encontraram uma forma de contornar as proteções do Fable 5. Com essa brecha, o modelo passou a identificar falhas de software e, em um dos casos registrados, chegou a gerar código demonstrando como explorar uma vulnerabilidade. No último domingo (28), o governo abriu uma primeira exceção , permitindo o uso do Mythos 5 por organizações selecionadas e por funcionários da própria Anthropic, incluindo estrangeiros vinculados a esses grupos. O Fable 5 seguia fora do ar até esta terça. O Claude é, atualmente, a terceira IA mais utilizada no mundo (Imagem: Marcelo Fischer/Canaltech) Por que são modelos tão perigosos O Mythos 5 concentra as capacidades que mais preocupam o governo american",
-      "lang": "pt",
-      "depts": []
     }
   ]
 }
