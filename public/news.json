@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-07-19T11:03:31.205Z",
+  "updatedAt": "2026-07-20T12:08:11.797Z",
   "count": 40,
   "articles": [
+    {
+      "title": "Um processo da Apple pode atrapalhar os planos de hardware da OpenAI?",
+      "description": "No último episódio de Equity, debatemos se o processo da Apple irá lançar sobre os planos muito discutidos da OpenAi de entrar no mercado de hardware e abrir o capital.",
+      "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "publishedAt": "Sun, 19 Jul 2026 19:24:45 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "Gestão"
+      ]
+    },
     {
       "title": "Databricks atinge avaliação de US$ 188 bilhões, ampliando sua atuação como segundo ato favorito da IA",
       "description": "A Databricks refez sua imagem de empresa de IA e publicou pesquisas sobre a economia de custos de modelos de IA de peso aberto para codificação.",
@@ -137,17 +150,6 @@
       ]
     },
     {
-      "title": "Por que a OpenAI está vendendo uma bola de basquete ChatGPT?",
-      "description": "Você deve ter ouvido falar que a OpenAI lançou seu primeiro hardware esta semana. Você pode não ter ouvido falar do basquete ChatGPT.",
-      "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
-      "publishedAt": "Thu, 16 Jul 2026 15:31:09 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
       "title": "Linus Torvalds sai em defesa do uso de IA no kernel Linux",
       "description": "Linus Torvalds esclareceu que não é contra o uso de inteligência artificial no desenvolvimento do Linux, mas defende aplicação coerente da tecnologia. Linus Torvalds sai em defesa do uso de IA no kernel Linux",
       "url": "https://tecnoblog.net/noticias/linus-torvalds-sai-em-defesa-do-uso-de-ia-no-kernel-linux/",
@@ -156,30 +158,6 @@
       "source": "Tecnoblog",
       "content": null,
       "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "Como um ex-pesquisador da DeepMind arrecadou uma avaliação pré-semente de US$ 300 milhões antes de lançar um produto",
-      "description": "Com base em mais de uma década ajudando a construir alguns dos sistemas de IA mais influentes do mundo, incluindo pesquisas que mais tarde informaram o desenvolvimento do ChatGPT, Andrew Dai explica por que acredita que a IA visual é uma das próximas grandes fronteiras da inteligência artificial.",
-      "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
-      "publishedAt": "Thu, 16 Jul 2026 15:02:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Com base em mais de uma década ajudando a construir alguns dos sistemas de IA mais influentes do mundo, incluindo pesquisas que mais tarde informaram o desenvolvimento do ChatGPT, Andrew Dai explica por que acredita que a IA visual é uma das próximas grandes fronteiras da inteligência artificial.",
-      "lang": "en",
-      "depts": [
-        "Comercial"
-      ]
-    },
-    {
-      "title": "Espera-se que o próximo Kimi 3 da Moonshot feche a lacuna com o Opus 4.8 da Anthropic",
-      "description": "O FT relata que o Kimi K3 será o maior modelo aberto de IA da China, com uma contagem de parâmetros entre 2 trilhões e 3 trilhões.",
-      "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
-      "publishedAt": "Thu, 16 Jul 2026 14:26:29 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
       "depts": []
     },
     {
@@ -541,6 +519,37 @@
       "depts": [
         "Financeiro",
         "Gestão",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Governo Federal lança matriz de competências para uso de IA",
+      "description": "O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) divulgou, na última semana, a Matriz de Competências em Inteligência Artificial do Governo do Brasil . O documento vai orientar os cursos e treinamentos oferecidos a servidores federais sobre o uso da tecnologia, com eixos voltados à ét",
+      "url": "https://canaltech.com.br/inteligencia-artificial/governo-federal-lanca-matriz-de-competencias-para-uso-de-ia/",
+      "publishedAt": "Fri, 03 Jul 2026 19:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/kzQDM-16SY2FIYKPRKkiU42iGYs=/700x394/smart/i1140307.png",
+      "source": "Canaltech IA",
+      "content": "O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) divulgou, na última semana, a Matriz de Competências em Inteligência Artificial do Governo do Brasil . O documento vai orientar os cursos e treinamentos oferecidos a servidores federais sobre o uso da tecnologia, com eixos voltados à ética, segurança, privacidade e soberania digital. A publicação é do Núcleo de Inteligência Artificial (NIA), iniciativa da Secretaria de Governo Digital (SGD) para apoiar a adoção de IA no Poder Executivo Federal. A matriz passa a nortear todas as capacitações conduzidas pelo núcleo. Mais de 167 mil servidores já foram capacitados Segundo o secretário de Governo Digital, Rogério Mascarenhas, ao menos 167 mil servidores já concluíram alguma capacitação dos programas do ministério. Para ele, o número demonstra interesse crescente pelo uso da tecnologia no serviço público. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Mascarenhas afirma que a matriz foi criada para orientar o desenvolvimento de novos cursos e identificar lacunas de competência em cada perfil de servidor. O secretário também classificou o documento como inovador e disse que ele pode servir de referência para outros países e para empresas privadas. Seis perfis de servidores e onze programas de formação O MGI dividiu o público-alvo das capacitações em seis perfis: agente público, gestor de TIC, gestor público, executivo de dados, curador de dados e altas lideranças. Cada perfil tem competências específicas a desenvolver, conforme a rotina de trabalho ou o nível de decisão sobre o uso da tecnologia no órgão. As formações somam 11 programas, oferecidos pela Escola Virtual de Governo (EV.G), vinculada à Escola Nacional de Administração Pública (Enap), em parceria com o Serpro. Os cursos são gratuitos, a distância e abertos a qualquer servidor, e abrangem temas como IA generativa, ética em IA, proteção de dados pessoais",
+      "lang": "pt",
+      "depts": [
+        "Comercial",
+        "Jurídico",
+        "Gestão",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Novo app da Meta mostra criações feitas por vibe coding",
+      "description": "A Meta lançou silenciosamente o Pocket , um novo aplicativo para criar e compartilhar pequenos jogos e experiências interativas, chamados de \"gizmos\", usando comandos de inteligência artificial. O app já está disponível na App Store e no Google Play, mas a empresa ainda não fez um anúncio sobre o la",
+      "url": "https://canaltech.com.br/inteligencia-artificial/novo-app-da-meta-mostra-criacoes-feitas-por-vibe-coding/",
+      "publishedAt": "Fri, 03 Jul 2026 17:10:00 -0300",
+      "image": "https://t.ctcdn.com.br/o35a_R-0f5b8pzB7LdM_9qhgmOE=/700x394/smart/i1140309.png",
+      "source": "Canaltech IA",
+      "content": "A Meta lançou silenciosamente o Pocket , um novo aplicativo para criar e compartilhar pequenos jogos e experiências interativas, chamados de \"gizmos\", usando comandos de inteligência artificial. O app já está disponível na App Store e no Google Play, mas a empresa ainda não fez um anúncio sobre o lançamento, o que sugere que a ferramenta pode estar em fase inicial de testes. O aplicativo foi descoberto e divulgado primeiro no X por Alessandro Paluzzi, engenheiro reverso conhecido por encontrar novos aplicativos e recursos antes dos anúncios oficiais. Segundo dados da Appfigures, no entanto, o Pocket já estava disponível nas lojas desde 29 de junho. #Meta is working on a new app called Pocket 👀 ℹ️ A new creative platform to make and share gizmos. pic.twitter.com/zFjMU5jj1U - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - — Alessandro Paluzzi (@alex193a) July 2, 2026 O Pocket usa prompts de texto para gerar conteúdos interativos . Assim, até pessoas sem conhecimento em programação conseguem criar seus próprios miniapps. Além da ferramenta de criação, o aplicativo conta com um feed em que os usuários podem descobrir e testar gizmos desenvolvidos por outras pessoas. O projeto foi criado após a Meta adquirir, no início de 2026, a equipe da Gizmo, plataforma que já utilizava o conceito de vibe coding e acumulava mais de 635 mil instalações. O aplicativo original registrava 98% de avaliações positivas entre os usuários e, curiosamente, continua disponível nas lojas de aplicativos mesmo após o lançamento do Pocket pela Meta. A iniciativa reforça a estratégia da Meta de ampliar o acesso às ferramentas de criação com inteligência artificial. O Pocket ( play.google.com ) integra um ecossistema que já inclui o Vibes, de vídeos gerados por IA, e o Meta AI, focado na criação de imagens. Recentemente, a empresa também adicionou recursos de IA ao editor de vídeos Edits. O Pocket é o novo",
+      "lang": "pt",
+      "depts": [
+        "Marketing",
+        "Comercial",
         "Educação"
       ]
     }
