@@ -1,7 +1,88 @@
 {
-  "updatedAt": "2026-07-21T11:41:33.275Z",
+  "updatedAt": "2026-07-22T11:41:28.317Z",
   "count": 40,
   "articles": [
+    {
+      "title": "O boato sobre Inteligência Antrópico-Física agitando o AI Twitter",
+      "description": "As agressivas ondas de aquisições da Anthropic e da OpenAI em 2026 prepararam o terreno para um boato de fim de semana.",
+      "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+      "publishedAt": "Wed, 22 Jul 2026 03:20:57 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "OpenAI diz que Hugging Face foi violado por seus modelos de pré-lançamento",
+      "description": "A OpenAI se apresentou para reivindicar a responsabilidade pela violação do Hugging Face, dizendo que foi o resultado de testes internos que deram errado.",
+      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
+      "publishedAt": "Tue, 21 Jul 2026 20:56:55 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Meta prepara chegada de novos óculos inteligentes ao Brasil",
+      "description": "Terceira geração dos smart glasses da Meta foi homologada pela Anatel e pode ser vendida no mercado nacional. Meta prepara chegada de novos óculos inteligentes ao Brasil",
+      "url": "https://tecnoblog.net/noticias/meta-prepara-chegada-de-novos-oculos-inteligentes-ao-brasil/",
+      "publishedAt": "Tue, 21 Jul 2026 20:43:27 +0000",
+      "image": "https://www.youtube.com/embed/M6uA1QQ5290",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Google lança IA para cibersegurança e quer rivalizar com Claude Mythos",
+      "description": "Gemini 3.5 Flash Cyber tem resultados parecidos com modelos maiores e mais caros da Anthropic e da OpenAI, mas promete ser mais barato. Google lança IA para cibersegurança e quer rivalizar com Claude Mythos",
+      "url": "https://tecnoblog.net/noticias/google-lanca-ia-para-ciberseguranca-e-quer-rivalizar-com-claude-mythos/",
+      "publishedAt": "Tue, 21 Jul 2026 18:49:19 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capas-google-gemini-2026-3.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Google lança três novos modelos Gemini – mas nenhum 3.5 Pro",
+      "description": "O Google lançou o Gemini 3.6 Flash, 3.5 Flash-Lite e Flash Cyber, mas a contínua ausência do Gemini 3.5 Pro levanta novas questões sobre sua estratégia de IA.",
+      "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+      "publishedAt": "Tue, 21 Jul 2026 17:11:50 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "O Google lançou o Gemini 3.6 Flash, 3.5 Flash-Lite e Flash Cyber, mas a contínua ausência do Gemini 3.5 Pro levanta novas questões sobre sua estratégia de IA.",
+      "lang": "en",
+      "depts": [
+        "Gestão"
+      ]
+    },
+    {
+      "title": "Anthropic fecha acordo de US$ 1,5 bilhão por usar livros para treinar IA",
+      "description": "Acordo encerra ação coletiva movida por escritores contra a desenvolvedora do Claude. Valor é o maior já registrado em um caso do tipo no país. Anthropic fecha acordo de US$ 1,5 bilhão por usar livros para treinar IA",
+      "url": "https://tecnoblog.net/noticias/anthropic-pagara-us-15-bilhao-por-livros-usados-para-treinar-o-claude/",
+      "publishedAt": "Tue, 21 Jul 2026 16:08:54 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/12/pirataria-direitos-autorais-capa-7-nov-2022.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "EUA ameaçam sanções contra modelos chineses de IA por roubo de propriedade intelectual",
+      "description": "O secretário do Tesouro, Scott Bessent, disse que os EUA poderiam sancionar os modelos abertos de IA chineses por suposto roubo de propriedade intelectual, expandindo a campanha do governo Trump para desacelerar os avanços da IA ​​da China.",
+      "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
+      "publishedAt": "Tue, 21 Jul 2026 15:37:05 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "O secretário do Tesouro, Scott Bessent, disse que os EUA poderiam sancionar os modelos abertos de IA chineses por suposto roubo de propriedade intelectual, expandindo a campanha do governo Trump para desacelerar os avanços da IA ​​da China.",
+      "lang": "en",
+      "depts": [
+        "Marketing"
+      ]
+    },
     {
       "title": "O acordo histórico de direitos autorais de US$ 1,5 bilhão da Anthropic é aprovado",
       "description": "A aprovação final resolve um caso, mas não resolve a questão mais ampla do uso de obras protegidas por direitos autorais para treinar modelos de IA.",
@@ -42,32 +123,6 @@
       ]
     },
     {
-      "title": "Um processo da Apple pode atrapalhar os planos de hardware da OpenAI?",
-      "description": "No último episódio de Equity, debatemos se o processo da Apple lançará uma sombra sobre os planos muito discutidos da OpenAi de entrar no mercado de hardware e abrir o capital.",
-      "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-      "publishedAt": "Sun, 19 Jul 2026 19:24:45 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "No último episódio de Equity, debatemos se o processo da Apple lançará uma sombra sobre os planos muito discutidos da OpenAi de entrar no mercado de hardware e abrir o capital.",
-      "lang": "en",
-      "depts": [
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Databricks atinge avaliação de US$ 188 bilhões, ampliando sua atuação como segundo ato favorito da IA",
-      "description": "A Databricks refez sua imagem de empresa de IA e publicou pesquisas sobre a economia de custos de modelos de IA abertos para codificação.",
-      "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-      "publishedAt": "Fri, 17 Jul 2026 22:12:56 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Financeiro"
-      ]
-    },
-    {
       "title": "Evoto AI usa IA para agilizar edição profissional de imagens",
       "description": "Retoques de pele, correções de cor e escolha de fotos ficam mais rápidos com ferramentas do software de fotografia com inteligência artificial. Evoto AI usa IA para agilizar edição profissional de imagens",
       "url": "https://tecnoblog.net/publieditoriais/evoto-ai-usa-ia-para-agilizar-edicao-profissional-de-imagens/",
@@ -79,46 +134,6 @@
       "depts": [
         "RH",
         "Gestão"
-      ]
-    },
-    {
-      "title": "Melhor smartwatch Xiaomi: qual relógio comprar em 2026?",
-      "description": "Encontre o melhor relógio inteligente da Xiaomi para monitorar treinos, saúde e ver notificações; lista reúne smartwatches com NFC, bateria duradoura e resistência à água Melhor smartwatch Xiaomi: qual relógio comprar em 2026?",
-      "url": "https://tecnoblog.net/guias/melhor-smartwatch-xiaomi/",
-      "publishedAt": "Fri, 17 Jul 2026 16:15:12 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/redmi-watch-5-active.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Saúde"
-      ]
-    },
-    {
-      "title": "Brasil se junta a 28 países em acordo internacional de inteligência artificial",
-      "description": "Encontro na China oficializa organização para garantir um desenvolvimento ético da IA. Governo fala ainda em aplicação “orientada ao ser humano”. Brasil se junta a 28 países em acordo internacional de inteligência artificial",
-      "url": "https://tecnoblog.net/noticias/brasil-se-junta-a-28-paises-em-acordo-internacional-de-inteligencia-artificial/",
-      "publishedAt": "Fri, 17 Jul 2026 12:50:24 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/img_1649-edited.webp",
-      "source": "Tecnoblog",
-      "content": "Brasil oficializa acordo com outros 28 países para cooperação em IA (imagem: reprodução/Reuters) Resumo Brasil e outros 28 países oficializaram a Organização Internacional de Cooperação em Inteligência Artificial (WAICO) em Xangai, China. O objetivo do acordo internacional é garantir o desenvolvimento ético da IA, segundo o governo brasileiro. O país participará da WAICO em governança da IA e cooperação tecnológica, com o objetivo de se tornar uma referência global no setor. A Organização Internacional de Cooperação em Inteligência Artificial (WAICO, em inglês) foi oficializada nesta quinta-feira (16/07) em Xangai, na China, e tem o Brasil como um dos países participantes. O acordo vai direcionar o desenvolvimento das IAs , assim como sua implementação e acesso pelo mundo. Segundo o Governo Federal, a tecnologia precisa ser oferecida “de forma benéfica, segura, ética, confiável e orientada ao ser humano”. Além do Brasil, participam da iniciativa a China, Rússia, Indonésia, Cazaquistão e outros países do chamado sul global – são 29 no total. Atualmente, empresas como OpenAI e Anthropic, ambas dos Estados Unidos, dominam o mercado de inteligência artificial, inclusive tendo trabalhado junto ao governo no aprimoramento de seus modelos de IA recém-lançados, GPT-5.6 e Claude Fable/Mythos 5, respectivamente. De acordo com o portal estatal chinês Xinhua , a WAICO seguirá a cartilha da ONU e trabalhará junto à organização. O próprio António Guterres, secretário geral das Nações Unidas, esteve presente na cerimônia de oficialização. Além de garantir uma abordagem humana à tecnologia, o objetivo do acordo também é facilitar o acesso às IAs ao redor do mundo. Acordo também traz recado político Modelo mais poderoso da Anthropic foi lançado no começo de junho, mas sofreu restrições (imagem: divulgação) O mercado de inteligência artificial passa, necessariamente, por empresas sediadas nos Estados Unidos. Recentemente, OpenAI e Anthropic destacaram a importância de melhorar tecnologias de cibersegurança em meio aos avanços de suas próprias IAs, trazendo a público seus modelos mais recentes de forma gradativa. Essa preocupação com o alto potencial das novas IAs não foi exclusiva das empresas, passando diretamente por um receio da administração de Donald Trump. Nos últimos meses, o governo estadunidense solicitou a retirada do Claude Fable/Mythos 5 do ar, da mesma forma que sugeriu o adiamento do GPT-5.6. Alguns analistas afirmam que um dos motivos seria o acesso deliberado de hackers chineses à tecnologia mais avançada . Dessa forma, a WAICO surge com uma proposta de descentralizar o desenvolvimento e o acesso às IAs, além de reforçar o direcionamento da tecnologia ao benefício humano. A proposta passa inclusive pelo estímulo da cooperação em “ecossistemas de código aberto”, conforme comunicado pelo governo brasileiro . Qual o papel do Brasil no acordo? PBIA é projeto do Governo Federal para transformar Brasil em referência em IA (imagem: reprodução) De acordo com o Ministério de Ciência, Tecnologia e Informação, o Brasil participará da WAICO em assuntos como governança da IA e cooperação tecnológica. Vale lembrar que, atualmente, está em vigor no país o Plano Brasileiro de Inteligência Artificial, o PBIA, que prevê um investimento de R$ 23 milhões até 2028. Entre os objetivos do projeto está a criação de um supercomputador que permita processar um grande volume de dados e dar conta de LLMs em português com dados nacionais. A partir disso, a ideia é transformar o Brasil em referência global de inteligência artificial. Brasil se junta a 28 países em acordo internacional de inteligência artificial",
-      "lang": "pt",
-      "depts": [
-        "Jurídico",
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Teclado da OpenAI para programadores esgota em 24 horas",
-      "description": "Codex Micro é o primeiro produto de hardware da OpenAI. Dispositivo foi lançado nessa quarta-feira (15/07) em edição limitada, por cerca de R$ 1.200. Teclado da OpenAI para programadores esgota em 24 horas",
-      "url": "https://tecnoblog.net/noticias/teclado-da-openai-para-programadores-esgota-em-24-horas/",
-      "publishedAt": "Thu, 16 Jul 2026 19:54:31 +0000",
-      "image": "https://www.youtube.com/embed/3-2OH6ReiPM",
-      "source": "Tecnoblog",
-      "content": "Teclado traz 13 switches mecânicos, joystick e botão giratório configurável (imagem: reprodução) Resumo O teclado Codex Micro da OpenAI, desenvolvido em parceria com a Work Louder, esgotou em 24 horas. O produto foi lançado nessa quarta-feira (15/07) em edição limitada, por cerca de R$ 1.200. O dispositivo é voltado para programadores e possui 13 switches mecânicos, um joystick, um botão giratório e um sensor de toque. A OpenAI deu o primeiro passo no mercado de hardware e apresentou o Codex Micro, um teclado compacto em formato de macropad desenvolvido em parceria com a Work Louder. Voltado para programadores, o acessório foi lançado ontem (15/07) por US$ 230 (cerca de R$ 1.200, em conversão direta). O produto, porém, esgotou poucas horas após o lançamento. Na loja oficial Supply Co, responsável pelas vendas, o Codex Micro já aparece indisponível . Como a OpenAI afirmou que o acessório faz parte de uma edição limitada, comercializado apenas enquanto existisse estoque, não há previsão de reposição. Como é o Codex Micro? Dispositivo acompanha 32 teclas extras (imagem: reprodução) O painel retangular lembra o Creator Micro 2, modelo já consagrado da marca parceira, que havíamos adiantado aqui no Tecnoblog . O hardware entrega 13 switches mecânicos, um pequeno joystick, um botão giratório e um sensor de toque. Na caixa, o usuário ainda leva 32 teclas extras customizadas com ícones do Codex, permitindo personalizar o layout da forma que achar mais intuitiva. A grande sacada do acessório é tirar a necessidade de o programador ficar refém apenas da tela principal para interagir com a inteligência artificial. No vídeo de demonstração, o cofundador da Work Louder, Mike Di Genova, detalhou que seis teclas foscas do aparelho são equipadas com iluminação inteligente para entregar um panorama em tempo real das interações com o Codex. É aí que a mágica acontece: cada cor de LED reflete o status de uma tarefa processada. Com uma simples batida de olho, o usuário sabe se a geração de um bloco de código foi concluída com sucesso, se a IA pausou à espera de feedback humano, se o script ainda está rodando ou se o sistema esbarrou em algum erro. Já as demais teclas de comando focam em produtividade e podem ser mapeadas pelo aplicativo oficial do ChatGPT para desktop. Dá para configurar atalhos de um clique para ativar o microfone, aceitar ou rejeitar sugestões de código e enviar blocos de texto. O joystick e o knob servem para disparar fluxos de trabalho e até para calibrar o nível de raciocínio da IA durante tarefas mais complexas. Codex Micro foi vendido em cinco opções de cores (imagem: reprodução) OpenAI prepara outro produto Como destacado no início, o Codex Micro é um produto de nicho. Ele não tem qualquer relação com o projeto de hardware da OpenAI encabeçado por Jony Ive, ex-chefe de design da Apple. Os rumores indicam que a nova aposta da empresa de Sam Altman pode ser uma caixa de som inteligente que conversa e parece viva , com previsão de chegada às prateleiras já no ano que vem. Esse futuro gadget está inserido em uma polêmica mesmo antes de nascer. A Apple abriu recentemente um processo judicial acusando a OpenAI de roubo de segredos industriais. A companhia afirma que a empresa de Sam Altman estaria usando informações confidenciais para acelerar uma possível entrada no mercado de dispositivos físicos. A OpenAI rebateu, classificando as alegações como infundadas. Teclado da OpenAI para programadores esgota em 24 horas",
-      "lang": "pt",
-      "depts": [
-        "Comercial"
       ]
     },
     {
@@ -531,35 +546,6 @@
       "content": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três semanas depois de o governo ter suspendido o acesso aos dois sistemas por risco à segurança nacional. Segundo a Reuters, o acesso ao Fable 5 será restaurado a partir desta quarta-feira (1º) , ficando disponível ao público em geral. Já o Mythos 5, direcionado à detecção de vulnerabilidades de cibersegurança, será liberado para um grupo maior de parceiros domésticos e internacionais do programa Glasswing, da Anthropic. Como começou a restrição Em 12 de junho, o governo americano incluiu os dois modelos em sua lista de tecnologias sob controle de exportação , impedindo o acesso de estrangeiros sem aprovação especial . Como a Anthropic não tinha como verificar a nacionalidade dos usuários em tempo real, a companhia optou por suspender o Fable 5 e o Mythos 5 para todo mundo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A decisão, segundo a Reuters, partiu de uma denúncia de pesquisadores da Amazon , que encontraram uma forma de contornar as proteções do Fable 5. Com essa brecha, o modelo passou a identificar falhas de software e, em um dos casos registrados, chegou a gerar código demonstrando como explorar uma vulnerabilidade. No último domingo (28), o governo abriu uma primeira exceção , permitindo o uso do Mythos 5 por organizações selecionadas e por funcionários da própria Anthropic, incluindo estrangeiros vinculados a esses grupos. O Fable 5 seguia fora do ar até esta terça. O Claude é, atualmente, a terceira IA mais utilizada no mundo (Imagem: Marcelo Fischer/Canaltech) Por que são modelos tão perigosos O Mythos 5 concentra as capacidades que mais preocupam o governo american",
       "lang": "pt",
       "depts": []
-    },
-    {
-      "title": "Português é o 3º idioma mais usado no ChatGPT",
-      "description": "O português é agora o terceiro idioma mais usado no ChatGPT , segundo dados da OpenAI divulgados no relatório OpenAI Signals. Ele fica atrás apenas do inglês e do espanhol. O levantamento também mostra que, pela primeira vez, mais da metade dos usuários ativos usa o ChatGPT principalmente em idiomas",
-      "url": "https://canaltech.com.br/inteligencia-artificial/portugues-e-o-3o-idioma-mais-usado-no-chatgpt/",
-      "publishedAt": "Wed, 01 Jul 2026 09:27:36 -0300",
-      "image": "https://t.ctcdn.com.br/elWRGd7DozFcUzbnLeKmr45Ecyw=/700x394/smart/i1137007.png",
-      "source": "Canaltech IA",
-      "content": "O português é agora o terceiro idioma mais usado no ChatGPT , segundo dados da OpenAI divulgados no relatório OpenAI Signals. Ele fica atrás apenas do inglês e do espanhol. O levantamento também mostra que, pela primeira vez, mais da metade dos usuários ativos usa o ChatGPT principalmente em idiomas diferentes do inglês. Em quarto, quinto e sexto lugar aparecem, respectivamente, o francês, o indonésio e o árabe. A análise mede as interações de usuários nos planos individuais do ChatGPT , incluindo as assinaturas Free (gratuito), Go, Plus e Pro. Além disso, os idiomas uzbeque, cazaque e birmanês foram os que mais cresceram em participação desde julho de 2023. O relatório também mostra que usuários mais antigos usam o ChatGPT com mais frequência. Após seis meses na plataforma, eles enviam, em média, 50% mais mensagens por dia e realizam o dobro de tarefas diferentes em relação ao início do uso. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Português é o terceiro idioma mais usado no ChatGPT. (Imagem: Divulgação/OpenAI) Adoção do ChatGPT cresceu em todas as regiões O relatório também mostra que o uso do ChatGPT cresceu em todos os continentes desde julho de 2023, deixando a base de usuários mais global e diversa. O crescimento foi mais rápido na África, seguida pela Ásia, América do Sul, Europa, América do Norte e Oceania. Segundo a OpenAI, o crescimento foi mais rápido em países com menor Índice de Desenvolvimento Humano (IDH) , que registraram o maior aumento no número de usuários ativos por semana. O levantamento também aponta mudanças no perfil dos usuários. Pessoas com nomes tipicamente femininos representam a maior parte do uso global do ChatGPT. O Brasil, Colômbia, Polônia e Namíbia estão entre os países onde esse grupo supera os usuários com nomes tipicamente masculinos. Já Paquistão, Bangladesh, Angola, República Democrática do Congo e Mali têm a maior presença de",
-      "lang": "pt",
-      "depts": [
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Novo sistema usará IA para \"traduzir\" o que o seu corpo realmente precisa",
-      "description": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30",
-      "url": "https://canaltech.com.br/inteligencia-artificial/novo-sistema-usara-ia-para-traduzir-o-que-o-seu-corpo-realmente-precisa/",
-      "publishedAt": "Wed, 01 Jul 2026 08:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/4BlAeU73zGDl24KwhTRIfUE4ZkA=/700x394/smart/i1138901.png",
-      "source": "Canaltech IA",
-      "content": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30) e foi divulgado pelo site Android Police. A empresa afirma que dispositivos vestíveis já evoluíram na coleta de dados, mas ainda falham em explicar o significado desses números para quem os usa. Gee Gu, cofundador da Vilo ao lado de Andy Xu, descreveu o Signal OS como um sistema que ajuda o usuário a entender o que mudou no corpo , priorizar o que importa e transformar sinais corporais em suporte real. Como funciona o Signal OS O sistema reúne quatro frentes principais. A primeira é o Signals , um recurso de cartões que aponta alterações nos indicadores de saúde e sugere o que fazer a respeito. Já o Pulse funciona como um painel com o histórico de dados e tendências ao longo do tempo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Há ainda o Vibes , um chatbot com IA para tirar dúvidas sobre as informações coletadas, e uma camada dedicada à saúde da mulher . A Vilo descreve o Signal OS como uma plataforma \"ring-first\", ou seja, pensada primeiro para anéis inteligentes, e ela vai estrear no próprio anel da empresa. A companhia evita o terreno regulatório mais rígido reservado a dispositivos médicos. Segundo o comunicado oficial, a proposta do sistema é oferecer \"orientação de bem-estar e autoconhecimento, não diagnóstico ou tratamento\", o que dispensa aprovação de agências como a FDA, órgão regulador dos Estados Unidos. Fitbit já segue caminho parecido com o AI Coach e o Fitbit Air, usando IA para interpretar pontuações sem depender desse tipo de aval. Possível interface do app dedicado ao sistema, presente no vídeo de divulgação (Imagem: Reprodução/YouTube/VILO) Anel da Vilo",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Comercial",
-        "Saúde",
-        "Educação"
-      ]
     }
   ]
 }
