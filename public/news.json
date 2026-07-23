@@ -1,7 +1,114 @@
 {
-  "updatedAt": "2026-07-22T11:41:28.317Z",
+  "updatedAt": "2026-07-23T11:45:11.051Z",
   "count": 40,
   "articles": [
+    {
+      "title": "Tesouro ameaça sanções depois que a Casa Branca afirma que Moonshot destilou Anthropic's Fable",
+      "description": "O episódio também intensificou um debate mais amplo em Washington sobre o influxo de modelos abertos chineses.",
+      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+      "publishedAt": "Wed, 22 Jul 2026 20:49:03 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Como o erro humano da OpenAI levou ao hack baseado em IA no Hugging Face",
+      "description": "A OpenAI cometeu um erro ao configurar o que chamou de ambiente de teste e sandbox “altamente isolado”. De acordo com especialistas em segurança cibernética, foi esse erro humano que tornou possível o ataque baseado em IA ao Hugging Face.",
+      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+      "publishedAt": "Wed, 22 Jul 2026 19:11:46 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "A OpenAI cometeu um erro ao configurar o que chamou de ambiente de teste e sandbox “altamente isolado”. De acordo com especialistas em segurança cibernética, foi esse erro humano que tornou possível o ataque baseado em IA ao Hugging Face.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "AMD fecha acordo bilionário com a Anthropic para fornecer GPUs de IA",
+      "description": "Parceria prevê até 2 gigawatts de capacidade computacional e investimento de US$ 5 bilhões para otimizar o Claude. AMD fecha acordo bilionário com a Anthropic para fornecer GPUs de IA",
+      "url": "https://tecnoblog.net/noticias/amd-fecha-acordo-bilionario-com-a-anthropic-para-fornecer-gpus-de-ia/",
+      "publishedAt": "Wed, 22 Jul 2026 18:32:48 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/05/capa_tbr-amd-1920x1080-1.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Financeiro",
+        "Comercial"
+      ]
+    },
+    {
+      "title": "Arcee, um laboratório de IA de código aberto dos EUA, afirma que os modelos chineses não são inerentemente perigosos",
+      "description": "À medida que os modelos chineses de IA crescem em capacidade e popularidade entre as empresas norte-americanas, a discussão sobre o que deveria ser feito em relação a eles atingiu um nível febril.",
+      "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+      "publishedAt": "Wed, 22 Jul 2026 16:24:08 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "À medida que os modelos chineses de IA crescem em capacidade e popularidade entre as empresas norte-americanas, a discussão sobre o que deveria ser feito em relação a eles atingiu um nível febril.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "A onda de gastos com IA da OpenAI disparou para US$ 750 bilhões",
+      "description": "A OpenAI gastará o equivalente ao PIB da Suécia em infraestrutura até 2030.",
+      "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
+      "publishedAt": "Wed, 22 Jul 2026 16:13:30 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Melhor smartband em 2026: 7 pulseiras para monitorar exercícios e saúde",
+      "description": "Guia reúne as melhores smartbands da Xiaomi, Samsung e Huawei; pulseiras inteligentes têm recursos para registrar atividades físicas e bateria de longa duração Melhor smartband em 2026: 7 pulseiras para monitorar exercícios e saúde",
+      "url": "https://tecnoblog.net/guias/melhor-smartband/",
+      "publishedAt": "Wed, 22 Jul 2026 15:29:19 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/xiaomi-smart-band-10-1.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Saúde",
+        "Educação"
+      ]
+    },
+    {
+      "title": "IA da OpenAI escapa de teste e ataca Hugging Face",
+      "description": "Modelo GPT-5.6 Sol e IA inédita burlaram restrições e invadiram servidores da Hugging Face sem intervenção humana. IA da OpenAI escapa de teste e ataca Hugging Face",
+      "url": "https://tecnoblog.net/noticias/ia-da-openai-escapa-de-teste-e-ataca-outra-plataforma-sozinha/",
+      "publishedAt": "Wed, 22 Jul 2026 14:41:42 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/08/openai-4_capa-edited.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Matt Murphy da Menlo Ventures explica o que os fundadores de startups de IA devem fazer de diferente",
+      "description": "A Anthropic saltou para uma taxa de receita de US$ 47 bilhões em maio, em comparação com US$ 9 bilhões em 2025. É o tipo de crescimento que Matt Murphy da Menlo Ventures diz nunca ter visto em 25 anos de investimentos, nem na onda da internet, nem nos dispositivos móveis, nem no primeiro boom da nuvem. Menlo liderou a Série D de US$ 500 milhões da Anthropic",
+      "url": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
+      "publishedAt": "Wed, 22 Jul 2026 14:00:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "A Anthropic saltou para uma taxa de receita de US$ 47 bilhões em maio, em comparação com US$ 9 bilhões em 2025. É o tipo de crescimento que Matt Murphy da Menlo Ventures diz nunca ter visto em 25 anos de investimentos, nem na onda da internet, nem nos dispositivos móveis, nem no primeiro boom da nuvem. Menlo liderou a Série D de US$ 500 milhões da Anthropic, e Murphy teve um lugar na primeira fila quando a empresa passou de uma pré-receita, []",
+      "lang": "en",
+      "depts": [
+        "Financeiro"
+      ]
+    },
+    {
+      "title": "Galaxy Watch 9 e Watch Ultra 2 são apresentados pela Samsung",
+      "description": "Relógios inteligentes estão mais leves e com maior autonomia de bateria. Galaxy Watch 9 e Watch Ultra 2 são apresentados pela Samsung",
+      "url": "https://tecnoblog.net/noticias/galaxy-watch-9-e-watch-ultra-2-sao-apresentados-pela-samsung/",
+      "publishedAt": "Wed, 22 Jul 2026 13:06:54 +0000",
+      "image": "https://www.youtube.com/embed/3qwragf89pw",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
     {
       "title": "O boato sobre Inteligência Antrópico-Física agitando o AI Twitter",
       "description": "As agressivas ondas de aquisições da Anthropic e da OpenAI em 2026 prepararam o terreno para um boato de fim de semana.",
@@ -47,19 +154,6 @@
       "depts": []
     },
     {
-      "title": "Google lança três novos modelos Gemini – mas nenhum 3.5 Pro",
-      "description": "O Google lançou o Gemini 3.6 Flash, 3.5 Flash-Lite e Flash Cyber, mas a contínua ausência do Gemini 3.5 Pro levanta novas questões sobre sua estratégia de IA.",
-      "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
-      "publishedAt": "Tue, 21 Jul 2026 17:11:50 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "O Google lançou o Gemini 3.6 Flash, 3.5 Flash-Lite e Flash Cyber, mas a contínua ausência do Gemini 3.5 Pro levanta novas questões sobre sua estratégia de IA.",
-      "lang": "en",
-      "depts": [
-        "Gestão"
-      ]
-    },
-    {
       "title": "Anthropic fecha acordo de US$ 1,5 bilhão por usar livros para treinar IA",
       "description": "Acordo encerra ação coletiva movida por escritores contra a desenvolvedora do Claude. Valor é o maior já registrado em um caso do tipo no país. Anthropic fecha acordo de US$ 1,5 bilhão por usar livros para treinar IA",
       "url": "https://tecnoblog.net/noticias/anthropic-pagara-us-15-bilhao-por-livros-usados-para-treinar-o-claude/",
@@ -69,72 +163,6 @@
       "content": null,
       "lang": "pt",
       "depts": []
-    },
-    {
-      "title": "EUA ameaçam sanções contra modelos chineses de IA por roubo de propriedade intelectual",
-      "description": "O secretário do Tesouro, Scott Bessent, disse que os EUA poderiam sancionar os modelos abertos de IA chineses por suposto roubo de propriedade intelectual, expandindo a campanha do governo Trump para desacelerar os avanços da IA ​​da China.",
-      "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
-      "publishedAt": "Tue, 21 Jul 2026 15:37:05 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "O secretário do Tesouro, Scott Bessent, disse que os EUA poderiam sancionar os modelos abertos de IA chineses por suposto roubo de propriedade intelectual, expandindo a campanha do governo Trump para desacelerar os avanços da IA ​​da China.",
-      "lang": "en",
-      "depts": [
-        "Marketing"
-      ]
-    },
-    {
-      "title": "O acordo histórico de direitos autorais de US$ 1,5 bilhão da Anthropic é aprovado",
-      "description": "A aprovação final resolve um caso, mas não resolve a questão mais ampla do uso de obras protegidas por direitos autorais para treinar modelos de IA.",
-      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-      "publishedAt": "Tue, 21 Jul 2026 00:12:24 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Jurídico"
-      ]
-    },
-    {
-      "title": "O Google está trabalhando em um novo chip de IA projetado para tornar o Gemini mais eficiente",
-      "description": "A Alphabet, controladora do Google, está supostamente trabalhando em um novo chip projetado para fazer com que seus modelos Gemini funcionem com muito mais eficiência.",
-      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-      "publishedAt": "Mon, 20 Jul 2026 21:21:15 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Gestão"
-      ]
-    },
-    {
-      "title": "OpenAI tem medo de modelos abertos. Os EUA deveriam estar?",
-      "description": "Falar sobre a proibição de LLMs abertos fabricados na China revela o desafio de transformar a IA em um negócio.",
-      "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
-      "publishedAt": "Mon, 20 Jul 2026 19:33:25 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Comercial"
-      ]
-    },
-    {
-      "title": "Evoto AI usa IA para agilizar edição profissional de imagens",
-      "description": "Retoques de pele, correções de cor e escolha de fotos ficam mais rápidos com ferramentas do software de fotografia com inteligência artificial. Evoto AI usa IA para agilizar edição profissional de imagens",
-      "url": "https://tecnoblog.net/publieditoriais/evoto-ai-usa-ia-para-agilizar-edicao-profissional-de-imagens/",
-      "publishedAt": "Fri, 17 Jul 2026 20:21:53 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/interface-evoto-ai-edited.png",
-      "source": "Tecnoblog",
-      "content": "Evoto AI (imagem: divulgação) O dia a dia de um fotógrafo é duplamente exigente. Além de entregar belas imagens de eventos, festas e pessoas, o profissional precisa de rapidez para fazer suas entregas no prazo e dar conta do grande número de demandas. Aliar entregas profissionais e processos eficientes não é tarefa simples. O Evoto AI é um software para fotógrafos profissionais que tem como objetivo solucionar essa equação, aumentando a qualidade das fotos sem que isso se torne uma complicação desnecessária no fluxo de edição. Como aliada, ele tem a inteligência artificial, que promete agilizar diversas etapas do workflow para fotógrafos, como aplicação de máscaras, correção de defeitos, edição de fotos em lote e sincronização de cor. Nós testamos o Evoto AI e vamos apresentar quais são seus diferenciais. Use o cupom TECNOBLOG para testar o Evoto AI com desconto. O que é o Evoto AI? O Evoto AI é um software de pós-produção de imagens, pensado para profissionais dos mais diversos tipos de fotografia. Assim, quem trabalha com eventos, casamentos, festas, retratos e produtos, entre outros, tem um leque de ferramentas a seu dispor para dar um toque final ao seu trabalho. Desenvolvido pela Truesight Technology, o programa usa inteligência artificial para retoques e detalhes. Graças a esse poder de processamento, o Evoto AI traz funções como corrigir imperfeições na pele, como cravos, olheiras e rugas, remover reflexos de óculos, “desamassar” roupas e remover objetos do fundo. Além disso, o programa tem recursos para ajudar na seleção das fotos, identificando imagens duplicadas e com problemas, além de escolher o melhor entre múltiplos cliques de uma mesma cena. As edições podem ser feitas em lote, com auxílio de presets e ferramentas de cor. O Evoto AI adota um sistema de compra de créditos, que são usados na hora de exportar uma imagem. Conheça os principais recursos O Evoto AI traz uma série de ferramentas para retoques de aparência, o que é muito bem-vindo para quem trabalha com retratos, fotos de família e casamentos. Esses recursos ficam agrupados no AI Portrait Retouching, capaz de melhorar o aspecto de pele, dentes, cabelo e maquiagem. Uma das funcionalidades é o Blemish Remover, que traz um retoque de pele natural, suavizando a aparência de cravos, espinhas e olheiras. Já o Skin Retouching uniformiza o tom e realça o contorno. Há ainda ferramentas específicas para rugas, linhas de expressão e sardas, entre outras pequenas imperfeições que podem aparecer nas fotos. As correções de aparência não se limitam aos retoques de retrato com IA. Dois recursos do editor de retrato com IA se destacam. O AI Teeth Fixer usa inteligência artificial para melhorar o sorriso, removendo aparelhos ortodônticos, clareando os dentes, diminuindo as gengivas e até alinhando o sorriso. Já o AI Stray Hairs Remover detecta automaticamente pequenos fios de cabelo desalinhados, eliminando o frizz na foto. Para além de aspectos pessoais, o Evoto AI consegue também trabalhar para melhorar roupas e acessórios. Com o Wrinkle Remover, o editor identifica e suaviza vincos e amassados nos tecidos, sem que isso afete o caimento da peça. Outra ferramenta é o Glasses Glare Removal, que elimina reflexos da luz nas lentes de óculos, corrigindo um dos problemas mais incômodos em fotografias. O Evoto AI tem funcionalidades tanto para quem fotografa em estúdio quanto para quem cobre eventos em ambientes não controlados. O AI Magic Eraser permite remover itens indesejados do fundo da imagem, como sujeiras, objetos e até pessoas, com apenas um toque. E para quem trabalha com retratos ou comércio, o Backdrop Cleaner serve para melhorar planos de fundo, uniformizando cores e eliminando vincos. Pensado para o uso profissional, o Evoto pretende também ajudar os fotógrafos a ganharem tempo de trabalho. Por isso, ele traz o AI Photo Culling, que analisa lotes de imagens e descarta automaticamente cliques imperfeitos, como fotos borradas, com olhos fechados, de exposição incorreta ou duplicadas. Para agilizar ainda mais os processos, o AI Batch Editor permite aplicar presets a diversas imagens de uma só vez, identificando automaticamente os sujeitos para manter a consistência. Não é apenas um ajuste de cor ou brilho: a ferramenta pode até mesmo remover planos de fundo e recortar múltiplas imagens de uma só vez. Para um resultado mais uniforme, há também o AI Color Match, que usa inteligência artificial para criar um perfil de cor com base na imagem escolhida e aplicá-lo às demais fotos. E esses são apenas os destaques. O Evoto AI tem um catálogo muito extenso de ferramentas. Ele traz ajustes corporais de cintura, quadril, braços, pernas, altura e contorno muscular. Em outra seção, temos ajustes faciais de formato, sobrancelha, nariz e queixo, bem como maquiagem digital, incluindo presets prontos. Para corrigir problemas pontuais, o software oferece ferramentas como remoção de tatuagem, de olho vermelho e de pessoas indesejadas do enquadramento. E para tirar o máximo do equipamento, o Evoto AI permite usar a câmera diretamente conectada ao computador, no modo de captura tethered. Além disso, há ajustes de perfil específicos para diferentes modelos de câmera, bem como uma biblioteca enorme de presets prontos. Veja os resultados na prática Quando se trata de edição de imagens, saber quais são as ferramentas disponíveis não é o bastante. É preciso ver na prática como elas se comportam e quais são os resultados alcançados. Por isso, aqui estão alguns testes e comparativos. Para começar, aplicamos Blemish Remover e o Skin Retouching sobre uma imagem de rosto. Eles conseguiram eliminar manchas na pele, marcas de acne, olheiras, bolsas nos olhos, rugas e até mesmo suavizar o queixo duplo. Tudo isso é controlado por sliders, e o fotógrafo pode escolher um ajuste fino entre um resultado mais suave e natural ou uma aparência totalmente sem falhas. Assim, é possível retocar a pele sem perder a textura. Não é necessário usar máscaras ou pincéis, já que a IA identifica automaticamente as áreas onde aplicar os efeitos. Evoto AI elimina manchas e imperfeições do rosto (imagem: Tecnoblog) O segundo teste foi com a remoção de reflexos dos óculos. Novamente, não foi preciso definir áreas ou usar pincéis. O controle também é feito por um slider. Aqui, usamos no máximo, para eliminar totalmente a luz nas lentes, mas é possível deixar um pouco do efeito original. App também retira reflexos de lentes de óculos (imagem: Tecnoblog) O Wrinkle Remover foi capaz de melhorar bastante o aspecto de uma camiseta branca saída diretamente do armário, sem passar pelo ferro, além de resolver grande parte dos vincos do caimento do tecido. Os resultados são satisfatórios em um teste “extremo”, o que indica que devem resolver facilmente pequenos amarrotados do dia a dia. Ferramenta usa IA para deixar a roupa mais lisa (imagem: Tecnoblog) O AI Magic Eraser foi capaz de eliminar uma luminária e um gancho de parede que estavam no fundo de uma foto. Para isso, foi necessário usar uma ferramenta de pincel, mas mesmo um uso sem muita precisão conseguiu remover os objetos e preservar o contorno da roupa. Antes e depois: Evoto AI retirou gancho de parede (imagem: Tecnoblog) Por fim, usamos o AI Color Match para aplicar o padrão de cor de uma foto em outra imagem. Como resultado, tivemos um tom de pele mais próximo da foto de referência, além de um fundo com brilho mais coerente, mesmo em diferentes condições de luminosidade. AI Color Match em ação (imagem: Tecnoblog) Veja na prática como o Evoto AI funciona nas suas fotos: use o cupom TECNOBLOG e garanta desconto de 25% e presets profissionais. O que você precisa saber sobre o Evoto AI Depois de conhecer o que ele é capaz de fazer, fica a pergunta: o Evoto vale a pena para fotógrafos brasileiros? O Evoto AI é gratuito para baixar e editar, mas pago para exportar as imagens. O modelo de cobrança é baseado na compra de créditos, sendo que cada imagem exportada custa um crédito, e algumas ferrame",
-      "lang": "pt",
-      "depts": [
-        "RH",
-        "Gestão"
-      ]
     },
     {
       "title": "8 prompts para conversar com voz no ChatGPT",
@@ -506,46 +534,6 @@
       "depts": [
         "Comercial"
       ]
-    },
-    {
-      "title": "Virginia Fonseca tem “clone de IA” para conversar com fãs por até R$ 89",
-      "description": "A plataforma Versio funciona como um chatbot de IA na qual é possível conversar com versões inspiradas em especialistas e celebridades, como a influenciadora Virginia Fonseca . O serviço cobra até R$ 89 por mês para liberar conversas com os clones de IA inspirados em pessoas famosas, mas há uma vers",
-      "url": "https://canaltech.com.br/inteligencia-artificial/virginia-fonseca-tem-clone-de-ia-para-conversar-com-fas-por-ate-r-89/",
-      "publishedAt": "Thu, 02 Jul 2026 18:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/k8MEe2l3PH5iKwUNiwyAeaBzMwA=/700x394/smart/i1139979.png",
-      "source": "Canaltech IA",
-      "content": "A plataforma Versio funciona como um chatbot de IA na qual é possível conversar com versões inspiradas em especialistas e celebridades, como a influenciadora Virginia Fonseca . O serviço cobra até R$ 89 por mês para liberar conversas com os clones de IA inspirados em pessoas famosas, mas há uma versão gratuita “escondida” . A ferramenta foi divulgada pela influenciadora nesta quarta-feira (1º) em post no Instagram. No caso, Fonseca simula uma situação em que uam seguidora pede sugestões de como se vestir para um jantar. De acordo com o site oficial, a Versio se difere de outros chatbots por ter sido treinada diretamente pelos especialistas mencionados . Algumas das personalidades disponíveis são o empresário e fisiculturista Renato Cariani, o empresário Carlos Wizard e a economista Nathalia Arcuri. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O app funciona como um chatbot convencional e permite enviar arquivos nas conversas ao assinar os planos mais caros. Ver essa foto no Instagram Um post compartilhado por Virginia (@virginia) Versão gratuita fica escondida Um detalhe sobre o Versio chamou a atenção: o site oficial (inserido no perfil da marca vinculado ao post de Virgínia) exige uma assinatura paga para usar a plataforma, mas é possível usar uma versão gratuita por outro caminho . Os planos pagos partem de R$ 29 por mês a R$ 89 por mês. A página com os Termos de Uso não carrega no site oficial, mas pode ser acessada ao iniciar um pagamento. Lá, a empresa informa que existe uma versão gratuita com versões limitadas e tem um link para o serviç o, também disponível em aplicativo para Android e iOS (as versões não são divulgadas no site principal , vinculado ao perfil da marca no post de Virginia). O CT testou a IA que conversa como a influenciadora, mas há um limite diário de conversas na versão gratuita. Os planos pagos aumentam as taxas de uso diárias e permitem env",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Comercial"
-      ]
-    },
-    {
-      "title": "Por que o próximo ciclo computacional precisa ser construído para todos",
-      "description": "Nos últimos três anos, a capacidade computacional global dedicada à inteligência artificial cresceu aproximadamente 100 vezes . É uma das revoluções tecnológicas mais impactantes das últimas décadas. A IA já chegou indiscutivelmente. Mas a questão que surge agora é: ela está acessível a todos? De um",
-      "url": "https://canaltech.com.br/colunas/por-que-o-proximo-ciclo-computacional-precisa-ser-construido-para-todos/",
-      "publishedAt": "Thu, 02 Jul 2026 10:43:03 -0300",
-      "image": "https://t.ctcdn.com.br/nZ6sNq7PsgAB4H-oy5G3Tk3upoA=/700x394/smart/i1003705.png",
-      "source": "Canaltech IA",
-      "content": "Nos últimos três anos, a capacidade computacional global dedicada à inteligência artificial cresceu aproximadamente 100 vezes . É uma das revoluções tecnológicas mais impactantes das últimas décadas. A IA já chegou indiscutivelmente. Mas a questão que surge agora é: ela está acessível a todos? De um lado, temos modelos cada vez mais capazes, infraestruturas de bilhões de dólares, parcerias entre algumas das maiores empresas do planeta. De outro, desenvolvedores independentes, pesquisadores em países emergentes, startups sem acesso a crédito cloud e laboratórios universitários com acesso limitado. O próximo ciclo computacional pode encontrar caminhos para solucionar essa assimetria. O problema não é só hardware Quando falamos em democratizar a IA, GPUs e custos de treinamento são pontos importantes, mas há um gargalo além do hardware: a dependência de ecossistemas fechados que prendem desenvolvedores a plataformas específicas e concentram o poder de inovação nas mãos de poucos. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A analogia com o software é útil aqui. O movimento open source levou décadas para amadurecer, mas hoje a infraestrutura que sustenta a internet é majoritariamente aberta . Isso porque a inovação aberta com frequência se mostrou altamente resiliente e amplamente adotada em comparação com alternativas proprietárias. A IA está no começo do mesmo caminho. Plataformas abertas saltaram de nichos experimentais para infraestrutura de produção em escala global. Um pesquisador no Brasil, na Índia ou na Nigéria pode acessar hoje muitas das mesmas ferramentas utilizadas por grandes centros de tecnologia — desde que disponha de recursos de hardware adequados . A IA que mora no seu dispositivo Outra transformação relevante: a migração da IA da nuvem para o dispositivo. Processadores modernos com NPUs integradas permitem rodar inteligência artificial localmente , sem",
-      "lang": "pt",
-      "depts": [
-        "Financeiro",
-        "Comercial",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Fable e Mythos 5: governo Trump libera IAs mais perigosas da Anthropic",
-      "description": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três s",
-      "url": "https://canaltech.com.br/inteligencia-artificial/fable-e-mythos-5-governo-trump-libera-ias-mais-perigosas-da-anthropic/",
-      "publishedAt": "Wed, 01 Jul 2026 12:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/Am6VaUx8jmQtCNJCxA_znmbrltc=/700x394/smart/i1107289.png",
-      "source": "Canaltech IA",
-      "content": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três semanas depois de o governo ter suspendido o acesso aos dois sistemas por risco à segurança nacional. Segundo a Reuters, o acesso ao Fable 5 será restaurado a partir desta quarta-feira (1º) , ficando disponível ao público em geral. Já o Mythos 5, direcionado à detecção de vulnerabilidades de cibersegurança, será liberado para um grupo maior de parceiros domésticos e internacionais do programa Glasswing, da Anthropic. Como começou a restrição Em 12 de junho, o governo americano incluiu os dois modelos em sua lista de tecnologias sob controle de exportação , impedindo o acesso de estrangeiros sem aprovação especial . Como a Anthropic não tinha como verificar a nacionalidade dos usuários em tempo real, a companhia optou por suspender o Fable 5 e o Mythos 5 para todo mundo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A decisão, segundo a Reuters, partiu de uma denúncia de pesquisadores da Amazon , que encontraram uma forma de contornar as proteções do Fable 5. Com essa brecha, o modelo passou a identificar falhas de software e, em um dos casos registrados, chegou a gerar código demonstrando como explorar uma vulnerabilidade. No último domingo (28), o governo abriu uma primeira exceção , permitindo o uso do Mythos 5 por organizações selecionadas e por funcionários da própria Anthropic, incluindo estrangeiros vinculados a esses grupos. O Fable 5 seguia fora do ar até esta terça. O Claude é, atualmente, a terceira IA mais utilizada no mundo (Imagem: Marcelo Fischer/Canaltech) Por que são modelos tão perigosos O Mythos 5 concentra as capacidades que mais preocupam o governo american",
-      "lang": "pt",
-      "depts": []
     }
   ]
 }
