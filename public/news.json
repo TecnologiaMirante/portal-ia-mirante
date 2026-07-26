@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T11:03:07.859Z",
+  "updatedAt": "2026-07-26T11:13:03.262Z",
   "count": 40,
   "articles": [
     {
@@ -158,12 +158,12 @@
     },
     {
       "title": "Runway lança modelo de roteador AI conforme a mídia generativa fica lotada",
-      "description": "O Media Router é uma ferramenta que seleciona automaticamente o melhor modelo de geração de imagem, vídeo ou áudio para uma solicitação com base no fato de o desenvolvedor priorizar qualidade, velocidade ou custo.",
+      "description": "O Media Router é uma ferramenta que seleciona automaticamente o melhor modelo de geração de imagem, vídeo ou áudio para uma solicitação, dependendo se o desenvolvedor prioriza qualidade, velocidade ou custo.",
       "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
       "publishedAt": "Thu, 23 Jul 2026 17:07:35 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "O Media Router é uma ferramenta que seleciona automaticamente o melhor modelo de geração de imagem, vídeo ou áudio para uma solicitação com base no fato de o desenvolvedor priorizar qualidade, velocidade ou custo.",
+      "content": "O Media Router é uma ferramenta que seleciona automaticamente o melhor modelo de geração de imagem, vídeo ou áudio para uma solicitação, dependendo se o desenvolvedor prioriza qualidade, velocidade ou custo.",
       "lang": "en",
       "depts": [
         "Marketing",
@@ -183,41 +183,6 @@
         "Comercial",
         "Saúde"
       ]
-    },
-    {
-      "title": "A startup de chips de IA Etched desafia os céticos e atinge avaliação de US$ 10,3 bilhões de grandes investidores",
-      "description": "A Etched, fundada por três que abandonaram Harvard, criou novos chips e componentes de memória que aceleram a inferência em qualquer modelo de IA – sem necessidade de GPUs, diz.",
-      "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
-      "publishedAt": "Thu, 23 Jul 2026 15:00:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "A Etched, fundada por três que abandonaram Harvard, criou novos chips e componentes de memória que aceleram a inferência em qualquer modelo de IA – sem necessidade de GPUs, diz.",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Gemini do Google se aproxima da marca de um bilhão de usuários",
-      "description": "Gemini tinha mais de 750 milhões de usuários mensais em fevereiro.",
-      "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
-      "publishedAt": "Thu, 23 Jul 2026 14:52:44 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Marketing"
-      ]
-    },
-    {
-      "title": "Especialistas dizem que explorar Fable da Anthropic não foi como Kimi K3 ficou tão bom",
-      "description": "“Não acho que você consiga um modelo tão forte e tão rápido na esteira do Fable fazendo destilação estrita”, disse um especialista ao TechCrunch.",
-      "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
-      "publishedAt": "Thu, 23 Jul 2026 11:00:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
     },
     {
       "title": "AMD fecha acordo bilionário com a Anthropic para fornecer GPUs de IA",
@@ -528,6 +493,50 @@
       "lang": "pt",
       "depts": [
         "RH",
+        "Gestão",
+        "Educação"
+      ]
+    },
+    {
+      "title": "12 prompts do Gemini para pesquisar, comparar e comprar um celular novo",
+      "description": "Comprar produtos de tecnologia deveria ser simples, mas quase nunca é. Você entra querendo só escolher um celular e, quando percebe, já está preso em abas, reviews que dizem coisas opostas, fichas técnicas cheias de números difíceis de comparar e promoções que aparecem e somem o tempo todo. Vale com",
+      "url": "https://canaltech.com.br/inteligencia-artificial/prompts-gemini-pesquisar-comparar-comprar-celular-novo/",
+      "publishedAt": "Sat, 04 Jul 2026 16:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/u-ApvEXeczP3CmhwQ0AK7cHkEGs=/700x394/smart/i1132313.png",
+      "source": "Canaltech IA",
+      "content": "Comprar produtos de tecnologia deveria ser simples, mas quase nunca é. Você entra querendo só escolher um celular e, quando percebe, já está preso em abas, reviews que dizem coisas opostas, fichas técnicas cheias de números difíceis de comparar e promoções que aparecem e somem o tempo todo. Vale comprar celular com 256 GB ou 512 GB hoje? Veja cenário real Celular usado: como avaliar o aparelho em 8 passos e saber se vale a pena compra No meio disso tudo, fica a sensação de que sempre falta alguma informação importante e que decidir “certo” virou mais cansativo do que deveria. É justamente aqui que o Gemini pode ajudar a organizar esse caos. A ideia deste guia é te mostrar como transformar essa busca em algo mais simples e guiado . Para isso, você pode dividir o caminho em quatro etapas: entender a categoria, comparar opções, analisar preço e só então decidir com mais segurança. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Ao longo do texto, vamos usar como exemplo alguém procurando um celular entre R$ 2.000 e R$ 2.500, mas o mesmo método funciona para notebooks, TVs, fones, consoles e outros eletrônicos do dia a dia. A seguir, confira: Etapa 1: Pesquisa de categoria Etapa 2: Comparação técnica Etapa 3: Busca de preço e custo-benefício Etapa 4: Decisão final Etapa 1: Pesquisa de categoria Antes de olhar modelo, marca ou promoção, vale dar um passo atrás e entender o cenário. É aqui que você começa a enxergar o que realmente existe dentro do seu orçamento . Nesse momento, a ideia não é escolher o modelo ainda, mas sim montar uma primeira lista de opções confiáveis para não ficar perdido depois. Nesta etapa, veja: 1. Panorama da categoria 2. Perfil de uso 3. Quais critérios usar 1. Panorama da categoria Se você ainda não sabe quais celulares fazem sentido na faixa de R$ 2.000 a R$ 2.500, o primeiro passo é pedir uma visão geral do mercado. O Gemini pode organizar isso sep",
+      "lang": "pt",
+      "depts": [
+        "Comercial"
+      ]
+    },
+    {
+      "title": "IA pode destruir a bateria do seu celular; veja como resolver",
+      "description": "A inteligência artificial está cada vez mais presente nos smartphones, sendo integrada ao sistema e a diversos aplicativos para executar tarefas, como resumos de notificações, edição de fotos, sugestões personalizadas, além de atuar como assistentes de voz avançados. 15 recursos secretos do Apple In",
+      "url": "https://canaltech.com.br/inteligencia-artificial/ia-pode-destruir-a-bateria-do-seu-celular-veja-como-resolver/",
+      "publishedAt": "Sat, 04 Jul 2026 12:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/ZHTeRLBEvZ9V6ryjoDtw8E9DI2E=/700x394/smart/i1086691.jpeg",
+      "source": "Canaltech IA",
+      "content": "A inteligência artificial está cada vez mais presente nos smartphones, sendo integrada ao sistema e a diversos aplicativos para executar tarefas, como resumos de notificações, edição de fotos, sugestões personalizadas, além de atuar como assistentes de voz avançados. 15 recursos secretos do Apple Intelligence que a Apple \"escondeu\" Qual celular tem a melhor IA para tirar pessoas indesejadas das suas fotos? Apesar de trazer mais praticidade no dia a dia, isso tem um custo invisível: a necessidade de processamento constante . No próprio aparelho ou na nuvem, essas ferramentas permanecem ativas em segundo plano e podem consumir energia de forma contínua, o que acaba com a bateria sem que o usuário perceba. A seguir, tire suas dúvidas sobre: - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Por que a IA consome tanta energia? Como ajustar a IA no iPhone para economizar bateria? Como reduzir o consumo de IA no Android? Como ter certeza que a IA é realmente o problema? Por que a IA consome tanta energia? A IA nos celulares funciona de forma diferente dos aplicativos tradicionais. Ela não é ativada apenas quando o usuário abre um app, ela permanece parcialmente ativa o tempo todo para realizar tarefas, como a análise de fotos, interpretação de comandos de voz e geração de sugestões em tempo real. O custo oculto aparece justamente nessa ideia de IA “sempre disponível”. Para que ela responda imediatamente, são executados processos contínuos em segundo plano , com previsão de ações e análise de padrões de uso. Quanto maior o nível de personalização, maior o volume de dados processados de forma constante, o que aumenta o consumo de energia ao longo do dia. Como ajustar a IA no iPhone para economizar bateria? No iPhone, alguns recursos ligados à Apple Intelligence e à Siri podem impactar a autonomia da bateria. O ideal é revisar quais funções realmente são necessárias no uso diário. Po",
+      "lang": "pt",
+      "depts": [
+        "Financeiro",
+        "Gestão",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Governo Federal lança matriz de competências para uso de IA",
+      "description": "O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) divulgou, na última semana, a Matriz de Competências em Inteligência Artificial do Governo do Brasil . O documento vai orientar os cursos e treinamentos oferecidos a servidores federais sobre o uso da tecnologia, com eixos voltados à ét",
+      "url": "https://canaltech.com.br/inteligencia-artificial/governo-federal-lanca-matriz-de-competencias-para-uso-de-ia/",
+      "publishedAt": "Fri, 03 Jul 2026 19:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/kzQDM-16SY2FIYKPRKkiU42iGYs=/700x394/smart/i1140307.png",
+      "source": "Canaltech IA",
+      "content": "O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) divulgou, na última semana, a Matriz de Competências em Inteligência Artificial do Governo do Brasil . O documento vai orientar os cursos e treinamentos oferecidos a servidores federais sobre o uso da tecnologia, com eixos voltados à ética, segurança, privacidade e soberania digital. A publicação é do Núcleo de Inteligência Artificial (NIA), iniciativa da Secretaria de Governo Digital (SGD) para apoiar a adoção de IA no Poder Executivo Federal. A matriz passa a nortear todas as capacitações conduzidas pelo núcleo. Mais de 167 mil servidores já foram capacitados Segundo o secretário de Governo Digital, Rogério Mascarenhas, ao menos 167 mil servidores já concluíram alguma capacitação dos programas do ministério. Para ele, o número demonstra interesse crescente pelo uso da tecnologia no serviço público. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Mascarenhas afirma que a matriz foi criada para orientar o desenvolvimento de novos cursos e identificar lacunas de competência em cada perfil de servidor. O secretário também classificou o documento como inovador e disse que ele pode servir de referência para outros países e para empresas privadas. Seis perfis de servidores e onze programas de formação O MGI dividiu o público-alvo das capacitações em seis perfis: agente público, gestor de TIC, gestor público, executivo de dados, curador de dados e altas lideranças. Cada perfil tem competências específicas a desenvolver, conforme a rotina de trabalho ou o nível de decisão sobre o uso da tecnologia no órgão. As formações somam 11 programas, oferecidos pela Escola Virtual de Governo (EV.G), vinculada à Escola Nacional de Administração Pública (Enap), em parceria com o Serpro. Os cursos são gratuitos, a distância e abertos a qualquer servidor, e abrangem temas como IA generativa, ética em IA, proteção de dados pessoais",
+      "lang": "pt",
+      "depts": [
+        "Comercial",
+        "Jurídico",
         "Gestão",
         "Educação"
       ]
