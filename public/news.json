@@ -1,7 +1,44 @@
 {
-  "updatedAt": "2026-07-28T11:49:38.189Z",
+  "updatedAt": "2026-07-29T11:53:27.898Z",
   "count": 40,
   "articles": [
+    {
+      "title": "Claude expôs conversas de usuários na busca do Google",
+      "description": "Chats compartilhados por link foram indexados pelo buscador e ficaram acessíveis publicamente. Anthropic e Google removeram os resultados. Claude expôs conversas de usuários na busca do Google",
+      "url": "https://tecnoblog.net/noticias/claude-expos-conversas-de-usuarios-na-busca-do-google/",
+      "publishedAt": "Tue, 28 Jul 2026 19:57:41 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/06/O-que-e-claude-ai.jpg",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "ChatGPT passa a dizer que não pode imitar autores famosos",
+      "description": "IA avisa que não pode reproduzir de maneira próxima a linguagem de um escritor, mas escreve textos com traços característicos das obras. ChatGPT passa a dizer que não pode imitar autores famosos",
+      "url": "https://tecnoblog.net/noticias/chatgpt-passa-a-dizer-que-nao-pode-imitar-autores-famosos/",
+      "publishedAt": "Tue, 28 Jul 2026 16:28:16 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/maquina-de-escrever-camille-orgel-skctkynrvhy-unsplash-1-edited.jpg",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Superinteligência recursiva assina acordo de computação de US$ 410 milhões com a Amazon",
+      "description": "A ênfase da Recursive em sistemas de IA de auto-aperfeiçoamento significa que grande parte do orçamento que tradicionalmente seria destinado ao número de funcionários e às operações é colocado diretamente na computação, à medida que a empresa busca automatizar seu próprio processo de desenvolvimento de produtos.",
+      "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+      "publishedAt": "Tue, 28 Jul 2026 13:19:17 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "A ênfase da Recursive em sistemas de IA de auto-aperfeiçoamento significa que grande parte do orçamento que tradicionalmente seria destinado ao número de funcionários e às operações é colocado diretamente na computação, à medida que a empresa busca automatizar seu próprio processo de desenvolvimento de produtos.",
+      "lang": "en",
+      "depts": [
+        "RH",
+        "Comercial",
+        "Gestão"
+      ]
+    },
     {
       "title": "Dario Amodei da Anthropic responde: não se opõe aos modelos de peso aberto, mas teme a IA chinesa",
       "description": "O fundador e CEO da Anthropic, Dario Amodei, deixou claras suas opiniões sobre os modelos de peso aberto e as crescentes capacidades de IA da China.",
@@ -60,30 +97,6 @@
       "depts": []
     },
     {
-      "title": "As ondas cerebrais são o próximo desbloqueio para a IA física?",
-      "description": "Esqueça os vídeos do YouTube – os modelos físicos de IA de ponta precisam de vários ângulos de câmera, anotações densas e, em breve, leituras de ondas cerebrais.",
-      "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-      "publishedAt": "Mon, 27 Jul 2026 00:19:14 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Jurídico"
-      ]
-    },
-    {
-      "title": "O CEO da Hugging Face pede “transparência radical” após hack “sem precedentes” da OpenAI",
-      "description": "“O primeiro ataque cibernético com agente autônomo é um evento sem precedentes. Merece uma resposta sem precedentes!”",
-      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-      "publishedAt": "Sun, 26 Jul 2026 16:33:13 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
       "title": "Apenas 3% dos usos do Gemini envolvem automação massiva de tarefas",
       "description": "Levantamento feito pelo Google analisa uso de inteligência artificial no trabalho, apontado como muito superficial. Apenas 3% dos usos do Gemini envolvem automação massiva de tarefas",
       "url": "https://tecnoblog.net/noticias/apenas-3-dos-usos-do-gemini-envolvem-automacao-massiva-de-tarefas/",
@@ -96,55 +109,6 @@
         "RH",
         "Gestão"
       ]
-    },
-    {
-      "title": "Experimentei o novo teclado de IA da OpenAI – que será divertido para alguns programadores e um pouco confuso para todos os outros",
-      "description": "O novo e sofisticado teclado de IA da OpenAI será muito divertido para alguns, enquanto muitos outros provavelmente não irão tocá-lo.",
-      "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-      "publishedAt": "Sat, 25 Jul 2026 00:23:11 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Claude Opus 5 é lançado com foco no desempenho e controle de custos",
-      "description": "Anthropic anunciou Claude Opus 5 com foco em uso corporativo. Lançamento ocorre após polêmicas com o modelo Fable 5 nos Estados Unidos. Claude Opus 5 é lançado com foco no desempenho e controle de custos",
-      "url": "https://tecnoblog.net/noticias/claude-opus-5-e-lancado-com-foco-no-desempenho-e-controle-de-custos/",
-      "publishedAt": "Fri, 24 Jul 2026 19:39:47 +0000",
-      "image": "https://www.youtube.com/embed/4WQd-8d5j4k",
-      "source": "Tecnoblog",
-      "content": "Claude Opus 5 é lançado com foco no desempenho e controle de custos (imagem: divulgação) Resumo Anthropic lançou o Claude Opus 5, modelo de IA focado em desempenho e controle de custos, principalmente para organizações; Claude Opus 5 permite ajuste do nível de esforço em baixo, médio ou alto para controlar gastos; preços são de US$ 5 por milhão de tokens de entrada e US$ 25 por milhão de tokens de saída; novidade tem capacidades próximas às do Fable 5 e tem salvaguardas contra usos maliciosos ligados à segurança cibernética. A Anthropic está encerrando a semana com o lançamento oficial do Claude Opus 5, modelo de IA que chega focado principalmente em atender a necessidades de organizações dos mais variados portes, não só no fator desempenho, mas também no custo. Não é que o Claude Opus 5 seja necessariamente mais barato que seus antecessores. O que a Anthropic fez com relação a esse lançamento é permitir que usuários e organizações ajustem o nível de esforço da IA em baixo, médio ou alto, de modo que os gastos com tokens possam ser mais bem controlados. Nesse sentido, tarefas menos complexas podem ser executadas com um nível de esforço menor, reduzindo os custos. Já atividades que exigem mais capacidade de raciocínio podem ser direcionadas a níveis mais elevados. Além disso, a Anthropic oferece um modo rápido (Fast Mode), que reduz o tempo de resposta, mas cobra aproximadamente o dobro pelos tokens processados. Com relação ao desempenho, a Anthropic destaca que o Claude Opus 5 tem capacidades próximas às do Fable 5 em muitos domínios . Próximas, mas não iguais, razão pela qual o Fable 5 continua sendo indicado para tarefas mais complexas. A Anthropic também enfatiza que o Claude Opus 5 custa “metade do preço” do Fable 5, embora os valores sejam os mesmos que vinham sendo praticados com o seu antecessor, o Opus 4.8. Para ser exato, falamos, aqui, de US$ 5 por milhão de tokens de entrada e US$ 25 por milhão de tokens de saída. Claude Opus 5 chega depois de uma grande polêmica O lançamento oficial do Opus 5 ocorre no mês seguinte às restrições aos modelos Fable 5 e Mythos 5 pelo governo dos Estados Unidos . À época, as autoridades americanas manifestaram preocupações com a segurança nacional para tomar a decisão. A nova liberação do Claude Fable 5 ocorreu depois que o governo dos Estados Unidos retirou as restrições e a Anthropic implementou mudanças alinhadas às exigências de segurança das autoridades americanas. Já o Mythos 5 continua disponível apenas para um grupo restrito de organizações. Para evitar uma nova experiência do tipo, a Anthropic tomou o cuidado de aplicar salvaguardas no Opus 5, especialmente contra usos maliciosos ligados à segurança cibernética. Claude Opus 5 é lançado com foco no desempenho e controle de custos",
-      "lang": "pt",
-      "depts": [
-        "Financeiro",
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Deputados dos EUA querem mecanismo para desligar IAs de alto risco",
-      "description": "Projeto exige que grandes empresas criem sistemas de interrupção para modelos perigosos. Proposta ganhou força após IA da OpenAI invadir o Hugging Face. Deputados dos EUA querem mecanismo para desligar IAs de alto risco",
-      "url": "https://tecnoblog.net/noticias/deputados-dos-eua-querem-mecanismo-para-desligar-ias-de-alto-risco/",
-      "publishedAt": "Fri, 24 Jul 2026 18:16:13 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2021/12/tipos-de-inteligencia-artificial.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Comercial"
-      ]
-    },
-    {
-      "title": "ChatGPT caiu? IA tem problemas nesta quinta (23)",
-      "description": "Chatbot da OpenAI apresentou lentidão nas respostas. API e Codex também foram afetados. ChatGPT caiu? IA tem problemas nesta quinta (23)",
-      "url": "https://tecnoblog.net/noticias/chatgpt-caiu-ia-tem-problemas-nesta-quinta-23/",
-      "publishedAt": "Thu, 23 Jul 2026 19:16:43 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-2_capa.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
     },
     {
       "title": "8 prompts para conversar com voz no ChatGPT",
@@ -543,6 +507,46 @@
       "depts": [
         "Financeiro",
         "Comercial",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Fable e Mythos 5: governo Trump libera IAs mais perigosas da Anthropic",
+      "description": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três s",
+      "url": "https://canaltech.com.br/inteligencia-artificial/fable-e-mythos-5-governo-trump-libera-ias-mais-perigosas-da-anthropic/",
+      "publishedAt": "Wed, 01 Jul 2026 12:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/Am6VaUx8jmQtCNJCxA_znmbrltc=/700x394/smart/i1107289.png",
+      "source": "Canaltech IA",
+      "content": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três semanas depois de o governo ter suspendido o acesso aos dois sistemas por risco à segurança nacional. Segundo a Reuters, o acesso ao Fable 5 será restaurado a partir desta quarta-feira (1º) , ficando disponível ao público em geral. Já o Mythos 5, direcionado à detecção de vulnerabilidades de cibersegurança, será liberado para um grupo maior de parceiros domésticos e internacionais do programa Glasswing, da Anthropic. Como começou a restrição Em 12 de junho, o governo americano incluiu os dois modelos em sua lista de tecnologias sob controle de exportação , impedindo o acesso de estrangeiros sem aprovação especial . Como a Anthropic não tinha como verificar a nacionalidade dos usuários em tempo real, a companhia optou por suspender o Fable 5 e o Mythos 5 para todo mundo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A decisão, segundo a Reuters, partiu de uma denúncia de pesquisadores da Amazon , que encontraram uma forma de contornar as proteções do Fable 5. Com essa brecha, o modelo passou a identificar falhas de software e, em um dos casos registrados, chegou a gerar código demonstrando como explorar uma vulnerabilidade. No último domingo (28), o governo abriu uma primeira exceção , permitindo o uso do Mythos 5 por organizações selecionadas e por funcionários da própria Anthropic, incluindo estrangeiros vinculados a esses grupos. O Fable 5 seguia fora do ar até esta terça. O Claude é, atualmente, a terceira IA mais utilizada no mundo (Imagem: Marcelo Fischer/Canaltech) Por que são modelos tão perigosos O Mythos 5 concentra as capacidades que mais preocupam o governo american",
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Português é o 3º idioma mais usado no ChatGPT",
+      "description": "O português é agora o terceiro idioma mais usado no ChatGPT , segundo dados da OpenAI divulgados no relatório OpenAI Signals. Ele fica atrás apenas do inglês e do espanhol. O levantamento também mostra que, pela primeira vez, mais da metade dos usuários ativos usa o ChatGPT principalmente em idiomas",
+      "url": "https://canaltech.com.br/inteligencia-artificial/portugues-e-o-3o-idioma-mais-usado-no-chatgpt/",
+      "publishedAt": "Wed, 01 Jul 2026 09:27:36 -0300",
+      "image": "https://t.ctcdn.com.br/elWRGd7DozFcUzbnLeKmr45Ecyw=/700x394/smart/i1137007.png",
+      "source": "Canaltech IA",
+      "content": "O português é agora o terceiro idioma mais usado no ChatGPT , segundo dados da OpenAI divulgados no relatório OpenAI Signals. Ele fica atrás apenas do inglês e do espanhol. O levantamento também mostra que, pela primeira vez, mais da metade dos usuários ativos usa o ChatGPT principalmente em idiomas diferentes do inglês. Em quarto, quinto e sexto lugar aparecem, respectivamente, o francês, o indonésio e o árabe. A análise mede as interações de usuários nos planos individuais do ChatGPT , incluindo as assinaturas Free (gratuito), Go, Plus e Pro. Além disso, os idiomas uzbeque, cazaque e birmanês foram os que mais cresceram em participação desde julho de 2023. O relatório também mostra que usuários mais antigos usam o ChatGPT com mais frequência. Após seis meses na plataforma, eles enviam, em média, 50% mais mensagens por dia e realizam o dobro de tarefas diferentes em relação ao início do uso. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Português é o terceiro idioma mais usado no ChatGPT. (Imagem: Divulgação/OpenAI) Adoção do ChatGPT cresceu em todas as regiões O relatório também mostra que o uso do ChatGPT cresceu em todos os continentes desde julho de 2023, deixando a base de usuários mais global e diversa. O crescimento foi mais rápido na África, seguida pela Ásia, América do Sul, Europa, América do Norte e Oceania. Segundo a OpenAI, o crescimento foi mais rápido em países com menor Índice de Desenvolvimento Humano (IDH) , que registraram o maior aumento no número de usuários ativos por semana. O levantamento também aponta mudanças no perfil dos usuários. Pessoas com nomes tipicamente femininos representam a maior parte do uso global do ChatGPT. O Brasil, Colômbia, Polônia e Namíbia estão entre os países onde esse grupo supera os usuários com nomes tipicamente masculinos. Já Paquistão, Bangladesh, Angola, República Democrática do Congo e Mali têm a maior presença de",
+      "lang": "pt",
+      "depts": [
+        "Gestão"
+      ]
+    },
+    {
+      "title": "Novo sistema usará IA para \"traduzir\" o que o seu corpo realmente precisa",
+      "description": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30",
+      "url": "https://canaltech.com.br/inteligencia-artificial/novo-sistema-usara-ia-para-traduzir-o-que-o-seu-corpo-realmente-precisa/",
+      "publishedAt": "Wed, 01 Jul 2026 08:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/4BlAeU73zGDl24KwhTRIfUE4ZkA=/700x394/smart/i1138901.png",
+      "source": "Canaltech IA",
+      "content": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30) e foi divulgado pelo site Android Police. A empresa afirma que dispositivos vestíveis já evoluíram na coleta de dados, mas ainda falham em explicar o significado desses números para quem os usa. Gee Gu, cofundador da Vilo ao lado de Andy Xu, descreveu o Signal OS como um sistema que ajuda o usuário a entender o que mudou no corpo , priorizar o que importa e transformar sinais corporais em suporte real. Como funciona o Signal OS O sistema reúne quatro frentes principais. A primeira é o Signals , um recurso de cartões que aponta alterações nos indicadores de saúde e sugere o que fazer a respeito. Já o Pulse funciona como um painel com o histórico de dados e tendências ao longo do tempo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Há ainda o Vibes , um chatbot com IA para tirar dúvidas sobre as informações coletadas, e uma camada dedicada à saúde da mulher . A Vilo descreve o Signal OS como uma plataforma \"ring-first\", ou seja, pensada primeiro para anéis inteligentes, e ela vai estrear no próprio anel da empresa. A companhia evita o terreno regulatório mais rígido reservado a dispositivos médicos. Segundo o comunicado oficial, a proposta do sistema é oferecer \"orientação de bem-estar e autoconhecimento, não diagnóstico ou tratamento\", o que dispensa aprovação de agências como a FDA, órgão regulador dos Estados Unidos. Fitbit já segue caminho parecido com o AI Coach e o Fitbit Air, usando IA para interpretar pontuações sem depender desse tipo de aval. Possível interface do app dedicado ao sistema, presente no vídeo de divulgação (Imagem: Reprodução/YouTube/VILO) Anel da Vilo",
+      "lang": "pt",
+      "depts": [
+        "Marketing",
+        "Comercial",
+        "Saúde",
         "Educação"
       ]
     }
