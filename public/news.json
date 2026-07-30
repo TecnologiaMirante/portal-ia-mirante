@@ -1,13 +1,128 @@
 {
-  "updatedAt": "2026-07-29T11:53:27.898Z",
+  "updatedAt": "2026-07-30T11:44:53.472Z",
   "count": 40,
   "articles": [
+    {
+      "title": "A Microsoft está competindo abertamente com OpenAI, Anthropic mais do que nunca",
+      "description": "A Microsoft lançou seus próprios modelos de IA, equipamentos e até mesmo um concorrente da Mythos na quarta-feira, dizendo a Wall Street que planeja um crescimento contínuo.",
+      "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "publishedAt": "Thu, 30 Jul 2026 00:21:06 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "A Microsoft lançou seus próprios modelos de IA, equipamentos e até mesmo um concorrente da Mythos na quarta-feira, dizendo a Wall Street que planeja um crescimento contínuo.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Microsoft registra US$ 3,2 bilhões em investimentos da Anthropic, mas OpenAI era uma mistura",
+      "description": "Quando a Microsoft relatou ganhos matadores no quarto trimestre para o ano fiscal de 2026 (que terminou em 30 de junho), ela apresentou um pequeno detalhe interessante sobre como estão seus investimentos nos dois maiores e concorrentes laboratórios de IA.",
+      "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+      "publishedAt": "Wed, 29 Jul 2026 22:46:03 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Quando a Microsoft relatou ganhos matadores no quarto trimestre para o ano fiscal de 2026 (que terminou em 30 de junho), ela apresentou um pequeno detalhe interessante sobre como estão seus investimentos nos dois maiores e concorrentes laboratórios de IA.",
+      "lang": "en",
+      "depts": [
+        "Financeiro"
+      ]
+    },
+    {
+      "title": "A cofundadora da Thinking Machines, Lilian Weng, deixou a empresa alegando motivos de saúde e depois ingressou na OpenAI",
+      "description": "Weng atuou anteriormente como vice-presidente de pesquisa de segurança de IA na OpenAI.",
+      "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+      "publishedAt": "Wed, 29 Jul 2026 21:07:48 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "Saúde"
+      ]
+    },
+    {
+      "title": "Claude Opus 5 tornou-se totalmente implacável quando encarregado de operar uma máquina de venda automática",
+      "description": "A mais recente simulação de máquina de venda automática do Andon Labs mostra que o Opus 5 mentiu e conspirou para se tornar o melhor capitalista de IA de todos os tempos.",
+      "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+      "publishedAt": "Wed, 29 Jul 2026 18:45:27 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Apple pode atualizar linha HomePod após anos sem grandes mudanças",
+      "description": "Dispositivos de casa inteligente devem receber chips mais potentes para suportar a nova Siri e recursos da Apple Intelligence. Apple pode atualizar linha HomePod após anos sem grandes mudanças",
+      "url": "https://tecnoblog.net/noticias/apple-pode-atualizar-linha-homepod-apos-anos-sem-grandes-mudancas/",
+      "publishedAt": "Wed, 29 Jul 2026 18:25:19 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/01/apple-homepod-3.jpg",
+      "source": "Tecnoblog",
+      "content": "Apple pode lançar novos dispositivos de smart home (imagem: divulgação/Apple) Resumo Apple prepara novos dispositivos para smart home, incluindo HomePod e um HomePod mini, com previsão para setembro e outubro. Os novos dispositivos podem chegar com chips mais recentes, como o S9, para suportar recursos de inteligência artificial da Apple Intelligence. O Apple TV também deve ser atualizado com um chip mais novo, como o A17 para acompanhar os novos recursos. A Apple pode finalmente dar um novo sinal de vida para sua linha de dispositivos para smart home ainda neste ano. Novas versões do HomePod, do HomePod mini e do Apple TV estariam em estágio avançado de desenvolvimento, com previsão para lançamento entre setembro e outubro, segundo o jornalista Mark Gurman. A renovação deve adaptar os aparelhos aos recursos mais avançados da Apple Intelligence e da nova fase da Siri, diz a Bloomberg . A expectativa é que ambos recebam processadores mais capazes de lidar com tarefas de inteligência artificial. O HomePod mini, lançado em 2020, ainda usa o chip S5, do Apple Watch Series 5, enquanto a versão mais recente do HomePod comum, de 2023, integra o S7, do Apple Watch Series 7. HomePod passa por grandes hiatos HomePod de segunda geração chegou em 2023 (imagem: divulgação/Apple) O HomePod é a linha de alto-falantes inteligentes da Apple lançada primeira vez em 2017 . À época, chamou atenção como mais uma opção frente aos dispositivos das linhas Echo, da Amazon — que já integra IA através do sistema Alexa+ — e Nest, do Google. Após anos sem novidades, a Apple só trouxe uma nova versão em 2020, apostando em um corpo menor e de preço mais acessível. O HomePod mini recebeu novas cores com o passar dos anos, mas nenhuma atualização importante de hardware. O modelo maior da linha só voltou cinco anos após o lançamento original , em 2023, trazendo uma maior integração à Siri (a versão desagradavelmente burra) e a recursos inteligentes. Nenhuma das gerações chegou oficialmente ao Brasil. HomePod com tela e foco em IA Desde o ano passado, rumores apontam que o novo HomePod deve incluir uma tela de sete polegadas e software baseado no tvOS. O produto teria interface com widgets, controle de dispositivos inteligentes e suporte a chamadas de vídeo pelo FaceTime. O grande chamariz, no entanto, deve ser a integração com a Siri AI . A principal aposta para a nova geração de HomePods é o uso de chips que já suportam nativamente a tecnologia, como o S9, presente nos modelos de relógio da Maçã de 2023 . O chip inclui um Neural Engine de quatro núcleos, voltado ao processamento para tarefas de aprendizado de máquina. Ainda que não sejam os mais atuais, daria mais fôlego para comandos de voz, respostas da nova Siri e recursos de IA executados no próprio aparelho. Rumores adiantam que a versão menor deve trazer uma capacidade de transmissão de dados mais moderna, além do chip N1 , com suporte a Wi-Fi 7, Bluetooth 6 e Thread. Citam também melhorias na qualidade de som e uma nova opção de cor vermelha para a versão mini. Nova fase para casas inteligentes Lançamentos também podem incluir novo Apple TV (imagem: divulgação/Apple) O Apple TV ( o dispositivo, não o streaming ) também deve ser atualizado na mesma janela de lançamento. A central de mídia deve receber um chip mais recente para acompanhar os recursos da Siri e da Apple Intelligence. Uma das possibilidades é o uso do A17 Pro, processador introduzido na linha iPhone 15 Pro e considerado o chip mais antigo da Apple com suporte confirmado aos recursos de IA da empresa. Segundo o The Verge , a Apple também estaria desenvolvendo uma câmera de segurança para competir com soluções como a linha Ring, da Amazon . Apple pode atualizar linha HomePod após anos sem grandes mudanças",
+      "lang": "pt",
+      "depts": [
+        "Gestão",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Google desmonta projeto vencedor do Nobel para focar no Gemini, diz jornal",
+      "description": "Pesquisadores responsáveis por trabalho científico envolvendo IA e proteínas foram realocados para outros projetos ou saíram da empresa. Google desmonta projeto vencedor do Nobel para focar no Gemini, diz jornal",
+      "url": "https://tecnoblog.net/noticias/google-desmonta-projeto-vencedor-do-nobel-para-focar-no-gemini-diz-jornal/",
+      "publishedAt": "Wed, 29 Jul 2026 16:51:13 +0000",
+      "image": "https://www.youtube.com/embed/Ac-TqqzaSUg",
+      "source": "Tecnoblog",
+      "content": "AlphaFold usa IA para prever estruturas de proteínas (imagem: divulgação) Resumo O Google desmembrou a equipe do AlphaFold, projeto de inteligência artificial para prever estruturas de proteínas, e realocou pesquisadores para outros projetos, incluindo o desenvolvimento do Gemini. Cerca de um quarto dos autores dos primeiros artigos científicos sobre o AlphaFold deixaram o Google DeepMind. O Google DeepMind afirmou que as mudanças refletem a evolução de suas prioridades científicas. O laboratório Google DeepMind desmembrou a equipe responsável pelo AlphaFold, projeto de inteligência artificial para prever estruturas de proteínas. Parte dos autores dos artigos científicos foram realocados para trabalhar no desenvolvimento do Gemini. As informações foram publicadas pelo jornal Financial Times , usando como base uma análise das mudanças recentes de cargos e informações de pessoas a par do assunto. Para onde foram os responsáveis pelo AlphaFold? O Google DeepMind confirmou que alguns funcionários foram remanejados internamente para projetos construídos em torno do modelo de linguagem em larga escala Gemini, bem como em áreas como design de enzimas, fusão nuclear e genômica. Demis Hassabis, cofundador e CEO do Google DeepMind (foto: John Sears/Wikimedia) Outros foram transferidos para a Isomorphic Labs, empresa da Alphabet com foco em descoberta de medicamentos. A Alphabet é a holding que controla o Google e mais empresas de ciência e tecnologia. De acordo com o Financial Times , cerca de um quarto dos autores dos primeiros artigos científicos sobre o AlphaFold que trabalhavam no DeepMind deixaram a empresa de modo definitivo. Por que o Google reorganizou seus funcionários? O DeepMind diz que as movimentações refletem a evolução de suas prioridades científicas. Pushmeet Kohli, vice-presidente de pesquisa do Google DeepMind, explicou ao jornal FT que a estratégia do laboratório mudou. “Nossa estratégia ao longo dos últimos nove anos foi se concentrar em grandes desafios (…) todo projeto tinha foco em uma meta concreta”, afirma. O executivo conta que, agora, o laboratório também engloba sistemas que usam o Gemini como base e visam ajudar cientistas. Outra tarefa é desenvolver agentes de IA para concorrer com Anthropic e OpenAI. John Jumper, um dos vencedores do Nobel de Química de 2024 pelo trabalho no AlphaFold, foi movido para a equipe que desenvolve as habilidades de geração de código do Gemini. No mês passado, Jumper deixou o Google e foi para a Anthropic. Jonas Adler e Alexander Pritzel, seus colegas na pesquisa da estrutura tridimensional das proteínas, fizeram o mesmo caminho. Um funcionário do Google DeepMind disse ao FT , sob condição de anonimato, que as saídas causaram surpresa internamente. Ele afirma que os três eram vistos como membros centrais para o laboratório. O que é o AlphaFold? O AlphaFold é um software para prever e criar estruturas 3D de proteínas usando modelos de difusão, a mesma tecnologia de inteligência artificial empregada em geradores de imagem. Graças a ele, pesquisadores foram capazes de prever as estruturas de praticamente todos os 200 milhões de proteínas identificadas até hoje. O método também é mais rápido e barato que as técnicas empregadas anteriormente. Do ponto de vista prático, isso pode facilitar o desenvolvimento de medicamentos relacionados a proteínas. Em 2024, o trabalho rendeu o Prêmio Nobel de Química a três pesquisadores: Demis Hassabis, CEO e cofundador, John Jumper, diretor do laboratório, e David Baker, pesquisador da Universidade de Washington, nos Estados Unidos. DeepMind foi “engolido” pelo Google O projeto começou em 2018, quando o DeepMind ainda era uma subsidiária da Alphabet. Outro trabalho importante do laboratório foi o AlphaGo, software de inteligência artificial que foi capaz de derrotar o campeão mundial do jogo Go . Em 2023, diante do sucesso do ChatGPT e da OpenAI, o DeepMind foi incorporado pelo Google para contribuir com o desenvolvimento de aplicações de IA em produtos. Antes disso, mesmo com colaborações pontuais, o relacionamento entre as duas empresas era descrito como tenso. O laboratório tinha foco acadêmico e científico, dando prejuízo. Ao mesmo tempo, queria mais independência para trabalhar. O Google, que pagava as contas, chegou a recusar um pedido para transformar o DeepMind em instituição sem fins lucrativos. Google desmonta projeto vencedor do Nobel para focar no Gemini, diz jornal",
+      "lang": "pt",
+      "depts": [
+        "RH",
+        "Gestão"
+      ]
+    },
+    {
+      "title": "Hint, uma nova startup de IA cofundada por Martha Stewart, oferece um assistente de IA para proprietários de casas",
+      "description": "A startup de gerenciamento residencial de IA, Hint, cofundada por Martha Stewart, quer se tornar uma “IA para sua casa”, combinando registros de propriedade, cronogramas de manutenção, documentos domésticos e um assistente de IA em um único aplicativo.",
+      "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+      "publishedAt": "Wed, 29 Jul 2026 15:35:09 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "A startup de gerenciamento residencial de IA, Hint, cofundada por Martha Stewart, quer se tornar uma “IA para sua casa”, combinando registros de propriedade, cronogramas de manutenção, documentos domésticos e um assistente de IA em um único aplicativo.",
+      "lang": "en",
+      "depts": [
+        "Gestão"
+      ]
+    },
+    {
+      "title": "IA da OpenAI invadiu servidor de outra empresa após fugir de teste",
+      "description": "Sistema explorou credenciais expostas e um servidor vulnerável para ampliar o ataque, alcançando serviços além da Hugging Face. IA da OpenAI invadiu servidor de outra empresa após fugir de teste",
+      "url": "https://tecnoblog.net/noticias/ia-da-openai-invadiu-servidor-de-outra-empresa-apos-fugir-de-teste/",
+      "publishedAt": "Wed, 29 Jul 2026 15:24:15 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/openai-4_capa.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Comercial"
+      ]
+    },
+    {
+      "title": "BYD se prepara para estrear no mercado de robôs humanoides",
+      "description": "Montadora deve se juntar a outras fabricantes chinesas e revelar seu primeiro modelo em agosto. BYD se prepara para estrear no mercado de robôs humanoides",
+      "url": "https://tecnoblog.net/noticias/byd-prepara-estreia-no-mercado-de-robos-humanoides/",
+      "publishedAt": "Wed, 29 Jul 2026 13:58:49 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/img_1686-2.jpeg",
+      "source": "Tecnoblog",
+      "content": "Protótipo de robô humanoide já havia sido exibido pela BYD (imagem: reprodução/CnEVPost) Resumo BYD deve lançar seu primeiro robô humanoide em agosto, na China. A produção de um robô humanoide já havia sido confirmada pela vice-presidente executiva da empresa, Stella Li. A montadora quer utilizar os robôs para interação com o público em suas lojas na China em até dois anos. A BYD confirmou o lançamento de seu primeiro robô humanoide em agosto. Um teaser sobre a novidade foi publicado no WeChat por meio de um perfil dedicado ao BYD Zhengzhou Di Space, local que funciona como uma espécie de museu científico onde a montadora apresenta seus novos produtos ao público. A publicação não traz muitas informações técnicas, mas o robô deve focar nas capacidades de interação. A informação não chega a ser uma novidade: em junho, a vice-presidente executiva da BYD, Stella Li, disse em um talk show que a empresa já estava desenvolvendo robôs humanoides. O projeto começou em 2024, com um time dedicado exclusivamente à área de inteligência artificial e robótica. O mercado de robôs humanoides vive um momento de forte expansão na China. Em novembro do ano passado, uma porta-voz do governo chegou a alertar para o risco de formação de uma bolha no setor . Segundo o jornal La Razón , mais de 150 fabricantes disputam esse mercado no país, incluindo montadoras como Li Auto, Xpeng, Geely e BYD — estas duas últimas já conhecidas do público brasileiro. Até agora, a maior parte desses robôs tem sido desenvolvida para atuar em fábricas ou participar de demonstrações de veículos elétricos, mas as empresas também enxergam potencial para aplicações em outros setores . Montadora deve ”pular” etapa de protótipo conceitual Teaser no WeChat indicou lançamento em agosto (imagem: divulgação/BYD Zhengzhou Di Space) Segundo o portal CnEVPost , a expectativa é que a BYD aproveite o evento de agosto para demonstrar seu primeiro robô humanoide , e não apenas apresentar um produto conceitual. Isso porque o Di Space funciona justamente como local em que a marca leva suas novidades para hands-on por parte da mídia especializada e dos consumidores. Segundo Stella Li, a ideia da empresa é ter dois ou três modelos disponíveis nas lojas da China para introduzir seus carros elétricos, interagindo diretamente com o público. Contudo, ela reforça: os robôs de IA não substituem a “conexão emocional” entre os vendedores humanos e seus clientes. O plano é colocá-los para trabalhar nessa função em até dois anos. Apesar da novidade no mercado, a BYD já utiliza robôs humanoides em suas fábricas, com atividades envolvendo modelos da UBTech Robotics e seus veículos autônomos. Em outra oportunidade, Li afirmou que a montadora deseja fabricar não apenas seus próprios humanoides, mas também outros produtos desenvolvidos junto a empresas parceiras. Carros elétricos caminhando junto às IAs físicas Robôs da Figure AI são usados unidade de distribuição de encomendas (imagem: divulgação/Figure AI) O mercado de carros elétricos e NEVs (New Energy Vehicles, em inglês) vem caminhando lado a lado com os robôs de IA. Diversas montadoras chinesas têm apostado na área, assim como marcas de outros países. É o caso da Huyndai, Tesla e BMW. Para Stella Li, há uma vantagem neste mercado , já que&nbsp; desenvolvimento de hardware e software tem bases semelhantes às tecnologias dominadas pela indústria automobilística. Os robôs humanoides vêm roubando a cena desde o começo de 2026, com muitas fabricantes apresentando produtos e protótipos na CES. Desde então, marcas como a chinesa Unitree e a estadunidense Figure AI já emplacaram usos práticos de seus modelos, com unidades no aeroporto de Tóquio e em uma unidade de distribuição de encomendas , respectivamente. BYD se prepara para estrear no mercado de robôs humanoides",
+      "lang": "pt",
+      "depts": [
+        "Comercial"
+      ]
+    },
     {
       "title": "Claude expôs conversas de usuários na busca do Google",
       "description": "Chats compartilhados por link foram indexados pelo buscador e ficaram acessíveis publicamente. Anthropic e Google removeram os resultados. Claude expôs conversas de usuários na busca do Google",
       "url": "https://tecnoblog.net/noticias/claude-expos-conversas-de-usuarios-na-busca-do-google/",
       "publishedAt": "Tue, 28 Jul 2026 19:57:41 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/06/O-que-e-claude-ai.jpg",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-7.jpg",
       "source": "Tecnoblog",
       "content": null,
       "lang": "pt",
@@ -49,66 +164,6 @@
       "content": null,
       "lang": "en",
       "depts": []
-    },
-    {
-      "title": "PSA: seus bate-papos e artefatos compartilhados por Claude podem ter ido parar no Google",
-      "description": "O problema parece ter origem no recurso “compartilhar bate-papo” de Claude, que permite aos usuários criar links que permitem que qualquer pessoa com o URL atribuído visualize uma conversa ou projeto.",
-      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
-      "publishedAt": "Mon, 27 Jul 2026 20:19:42 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "O problema parece ter origem no recurso “compartilhar bate-papo” de Claude, que permite aos usuários criar links que permitem que qualquer pessoa com o URL atribuído visualize uma conversa ou projeto.",
-      "lang": "en",
-      "depts": [
-        "Educação"
-      ]
-    },
-    {
-      "title": "Aliança de IA fica sem os maiores laboratórios dos EUA",
-      "description": "OpenAI, Google e Anthropic estão fora da lista. Iniciativa liderada pela Nvidia aposta no código aberto para combater ameaças cibernéticas. Aliança de IA fica sem os maiores laboratórios dos EUA",
-      "url": "https://tecnoblog.net/noticias/alianca-de-ia-fica-sem-os-maiores-laboratorios-dos-eua/",
-      "publishedAt": "Mon, 27 Jul 2026 18:20:48 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/ia-2.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "A violação Hugging Face da OpenAI reacendeu o debate sobre alinhamento e controle",
-      "description": "A violação Hugging Face da OpenAI reacendeu o debate sobre o alinhamento e controle da IA, expondo visões concorrentes sobre se a IA cada vez mais capaz deveria ser melhor alinhada, melhor contida ou ambos.",
-      "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
-      "publishedAt": "Mon, 27 Jul 2026 17:28:42 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "A violação Hugging Face da OpenAI reacendeu o debate sobre o alinhamento e controle da IA, expondo visões concorrentes sobre se a IA cada vez mais capaz deveria ser melhor alinhada, melhor contida ou ambos.",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Os usuários do Threads agora podem conversar com Meta AI em seus DMs",
-      "description": "A Meta disse na segunda-feira que está lançando seu chatbot Meta AI nos DMs do Threads, oferecendo aos usuários uma maneira de conversar com o assistente de IA.",
-      "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
-      "publishedAt": "Mon, 27 Jul 2026 16:45:24 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Apenas 3% dos usos do Gemini envolvem automação massiva de tarefas",
-      "description": "Levantamento feito pelo Google analisa uso de inteligência artificial no trabalho, apontado como muito superficial. Apenas 3% dos usos do Gemini envolvem automação massiva de tarefas",
-      "url": "https://tecnoblog.net/noticias/apenas-3-dos-usos-do-gemini-envolvem-automacao-massiva-de-tarefas/",
-      "publishedAt": "Sun, 26 Jul 2026 15:00:10 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/01/capa-freelas-perde-emprego-pra-ia.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "RH",
-        "Gestão"
-      ]
     },
     {
       "title": "8 prompts para conversar com voz no ChatGPT",
@@ -493,61 +548,6 @@
       "depts": [
         "Marketing",
         "Comercial"
-      ]
-    },
-    {
-      "title": "Por que o próximo ciclo computacional precisa ser construído para todos",
-      "description": "Nos últimos três anos, a capacidade computacional global dedicada à inteligência artificial cresceu aproximadamente 100 vezes . É uma das revoluções tecnológicas mais impactantes das últimas décadas. A IA já chegou indiscutivelmente. Mas a questão que surge agora é: ela está acessível a todos? De um",
-      "url": "https://canaltech.com.br/colunas/por-que-o-proximo-ciclo-computacional-precisa-ser-construido-para-todos/",
-      "publishedAt": "Thu, 02 Jul 2026 10:43:03 -0300",
-      "image": "https://t.ctcdn.com.br/nZ6sNq7PsgAB4H-oy5G3Tk3upoA=/700x394/smart/i1003705.png",
-      "source": "Canaltech IA",
-      "content": "Nos últimos três anos, a capacidade computacional global dedicada à inteligência artificial cresceu aproximadamente 100 vezes . É uma das revoluções tecnológicas mais impactantes das últimas décadas. A IA já chegou indiscutivelmente. Mas a questão que surge agora é: ela está acessível a todos? De um lado, temos modelos cada vez mais capazes, infraestruturas de bilhões de dólares, parcerias entre algumas das maiores empresas do planeta. De outro, desenvolvedores independentes, pesquisadores em países emergentes, startups sem acesso a crédito cloud e laboratórios universitários com acesso limitado. O próximo ciclo computacional pode encontrar caminhos para solucionar essa assimetria. O problema não é só hardware Quando falamos em democratizar a IA, GPUs e custos de treinamento são pontos importantes, mas há um gargalo além do hardware: a dependência de ecossistemas fechados que prendem desenvolvedores a plataformas específicas e concentram o poder de inovação nas mãos de poucos. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A analogia com o software é útil aqui. O movimento open source levou décadas para amadurecer, mas hoje a infraestrutura que sustenta a internet é majoritariamente aberta . Isso porque a inovação aberta com frequência se mostrou altamente resiliente e amplamente adotada em comparação com alternativas proprietárias. A IA está no começo do mesmo caminho. Plataformas abertas saltaram de nichos experimentais para infraestrutura de produção em escala global. Um pesquisador no Brasil, na Índia ou na Nigéria pode acessar hoje muitas das mesmas ferramentas utilizadas por grandes centros de tecnologia — desde que disponha de recursos de hardware adequados . A IA que mora no seu dispositivo Outra transformação relevante: a migração da IA da nuvem para o dispositivo. Processadores modernos com NPUs integradas permitem rodar inteligência artificial localmente , sem",
-      "lang": "pt",
-      "depts": [
-        "Financeiro",
-        "Comercial",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Fable e Mythos 5: governo Trump libera IAs mais perigosas da Anthropic",
-      "description": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três s",
-      "url": "https://canaltech.com.br/inteligencia-artificial/fable-e-mythos-5-governo-trump-libera-ias-mais-perigosas-da-anthropic/",
-      "publishedAt": "Wed, 01 Jul 2026 12:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/Am6VaUx8jmQtCNJCxA_znmbrltc=/700x394/smart/i1107289.png",
-      "source": "Canaltech IA",
-      "content": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três semanas depois de o governo ter suspendido o acesso aos dois sistemas por risco à segurança nacional. Segundo a Reuters, o acesso ao Fable 5 será restaurado a partir desta quarta-feira (1º) , ficando disponível ao público em geral. Já o Mythos 5, direcionado à detecção de vulnerabilidades de cibersegurança, será liberado para um grupo maior de parceiros domésticos e internacionais do programa Glasswing, da Anthropic. Como começou a restrição Em 12 de junho, o governo americano incluiu os dois modelos em sua lista de tecnologias sob controle de exportação , impedindo o acesso de estrangeiros sem aprovação especial . Como a Anthropic não tinha como verificar a nacionalidade dos usuários em tempo real, a companhia optou por suspender o Fable 5 e o Mythos 5 para todo mundo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A decisão, segundo a Reuters, partiu de uma denúncia de pesquisadores da Amazon , que encontraram uma forma de contornar as proteções do Fable 5. Com essa brecha, o modelo passou a identificar falhas de software e, em um dos casos registrados, chegou a gerar código demonstrando como explorar uma vulnerabilidade. No último domingo (28), o governo abriu uma primeira exceção , permitindo o uso do Mythos 5 por organizações selecionadas e por funcionários da própria Anthropic, incluindo estrangeiros vinculados a esses grupos. O Fable 5 seguia fora do ar até esta terça. O Claude é, atualmente, a terceira IA mais utilizada no mundo (Imagem: Marcelo Fischer/Canaltech) Por que são modelos tão perigosos O Mythos 5 concentra as capacidades que mais preocupam o governo american",
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "Português é o 3º idioma mais usado no ChatGPT",
-      "description": "O português é agora o terceiro idioma mais usado no ChatGPT , segundo dados da OpenAI divulgados no relatório OpenAI Signals. Ele fica atrás apenas do inglês e do espanhol. O levantamento também mostra que, pela primeira vez, mais da metade dos usuários ativos usa o ChatGPT principalmente em idiomas",
-      "url": "https://canaltech.com.br/inteligencia-artificial/portugues-e-o-3o-idioma-mais-usado-no-chatgpt/",
-      "publishedAt": "Wed, 01 Jul 2026 09:27:36 -0300",
-      "image": "https://t.ctcdn.com.br/elWRGd7DozFcUzbnLeKmr45Ecyw=/700x394/smart/i1137007.png",
-      "source": "Canaltech IA",
-      "content": "O português é agora o terceiro idioma mais usado no ChatGPT , segundo dados da OpenAI divulgados no relatório OpenAI Signals. Ele fica atrás apenas do inglês e do espanhol. O levantamento também mostra que, pela primeira vez, mais da metade dos usuários ativos usa o ChatGPT principalmente em idiomas diferentes do inglês. Em quarto, quinto e sexto lugar aparecem, respectivamente, o francês, o indonésio e o árabe. A análise mede as interações de usuários nos planos individuais do ChatGPT , incluindo as assinaturas Free (gratuito), Go, Plus e Pro. Além disso, os idiomas uzbeque, cazaque e birmanês foram os que mais cresceram em participação desde julho de 2023. O relatório também mostra que usuários mais antigos usam o ChatGPT com mais frequência. Após seis meses na plataforma, eles enviam, em média, 50% mais mensagens por dia e realizam o dobro de tarefas diferentes em relação ao início do uso. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Português é o terceiro idioma mais usado no ChatGPT. (Imagem: Divulgação/OpenAI) Adoção do ChatGPT cresceu em todas as regiões O relatório também mostra que o uso do ChatGPT cresceu em todos os continentes desde julho de 2023, deixando a base de usuários mais global e diversa. O crescimento foi mais rápido na África, seguida pela Ásia, América do Sul, Europa, América do Norte e Oceania. Segundo a OpenAI, o crescimento foi mais rápido em países com menor Índice de Desenvolvimento Humano (IDH) , que registraram o maior aumento no número de usuários ativos por semana. O levantamento também aponta mudanças no perfil dos usuários. Pessoas com nomes tipicamente femininos representam a maior parte do uso global do ChatGPT. O Brasil, Colômbia, Polônia e Namíbia estão entre os países onde esse grupo supera os usuários com nomes tipicamente masculinos. Já Paquistão, Bangladesh, Angola, República Democrática do Congo e Mali têm a maior presença de",
-      "lang": "pt",
-      "depts": [
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Novo sistema usará IA para \"traduzir\" o que o seu corpo realmente precisa",
-      "description": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30",
-      "url": "https://canaltech.com.br/inteligencia-artificial/novo-sistema-usara-ia-para-traduzir-o-que-o-seu-corpo-realmente-precisa/",
-      "publishedAt": "Wed, 01 Jul 2026 08:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/4BlAeU73zGDl24KwhTRIfUE4ZkA=/700x394/smart/i1138901.png",
-      "source": "Canaltech IA",
-      "content": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30) e foi divulgado pelo site Android Police. A empresa afirma que dispositivos vestíveis já evoluíram na coleta de dados, mas ainda falham em explicar o significado desses números para quem os usa. Gee Gu, cofundador da Vilo ao lado de Andy Xu, descreveu o Signal OS como um sistema que ajuda o usuário a entender o que mudou no corpo , priorizar o que importa e transformar sinais corporais em suporte real. Como funciona o Signal OS O sistema reúne quatro frentes principais. A primeira é o Signals , um recurso de cartões que aponta alterações nos indicadores de saúde e sugere o que fazer a respeito. Já o Pulse funciona como um painel com o histórico de dados e tendências ao longo do tempo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Há ainda o Vibes , um chatbot com IA para tirar dúvidas sobre as informações coletadas, e uma camada dedicada à saúde da mulher . A Vilo descreve o Signal OS como uma plataforma \"ring-first\", ou seja, pensada primeiro para anéis inteligentes, e ela vai estrear no próprio anel da empresa. A companhia evita o terreno regulatório mais rígido reservado a dispositivos médicos. Segundo o comunicado oficial, a proposta do sistema é oferecer \"orientação de bem-estar e autoconhecimento, não diagnóstico ou tratamento\", o que dispensa aprovação de agências como a FDA, órgão regulador dos Estados Unidos. Fitbit já segue caminho parecido com o AI Coach e o Fitbit Air, usando IA para interpretar pontuações sem depender desse tipo de aval. Possível interface do app dedicado ao sistema, presente no vídeo de divulgação (Imagem: Reprodução/YouTube/VILO) Anel da Vilo",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Comercial",
-        "Saúde",
-        "Educação"
       ]
     }
   ]
