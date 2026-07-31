@@ -1,7 +1,114 @@
 {
-  "updatedAt": "2026-07-30T11:44:53.472Z",
+  "updatedAt": "2026-07-31T11:51:47.164Z",
   "count": 40,
   "articles": [
+    {
+      "title": "Anthropic afirma que seus próprios modelos de IA violaram três empresas durante testes de segurança",
+      "description": "Depois que os modelos da OpenAI invadiram o Hugging Face, a Anthropic verificou seu próprio histórico e encontrou três incidentes semelhantes",
+      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+      "publishedAt": "Fri, 31 Jul 2026 01:06:54 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "O fundo de hedge de IA Situational Awareness pode ter vendido sua carteira pública, mas ainda tem suas ações da Antrópica",
+      "description": "O fundo do ex-pesquisador da OpenAI foi forçado a desfazer as ações públicas depois que as apostas públicas alavancadas despencaram. Mas ele ainda tem cartas para jogar.",
+      "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+      "publishedAt": "Thu, 30 Jul 2026 23:25:58 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "OpenAI corta preço de IA recém-lançada para rivalizar com modelos chineses",
+      "description": "GPT-5.6 Terra e Luna têm reduções de preços de até 80%. Gastos com tokens causam preocupação no mercado corporativo. OpenAI corta preço de IA recém-lançada para rivalizar com modelos chineses",
+      "url": "https://tecnoblog.net/noticias/openai-corta-preco-de-ia-recem-lancada-para-rivalizar-com-modelos-chineses/",
+      "publishedAt": "Thu, 30 Jul 2026 23:02:40 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-1_capa.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "O juiz diz que o administrador de Trump ainda não tem evidências para o rótulo de ‘risco da cadeia de suprimentos’ da Antrópico",
+      "description": "Um juiz federal disse que a administração Trump não apresentou provas suficientes para justificar rotular a Antrópico como um risco para a cadeia de abastecimento, lançando dúvidas sobre a proibição do governo à sua tecnologia de IA.",
+      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+      "publishedAt": "Thu, 30 Jul 2026 20:26:38 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Um juiz federal disse que a administração Trump não apresentou provas suficientes para justificar rotular a Antrópico como um risco para a cadeia de abastecimento, lançando dúvidas sobre a proibição do governo à sua tecnologia de IA.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "O Google afirma que corrigiu mais bugs do Chrome em junho do que nos últimos dois anos, graças à IA",
+      "description": "Como alertaram especialistas nos últimos dois anos, algumas empresas – como a Microsoft e agora o Google – estão encontrando e corrigindo um número exponencial de bugs em seus produtos, graças ao uso de LLMs e ferramentas de IA.",
+      "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+      "publishedAt": "Thu, 30 Jul 2026 18:57:58 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Como alertaram especialistas nos últimos dois anos, algumas empresas – como a Microsoft e agora o Google – estão encontrando e corrigindo um número exponencial de bugs em seus produtos, graças ao uso de LLMs e ferramentas de IA.",
+      "lang": "en",
+      "depts": [
+        "Comercial"
+      ]
+    },
+    {
+      "title": "LinkedIn cria botão para denunciar posts feitos por inteligência artificial",
+      "description": "Recurso permite marcar publicações que parecem “lixo de IA”, termo usado para conteúdos genéricos ou de baixa qualidade. LinkedIn cria botão para denunciar posts feitos por inteligência artificial",
+      "url": "https://tecnoblog.net/noticias/linkedin-cria-botao-para-denunciar-posts-feitos-por-ia/",
+      "publishedAt": "Thu, 30 Jul 2026 18:13:05 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2020/02/linkedin-tecnoblog-1.jpg",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Marketing",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Microsoft vai lançar super app para unificar recursos do Copilot",
+      "description": "Agentes de IA, plataforma colaborativa de trabalho e gerador de códigos de programação serão integrados ao chatbot em um só aplicativo. Microsoft vai lançar super app para unificar recursos do Copilot",
+      "url": "https://tecnoblog.net/noticias/microsoft-vai-lancar-super-app-para-unificar-recursos-do-copilot/",
+      "publishedAt": "Thu, 30 Jul 2026 15:52:45 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/11/capa-copilot-1.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "RH",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Na violação do Hugging Face, o hacker da OpenAI era barulhento e rápido – mas não imparável",
+      "description": "Especialistas em segurança cibernética disseram ao TechCrunch que uma das maiores lições a serem tiradas do hack OpenAI contra Hugging Face não tem nada a ver com IA, mas com a defesa tradicional de segurança cibernética.",
+      "url": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
+      "publishedAt": "Thu, 30 Jul 2026 14:48:32 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Especialistas em segurança cibernética disseram ao TechCrunch que uma das maiores lições a serem tiradas do hack OpenAI contra Hugging Face não tem nada a ver com IA, mas com a defesa tradicional de segurança cibernética.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "EUA barram entrada de robôs humanoides chineses",
+      "description": "Governo Trump aponta “riscos inaceitáveis” em importação de modelos estrangeiros. EUA barram entrada de robôs humanoides chineses",
+      "url": "https://tecnoblog.net/noticias/eua-barram-entrada-de-robos-humanoides-chineses/",
+      "publishedAt": "Thu, 30 Jul 2026 12:37:49 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/robo-empoeirado.jpeg",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
     {
       "title": "A Microsoft está competindo abertamente com OpenAI, Anthropic mais do que nunca",
       "description": "A Microsoft lançou seus próprios modelos de IA, equipamentos e até mesmo um concorrente da Mythos na quarta-feira, dizendo a Wall Street que planeja um crescimento contínuo.",
@@ -25,30 +132,6 @@
       "depts": [
         "Financeiro"
       ]
-    },
-    {
-      "title": "A cofundadora da Thinking Machines, Lilian Weng, deixou a empresa alegando motivos de saúde e depois ingressou na OpenAI",
-      "description": "Weng atuou anteriormente como vice-presidente de pesquisa de segurança de IA na OpenAI.",
-      "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
-      "publishedAt": "Wed, 29 Jul 2026 21:07:48 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Saúde"
-      ]
-    },
-    {
-      "title": "Claude Opus 5 tornou-se totalmente implacável quando encarregado de operar uma máquina de venda automática",
-      "description": "A mais recente simulação de máquina de venda automática do Andon Labs mostra que o Opus 5 mentiu e conspirou para se tornar o melhor capitalista de IA de todos os tempos.",
-      "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
-      "publishedAt": "Wed, 29 Jul 2026 18:45:27 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
     },
     {
       "title": "Apple pode atualizar linha HomePod após anos sem grandes mudanças",
@@ -79,19 +162,6 @@
       ]
     },
     {
-      "title": "Hint, uma nova startup de IA cofundada por Martha Stewart, oferece um assistente de IA para proprietários de casas",
-      "description": "A startup de gerenciamento residencial de IA, Hint, cofundada por Martha Stewart, quer se tornar uma “IA para sua casa”, combinando registros de propriedade, cronogramas de manutenção, documentos domésticos e um assistente de IA em um único aplicativo.",
-      "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
-      "publishedAt": "Wed, 29 Jul 2026 15:35:09 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "A startup de gerenciamento residencial de IA, Hint, cofundada por Martha Stewart, quer se tornar uma “IA para sua casa”, combinando registros de propriedade, cronogramas de manutenção, documentos domésticos e um assistente de IA em um único aplicativo.",
-      "lang": "en",
-      "depts": [
-        "Gestão"
-      ]
-    },
-    {
       "title": "IA da OpenAI invadiu servidor de outra empresa após fugir de teste",
       "description": "Sistema explorou credenciais expostas e um servidor vulnerável para ampliar o ataque, alcançando serviços além da Hugging Face. IA da OpenAI invadiu servidor de outra empresa após fugir de teste",
       "url": "https://tecnoblog.net/noticias/ia-da-openai-invadiu-servidor-de-outra-empresa-apos-fugir-de-teste/",
@@ -116,54 +186,6 @@
       "depts": [
         "Comercial"
       ]
-    },
-    {
-      "title": "Claude expôs conversas de usuários na busca do Google",
-      "description": "Chats compartilhados por link foram indexados pelo buscador e ficaram acessíveis publicamente. Anthropic e Google removeram os resultados. Claude expôs conversas de usuários na busca do Google",
-      "url": "https://tecnoblog.net/noticias/claude-expos-conversas-de-usuarios-na-busca-do-google/",
-      "publishedAt": "Tue, 28 Jul 2026 19:57:41 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-7.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "ChatGPT passa a dizer que não pode imitar autores famosos",
-      "description": "IA avisa que não pode reproduzir de maneira próxima a linguagem de um escritor, mas escreve textos com traços característicos das obras. ChatGPT passa a dizer que não pode imitar autores famosos",
-      "url": "https://tecnoblog.net/noticias/chatgpt-passa-a-dizer-que-nao-pode-imitar-autores-famosos/",
-      "publishedAt": "Tue, 28 Jul 2026 16:28:16 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/maquina-de-escrever-camille-orgel-skctkynrvhy-unsplash-1-edited.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "Superinteligência recursiva assina acordo de computação de US$ 410 milhões com a Amazon",
-      "description": "A ênfase da Recursive em sistemas de IA de auto-aperfeiçoamento significa que grande parte do orçamento que tradicionalmente seria destinado ao número de funcionários e às operações é colocado diretamente na computação, à medida que a empresa busca automatizar seu próprio processo de desenvolvimento de produtos.",
-      "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
-      "publishedAt": "Tue, 28 Jul 2026 13:19:17 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "A ênfase da Recursive em sistemas de IA de auto-aperfeiçoamento significa que grande parte do orçamento que tradicionalmente seria destinado ao número de funcionários e às operações é colocado diretamente na computação, à medida que a empresa busca automatizar seu próprio processo de desenvolvimento de produtos.",
-      "lang": "en",
-      "depts": [
-        "RH",
-        "Comercial",
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Dario Amodei da Anthropic responde: não se opõe aos modelos de peso aberto, mas teme a IA chinesa",
-      "description": "O fundador e CEO da Anthropic, Dario Amodei, deixou claras suas opiniões sobre os modelos de peso aberto e as crescentes capacidades de IA da China.",
-      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-      "publishedAt": "Tue, 28 Jul 2026 00:13:33 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
     },
     {
       "title": "8 prompts para conversar com voz no ChatGPT",
@@ -521,33 +543,6 @@
         "Marketing",
         "Comercial",
         "Educação"
-      ]
-    },
-    {
-      "title": "O que é o “erro 1099” no Gemini? Saiba o que acontece com a IA",
-      "description": "Os usuários do Gemini, tanto na versão web quanto em celulares Android, têm relatado o aparecimento do “erro 1099” , uma falha que interrompe o uso da inteligência artificial. Quando isso acontece, o serviço deixa de responder, impedindo a continuidade da conversa. Segundo os relatos, o problema afe",
-      "url": "https://canaltech.com.br/inteligencia-artificial/o-que-e-o-erro-1099-no-gemini-saiba-o-que-acontece-com-a-ia/",
-      "publishedAt": "Fri, 03 Jul 2026 11:37:55 -0300",
-      "image": "https://t.ctcdn.com.br/BUD5tnSrkkYlVQlUMUP7n-eLQ5U=/700x394/smart/i1111873.png",
-      "source": "Canaltech IA",
-      "content": "Os usuários do Gemini, tanto na versão web quanto em celulares Android, têm relatado o aparecimento do “erro 1099” , uma falha que interrompe o uso da inteligência artificial. Quando isso acontece, o serviço deixa de responder, impedindo a continuidade da conversa. Segundo os relatos, o problema afeta os usuários da versão gratuita e os assinantes dos planos pagos . Em alguns casos, a falha aparece apenas ocasionalmente. Em outros, surge sempre que a pessoa tenta abrir ou usar o Gemini em determinado dispositivo. O erro também tem sido observado com frequência em smartphones da linha Pixel , principalmente ao acionar o Gemini pelo botão lateral. Também há relatos de que a falha acontece após um período de inatividade ou durante conversas longas no NotebookLM , o que pode indicar relação com o volume de informações que a IA precisa processar. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O erro 1099 impede o funcionamento do Gemini e pode afetar usuários da versão web e do Android. (Imagem: Viviane França/Canaltech) O que é o “erro 1099” no Gemini? Segundo especialistas da Comunidade de Suporte do Google, o erro 1099 é uma falha nos servidores do Gemini . Isso significa que o problema não está no celular, no computador ou na conexão com a internet do usuário. As possíveis causas incluem: Falha de autenticação : ocorre quando há um problema na comunicação entre o dispositivo e os servidores do Gemini durante a verificação de acesso; Limite de contexto : o erro pode aparecer quando o prompt ou o histórico da conversa fica grande demais para ser processado pela IA; Limitação de memória : o sistema pode atingir o limite de recursos disponíveis durante o processamento da solicitação; Instabilidade do serviço : o código 1099 também costuma aparecer durante períodos de instabilidade ou indisponibilidade do Gemini. A falha está relacionada aos servidores do Google e pode interro",
-      "lang": "pt",
-      "depts": [
-        "Comercial"
-      ]
-    },
-    {
-      "title": "Virginia Fonseca tem “clone de IA” para conversar com fãs por até R$ 89",
-      "description": "A plataforma Versio funciona como um chatbot de IA na qual é possível conversar com versões inspiradas em especialistas e celebridades, como a influenciadora Virginia Fonseca . O serviço cobra até R$ 89 por mês para liberar conversas com os clones de IA inspirados em pessoas famosas, mas há uma vers",
-      "url": "https://canaltech.com.br/inteligencia-artificial/virginia-fonseca-tem-clone-de-ia-para-conversar-com-fas-por-ate-r-89/",
-      "publishedAt": "Thu, 02 Jul 2026 18:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/k8MEe2l3PH5iKwUNiwyAeaBzMwA=/700x394/smart/i1139979.png",
-      "source": "Canaltech IA",
-      "content": "A plataforma Versio funciona como um chatbot de IA na qual é possível conversar com versões inspiradas em especialistas e celebridades, como a influenciadora Virginia Fonseca . O serviço cobra até R$ 89 por mês para liberar conversas com os clones de IA inspirados em pessoas famosas, mas há uma versão gratuita “escondida” . A ferramenta foi divulgada pela influenciadora nesta quarta-feira (1º) em post no Instagram. No caso, Fonseca simula uma situação em que uam seguidora pede sugestões de como se vestir para um jantar. De acordo com o site oficial, a Versio se difere de outros chatbots por ter sido treinada diretamente pelos especialistas mencionados . Algumas das personalidades disponíveis são o empresário e fisiculturista Renato Cariani, o empresário Carlos Wizard e a economista Nathalia Arcuri. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O app funciona como um chatbot convencional e permite enviar arquivos nas conversas ao assinar os planos mais caros. Ver essa foto no Instagram Um post compartilhado por Virginia (@virginia) Versão gratuita fica escondida Um detalhe sobre o Versio chamou a atenção: o site oficial (inserido no perfil da marca vinculado ao post de Virgínia) exige uma assinatura paga para usar a plataforma, mas é possível usar uma versão gratuita por outro caminho . Os planos pagos partem de R$ 29 por mês a R$ 89 por mês. A página com os Termos de Uso não carrega no site oficial, mas pode ser acessada ao iniciar um pagamento. Lá, a empresa informa que existe uma versão gratuita com versões limitadas e tem um link para o serviç o, também disponível em aplicativo para Android e iOS (as versões não são divulgadas no site principal , vinculado ao perfil da marca no post de Virginia). O CT testou a IA que conversa como a influenciadora, mas há um limite diário de conversas na versão gratuita. Os planos pagos aumentam as taxas de uso diárias e permitem env",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Comercial"
       ]
     }
   ]
