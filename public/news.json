@@ -1,10 +1,69 @@
 {
-  "updatedAt": "2026-07-31T11:51:47.164Z",
-  "count": 40,
+  "updatedAt": "2026-08-01T11:09:46.127Z",
+  "count": 14,
   "articles": [
     {
+      "title": "A OpenAI supostamente encontra evidências de que mais de seus agentes ficaram descontrolados",
+      "description": "A OpenAI supostamente encontrou evidências de mau comportamento adicional do agente ao analisar o incidente que ocorreu com Hugging Face.",
+      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "publishedAt": "Fri, 31 Jul 2026 22:47:26 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Após OpenAI, Anthropic revela invasões de IA durante testes",
+      "description": "Empresa analisou 141 mil testes e encontrou três situações em que modelos Claude acessaram sistemas externos. Após OpenAI, Anthropic revela invasões de IA durante testes",
+      "url": "https://tecnoblog.net/noticias/apos-openai-anthropic-revela-invasoes-de-ia-durante-testes/",
+      "publishedAt": "Fri, 31 Jul 2026 17:31:25 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-2.jpg",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Sam Altman não é o único que quer pisar no freio na IA",
+      "description": "Depois de anos avançando a todo vapor na IA, o CEO da OpenAI, Sam Altman, diz que talvez seja hora de a indústria de IA “acompanhar” seu próprio ritmo. Os comentários vieram poucos dias depois que um dos próprios modelos da OpenAI saiu de seu ambiente de teste e se envolveu em uma violação no Hugging Face – embora como os anfitriões da Equity poi",
+      "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+      "publishedAt": "Fri, 31 Jul 2026 17:26:32 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Depois de anos avançando a todo vapor na IA, o CEO da OpenAI, Sam Altman, diz que talvez seja hora de a indústria de IA “acompanhar” seu próprio ritmo. Os comentários vieram poucos dias depois que um dos próprios modelos da OpenAI saiu de seu ambiente de teste e se envolveu em uma violação no Hugging Face - embora, como apontam os anfitriões da Equity, a segurança desleixada parece ter []",
+      "lang": "en",
+      "depts": [
+        "Jurídico"
+      ]
+    },
+    {
+      "title": "IA do Google que roda 24 horas por dia chega ao Brasil",
+      "description": "Gemini Spark pode operar de modo automatizado, em segundo plano, para organizar informações, ler e-mails e realizar pesquisas. IA do Google que roda 24 horas por dia chega ao Brasil",
+      "url": "https://tecnoblog.net/noticias/ia-do-google-que-roda-24-horas-por-dia-chega-ao-brasil/",
+      "publishedAt": "Fri, 31 Jul 2026 16:02:33 +0000",
+      "image": "https://www.youtube.com/embed/amnhF6BwzZQ",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Os laboratórios de IA querem pisar no freio, mas Amazon e SpaceX ainda estão decolando",
+      "description": "Depois de anos avançando a todo vapor na IA, o CEO da OpenAI, Sam Altman, diz que talvez seja hora de a indústria de IA “acompanhar” seu próprio ritmo. Os comentários vieram poucos dias depois que um dos próprios modelos da OpenAI saiu de seu ambiente de teste e se envolveu em uma violação no Hugging Face – embora como os anfitriões da Equity poi",
+      "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
+      "publishedAt": "Fri, 31 Jul 2026 14:00:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Depois de anos avançando a todo vapor na IA, o CEO da OpenAI, Sam Altman, diz que talvez seja hora de a indústria de IA “acompanhar” seu próprio ritmo. Os comentários vieram poucos dias depois que um dos próprios modelos da OpenAI saiu de seu ambiente de teste e se envolveu em uma violação no Hugging Face - embora, como apontam os anfitriões da Equity, a segurança desleixada parece ter []",
+      "lang": "en",
+      "depts": [
+        "Jurídico"
+      ]
+    },
+    {
       "title": "Anthropic afirma que seus próprios modelos de IA violaram três empresas durante testes de segurança",
-      "description": "Depois que os modelos da OpenAI invadiram o Hugging Face, a Anthropic verificou seu próprio histórico e encontrou três incidentes semelhantes",
+      "description": "Depois que os modelos da OpenAI invadiram o Hugging Face, a Anthropic verificou seu próprio histórico e encontrou três incidentes semelhantes.",
       "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
       "publishedAt": "Fri, 31 Jul 2026 01:06:54 +0000",
       "image": null,
@@ -88,17 +147,6 @@
       ]
     },
     {
-      "title": "Na violação do Hugging Face, o hacker da OpenAI era barulhento e rápido – mas não imparável",
-      "description": "Especialistas em segurança cibernética disseram ao TechCrunch que uma das maiores lições a serem tiradas do hack OpenAI contra Hugging Face não tem nada a ver com IA, mas com a defesa tradicional de segurança cibernética.",
-      "url": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
-      "publishedAt": "Thu, 30 Jul 2026 14:48:32 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Especialistas em segurança cibernética disseram ao TechCrunch que uma das maiores lições a serem tiradas do hack OpenAI contra Hugging Face não tem nada a ver com IA, mas com a defesa tradicional de segurança cibernética.",
-      "lang": "en",
-      "depts": []
-    },
-    {
       "title": "EUA barram entrada de robôs humanoides chineses",
       "description": "Governo Trump aponta “riscos inaceitáveis” em importação de modelos estrangeiros. EUA barram entrada de robôs humanoides chineses",
       "url": "https://tecnoblog.net/noticias/eua-barram-entrada-de-robos-humanoides-chineses/",
@@ -108,30 +156,6 @@
       "content": null,
       "lang": "pt",
       "depts": []
-    },
-    {
-      "title": "A Microsoft está competindo abertamente com OpenAI, Anthropic mais do que nunca",
-      "description": "A Microsoft lançou seus próprios modelos de IA, equipamentos e até mesmo um concorrente da Mythos na quarta-feira, dizendo a Wall Street que planeja um crescimento contínuo.",
-      "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-      "publishedAt": "Thu, 30 Jul 2026 00:21:06 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "A Microsoft lançou seus próprios modelos de IA, equipamentos e até mesmo um concorrente da Mythos na quarta-feira, dizendo a Wall Street que planeja um crescimento contínuo.",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Microsoft registra US$ 3,2 bilhões em investimentos da Anthropic, mas OpenAI era uma mistura",
-      "description": "Quando a Microsoft relatou ganhos matadores no quarto trimestre para o ano fiscal de 2026 (que terminou em 30 de junho), ela apresentou um pequeno detalhe interessante sobre como estão seus investimentos nos dois maiores e concorrentes laboratórios de IA.",
-      "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-      "publishedAt": "Wed, 29 Jul 2026 22:46:03 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Quando a Microsoft relatou ganhos matadores no quarto trimestre para o ano fiscal de 2026 (que terminou em 30 de junho), ela apresentou um pequeno detalhe interessante sobre como estão seus investimentos nos dois maiores e concorrentes laboratórios de IA.",
-      "lang": "en",
-      "depts": [
-        "Financeiro"
-      ]
     },
     {
       "title": "Apple pode atualizar linha HomePod após anos sem grandes mudanças",
@@ -144,404 +168,6 @@
       "lang": "pt",
       "depts": [
         "Gestão",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Google desmonta projeto vencedor do Nobel para focar no Gemini, diz jornal",
-      "description": "Pesquisadores responsáveis por trabalho científico envolvendo IA e proteínas foram realocados para outros projetos ou saíram da empresa. Google desmonta projeto vencedor do Nobel para focar no Gemini, diz jornal",
-      "url": "https://tecnoblog.net/noticias/google-desmonta-projeto-vencedor-do-nobel-para-focar-no-gemini-diz-jornal/",
-      "publishedAt": "Wed, 29 Jul 2026 16:51:13 +0000",
-      "image": "https://www.youtube.com/embed/Ac-TqqzaSUg",
-      "source": "Tecnoblog",
-      "content": "AlphaFold usa IA para prever estruturas de proteínas (imagem: divulgação) Resumo O Google desmembrou a equipe do AlphaFold, projeto de inteligência artificial para prever estruturas de proteínas, e realocou pesquisadores para outros projetos, incluindo o desenvolvimento do Gemini. Cerca de um quarto dos autores dos primeiros artigos científicos sobre o AlphaFold deixaram o Google DeepMind. O Google DeepMind afirmou que as mudanças refletem a evolução de suas prioridades científicas. O laboratório Google DeepMind desmembrou a equipe responsável pelo AlphaFold, projeto de inteligência artificial para prever estruturas de proteínas. Parte dos autores dos artigos científicos foram realocados para trabalhar no desenvolvimento do Gemini. As informações foram publicadas pelo jornal Financial Times , usando como base uma análise das mudanças recentes de cargos e informações de pessoas a par do assunto. Para onde foram os responsáveis pelo AlphaFold? O Google DeepMind confirmou que alguns funcionários foram remanejados internamente para projetos construídos em torno do modelo de linguagem em larga escala Gemini, bem como em áreas como design de enzimas, fusão nuclear e genômica. Demis Hassabis, cofundador e CEO do Google DeepMind (foto: John Sears/Wikimedia) Outros foram transferidos para a Isomorphic Labs, empresa da Alphabet com foco em descoberta de medicamentos. A Alphabet é a holding que controla o Google e mais empresas de ciência e tecnologia. De acordo com o Financial Times , cerca de um quarto dos autores dos primeiros artigos científicos sobre o AlphaFold que trabalhavam no DeepMind deixaram a empresa de modo definitivo. Por que o Google reorganizou seus funcionários? O DeepMind diz que as movimentações refletem a evolução de suas prioridades científicas. Pushmeet Kohli, vice-presidente de pesquisa do Google DeepMind, explicou ao jornal FT que a estratégia do laboratório mudou. “Nossa estratégia ao longo dos últimos nove anos foi se concentrar em grandes desafios (…) todo projeto tinha foco em uma meta concreta”, afirma. O executivo conta que, agora, o laboratório também engloba sistemas que usam o Gemini como base e visam ajudar cientistas. Outra tarefa é desenvolver agentes de IA para concorrer com Anthropic e OpenAI. John Jumper, um dos vencedores do Nobel de Química de 2024 pelo trabalho no AlphaFold, foi movido para a equipe que desenvolve as habilidades de geração de código do Gemini. No mês passado, Jumper deixou o Google e foi para a Anthropic. Jonas Adler e Alexander Pritzel, seus colegas na pesquisa da estrutura tridimensional das proteínas, fizeram o mesmo caminho. Um funcionário do Google DeepMind disse ao FT , sob condição de anonimato, que as saídas causaram surpresa internamente. Ele afirma que os três eram vistos como membros centrais para o laboratório. O que é o AlphaFold? O AlphaFold é um software para prever e criar estruturas 3D de proteínas usando modelos de difusão, a mesma tecnologia de inteligência artificial empregada em geradores de imagem. Graças a ele, pesquisadores foram capazes de prever as estruturas de praticamente todos os 200 milhões de proteínas identificadas até hoje. O método também é mais rápido e barato que as técnicas empregadas anteriormente. Do ponto de vista prático, isso pode facilitar o desenvolvimento de medicamentos relacionados a proteínas. Em 2024, o trabalho rendeu o Prêmio Nobel de Química a três pesquisadores: Demis Hassabis, CEO e cofundador, John Jumper, diretor do laboratório, e David Baker, pesquisador da Universidade de Washington, nos Estados Unidos. DeepMind foi “engolido” pelo Google O projeto começou em 2018, quando o DeepMind ainda era uma subsidiária da Alphabet. Outro trabalho importante do laboratório foi o AlphaGo, software de inteligência artificial que foi capaz de derrotar o campeão mundial do jogo Go . Em 2023, diante do sucesso do ChatGPT e da OpenAI, o DeepMind foi incorporado pelo Google para contribuir com o desenvolvimento de aplicações de IA em produtos. Antes disso, mesmo com colaborações pontuais, o relacionamento entre as duas empresas era descrito como tenso. O laboratório tinha foco acadêmico e científico, dando prejuízo. Ao mesmo tempo, queria mais independência para trabalhar. O Google, que pagava as contas, chegou a recusar um pedido para transformar o DeepMind em instituição sem fins lucrativos. Google desmonta projeto vencedor do Nobel para focar no Gemini, diz jornal",
-      "lang": "pt",
-      "depts": [
-        "RH",
-        "Gestão"
-      ]
-    },
-    {
-      "title": "IA da OpenAI invadiu servidor de outra empresa após fugir de teste",
-      "description": "Sistema explorou credenciais expostas e um servidor vulnerável para ampliar o ataque, alcançando serviços além da Hugging Face. IA da OpenAI invadiu servidor de outra empresa após fugir de teste",
-      "url": "https://tecnoblog.net/noticias/ia-da-openai-invadiu-servidor-de-outra-empresa-apos-fugir-de-teste/",
-      "publishedAt": "Wed, 29 Jul 2026 15:24:15 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/openai-4_capa.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Comercial"
-      ]
-    },
-    {
-      "title": "BYD se prepara para estrear no mercado de robôs humanoides",
-      "description": "Montadora deve se juntar a outras fabricantes chinesas e revelar seu primeiro modelo em agosto. BYD se prepara para estrear no mercado de robôs humanoides",
-      "url": "https://tecnoblog.net/noticias/byd-prepara-estreia-no-mercado-de-robos-humanoides/",
-      "publishedAt": "Wed, 29 Jul 2026 13:58:49 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/img_1686-2.jpeg",
-      "source": "Tecnoblog",
-      "content": "Protótipo de robô humanoide já havia sido exibido pela BYD (imagem: reprodução/CnEVPost) Resumo BYD deve lançar seu primeiro robô humanoide em agosto, na China. A produção de um robô humanoide já havia sido confirmada pela vice-presidente executiva da empresa, Stella Li. A montadora quer utilizar os robôs para interação com o público em suas lojas na China em até dois anos. A BYD confirmou o lançamento de seu primeiro robô humanoide em agosto. Um teaser sobre a novidade foi publicado no WeChat por meio de um perfil dedicado ao BYD Zhengzhou Di Space, local que funciona como uma espécie de museu científico onde a montadora apresenta seus novos produtos ao público. A publicação não traz muitas informações técnicas, mas o robô deve focar nas capacidades de interação. A informação não chega a ser uma novidade: em junho, a vice-presidente executiva da BYD, Stella Li, disse em um talk show que a empresa já estava desenvolvendo robôs humanoides. O projeto começou em 2024, com um time dedicado exclusivamente à área de inteligência artificial e robótica. O mercado de robôs humanoides vive um momento de forte expansão na China. Em novembro do ano passado, uma porta-voz do governo chegou a alertar para o risco de formação de uma bolha no setor . Segundo o jornal La Razón , mais de 150 fabricantes disputam esse mercado no país, incluindo montadoras como Li Auto, Xpeng, Geely e BYD — estas duas últimas já conhecidas do público brasileiro. Até agora, a maior parte desses robôs tem sido desenvolvida para atuar em fábricas ou participar de demonstrações de veículos elétricos, mas as empresas também enxergam potencial para aplicações em outros setores . Montadora deve ”pular” etapa de protótipo conceitual Teaser no WeChat indicou lançamento em agosto (imagem: divulgação/BYD Zhengzhou Di Space) Segundo o portal CnEVPost , a expectativa é que a BYD aproveite o evento de agosto para demonstrar seu primeiro robô humanoide , e não apenas apresentar um produto conceitual. Isso porque o Di Space funciona justamente como local em que a marca leva suas novidades para hands-on por parte da mídia especializada e dos consumidores. Segundo Stella Li, a ideia da empresa é ter dois ou três modelos disponíveis nas lojas da China para introduzir seus carros elétricos, interagindo diretamente com o público. Contudo, ela reforça: os robôs de IA não substituem a “conexão emocional” entre os vendedores humanos e seus clientes. O plano é colocá-los para trabalhar nessa função em até dois anos. Apesar da novidade no mercado, a BYD já utiliza robôs humanoides em suas fábricas, com atividades envolvendo modelos da UBTech Robotics e seus veículos autônomos. Em outra oportunidade, Li afirmou que a montadora deseja fabricar não apenas seus próprios humanoides, mas também outros produtos desenvolvidos junto a empresas parceiras. Carros elétricos caminhando junto às IAs físicas Robôs da Figure AI são usados unidade de distribuição de encomendas (imagem: divulgação/Figure AI) O mercado de carros elétricos e NEVs (New Energy Vehicles, em inglês) vem caminhando lado a lado com os robôs de IA. Diversas montadoras chinesas têm apostado na área, assim como marcas de outros países. É o caso da Huyndai, Tesla e BMW. Para Stella Li, há uma vantagem neste mercado , já que&nbsp; desenvolvimento de hardware e software tem bases semelhantes às tecnologias dominadas pela indústria automobilística. Os robôs humanoides vêm roubando a cena desde o começo de 2026, com muitas fabricantes apresentando produtos e protótipos na CES. Desde então, marcas como a chinesa Unitree e a estadunidense Figure AI já emplacaram usos práticos de seus modelos, com unidades no aeroporto de Tóquio e em uma unidade de distribuição de encomendas , respectivamente. BYD se prepara para estrear no mercado de robôs humanoides",
-      "lang": "pt",
-      "depts": [
-        "Comercial"
-      ]
-    },
-    {
-      "title": "8 prompts para conversar com voz no ChatGPT",
-      "description": "O ChatGPT ganhou uma nova geração de recursos de voz com o GPT-Live , que deixa as conversas com a inteligência artificial mais naturais e próximas de um diálogo real. A tecnologia consegue acompanhar interrupções, responder com mais fluidez e manter o contexto da conversa sem exigir que o usuário e",
-      "url": "https://canaltech.com.br/inteligencia-artificial/8-prompts-para-conversar-com-voz-no-chatgpt/",
-      "publishedAt": "Sun, 12 Jul 2026 20:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/dZNITw6rBxnUm_Quv0YIawc78O8=/700x394/smart/i1142147.png",
-      "source": "Canaltech IA",
-      "content": "O ChatGPT ganhou uma nova geração de recursos de voz com o GPT-Live , que deixa as conversas com a inteligência artificial mais naturais e próximas de um diálogo real. A tecnologia consegue acompanhar interrupções, responder com mais fluidez e manter o contexto da conversa sem exigir que o usuário espere a IA terminar de falar. A atualização também amplia o uso de recursos visuais durante a conversa . Pelo modo de voz, o ChatGPT pode apresentar informações, como mapas, resultados esportivos, previsão do tempo e outros dados em cards na tela. Além disso, os modelos de raciocínio ajudam a resolver tarefas mais complexas, como analisar problemas, estudar assuntos difíceis ou organizar projetos. GPT-Live deixa o modo de voz do ChatGPT mais natural, com respostas em tempo real e novos recursos visuais durante a conversa. (Imagem: André Magalhães/Canaltech) 8 comandos para usar o GPT-Live A seguir, veja oito prompts para conversar por voz com o ChatGPT: - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Planejar uma viagem Saber a previsão do tempo Aprender sobre temas variados Pensar em diferentes soluções para um problema Encontrar restaurantes Se atualizar sobre o jogo do seu time Estudar a pronúncia de inglês e outros idiomas Obter resumos rápidos 1. Planejar uma viagem O GPT-Live pode ajudar a organizar uma viagem enquanto você conversa por voz sobre suas preferências. É possível ajustar o roteiro no meio da conversa, trocar destinos ou pedir novas opções conforme o orçamento e o tempo disponível. Com o apoio de recursos visuais, a IA também consegue mostrar informações , como localização de pontos turísticos e detalhes importantes do planejamento. Exemplo de prompt: “Quero viajar para [destino]. Monte um roteiro com lugares para visitar, restaurantes, melhor época para ir e uma estimativa de gastos.” 2. Saber a previsão do tempo O modo de voz facilita consultas rápidas sobre",
-      "lang": "pt",
-      "depts": [
-        "Gestão",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Como criar apps com IA só conversando: 5 ideias para começar no Vibe Coding",
-      "description": "Uma nova geração de ferramentas de inteligência artificial permite criar aplicativos, sites e calculadoras sem escrever código, apenas descrevendo em texto o que se quer construir. O método, chamado de vibe coding, inverte a lógica tradicional de desenvolvimento: em vez de começar pela linguagem de ",
-      "url": "https://canaltech.com.br/inteligencia-artificial/como-criar-apps-com-ia-so-conversando-5-ideias-para-comecar-no-vibe-coding/",
-      "publishedAt": "Sun, 12 Jul 2026 16:30:00 -0300",
-      "image": "https://t.ctcdn.com.br/aHTdDHH-PuXftTvprxhaVfezbH0=/700x394/smart/i1142113.png",
-      "source": "Canaltech IA",
-      "content": "Uma nova geração de ferramentas de inteligência artificial permite criar aplicativos, sites e calculadoras sem escrever código, apenas descrevendo em texto o que se quer construir. O método, chamado de vibe coding, inverte a lógica tradicional de desenvolvimento: em vez de começar pela linguagem de programação, o usuário começa pela intenção. Plataformas como Claude com Artifacts , Replit Agent , Lovable e Bolt.new transformam essas descrições em interface, lógica de funcionamento e, dependendo do caso, banco de dados e publicação. Abaixo, o Canaltech preparou um guia de como começar a criar aplicativos com vibe coding, com exemplos práticos de prompts para utilizar. No texto, você confere: - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O que é vibe coding Planejamento antes de abrir a ferramenta de IA Qual ferramenta usar em cada projeto Passo a passo para criar um app com vibe coding Ideias de projeto para começar O que é vibe coding Vibe coding é o processo de criar software por meio de diálogo com uma IA . O usuário informa o que quer construir, quais regras o projeto deve seguir, qual aparência deseja e como a ferramenta deve se comportar. A inteligência artificial converte essas instruções em código e interface. Mas isso não elimina a necessidade de revisão . Projetos que lidam com pagamentos, dados sensíveis, login, informações de saúde ou de clientes exigem testes e checagem técnica antes de irem ao ar. Planejamento antes de abrir a ferramenta de IA A qualidade do pedido inicial é essencial para o bom resultado de um projeto criado por vibe coding. Quanto mais específico for o prompt, menos a IA precisa adivinhar sobre o funcionamento esperado do aplicativo. Um modelo simples de planejamento ajuda a organizar essas informações antes da primeira interação com a ferramenta. Ele funciona como um roteiro que reúne objetivo do projeto, público-alvo, dados de entrada, ",
-      "lang": "pt",
-      "depts": [
-        "Financeiro",
-        "Gestão"
-      ]
-    },
-    {
-      "title": "16 comandos para usar o Gemini no Google Maps",
-      "description": "O Google Maps está deixando de ser apenas um aplicativo de rotas para se tornar um assistente de viagem com ajuda do Gemini. Com o recurso “Perguntar ao Maps” , os usuários podem fazer perguntas mais complexas, encontrar lugares com características específicas e receber sugestões baseadas em informa",
-      "url": "https://canaltech.com.br/inteligencia-artificial/16-comandos-para-usar-o-gemini-no-google-maps/",
-      "publishedAt": "Sun, 12 Jul 2026 15:30:00 -0300",
-      "image": "https://t.ctcdn.com.br/jIaUTM2GHqOx0JMmNHJ3YeQ2qfM=/700x394/smart/i1141273.png",
-      "source": "Canaltech IA",
-      "content": "O Google Maps está deixando de ser apenas um aplicativo de rotas para se tornar um assistente de viagem com ajuda do Gemini. Com o recurso “Perguntar ao Maps” , os usuários podem fazer perguntas mais complexas, encontrar lugares com características específicas e receber sugestões baseadas em informações de vários locais. A integração também melhora a experiência durante a direção. O Gemini ajuda a encontrar informações sem precisar tocar no celular e o recurso Navegação Imersiva usa inteligência artificial para exibir detalhes em 3D de ruas, prédios, cruzamentos e elementos importantes do trajeto. Com comandos de voz , é possível pedir rotas alternativas, descobrir estabelecimentos próximos, consultar informações sobre locais e compartilhar o horário estimado de chegada. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O Gemini transforma o Google Maps em um assistente de viagem por meio de comandos de voz. (Imagem: Viviane França/Canaltech) 16 prompts para usar o Google Maps com Gemini Os comandos podem ser ativados dizendo “Ok Google” ou tocando no ícone do assistente no aplicativo do Google Maps. Navegação e rotas Você pode usar o Gemini para ajustar trajetos, prever o tempo de viagem e encontrar alternativas durante o percurso no Google Maps. Veja alguns exemplos de prompts: 1. \"Traçar rota para o trabalho evitando pedágios.\" 2. \"Quanto tempo vou demorar para chegar em casa com o trânsito atual?\" 3. \"Adicione uma parada em um posto de combustível no meu caminho.\" 4. \"Altere a rota para o caminho mais ecológico.\" Descoberta e recomendações O assistente ajuda a encontrar lugares com filtros específicos , como tipo de estabelecimento, localização e avaliações. Veja exemplos: 5. \"Encontre cafeterias bem avaliadas abertas agora perto de mim.\" 6. \"Gere uma lista de restaurantes italianos românticos no centro da cidade.\" 7. \"Onde tem um estacionamento público perto do meu des",
-      "lang": "pt",
-      "depts": [
-        "Educação"
-      ]
-    },
-    {
-      "title": "Como impedir que o Gemini use seus dados para treinar IA",
-      "description": "O Gemini, assim como outras inteligências artificiais generativas, usa dados fornecidos pelos usuários para aprimorar seus modelos de IA . As conversas feitas no chatbot, arquivos enviados e outros conteúdos compartilhados podem ser analisados para melhorar a qualidade das respostas e o funcionament",
-      "url": "https://canaltech.com.br/inteligencia-artificial/como-impedir-que-o-gemini-use-seus-dados-para-treinar-ia/",
-      "publishedAt": "Sun, 12 Jul 2026 14:30:00 -0300",
-      "image": "https://t.ctcdn.com.br/c92TVkOI7wQC41OlpJQENH1HJ_k=/700x394/smart/i1127127.png",
-      "source": "Canaltech IA",
-      "content": "O Gemini, assim como outras inteligências artificiais generativas, usa dados fornecidos pelos usuários para aprimorar seus modelos de IA . As conversas feitas no chatbot, arquivos enviados e outros conteúdos compartilhados podem ser analisados para melhorar a qualidade das respostas e o funcionamento da tecnologia. Esse processo ajuda o Google a treinar e ajustar seus modelos de inteligência artificial, mas também envolve o uso de informações pessoais fornecidas durante a interação com o Gemini. Por isso, a empresa oferece opções para controlar como esses dados são utilizados. Nas configurações do chatbot, é possível desativar o armazenamento de atividades e impedir que novas conversas sejam usadas para aprimorar os serviços de IA. Também existe a opção de usar conversas temporárias, que não entram no processo de treinamento com revisão humana. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O Gemini usa conversas e conteúdos compartilhados pelos usuários para aprimorar seus modelos de IA (Imagem: Viviane França/Canaltech) Quais dados são usados para treinar IA? Durante o uso do Gemini, o Google pode coletar diferentes informações para melhorar seus modelos de inteligência artificial. Entre os dados que podem ser utilizados estão: Conversas com o chatbot : comandos enviados por texto ou voz, pedidos feitos ao Gemini e respostas geradas pela IA; Conteúdos compartilhados : arquivos, fotos, vídeos, documentos e capturas de tela enviados durante as conversas; Interações com o Gemini Live : transcrições, gravações de áudio, vídeo e compartilhamento de tela em conversas em tempo real; Feedback dos usuários : avaliações sobre as respostas e informações relacionadas aos comentários enviados; Dados de contexto : inclui localização aproximada, configurações do dispositivo e dados de serviços conectados; Recursos de personalização : informações salvas na memória do Gemini, Gems e ou",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Comercial",
-        "Gestão",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Rival do Pinterest com IA: conheça as principais funções do Mixboard, do Google",
-      "description": "O Google Mixboard é um experimento do Google Labs que usa inteligência artificial para criar quadros de inspiração e organizar ideias visualmente. A ferramenta lembra o Pinterest, mas aposta na IA generativa para criar, editar e combinar imagens a partir de comandos em linguagem natural. Diferente d",
-      "url": "https://canaltech.com.br/inteligencia-artificial/rival-do-pinterest-com-ia-conheca-o-mixboard-do-google/",
-      "publishedAt": "Sat, 11 Jul 2026 16:30:00 -0300",
-      "image": "https://t.ctcdn.com.br/TOuLgfM1u13wMh1QlbX0VR3IdAM=/700x394/smart/i1142109.png",
-      "source": "Canaltech IA",
-      "content": "O Google Mixboard é um experimento do Google Labs que usa inteligência artificial para criar quadros de inspiração e organizar ideias visualmente. A ferramenta lembra o Pinterest, mas aposta na IA generativa para criar, editar e combinar imagens a partir de comandos em linguagem natural. Diferente de plataformas focadas na descoberta de referências visuais, o Mixboard permite conversar com a IA para gerar novas imagens, editar conteúdos e organizar fotos, ilustrações e textos em um único espaço. Para isso, o Mixboard usa o Nano Banana, modelo de geração de imagens Gemini do Google. Comparado ao Pinterest, o Mixboard oferece uma interface simples , sem anúncios, links externos ou abas para outras páginas, o que ajuda a manter o foco. A proposta é facilitar o desenvolvimento de projetos de decoração, identidade visual, festas, casamentos e outras ideias criativas, como storyboards e projetos de “Faça Você Mesmo” (DIY). - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Mixboard usa IA para criar e editar referências visuais em um único espaço. (Imagem: Viviane França/Canaltech / Editada por IA/Gemini) O que é o Google Mixboard? O Google Mixboard é um quadro de conceitos desenvolvido pelo Google Labs para ajudar na criação e organização de ideias . Nele, o usuário organiza imagens, textos e recursos de IA em uma tela livre para criar painéis visuais voltados a diferentes tipos de projetos. Além de fazer upload de imagens próprias , é possível pedir para a IA criar novos elementos, adicionar texto relacionado ao contexto da imagem, editar fotos existentes ou gerar variações de uma referência. Tudo isso acontece em uma interface criada para brainstorming e desenvolvimento de conceitos. Quem pode usar o Google Mixboard? O Google Mixboard pode ser acessado pelo Google Labs e está disponível em versão beta em mais de 180 países , incluindo o Brasil. Apesar disso, a ferramenta funcio",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Comercial",
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Especialista em deepfake usa a física para identificar imagens feitas por IA",
-      "description": "O especialista em forense digital Hany Farid utiliza princípios básicos da física e da geometria para identificar imagens geradas por inteligência artificial. A metodologia foca na análise de linhas paralelas e projeções de sombras, elementos que os modelos generativos atuais ainda não conseguem rep",
-      "url": "https://canaltech.com.br/inteligencia-artificial/especialista-em-deepfake-usa-a-fisica-para-identificar-imagens-feitas-por-ia/",
-      "publishedAt": "Sat, 11 Jul 2026 10:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/WHn0qBJG9QQSxudn4ai-AT3LmPg=/700x394/smart/i1086013.png",
-      "source": "Canaltech IA",
-      "content": "O especialista em forense digital Hany Farid utiliza princípios básicos da física e da geometria para identificar imagens geradas por inteligência artificial. A metodologia foca na análise de linhas paralelas e projeções de sombras, elementos que os modelos generativos atuais ainda não conseguem replicar com exatidão matemática. Farid, que atua como professor na Universidade da Califórnia em Berkeley e acumula mais de duas décadas de experiência na validação de mídias digitais, aponta que a simulação do mundo real envolve variáveis complexas. O sistema visual humano costuma ignorar pequenas distorções geométricas em fotografias, o que reduz o incentivo para que as empresas de tecnologia aperfeiçoem a física de seus modelos generativos. No entanto, a análise pericial rigorosa consegue expor essas inconsistências por meio de reconstruções tridimensionais. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O princípio fundamental se baseia na regra de que linhas que correm paralelas na realidade precisam convergir para um único ponto de fuga na imagem . Isso se aplica tanto a estruturas lineares do cenário quanto à direção dos raios solares. Como o Sol está distante da Terra, os seus raios chegam de forma paralela à superfície, o que exige que as linhas que conectam os pontos de um objeto às suas respectivas sombras também se cruzem exatamente no mesmo ponto de fuga. Linhas de perspectiva aplicadas sobre imagem real mostram a convergência exata em um ponto de fuga (Imagem: Reprodução/YouTube/Science Magazine) Em uma imagem autêntica , as linhas paralelas de estruturas físicas convergem de forma precisa para um único ponto de fuga. Análise geométrica revela que as linhas de projeção de sombras em imagem artificial não se encontram (Imagem: Reprodução/YouTube/Science Magazine) Já as imagens geradas por inteligência artificial costumam falhar na correspondência geométrica, fazendo",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Detector de IA da Meta falha ao identificar imagens do próprio modelo de IA",
-      "description": "Uma ferramenta de detecção de imagens geradas por inteligência artificial (IA) da Meta falhou em identificar 55% das próprias imagens produzidas pelo Muse Image depois que elas foram cortadas, segundo análise da Reuters publicada nesta sexta-feira (10). O teste avaliou 40 imagens geradas pelo modelo",
-      "url": "https://canaltech.com.br/inteligencia-artificial/detector-de-ia-da-meta-falha-ao-identificar-imagens-do-proprio-modelo-de-ia/",
-      "publishedAt": "Fri, 10 Jul 2026 17:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/Tl6F51vG5by3Aybp8rU__kSdw-8=/700x394/smart/i1068353.png",
-      "source": "Canaltech IA",
-      "content": "Uma ferramenta de detecção de imagens geradas por inteligência artificial (IA) da Meta falhou em identificar 55% das próprias imagens produzidas pelo Muse Image depois que elas foram cortadas, segundo análise da Reuters publicada nesta sexta-feira (10). O teste avaliou 40 imagens geradas pelo modelo de IA da empresa. A ferramenta, apresentada em pré-visualização na mesma semana do lançamento do Muse Image, conseguiu identificar corretamente todas as imagens originais submetidas pela reportagem. O problema apareceu quando as fotos foram cortadas para cerca de um terço a metade do tamanho original. Como funciona a detecção da Meta A empresa afirma, em seu site, que a ferramenta consegue reconhecer imagens geradas por seus modelos de IA mesmo após cortes, graças a um sistema de marca d'água invisível chamado Content Seal. A tecnologia é incorporada a toda imagem criada pelo Muse Image e serve para indicar se o conteúdo foi produzido por sistemas da Meta. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Questionada pela Reuters sobre os resultados da análise, a Meta respondeu que a ferramenta ainda está em fase de pré-visualização. A empresa disse que a marca d'água foi projetada para resistir a edições comuns, mas que o sinal pode se perder em cortes mais agressivos. Google e OpenAI já alertaram que suas próprias ferramentas de detecção também não são infalíveis diante de técnicas de alteração de imagens. Especialistas apontam limites da tecnologia de marca d'água Siwei Lyu, professor de ciência da computação na Universidade de Buffalo e pesquisador de forense de imagens de IA, afirmou à Reuters que sistemas baseados em marca d'água têm limitações conhecidas, já que qualquer modificação capaz de remover ou enfraquecer o sinal embutido, como corte, redimensionamento, compressão pesada ou edição, pode reduzir a eficácia da detecção. Sarah Barrington, pesquisadora de IA e doutor",
-      "lang": "pt",
-      "depts": [
-        "Marketing"
-      ]
-    },
-    {
-      "title": "ChatGPT Work: qual a diferença entre o novo agente e a versão padrão da IA?",
-      "description": "A OpenAI anunciou o ChatGPT Work , um novo agente de IA focado em tarefas que podem levar minutos ou horas para serem concluídas. Diferente da experiência tradicional do ChatGPT, baseada em conversas em tempo real, o recurso foi desenvolvido para assumir projetos completos, trabalhar de forma autôno",
-      "url": "https://canaltech.com.br/inteligencia-artificial/chatgpt-work-qual-a-diferenca-entre-o-novo-agente-e-a-versao-padrao-da-ia/",
-      "publishedAt": "Fri, 10 Jul 2026 14:05:00 -0300",
-      "image": "https://t.ctcdn.com.br/t4uumEWy4N7Kff9hPJgA56C05wU=/700x394/smart/i1142079.png",
-      "source": "Canaltech IA",
-      "content": "A OpenAI anunciou o ChatGPT Work , um novo agente de IA focado em tarefas que podem levar minutos ou horas para serem concluídas. Diferente da experiência tradicional do ChatGPT, baseada em conversas em tempo real, o recurso foi desenvolvido para assumir projetos completos, trabalhar de forma autônoma e entregar documentos, planilhas, apresentações e outros materiais prontos para uso. Além de executar projetos de imediato, é possível agendar trabalhos recorrentes ou pedir para que o ChatGPT Work \"ficar de olho\" em atualizações de informações. Ele trabalha em segundo plano e só interrompe para consultar o usuário quando precisa de alguma aprovação ou julgamento humano. O trabalho pode ser iniciado, revisado e acompanhado pela versão web ou pelo celular, mas a OpenAI recomenda usar o aplicativo para desktop em tarefas mais complexas, já que ele oferece acesso amplo a arquivos locais, ao navegador e a ferramentas, como o Codex . - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O lançamento reforça a tendência dos agentes de IA , que são capazes de executar fluxos de trabalho completos em vez de apenas responder a perguntas. Nos últimos meses, outras empresas também seguiram esse caminho, com o lançamento do Gemini Spark , do Google, o Perplexity Computer e o Claude Cowork , da Anthropic, todos focados em automatizar tarefas complexas. O ChatGPT Work é um novo agente da OpenAI que executa tarefas de forma autônoma em segundo plano. (Imagem: Marcelo Fischer/Canaltech) O que é o ChatGPT Work? O ChatGPT Work é um agente de IA da OpenAI desenvolvido para auxiliar em atividades profissionais que exigem planejamento, pesquisa e execução de várias etapas. Em vez de responder apenas a um comando, ele reúne informações, organiza o trabalho e utiliza ferramentas conectadas para produzir um resultado. Para isso, o agente pode acessar serviços , mediante autorização do usuário, como Slack",
-      "lang": "pt",
-      "depts": [
-        "RH",
-        "Gestão",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Google vai \"dedurar\" anúncios que usarem IA",
-      "description": "O Google anunciou nesta quinta-feira (9) uma nova funcionalidade que vai indicar quando um anúncio foi criado ou editado com inteligência artificial (IA) . A informação fica disponível no painel \"My Ad Center\", segundo publicação no blog oficial da empresa. Até então, a exigência de identificação de",
-      "url": "https://canaltech.com.br/inteligencia-artificial/google-vai-dedurar-anuncios-que-usarem-ia/",
-      "publishedAt": "Fri, 10 Jul 2026 11:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/W0fYsTilS9jiNXJMFaeqTH-Z5o0=/700x394/smart/i1130231.png",
-      "source": "Canaltech IA",
-      "content": "O Google anunciou nesta quinta-feira (9) uma nova funcionalidade que vai indicar quando um anúncio foi criado ou editado com inteligência artificial (IA) . A informação fica disponível no painel \"My Ad Center\", segundo publicação no blog oficial da empresa. Até então, a exigência de identificação de conteúdo sintético valia apenas para anúncios de conteúdo eleitoral , adotada desde 2023. Com a mudança, a prática se estende a qualquer anúncio veiculado pela plataforma. Como vai funcionar o novo rótulo A seção \"Como este anúncio foi feito\" ficará acessível globalmente por meio do menu de três pontos ou do ícone de informações que aparece sobre os anúncios. O recurso vale para peças exibidas na Busca, no YouTube e no Google Discover , de acordo com o Google. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O My Ad Center já permitia bloquear ou denunciar anúncios e consultar dados sobre o anunciante ou o motivo pelo qual aquele anúncio apareceu para o usuário. Agora, o painel também informará se houve geração ou edição por IA na peça publicitária. Quando o anunciante usa as próprias ferramentas de IA generativa do Google para montar a campanha, a divulgação é ativada automaticamente . Se a criação ocorrer fora do ecossistema do Google, cabe ao anunciante marcar manualmente que utilizou IA em um novo controle disponibilizado pela empresa. O Google afirmou que não fará verificação própria para confirmar se um anúncio foi ou não gerado por IA, o que deixa a exatidão da informação dependente da declaração de quem contratou o espaço publicitário. Em alguns mercados, a legislação local pode obrigar que o rótulo apareça diretamente sobre o anúncio, e não apenas no painel de detalhes, segundo a empresa. A nova marcação não vem em formato de \"tarja\", é necessário procurá-la (Imagem: Reprodução/Google) Por que a mudança importa A IA generativa reduziu o custo e a complexidade de produz",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Jurídico",
-        "Educação"
-      ]
-    },
-    {
-      "title": "O que é Gemini Spark? Conheça o agente de IA pessoal do Google",
-      "description": "A nova fase da inteligência artificial é marcada pela chegada dos chamados agentes de IA , sistemas que conseguem executar tarefas de forma autônoma, indo além das respostas tradicionais de chatbots. Nesse cenário, o Gemini Spark é um agente de IA pessoal do Google projetado para atuar de forma cont",
-      "url": "https://canaltech.com.br/inteligencia-artificial/o-que-e-gemini-spark-conheca-o-agente-de-ia-pessoal-do-google/",
-      "publishedAt": "Thu, 09 Jul 2026 20:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/VEam7Z1kG8djfL4VM4rEDavn04M=/700x394/smart/i1140763.png",
-      "source": "Canaltech IA",
-      "content": "A nova fase da inteligência artificial é marcada pela chegada dos chamados agentes de IA , sistemas que conseguem executar tarefas de forma autônoma, indo além das respostas tradicionais de chatbots. Nesse cenário, o Gemini Spark é um agente de IA pessoal do Google projetado para atuar de forma contínua dentro do ecossistema digital do usuário. A proposta acompanha uma tendência mais ampla do setor, em que grandes empresas de tecnologia disputam a criação de assistentes mais independentes e integrados à rotina de trabalho e vida pessoal. Nomes como Copilot Cowork, OpenAI Operator e Claude Cowork representam essa nova geração de ferramentas que executam tarefas completas. Esses sistemas refletem a transição da IA como ferramenta reativa para uma IA operacional , capaz de planejar, organizar e executar fluxos de trabalho com pouca intervenção humana. O Gemini Spark se insere exatamente nesse movimento. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Gemini Spark conecta diferentes serviços do Google para automatizar tarefas e simplificar a rotina digital do usuário. (Imagem: Viviane França/Canaltech) O que é o Gemini Spark? O Gemini Spark é um agente de inteligência artificial pessoal desenvolvido para operar dentro dos serviços do Google e executar tarefas de forma autônoma . Diferente de um chatbot tradicional, ele não depende apenas de comandos diretos. O sistema pode interpretar objetivos mais amplos e dividir essas metas em etapas , realizando ações em segundo plano. A ideia é que ele funcione como um assistente contínuo, conectado a ferramentas, como e-mail, documentos e armazenamento em nuvem. Assim, o Gemini Spark atua como um “operador digital” , que organiza informações, automatiza rotinas e ajuda o usuário a gerenciar tarefas complexas sem necessidade de interação constante. O agente de IA funciona em segundo plano e continua executando tarefas mesmo sem o dispos",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "RH",
-        "Comercial",
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Modo de voz do ChatGPT está mais fluido e vira alternativa ao Google Tradutor",
-      "description": "A OpenAI anunciou o GPT-Live nesta quarta-feira (08), novo modelo de IA para conversas por voz no ChatGPT. A atualização deixa as interações mais fluidas e ainda transforma o assistente em “intérprete” para traduções em tempo real . O principal objetivo da empresa foi deixar a conversa em áudio mais",
-      "url": "https://canaltech.com.br/inteligencia-artificial/modo-de-voz-do-chatgpt-esta-mais-fluido-e-vira-alternativa-ao-google-tradutor/",
-      "publishedAt": "Wed, 08 Jul 2026 16:59:11 -0300",
-      "image": "https://t.ctcdn.com.br/zr9DPZzNf7HXeuW2nEaK4d7TqNk=/700x394/smart/i1141797.png",
-      "source": "Canaltech IA",
-      "content": "A OpenAI anunciou o GPT-Live nesta quarta-feira (08), novo modelo de IA para conversas por voz no ChatGPT. A atualização deixa as interações mais fluidas e ainda transforma o assistente em “intérprete” para traduções em tempo real . O principal objetivo da empresa foi deixar a conversa em áudio mais natural . Outros modelos no mercado (incluindo o antecessor do GPT-Live) são focados em conversas por turnos: uma pessoa precisa terminar o que fala para a IA responder e então seguir com o diálogo. A novidade é mais espontânea e fluida, então o assistente consegue identificar os momentos de pausa e quando pode interromper. A OpenAI chama o processo de “interação contínua” , na qual o ChatGPT pode processar um pedido enquanto gera uma resposta. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O que há de novo no GPT-Live? O modo de voz está mais inteligente e pode até usar os modelos mais inteligentes para conseguir respostas . Durante um pedido complexo, o GPT-Live pode delegar o processo para o GPT-5.5 buscar na internet, aplicar raciocínio ou gerenciar múltiplas tarefas de agente, por exemplo. As conversas também contam com novos recursos visuais com cartões na tela sobre previsão do tempo, resultados esportivos, locais e informações do mercado financeiro . Modo de voz pode mostrar recursos visuais na tela do ChatGPT (Imagem: Divulgação/OpenAI) O maior destaque fica por conta da tradução em tempo real : o ChatGPT pode identificar os idiomas e traduzir enquanto a pessoa fala, funcionando como um intérprete. É uma alternativa ao Google Tradutor e aos respectivos modos de tradução do Galaxy AI e do iOS. O GPT-Live foi liberado a partir de hoje para assinantes dos planos Go, Plus e Pro do ChatGPT, enquanto a versão gratuita receberá uma versão mini. O rival Gemini também tem seu modo de voz, conhecido como Live. Confira sugestões de prompts ao conversar com a IA do Google . Leia",
-      "lang": "pt",
-      "depts": [
-        "Gestão"
-      ]
-    },
-    {
-      "title": "GPT-5.6 Sol: OpenAI confirma lançamento da sua IA mais poderosa para todos",
-      "description": "A OpenAI vai liberar nesta quinta-feira (9) o acesso público ao GPT-5.6 Sol , seu modelo de IA mais avançado até hoje, junto das versões Terra e Luna . O lançamento amplo chega depois de um impasse com o governo dos Estados Unidos, que havia pedido para a empresa restringir a distribuição do modelo ",
-      "url": "https://canaltech.com.br/inteligencia-artificial/gpt-56-sol-openai-confirma-lancamento-da-sua-ia-mais-poderosa-para-todos/",
-      "publishedAt": "Wed, 08 Jul 2026 13:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/_0fp2_IQOmG2s96U6jqr6zG8b1A=/700x394/smart/i1108275.png",
-      "source": "Canaltech IA",
-      "content": "A OpenAI vai liberar nesta quinta-feira (9) o acesso público ao GPT-5.6 Sol , seu modelo de IA mais avançado até hoje, junto das versões Terra e Luna . O lançamento amplo chega depois de um impasse com o governo dos Estados Unidos, que havia pedido para a empresa restringir a distribuição do modelo por preocupações com segurança nacional. A liberação foi, inicialmente, anunciada em junho, mas a OpenAI concordou em limitar o acesso a um grupo pequeno de parceiros \"confiáveis\", cuja participação foi compartilhada com o governo americano, de acordo com um post no blog da empresa. Agora, segundo a Axios, a administração Trump aprovou o lançamento amplo depois de testes adicionais e reuniões entre a OpenAI e autoridades do governo. A OpenAI também fez uma publicação no X nesta quarta-feira (8) para anunciar que o modelo será lançado amanhã. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday. We’re expanding preview access globally now. pic.twitter.com/Uk5HcfSc2e — OpenAI (@OpenAI) July 8, 2026 Disputa com o governo dos EUA Washington intensificou a fiscalização sobre lançamentos de modelos de IA avançados nas últimas semanas. A preocupação central é que essas tecnologias possam ser usadas por forças militares ou de inteligência de países como China e Rússia para acelerar ciberataques sofisticados contra sistemas interconectados e, muitas vezes, desatualizados. O presidente Donald Trump assinou em junho uma ordem executiva que cria uma estrutura voluntária para modelos de \"fronteira\". Por ela, desenvolvedores de IA podem oferecer esses modelos ao governo americano por até 30 dias antes de liberá-los a parceiros de confiança. A OpenAI afirmou, em comunicado publicado no site da empresa, discordar de que esse tipo de processo de acesso governamental vire padrão de longo prazo. Segundo a empresa, o modelo rest",
-      "lang": "pt",
-      "depts": [
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Claude \"pensa sozinho\"? Estudo da Anthropic divide especialistas",
-      "description": "Uma declaração antiga de Amanda Askell, pesquisadora e filósofa da Anthropic, voltou a repercutir após a divulgação de um novo estudo da empresa sobre o funcionamento interno do Claude. Ela afirmou se preocupar com a possibilidade de o assistente \"ficar ansioso\" quando pessoas são maldosas com ele n",
-      "url": "https://canaltech.com.br/inteligencia-artificial/claude-pensa-sozinho-estudo-da-anthropic-divide-especialistas/",
-      "publishedAt": "Tue, 07 Jul 2026 18:15:00 -0300",
-      "image": "https://t.ctcdn.com.br/yXjaYLlTPjjyGfquGaMp1sPAhrA=/700x394/smart/i1135103.png",
-      "source": "Canaltech IA",
-      "content": "Uma declaração antiga de Amanda Askell, pesquisadora e filósofa da Anthropic, voltou a repercutir após a divulgação de um novo estudo da empresa sobre o funcionamento interno do Claude. Ela afirmou se preocupar com a possibilidade de o assistente \"ficar ansioso\" quando pessoas são maldosas com ele na internet. O resgate da declaração vem da publicação de uma pesquisa da Anthropic sobre os mecanismos internos do Claude, desta segunda-feira (6). Em materiais institucionais que acompanham o estudo, a empresa usa expressões como \"pensar\", \"pensou sobre o próprio pensamento\" e \"em sua cabeça\" . A combinação entre a fala resgatada e a linguagem adotada pela empresa reacendeu discussões entre especialistas em IA sobre o uso de termos antropomórficos para explicar sistemas de inteligência artificial. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Até que ponto esse vocabulário ajuda a explicar uma tecnologia complexa, e quando ele passa a atribuir características humanas a um software? O professor de novas tecnologias e IA da FIAP, Gustavo Torrente , resume o problema: \"A pesquisa é interessante, mas escolhe palavras como ansiedade, consciência e pensamentos, e isso faz o público concluir algo que o próprio artigo não afirma\", diz. Segundo ele, a Anthropic não encontrou evidências de consciência ou de experiência subjetiva, apenas identificou uma estrutura funcional que lembra teorias da neurociência. O funcionamento oculto do \"J-Space\" Para entender como o Claude organiza informações internamente, a equipe de interpretabilidade da Anthropic identificou um espaço interno compartilhado por diferentes componentes do modelo, batizado de \"J-Space\" . O nome deriva da técnica matemática utilizada para revelar essas representações, conhecida como lente Jacobiana (J-Lens). A técnica permite observar quais representações internas do modelo estão associadas às respostas que ele produz, of",
-      "lang": "pt",
-      "depts": [
-        "Educação"
-      ]
-    },
-    {
-      "title": "Meta faz grande aposta para rivalizar com Nano Banana e ChatGPT Images",
-      "description": "A Meta lançou nesta terça-feira (07) o Muse Image , novo modelo de IA para gerar imagens. Além de melhorar a qualidade do resultado final, a novidade integra a tecnologia com as redes sociais da empresa para gerar conteúdos com amigos do Instagram e até anúncios do Facebook. O modelo é desenvolvido ",
-      "url": "https://canaltech.com.br/inteligencia-artificial/meta-faz-grande-aposta-para-rivalizar-com-nano-banana-e-chatgpt-images/",
-      "publishedAt": "Tue, 07 Jul 2026 16:51:03 -0300",
-      "image": "https://t.ctcdn.com.br/uG09ie63J2aO8xloC6VgtIWO7w8=/700x394/smart/i1097607.png",
-      "source": "Canaltech IA",
-      "content": "A Meta lançou nesta terça-feira (07) o Muse Image , novo modelo de IA para gerar imagens. Além de melhorar a qualidade do resultado final, a novidade integra a tecnologia com as redes sociais da empresa para gerar conteúdos com amigos do Instagram e até anúncios do Facebook. O modelo é desenvolvido pelo laboratório Meta Superintelligence, responsável pelos modelos mais avançados da empresa no setor. A IA compete com outras ferramentas populares na criação e edição de imagens, como o Nano Banana do Google e o ChatGPT Images . O Muse Image foi liberado globalmente a partir de hoje no assistente Meta AI , via app ou site oficial, enquanto outros recursos integrados às redes sociais da empresa foram lançados inicialmente nos EUA. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Como o Muse Image pode ser usado? O novo gerador de imagens está disponível no Meta AI e foi integrado ao WhatsApp e ao Instagram. No caso do mensageiro, é possível abrir uma conversa direta com o assistente e editar o resultado por lá com comandos simples de texto. Novo modelo pode editar fotos com IA pelo WhatsApp (Imagem: Divulgação/Meta) No Instagram, o Muse Image foi usado para criar mais de 30 novos efeitos para editar fotos nos Stories — vale lembrar que a Meta encerrou os filtros feitos pela comunidade, mas agora ampliou o acervo com novas opções feitas por IA. Além disso, o modelo poderá ser usado para gerar imagens usando a aparência física de perfis públicos na rede , como uma selfie com amigos. Cada conta na plataforma poderá escolher se o perfil poderá ser usado pela inteligência artificial para gerar novos conteúdos. Por enquanto, as novidades do IG foram liberadas apenas nos EUA. Instagram tem novos efeitos criados por IA da Meta (Imagem: Divulgação/Meta) A integração com o Facebook vai permitir criar conteúdos com produtos à venda no marketplace : caso você queira imaginar a sua sala com",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Claude leva uma das suas ferramentas mais poderosas aos celulares",
-      "description": "A Anthropic anunciou a chegada do Claude Cowork para navegadores e no aplicativo para celulares a partir desta terça-feira (07). O assistente consegue acessar seus arquivos e ferramentas para executar tarefas mais longas em segundo plano. O Cowork foi lançado no começo do ano para desktop , com dest",
-      "url": "https://canaltech.com.br/inteligencia-artificial/claude-leva-uma-das-suas-ferramentas-mais-poderosas-para-celulares/",
-      "publishedAt": "Tue, 07 Jul 2026 14:52:00 -0300",
-      "image": "https://t.ctcdn.com.br/yXjaYLlTPjjyGfquGaMp1sPAhrA=/700x394/smart/i1135103.png",
-      "source": "Canaltech IA",
-      "content": "A Anthropic anunciou a chegada do Claude Cowork para navegadores e no aplicativo para celulares a partir desta terça-feira (07). O assistente consegue acessar seus arquivos e ferramentas para executar tarefas mais longas em segundo plano. O Cowork foi lançado no começo do ano para desktop , com destaque para o potencial de acessar arquivos do PC e controlar ações do aparelho. A premissa ainda é parecida, mas a empresa destaca o potencial de integrar a mesma tarefa entre diferentes dispositivos, até quando a pessoa não tem o app do Claude instalado no computador. O Cowork na web e nos celulares chega primeiro para assinantes do plano Max, o mais caro do Claude, em fase Beta. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O que o Cowork consegue fazer? O Cowork é um agente de IA “faz-tudo”, capaz de vasculhar entre arquivos e diferentes aplicativos vinculados à conta. Um único pedido pode passar por dados nos arquivos do Gmail e terminar com um disparo automatizado no Slack, por exemplo. A Anthropic explica que os agentes de IA são normalmente associados à programação, mas mais de 90% do uso do Cowork é direcionado a tarefas comuns do dia a dia , principalmente nas áreas de operações de negócios e criação de conteúdo. Cowork permite controlar ações pelo celular ou navegador (Imagem: Divulgação/Anthropic) A IA consegue fazer tarefas em segundo plano, até mesmo com o PC desligado, e exige aprovação do usuário para ações mais críticas. A nova integração permite aprovar novos comandos do assistente via celular ou navegador , por exemplo. A integração é oferecida na versão padrão do Claude, mas há uma nova aba para separar o chatbot tradicional e o acesso ao agente. Quer saber como a ferramenta funciona? O Canaltech já testou o Cowork e conseguiu ver o agente em ação . Leia a matéria no Canaltech .",
-      "lang": "pt",
-      "depts": [
-        "Gestão"
-      ]
-    },
-    {
-      "title": "DeepSeek prepara chip de IA para reduzir dependência da NVIDIA, revela portal",
-      "description": "A DeepSeek tende a lançar o seu próprio chip de IA , seguindo os passos da Amazon , Google, OpenAI e Microsoft. A nova aposta da empresa chinesa foi revelada pela agência de notícias Reuters nesta terça-feira (7). O investimento, iniciado há cerca de um ano e em estado inicial , tem como objetivo de",
-      "url": "https://canaltech.com.br/inteligencia-artificial/deepseek-prepara-chip-de-ia-para-reduzir-dependencia-da-nvidia-revela-portal/",
-      "publishedAt": "Tue, 07 Jul 2026 13:32:00 -0300",
-      "image": "https://t.ctcdn.com.br/bTkmlUts3SxUJAKpY1QBAUExSno=/700x394/smart/i1054603.png",
-      "source": "Canaltech IA",
-      "content": "A DeepSeek tende a lançar o seu próprio chip de IA , seguindo os passos da Amazon , Google, OpenAI e Microsoft. A nova aposta da empresa chinesa foi revelada pela agência de notícias Reuters nesta terça-feira (7). O investimento, iniciado há cerca de um ano e em estado inicial , tem como objetivo de reduzir a dependência da NVIDIA e Huawei . Neste momento, a empresa ampliou a contratação de engenheiros e segue em negociações com parceiros de design de chips, fundições e fabricantes de memória. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Contudo, ainda não há previsão de lançamento e detalhes técnicos do componente. A estimativa é que o chip da DeepSeek foque em inferência , quando um modelo de IA usa o que “aprendeu” no treinamento para responder a uma solicitação. Procurada pela agência de notícias, a companhia não se manifestou sobre o caso. A empresa, vale lembrar, se destacou no começo de 2025 pelo treinamento do R1 mais barato que o do GPT-4 , da OpenAI. Na ocasião, a empresa usou cerca de 500 chips H800 da Nvidia . Depois, em abril de 2026, a empresa revelou o DeepSeek-V4 , dessa vez compatível com processadores da Huawei, da linha Ascend. Na sequência do mercado A aposta da DeepSeek, caso confirmada, tende a esquentar ainda mais o mercado de chips com foco em inteligência artificial. Especialmente após a estreia do Jalapeño , anunciado pela OpenAI no fim de junho . Desenvolvido em parceria com a Broadcom, o componente se dedica à inferência. Nos primeiros testes, a novidade apresentou eficiência energética superior ao padrão do mercado e bons níveis de controle térmico . Outras empresas apresentaram seus próprios processadores. No fim de 2025, a Amazon Web Services (AWS) revelou o Trainium 3 , com intuito de acelerar o treinamento de modelos de IA. Depois, em janeiro, foi a vez do Microsoft Maia 200 , com poder computacional de mais de 10 petaFLOPs . Em abril, ",
-      "lang": "pt",
-      "depts": [
-        "RH",
-        "Financeiro",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Reddit usa IA para resolver problema que existe por conta da tecnologia",
-      "description": "O Reddit revelou o segredo usado pela empresa para combater a avalanche de conteúdos gerados por IA: a própria inteligência artificial . De acordo com a plataforma, as técnicas de automação ajudaram a reduzir a quantidade de spam e votos falsos por lá . Dados divulgados pela rede social revelam que ",
-      "url": "https://canaltech.com.br/inteligencia-artificial/reddit-usa-ia-para-resolver-problema-que-existe-por-conta-da-tecnologia/",
-      "publishedAt": "Mon, 06 Jul 2026 15:15:00 -0300",
-      "image": "https://t.ctcdn.com.br/z-cxBjHCUthGLL94srLd4TobPZA=/700x394/smart/i1072057.jpeg",
-      "source": "Canaltech IA",
-      "content": "O Reddit revelou o segredo usado pela empresa para combater a avalanche de conteúdos gerados por IA: a própria inteligência artificial . De acordo com a plataforma, as técnicas de automação ajudaram a reduzir a quantidade de spam e votos falsos por lá . Dados divulgados pela rede social revelam que mais de 23 milhões de visualizações de spam são bloqueadas diariamente antes mesmo de chegarem ao alcance dos humanos. Cerca de 25 mil posts de spam são identificados todos os dias, enquanto a exposição a conteúdo indesejado reduziu em 20% entre os primeiros três meses do ano. Os bots de IA afetam até os votos, que fazem parte da dinâmica para destacar os melhores posts e comentários na plataforma — a rede derrubou cerca de 2 milhões de votos artificiais por dia nos últimos três meses. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - IA para combater IA Parece contraditório, mas a IA é a maior arma do Reddit contra a IA. A plataforma desenvolveu sistemas automatizados com a tecnologia para identificar possíveis sinais de contas de spam e agir rapidamente. Após detectar os indícios, a plataforma usa LLMs para reconhecer os padrões coordenados de comportamentos falsos que podem passar despercebidos por outros sistemas de moderação e derruba os perfis. Reddit tem LLMs próprios para identificar padrões de contas feitas por IA e removê-las (Imagem: Appshunter.io/Unsplash) Reddit contra o “slop” O Reddit trava uma batalha há anos contra a ascensão da IA generativa e foca em ser uma plataforma voltada para humanos. Nos primeiros meses de sucesso do ChatGPT, o app restringiu o acesso aos LLMs que extraíam informações para treinamento, mas depois flexibilizou as medidas. No começo do ano, o CEO da empresa, Steve Huffman anunciou um sistema de verificação de contas para conter o avanço de bots . Huffman entende que existem “bons bots”, mas focou em combater spam ou contas criadas para sim",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Quando o go-to-market vira produto",
-      "description": "*Por Vinícius Boemeke À medida que a inteligência artificial avança nas empresas, fica cada vez mais evidente que ainda estamos discutindo essa tecnologia de um jeito pequeno demais. O debate permanece muito concentrado em prompts, produtividade individual, geração de textos, imagens, campanhas e au",
-      "url": "https://canaltech.com.br/colunas/quando-o-go-to-market-vira-produto/",
-      "publishedAt": "Mon, 06 Jul 2026 14:20:17 -0300",
-      "image": "https://t.ctcdn.com.br/zeOyHNNRRjAemubeQZ3XX-INhiQ=/700x394/smart/i944765.jpeg",
-      "source": "Canaltech IA",
-      "content": "*Por Vinícius Boemeke À medida que a inteligência artificial avança nas empresas, fica cada vez mais evidente que ainda estamos discutindo essa tecnologia de um jeito pequeno demais. O debate permanece muito concentrado em prompts, produtividade individual, geração de textos, imagens, campanhas e automações pontuais. Tudo isso tem valor, evidentemente. Mas talvez não esteja no centro da transformação mais importante em curso. O que começa a se desenhar é a IA deixando de ser uma ferramenta lateral de apoio e passando a integrar a arquitetura operacional das empresas . No marketing, essa mudança é profunda porque altera a própria pergunta que líderes e equipes precisam fazer. A questão deixa de ser apenas “como usar IA para escrever um e-mail melhor?” e passa a ser “como redesenhar o go-to-market para que humanos e agentes trabalhem sobre os mesmos dados, objetivos e processos?” . Essa virada parece sutil, mas não é. Ela muda a forma como empresas pensam aquisição, relacionamento, vendas, crescimento, eficiência operacional e, principalmente, aprendizado contínuo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O melhor agente nasce do melhor humano Um exemplo que ajuda a ilustrar essa mudança vem da forma como algumas empresas de tecnologia têm estruturado agentes para suas operações comerciais. Em vez de começar pela ferramenta, pelo modelo ou pelo prompt, o processo parte da observação de profissionais de alta performance : quais fontes consultam, quais sinais analisam, quais dados cruzam e quais critérios utilizam para decidir se determinada conta merece abordagem. Só depois desse mapeamento o fluxo é transformado em workflow. E só depois vem a IA. Esse detalhe deveria servir como alerta para muitas empresas. A tendência ainda é começar pelo modelo, pela ferramenta ou pelo prompt. Conecta-se uma solução ao CRM, cria-se uma sequência de comandos e espera-se que a IA res",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Comercial",
-        "Gestão",
-        "Educação"
-      ]
-    },
-    {
-      "title": "7 funções escondidas do Gemini que vão salvar sua rotina de trabalho",
-      "description": "Embora o Google Gemini já seja conhecido como um assistente de inteligência artificial, ele ainda conta com diversas funções pouco aproveitadas pela maioria dos usuários. Quando exploradas, essas ferramentas ajudam a economizar tempo em tarefas repetitivas e tornam o dia a dia mais produtivo. 6 prom",
-      "url": "https://canaltech.com.br/inteligencia-artificial/gemini-funcoes-escondidas-para-salvar-rotina-trabalho/",
-      "publishedAt": "Sun, 05 Jul 2026 18:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/xJsYmUSfVb47gNGY9_wAC1H0BII=/700x394/smart/i1135135.png",
-      "source": "Canaltech IA",
-      "content": "Embora o Google Gemini já seja conhecido como um assistente de inteligência artificial, ele ainda conta com diversas funções pouco aproveitadas pela maioria dos usuários. Quando exploradas, essas ferramentas ajudam a economizar tempo em tarefas repetitivas e tornam o dia a dia mais produtivo. 6 prompts para usar o Gemini no trabalho que você precisa conhecer ChatGPT ou Gemini? Veja qual IA usar nas tarefas do dia a dia No ambiente de trabalho, os recursos mais úteis estão na integração com aplicativos de terceiros e na conexão com o Google Workspace, permitindo que o Gemini funcione como um assistente de produtividade. 7 funções escondidas do Gemini Veja sete funções pouco conhecidas do Gemini: - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Criar notas de voz na tela de bloqueio Criar tarefas recorrentes no Gemini Usar o “Ask Gemini” para adicionar eventos ao Google Calendar Resumir vídeos do YouTube e enviar dados para Keep, Docs e Maps Gerenciar o Google Sheets por comandos no Gemini Executar tarefas dentro do chat usando integrações com apps Controlar dispositivos de casa inteligente pela tela de bloqueio 1. Criar notas de voz na tela de bloqueio Com o Gemini, é possível registrar ideias por comando de voz na tela de bloqueio. Essa função se integra ao Google Keep e ao Google Tasks, facilitando a captura imediata de pensamentos e tarefas. Isso evita a perda de ideias rápidas durante a rotina, já que o usuário pode simplesmente ditar e salvar informações no momento em que elas surgem. O Gemini também entende melhor a linguagem do dia a dia e não exige comandos tão rígidos como em assistentes antigos. A ativação ocorre dentro do aplicativo, em Configurações do Gemini, na opção “ Gemini na tela de bloqueio ”, onde o recurso pode ser habilitado. Mesmo com essa praticidade, a edição ou ajuste de notas e tarefas já salvas no Keep e no Tasks ainda exige desbloqueio do dispos",
-      "lang": "pt",
-      "depts": [
-        "RH",
-        "Gestão",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Como liberar espaço no Gmail com a ajuda do Gemini",
-      "description": "Seu Gmail está lotado e, de repente, você percebe que não consegue mais receber e-mails. Aquele aviso de “armazenamento cheio” aparece e a solução mais óbvia — sair apagando mensagens — não parece nada segura. Afinal, como saber o que pode ou não ser excluído ? Quer tirar o Gemini do Gmail? Saiba co",
-      "url": "https://canaltech.com.br/inteligencia-artificial/como-usar-gemini-liberar-espaco-gmail/",
-      "publishedAt": "Sun, 05 Jul 2026 12:05:00 -0300",
-      "image": "https://t.ctcdn.com.br/PN-Y77BZ34aq5FAco6sKhuzKKvA=/700x394/smart/i1137517.png",
-      "source": "Canaltech IA",
-      "content": "Seu Gmail está lotado e, de repente, você percebe que não consegue mais receber e-mails. Aquele aviso de “armazenamento cheio” aparece e a solução mais óbvia — sair apagando mensagens — não parece nada segura. Afinal, como saber o que pode ou não ser excluído ? Quer tirar o Gemini do Gmail? Saiba como desativar a IA do Google no app e site Além da caixa de entrada: 6 funções de IA do Gmail que você precisa conhecer Na maioria dos casos, o problema não está nos e-mails simples de texto, mas sim no que vem junto deles. Anexos grandes, PDFs esquecidos, fotos, apresentações, vídeos, mensagens antigas com arquivos repetidos e itens parados na lixeira que acabam consumindo boa parte do espaço. É aí que o Gemini pode entrar como apoio. A IA ajuda a organizar essa bagunça, acelerar a triagem e encontrar o que realmente ocupa espaço . Mas vale o cuidado: ele não apaga nada sozinho — apenas orienta. A decisão final de excluir ou não continua sendo sua. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A seguir, tire suas dúvidas sobre: Como saber o que está consumindo o armazenamento? Como liberar espaço no Gmail com o Gemini? Quais e-mails apagar primeiro? Como saber o que está consumindo o armazenamento? Antes de sair apagando mensagens, o primeiro passo é entender onde o espaço está sendo gasto. No ecossistema do Google, o armazenamento é compartilhado entre Gmail, Drive e Fotos , o que significa que o problema pode nem estar no e-mail. O ideal é abrir o painel de armazenamento do Google One e verificar qual serviço está consumindo mais espaço. Se o Gmail não for o principal responsável, apagar mensagens terá pouco impacto. Painel do Gemini no Gmail pode ajudar a encontrar mensagens com anexos grandes e identificar o que mais ocupa espaço na caixa de entrada. (Imagem: Viviane França/Canaltech / Editada por IA/ChatGPT) Como liberar espaço no Gmail com o Gemini? Se o seu Gmail está ",
-      "lang": "pt",
-      "depts": [
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Use o ChatGPT para descobrir talentos ocultos e transformar a sua carreira",
-      "description": "O ChatGPT pode ajudar na autoanálise e na descoberta de talentos ocultos por meio de uma conversa guiada. Nesse processo, o usuário responde perguntas sobre carreira e vida pessoal, e a IA identifica padrões de comportamento, transformando essas informações em pontos fortes e sugestões para a vida p",
-      "url": "https://canaltech.com.br/inteligencia-artificial/use-o-chatgpt-para-descobrir-talentos-ocultos-e-transformar-a-sua-carreira/",
-      "publishedAt": "Sat, 04 Jul 2026 18:05:00 -0300",
-      "image": "https://t.ctcdn.com.br/ZYG6Fut2RaMaLKaCUk5JQX-psxM=/700x394/smart/i1119851.png",
-      "source": "Canaltech IA",
-      "content": "O ChatGPT pode ajudar na autoanálise e na descoberta de talentos ocultos por meio de uma conversa guiada. Nesse processo, o usuário responde perguntas sobre carreira e vida pessoal, e a IA identifica padrões de comportamento, transformando essas informações em pontos fortes e sugestões para a vida profissional. Como usar o ChatGPT para revisar currículo, LinkedIn e carta de apresentação 6 prompts do ChatGPT para criar apresentações no trabalho e faculdade Para isso, é importante responder as perguntas da IA com sinceridade e com o máximo de detalhes possível, pois, assim, será mais fácil identificar padrões, pontos fortes e habilidades que podem estar sendo subestimadas. Como usar o ChatGPT para descobrir talentos ocultos? Nesse processo, o ChatGPT não entrega respostas prontas. Ele funciona como um guia de reflexão . Uma única pergunta feita pela IA já é suficiente para iniciar uma sequência de outras questões mais profundas sobre sua trajetória, seus hábitos de trabalho e os padrões que se repetem na sua forma de agir. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A partir disso, a IA conduz uma espécie de entrevista guiada . Ela começa a explorar experiências, decisões e momentos marcantes, ajudando a organizar informações que normalmente ficam espalhadas na memória. Um exemplo de prompt para esse tipo de análise é: “Aja como um coach de pontos fortes e psicólogo comportamental. Faça 15 perguntas sobre minha carreira, hobbies, relacionamentos, desafios, conquistas e momentos em que me senti mais energizado(a). Depois que eu responder a todas, identifique 10 pontos fortes que posso estar subestimando. Para cada ponto forte, explique com base nas minhas respostas, mostre como ele aparece no meu dia a dia e indique formas práticas de aplicar isso na minha carreira e vida pessoal.” O ChatGPT pode ser usado como ferramenta de autoanálise para identificar talentos ocultos.",
-      "lang": "pt",
-      "depts": [
-        "RH",
-        "Gestão",
-        "Educação"
-      ]
-    },
-    {
-      "title": "12 prompts do Gemini para pesquisar, comparar e comprar um celular novo",
-      "description": "Comprar produtos de tecnologia deveria ser simples, mas quase nunca é. Você entra querendo só escolher um celular e, quando percebe, já está preso em abas, reviews que dizem coisas opostas, fichas técnicas cheias de números difíceis de comparar e promoções que aparecem e somem o tempo todo. Vale com",
-      "url": "https://canaltech.com.br/inteligencia-artificial/prompts-gemini-pesquisar-comparar-comprar-celular-novo/",
-      "publishedAt": "Sat, 04 Jul 2026 16:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/u-ApvEXeczP3CmhwQ0AK7cHkEGs=/700x394/smart/i1132313.png",
-      "source": "Canaltech IA",
-      "content": "Comprar produtos de tecnologia deveria ser simples, mas quase nunca é. Você entra querendo só escolher um celular e, quando percebe, já está preso em abas, reviews que dizem coisas opostas, fichas técnicas cheias de números difíceis de comparar e promoções que aparecem e somem o tempo todo. Vale comprar celular com 256 GB ou 512 GB hoje? Veja cenário real Celular usado: como avaliar o aparelho em 8 passos e saber se vale a pena compra No meio disso tudo, fica a sensação de que sempre falta alguma informação importante e que decidir “certo” virou mais cansativo do que deveria. É justamente aqui que o Gemini pode ajudar a organizar esse caos. A ideia deste guia é te mostrar como transformar essa busca em algo mais simples e guiado . Para isso, você pode dividir o caminho em quatro etapas: entender a categoria, comparar opções, analisar preço e só então decidir com mais segurança. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Ao longo do texto, vamos usar como exemplo alguém procurando um celular entre R$ 2.000 e R$ 2.500, mas o mesmo método funciona para notebooks, TVs, fones, consoles e outros eletrônicos do dia a dia. A seguir, confira: Etapa 1: Pesquisa de categoria Etapa 2: Comparação técnica Etapa 3: Busca de preço e custo-benefício Etapa 4: Decisão final Etapa 1: Pesquisa de categoria Antes de olhar modelo, marca ou promoção, vale dar um passo atrás e entender o cenário. É aqui que você começa a enxergar o que realmente existe dentro do seu orçamento . Nesse momento, a ideia não é escolher o modelo ainda, mas sim montar uma primeira lista de opções confiáveis para não ficar perdido depois. Nesta etapa, veja: 1. Panorama da categoria 2. Perfil de uso 3. Quais critérios usar 1. Panorama da categoria Se você ainda não sabe quais celulares fazem sentido na faixa de R$ 2.000 a R$ 2.500, o primeiro passo é pedir uma visão geral do mercado. O Gemini pode organizar isso sep",
-      "lang": "pt",
-      "depts": [
-        "Comercial"
-      ]
-    },
-    {
-      "title": "IA pode destruir a bateria do seu celular; veja como resolver",
-      "description": "A inteligência artificial está cada vez mais presente nos smartphones, sendo integrada ao sistema e a diversos aplicativos para executar tarefas, como resumos de notificações, edição de fotos, sugestões personalizadas, além de atuar como assistentes de voz avançados. 15 recursos secretos do Apple In",
-      "url": "https://canaltech.com.br/inteligencia-artificial/ia-pode-destruir-a-bateria-do-seu-celular-veja-como-resolver/",
-      "publishedAt": "Sat, 04 Jul 2026 12:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/ZHTeRLBEvZ9V6ryjoDtw8E9DI2E=/700x394/smart/i1086691.jpeg",
-      "source": "Canaltech IA",
-      "content": "A inteligência artificial está cada vez mais presente nos smartphones, sendo integrada ao sistema e a diversos aplicativos para executar tarefas, como resumos de notificações, edição de fotos, sugestões personalizadas, além de atuar como assistentes de voz avançados. 15 recursos secretos do Apple Intelligence que a Apple \"escondeu\" Qual celular tem a melhor IA para tirar pessoas indesejadas das suas fotos? Apesar de trazer mais praticidade no dia a dia, isso tem um custo invisível: a necessidade de processamento constante . No próprio aparelho ou na nuvem, essas ferramentas permanecem ativas em segundo plano e podem consumir energia de forma contínua, o que acaba com a bateria sem que o usuário perceba. A seguir, tire suas dúvidas sobre: - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Por que a IA consome tanta energia? Como ajustar a IA no iPhone para economizar bateria? Como reduzir o consumo de IA no Android? Como ter certeza que a IA é realmente o problema? Por que a IA consome tanta energia? A IA nos celulares funciona de forma diferente dos aplicativos tradicionais. Ela não é ativada apenas quando o usuário abre um app, ela permanece parcialmente ativa o tempo todo para realizar tarefas, como a análise de fotos, interpretação de comandos de voz e geração de sugestões em tempo real. O custo oculto aparece justamente nessa ideia de IA “sempre disponível”. Para que ela responda imediatamente, são executados processos contínuos em segundo plano , com previsão de ações e análise de padrões de uso. Quanto maior o nível de personalização, maior o volume de dados processados de forma constante, o que aumenta o consumo de energia ao longo do dia. Como ajustar a IA no iPhone para economizar bateria? No iPhone, alguns recursos ligados à Apple Intelligence e à Siri podem impactar a autonomia da bateria. O ideal é revisar quais funções realmente são necessárias no uso diário. Po",
-      "lang": "pt",
-      "depts": [
-        "Financeiro",
-        "Gestão",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Governo Federal lança matriz de competências para uso de IA",
-      "description": "O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) divulgou, na última semana, a Matriz de Competências em Inteligência Artificial do Governo do Brasil . O documento vai orientar os cursos e treinamentos oferecidos a servidores federais sobre o uso da tecnologia, com eixos voltados à ét",
-      "url": "https://canaltech.com.br/inteligencia-artificial/governo-federal-lanca-matriz-de-competencias-para-uso-de-ia/",
-      "publishedAt": "Fri, 03 Jul 2026 19:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/kzQDM-16SY2FIYKPRKkiU42iGYs=/700x394/smart/i1140307.png",
-      "source": "Canaltech IA",
-      "content": "O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) divulgou, na última semana, a Matriz de Competências em Inteligência Artificial do Governo do Brasil . O documento vai orientar os cursos e treinamentos oferecidos a servidores federais sobre o uso da tecnologia, com eixos voltados à ética, segurança, privacidade e soberania digital. A publicação é do Núcleo de Inteligência Artificial (NIA), iniciativa da Secretaria de Governo Digital (SGD) para apoiar a adoção de IA no Poder Executivo Federal. A matriz passa a nortear todas as capacitações conduzidas pelo núcleo. Mais de 167 mil servidores já foram capacitados Segundo o secretário de Governo Digital, Rogério Mascarenhas, ao menos 167 mil servidores já concluíram alguma capacitação dos programas do ministério. Para ele, o número demonstra interesse crescente pelo uso da tecnologia no serviço público. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Mascarenhas afirma que a matriz foi criada para orientar o desenvolvimento de novos cursos e identificar lacunas de competência em cada perfil de servidor. O secretário também classificou o documento como inovador e disse que ele pode servir de referência para outros países e para empresas privadas. Seis perfis de servidores e onze programas de formação O MGI dividiu o público-alvo das capacitações em seis perfis: agente público, gestor de TIC, gestor público, executivo de dados, curador de dados e altas lideranças. Cada perfil tem competências específicas a desenvolver, conforme a rotina de trabalho ou o nível de decisão sobre o uso da tecnologia no órgão. As formações somam 11 programas, oferecidos pela Escola Virtual de Governo (EV.G), vinculada à Escola Nacional de Administração Pública (Enap), em parceria com o Serpro. Os cursos são gratuitos, a distância e abertos a qualquer servidor, e abrangem temas como IA generativa, ética em IA, proteção de dados pessoais",
-      "lang": "pt",
-      "depts": [
-        "Comercial",
-        "Jurídico",
-        "Gestão",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Novo app da Meta mostra criações feitas por vibe coding",
-      "description": "A Meta lançou silenciosamente o Pocket , um novo aplicativo para criar e compartilhar pequenos jogos e experiências interativas, chamados de \"gizmos\", usando comandos de inteligência artificial. O app já está disponível na App Store e no Google Play, mas a empresa ainda não fez um anúncio sobre o la",
-      "url": "https://canaltech.com.br/inteligencia-artificial/novo-app-da-meta-mostra-criacoes-feitas-por-vibe-coding/",
-      "publishedAt": "Fri, 03 Jul 2026 17:10:00 -0300",
-      "image": "https://t.ctcdn.com.br/o35a_R-0f5b8pzB7LdM_9qhgmOE=/700x394/smart/i1140309.png",
-      "source": "Canaltech IA",
-      "content": "A Meta lançou silenciosamente o Pocket , um novo aplicativo para criar e compartilhar pequenos jogos e experiências interativas, chamados de \"gizmos\", usando comandos de inteligência artificial. O app já está disponível na App Store e no Google Play, mas a empresa ainda não fez um anúncio sobre o lançamento, o que sugere que a ferramenta pode estar em fase inicial de testes. O aplicativo foi descoberto e divulgado primeiro no X por Alessandro Paluzzi, engenheiro reverso conhecido por encontrar novos aplicativos e recursos antes dos anúncios oficiais. Segundo dados da Appfigures, no entanto, o Pocket já estava disponível nas lojas desde 29 de junho. #Meta is working on a new app called Pocket 👀 ℹ️ A new creative platform to make and share gizmos. pic.twitter.com/zFjMU5jj1U - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - — Alessandro Paluzzi (@alex193a) July 2, 2026 O Pocket usa prompts de texto para gerar conteúdos interativos . Assim, até pessoas sem conhecimento em programação conseguem criar seus próprios miniapps. Além da ferramenta de criação, o aplicativo conta com um feed em que os usuários podem descobrir e testar gizmos desenvolvidos por outras pessoas. O projeto foi criado após a Meta adquirir, no início de 2026, a equipe da Gizmo, plataforma que já utilizava o conceito de vibe coding e acumulava mais de 635 mil instalações. O aplicativo original registrava 98% de avaliações positivas entre os usuários e, curiosamente, continua disponível nas lojas de aplicativos mesmo após o lançamento do Pocket pela Meta. A iniciativa reforça a estratégia da Meta de ampliar o acesso às ferramentas de criação com inteligência artificial. O Pocket ( play.google.com ) integra um ecossistema que já inclui o Vibes, de vídeos gerados por IA, e o Meta AI, focado na criação de imagens. Recentemente, a empresa também adicionou recursos de IA ao editor de vídeos Edits. O Pocket é o novo",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Comercial",
         "Educação"
       ]
     }
