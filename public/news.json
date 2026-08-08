@@ -1,7 +1,72 @@
 {
-  "updatedAt": "2026-08-07T10:41:33.536Z",
+  "updatedAt": "2026-08-08T10:20:02.506Z",
   "count": 40,
   "articles": [
+    {
+      "title": "OpenAI diz que retardou o desenvolvimento do modelo Astra por questões de segurança",
+      "description": "A OpenAI disse que este modelo, que ainda está em desenvolvimento, atingiu seu “limiar crítico de segurança cibernética”, o que significa que poderia identificar e realizar ataques cibernéticos de forma independente contra sistemas do mundo real tradicionalmente bem protegidos.",
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "publishedAt": "Fri, 07 Aug 2026 22:48:24 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "A OpenAI disse que este modelo, que ainda está em desenvolvimento, atingiu seu “limiar crítico de segurança cibernética”, o que significa que poderia identificar e realizar ataques cibernéticos de forma independente contra sistemas do mundo real tradicionalmente bem protegidos.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Melhor smartwatch Samsung: qual relógio comprar em 2026?",
+      "description": "Encontre o melhor relógio inteligente da Samsung para o seu dia a dia; lista inclui desde smartwatches baratos até modelos com recursos avançados para monitoramento de saúde e exercícios Melhor smartwatch Samsung: qual relógio comprar em 2026?",
+      "url": "https://tecnoblog.net/guias/melhor-smartwatch-samsung/",
+      "publishedAt": "Fri, 07 Aug 2026 17:01:57 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/watch-ultra-2.jpg",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Saúde",
+        "Educação"
+      ]
+    },
+    {
+      "title": "TCL libera IA do Google em TVs do Brasil; veja os modelos",
+      "description": "Gemini chega a aparelhos vendidos a partir de 2025 no mercado doméstico. TCL libera IA do Google em TVs do Brasil; veja os modelos",
+      "url": "https://tecnoblog.net/noticias/tcl-libera-ia-do-google-em-tvs-do-brasil-veja-os-modelos/",
+      "publishedAt": "Fri, 07 Aug 2026 15:07:40 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/image-7.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Jill Lepore sobre o ‘Estado Artificial’ e por que os líderes do Vale do Silício são maus leitores de ficção científica",
+      "description": "A historiadora Jill Lepore tem uma teoria sobre por que as empresas de tecnologia costumam usar uma linguagem exagerada para descrever seus produtos – quase como se estivessem reformando um novo governo. E quer você esteja pensando na antiga “prefeitura no seu bolso” do Twitter ou na constituição de Claude da Antrópico, é uma teoria que não importa.",
+      "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+      "publishedAt": "Fri, 07 Aug 2026 14:00:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "A historiadora Jill Lepore tem uma teoria sobre por que as empresas de tecnologia costumam usar uma linguagem exagerada para descrever seus produtos – quase como se estivessem reformando um novo governo. E quer você esteja pensando na antiga “prefeitura no seu bolso” do Twitter ou na constituição Claude da Anthropic, é uma teoria que não pinta o Vale do Silício de uma forma muito lisonjeira. No próximo livro de Lepore, The Rise and Fall of the Artificial State, o Pulitzer [ ]",
+      "lang": "en",
+      "depts": [
+        "Comercial",
+        "Jurídico"
+      ]
+    },
+    {
+      "title": "Adobe lança plugin para ChatGPT com mais de 70 ferramentas de edição",
+      "description": "Empresa unifica extensões lançadas anteriormente e promete expandir recursos para Gemini e Slack. Adobe lança plugin para ChatGPT com mais de 70 ferramentas de edição",
+      "url": "https://tecnoblog.net/noticias/adobe-lanca-plugin-para-chatgpt-com-mais-de-70-ferramentas-de-edicao/",
+      "publishedAt": "Fri, 07 Aug 2026 11:05:41 +0000",
+      "image": "https://www.youtube.com/embed/7OjUlX2WOIA",
+      "source": "Tecnoblog",
+      "content": "Plugin da Adobe faz edições a partir de comandos escritos em linguagem natural (imagem: divulgação) Resumo A Adobe lançou um plugin para o ChatGPT com mais de 70 ferramentas de edição de imagens e documentos, unificando soluções anteriores como Photoshop Express e Acrobat. Para usar o plugin, basta instalá-lo, fazer login com uma conta Adobe ou entrar como convidado, e digitar “@Adobe” em uma conversa no ChatGPT para executar tarefas como edição de vídeos e criação de PDFs. A empresa planeja expandir os recursos para o Google Gemini e o Slack, e já oferece ferramentas semelhantes em outras plataformas como o Claude e o Copilot. A Adobe liberou, nesta quinta-feira (06/08), um novo plugin para o ChatGPT. Ele unifica soluções lançadas anteriormente pela empresa de modo separado, como Photoshop Express e Acrobat, oferecendo mais de 70 ferramentas para imagens e documentos. “Com mais de 70 ferramentas dos pacotes criativos e de produtividade da Adobe, o plugin para o ChatGPT oferece suporte a uma ampla variedade de fluxos de trabalho, desde edição de fotos e criação de vídeos de campanha até design de ativos de marketing e geração de PDFs sofisticados”, diz a empresa em seu comunicado . Como usar o plugin da Adobe no ChatGPT? Para adicionar o plugin ao ChatGPT, siga estes passos: Abra a página do plugin da Adobe e clique no botão “Instalar plugin”. Faça login com sua conta da Adobe ou escolha a opção de entrar como convidado. Abra uma nova conversa no ChatGPT e digite “@Adobe” para usar as ferramentas do pacote. A partir daí, basta usar prompts escritos em linguagem natural para executar as tarefas. Entre os exemplos dados pela Adobe, estão comandos como “redimensione meu vídeo para redes sociais”, “mude o fundo para rosa” e “crie um modelo de embalagem”. A conta Adobe é opcional. Com o login, é possível acessar arquivos da Creative Cloud e salvar o trabalho para continuar futuramente naquele mesmo dispositivo ou em outro aparelho. Assinantes dos planos da Adobe também têm acesso aos créditos generativos, necessários para alguns recursos mais avançados do pacote. Mais chatbots em breve O plugin da Adobe funciona em diversas plataformas do ChatGPT, incluindo o Codex e o ChatGPT Work. A empresa oferece ferramentas semelhantes no Claude (com o conector Adobe for Creativity ) e no Copilot (com plugins do Acrobat e do Adobe Express). Além deles, a companhia prepara soluções similares para o Google Gemini e o Slack. Adobe lança plugin para ChatGPT com mais de 70 ferramentas de edição",
+      "lang": "pt",
+      "depts": [
+        "Marketing",
+        "Gestão",
+        "Educação"
+      ]
+    },
     {
       "title": "O novo alto-falante inteligente de IA da OpenAI será vendido por entre US$ 300 e US$ 400",
       "description": "Detalhes adicionais sobre o misterioso novo dispositivo de IA da OpenAI fazem com que pareça um alto-falante inteligente caro.",
@@ -140,69 +205,6 @@
       "content": null,
       "lang": "pt",
       "depts": []
-    },
-    {
-      "title": "Microsoft impõe novos limites para uso interno de tokens de IA",
-      "description": "Empresa alerta contra uso excessivo de recursos computacionais e define o GPT-5.6 como padrão para baratear operações. Microsoft impõe novos limites para uso interno de tokens de IA",
-      "url": "https://tecnoblog.net/noticias/microsoft-impoe-novos-limites-para-uso-interno-de-tokens-de-ia/",
-      "publishedAt": "Wed, 05 Aug 2026 16:45:24 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/04/microsoft_capa-3.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Educação"
-      ]
-    },
-    {
-      "title": "Anthropic está contratando uma equipe de design de chips de IA",
-      "description": "A Anthropic está formando uma equipe para projetar seus próprios chips de IA personalizados. A fabricante de Claude disse que iria co-projetar hardware e modelos para ajudar sua tecnologia a funcionar de forma mais rápida e eficiente.",
-      "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
-      "publishedAt": "Wed, 05 Aug 2026 14:13:18 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "A Anthropic está formando uma equipe para projetar seus próprios chips de IA personalizados. A fabricante de Claude disse que iria co-projetar hardware e modelos para ajudar sua tecnologia a funcionar de forma mais rápida e eficiente.",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Claude fora do ar? Instabilidade derruba modelos da Anthropic",
-      "description": "Serviços de IA do Claude apresentaram falhas na manhã desta quarta-feira (05/08) em escala global. Claude fora do ar? Instabilidade derruba modelos da Anthropic",
-      "url": "https://tecnoblog.net/noticias/claude-fora-do-ar-instabilidade-derruba-modelos-da-anthropic/",
-      "publishedAt": "Wed, 05 Aug 2026 12:48:38 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-4.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Comercial"
-      ]
-    },
-    {
-      "title": "MacPaw usa Liquid AI para oferecer inferência no dispositivo para desenvolvedores que criam sua loja de aplicativos",
-      "description": "MacPaw está construindo uma versão local de seu assistente de IA Eney usando modelos da Liquid AI.",
-      "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
-      "publishedAt": "Wed, 05 Aug 2026 12:28:38 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Comercial"
-      ]
-    },
-    {
-      "title": "TCL lança o tablet intermediário Tab A1 Plus",
-      "description": "Modelo chega com display de 120 Hz, chip Snapdragon 4 Gen 2 e recursos de inteligência artificial. TCL lança o tablet intermediário Tab A1 Plus",
-      "url": "https://tecnoblog.net/noticias/tcl-lanca-o-tablet-intermediario-tab-a1-plus/",
-      "publishedAt": "Tue, 04 Aug 2026 20:55:44 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/tcl-tab-a1-plus-1-edited.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Educação"
-      ]
     },
     {
       "title": "8 prompts para conversar com voz no ChatGPT",
