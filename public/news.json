@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-08T10:20:02.506Z",
+  "updatedAt": "2026-08-09T10:21:43.737Z",
   "count": 40,
   "articles": [
+    {
+      "title": "OpenAI adquire startup de apresentação NextSlide",
+      "description": "NextSlide diz que os membros de sua equipe agora estão trabalhando no ChatGPT.",
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "publishedAt": "Sat, 08 Aug 2026 19:41:13 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
     {
       "title": "OpenAI diz que retardou o desenvolvimento do modelo Astra por questões de segurança",
       "description": "A OpenAI disse que este modelo, que ainda está em desenvolvimento, atingiu seu “limiar crítico de segurança cibernética”, o que significa que poderia identificar e realizar ataques cibernéticos de forma independente contra sistemas do mundo real tradicionalmente bem protegidos.",
@@ -516,21 +527,6 @@
       "lang": "pt",
       "depts": [
         "Comercial"
-      ]
-    },
-    {
-      "title": "IA pode destruir a bateria do seu celular; veja como resolver",
-      "description": "A inteligência artificial está cada vez mais presente nos smartphones, sendo integrada ao sistema e a diversos aplicativos para executar tarefas, como resumos de notificações, edição de fotos, sugestões personalizadas, além de atuar como assistentes de voz avançados. 15 recursos secretos do Apple In",
-      "url": "https://canaltech.com.br/inteligencia-artificial/ia-pode-destruir-a-bateria-do-seu-celular-veja-como-resolver/",
-      "publishedAt": "Sat, 04 Jul 2026 12:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/ZHTeRLBEvZ9V6ryjoDtw8E9DI2E=/700x394/smart/i1086691.jpeg",
-      "source": "Canaltech IA",
-      "content": "A inteligência artificial está cada vez mais presente nos smartphones, sendo integrada ao sistema e a diversos aplicativos para executar tarefas, como resumos de notificações, edição de fotos, sugestões personalizadas, além de atuar como assistentes de voz avançados. 15 recursos secretos do Apple Intelligence que a Apple \"escondeu\" Qual celular tem a melhor IA para tirar pessoas indesejadas das suas fotos? Apesar de trazer mais praticidade no dia a dia, isso tem um custo invisível: a necessidade de processamento constante . No próprio aparelho ou na nuvem, essas ferramentas permanecem ativas em segundo plano e podem consumir energia de forma contínua, o que acaba com a bateria sem que o usuário perceba. A seguir, tire suas dúvidas sobre: - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Por que a IA consome tanta energia? Como ajustar a IA no iPhone para economizar bateria? Como reduzir o consumo de IA no Android? Como ter certeza que a IA é realmente o problema? Por que a IA consome tanta energia? A IA nos celulares funciona de forma diferente dos aplicativos tradicionais. Ela não é ativada apenas quando o usuário abre um app, ela permanece parcialmente ativa o tempo todo para realizar tarefas, como a análise de fotos, interpretação de comandos de voz e geração de sugestões em tempo real. O custo oculto aparece justamente nessa ideia de IA “sempre disponível”. Para que ela responda imediatamente, são executados processos contínuos em segundo plano , com previsão de ações e análise de padrões de uso. Quanto maior o nível de personalização, maior o volume de dados processados de forma constante, o que aumenta o consumo de energia ao longo do dia. Como ajustar a IA no iPhone para economizar bateria? No iPhone, alguns recursos ligados à Apple Intelligence e à Siri podem impactar a autonomia da bateria. O ideal é revisar quais funções realmente são necessárias no uso diário. Po",
-      "lang": "pt",
-      "depts": [
-        "Financeiro",
-        "Gestão",
-        "Educação"
       ]
     }
   ]
