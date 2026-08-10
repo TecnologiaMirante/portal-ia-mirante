@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-09T10:21:43.737Z",
+  "updatedAt": "2026-08-10T10:56:32.377Z",
   "count": 40,
   "articles": [
+    {
+      "title": "Anthropic está ativando o modo automático de Claude Code por padrão",
+      "description": "A programação com Claude Code exigirá em breve ainda menos supervisão humana.",
+      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "publishedAt": "Sun, 09 Aug 2026 19:20:32 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
     {
       "title": "OpenAI adquire startup de apresentação NextSlide",
       "description": "NextSlide diz que os membros de sua equipe agora estão trabalhando no ChatGPT.",
@@ -514,19 +525,6 @@
         "RH",
         "Gestão",
         "Educação"
-      ]
-    },
-    {
-      "title": "12 prompts do Gemini para pesquisar, comparar e comprar um celular novo",
-      "description": "Comprar produtos de tecnologia deveria ser simples, mas quase nunca é. Você entra querendo só escolher um celular e, quando percebe, já está preso em abas, reviews que dizem coisas opostas, fichas técnicas cheias de números difíceis de comparar e promoções que aparecem e somem o tempo todo. Vale com",
-      "url": "https://canaltech.com.br/inteligencia-artificial/prompts-gemini-pesquisar-comparar-comprar-celular-novo/",
-      "publishedAt": "Sat, 04 Jul 2026 16:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/u-ApvEXeczP3CmhwQ0AK7cHkEGs=/700x394/smart/i1132313.png",
-      "source": "Canaltech IA",
-      "content": "Comprar produtos de tecnologia deveria ser simples, mas quase nunca é. Você entra querendo só escolher um celular e, quando percebe, já está preso em abas, reviews que dizem coisas opostas, fichas técnicas cheias de números difíceis de comparar e promoções que aparecem e somem o tempo todo. Vale comprar celular com 256 GB ou 512 GB hoje? Veja cenário real Celular usado: como avaliar o aparelho em 8 passos e saber se vale a pena compra No meio disso tudo, fica a sensação de que sempre falta alguma informação importante e que decidir “certo” virou mais cansativo do que deveria. É justamente aqui que o Gemini pode ajudar a organizar esse caos. A ideia deste guia é te mostrar como transformar essa busca em algo mais simples e guiado . Para isso, você pode dividir o caminho em quatro etapas: entender a categoria, comparar opções, analisar preço e só então decidir com mais segurança. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Ao longo do texto, vamos usar como exemplo alguém procurando um celular entre R$ 2.000 e R$ 2.500, mas o mesmo método funciona para notebooks, TVs, fones, consoles e outros eletrônicos do dia a dia. A seguir, confira: Etapa 1: Pesquisa de categoria Etapa 2: Comparação técnica Etapa 3: Busca de preço e custo-benefício Etapa 4: Decisão final Etapa 1: Pesquisa de categoria Antes de olhar modelo, marca ou promoção, vale dar um passo atrás e entender o cenário. É aqui que você começa a enxergar o que realmente existe dentro do seu orçamento . Nesse momento, a ideia não é escolher o modelo ainda, mas sim montar uma primeira lista de opções confiáveis para não ficar perdido depois. Nesta etapa, veja: 1. Panorama da categoria 2. Perfil de uso 3. Quais critérios usar 1. Panorama da categoria Se você ainda não sabe quais celulares fazem sentido na faixa de R$ 2.000 a R$ 2.500, o primeiro passo é pedir uma visão geral do mercado. O Gemini pode organizar isso sep",
-      "lang": "pt",
-      "depts": [
-        "Comercial"
       ]
     }
   ]
