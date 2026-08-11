@@ -1,7 +1,77 @@
 {
-  "updatedAt": "2026-08-10T10:56:32.377Z",
+  "updatedAt": "2026-08-11T10:41:01.786Z",
   "count": 40,
   "articles": [
+    {
+      "title": "A OpenAI supostamente concluiu uma oferta pública de US$ 7 bilhões para funcionários",
+      "description": "O mercado imobiliário de São Francisco está novamente em apuros.",
+      "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+      "publishedAt": "Tue, 11 Aug 2026 00:03:18 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "RH"
+      ]
+    },
+    {
+      "title": "À medida que os ataques liderados por IA se multiplicam, a OpenAI lança um novo modelo cibernético",
+      "description": "A OpenAI está expandindo seu programa de defesa de segurança cibernética de IA, Daybreak, e lançando um novo modelo de IA com treinamento cibernético com ele.",
+      "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "publishedAt": "Mon, 10 Aug 2026 23:56:15 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "Educação"
+      ]
+    },
+    {
+      "title": "O manifesto de IA de Mark Zuckerberg é exatamente o motivo pelo qual as pessoas não gostam de IA",
+      "description": "Na segunda-feira, Mark Zuckerberg publicou um manifesto de 6.500 palavras sobre IA pessoal, em grande parte sobre as possibilidades dos sistemas de “superinteligência pessoal” que a Meta AI está construindo.",
+      "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+      "publishedAt": "Mon, 10 Aug 2026 20:53:02 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Na segunda-feira, Mark Zuckerberg publicou um manifesto de 6.500 palavras sobre IA pessoal, em grande parte sobre as possibilidades dos sistemas de “superinteligência pessoal” que a Meta AI está construindo.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "A indústria de tecnologia está agitada depois que um agente de Claude invadiu uma academia",
+      "description": "Um agente do OpenClaw invadiu o sistema de reservas de uma academia para colocar seu chefe humano no topo da lista de espera de uma aula. E a indústria de tecnologia percebeu.",
+      "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+      "publishedAt": "Mon, 10 Aug 2026 20:04:24 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "OpenAI freia nova IA por risco de ciberataques autônomos",
+      "description": "Após incidente com a Hugging Face, dona do ChatGPT suspende testes e reforça protocolos de segurança por temer que novo sistema vire ameaça. OpenAI freia nova IA por risco de ciberataques autônomos",
+      "url": "https://tecnoblog.net/noticias/openai-freia-nova-ia-por-risco-de-ciberataques-autonomos/",
+      "publishedAt": "Mon, 10 Aug 2026 18:50:19 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/openai-4_capa.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "O novo modelo Glimmer AI da Meta oferece uma dica da visão de inteligência pessoal de Zuckerberg",
+      "description": "O novo modelo Muse Glimmer de peso aberto da Meta oferece um vislumbre da visão de superinteligência pessoal de Mark Zuckerberg, bem como da divisão emergente entre os usuários de IA que podem possuir e acessar.",
+      "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+      "publishedAt": "Mon, 10 Aug 2026 16:20:13 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "O novo modelo Muse Glimmer de peso aberto da Meta oferece um vislumbre da visão de superinteligência pessoal de Mark Zuckerberg, bem como da divisão emergente entre os usuários de IA que podem possuir e acessar.",
+      "lang": "en",
+      "depts": []
+    },
     {
       "title": "Anthropic está ativando o modo automático de Claude Code por padrão",
       "description": "A programação com Claude Code exigirá em breve ainda menos supervisão humana.",
@@ -15,14 +85,16 @@
     },
     {
       "title": "OpenAI adquire startup de apresentação NextSlide",
-      "description": "NextSlide diz que os membros de sua equipe agora estão trabalhando no ChatGPT.",
+      "description": "O fundador Ahmed Beshry descreve o produto da startup como aquele “que pode transformar prompts, notas, documentos ou pesquisas em uma apresentação editável e refinada”.",
       "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
       "publishedAt": "Sat, 08 Aug 2026 19:41:13 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": null,
+      "content": "O fundador Ahmed Beshry descreve o produto da startup como aquele “que pode transformar prompts, notas, documentos ou pesquisas em uma apresentação editável e refinada”.",
       "lang": "en",
-      "depts": []
+      "depts": [
+        "Comercial"
+      ]
     },
     {
       "title": "OpenAI diz que retardou o desenvolvimento do modelo Astra por questões de segurança",
@@ -139,90 +211,6 @@
       "url": "https://tecnoblog.net/noticias/openai-diz-que-agentes-de-ia-discutiram-como-fugir-de-ambiente-controlado/",
       "publishedAt": "Thu, 06 Aug 2026 16:40:14 +0000",
       "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/openai-2_capa.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "Toda a memória prevista para 2027 já esgotou (e a culpa é da IA)",
-      "description": "Impulsionada pelo boom da inteligência artificial, a produção de gigantes como Samsung e Micron atingiu o limite, ameaçando a oferta e encarecendo componentes para PCs e celulares. Toda a memória prevista para 2027 já esgotou (e a culpa é da IA)",
-      "url": "https://tecnoblog.net/noticias/toda-a-memoria-de-2027-ja-esgotou-e-a-culpa-e-da-ia/",
-      "publishedAt": "Thu, 06 Aug 2026 15:53:30 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/01/memoria-ram-tecnoblog.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "OpenAI diz que as próprias práticas de segurança da Apple prejudicam seu caso de segredos comerciais",
-      "description": "Provas judiciais recentemente apresentadas mostram a estratégia legal da OpenAI no processo de segredos comerciais da Apple: argumentam que as próprias práticas de segurança e desligamento da Apple – incluindo permitir que um gerente da Apple acesse a conta iCloud de um ex-engenheiro depois que ele deixou a empresa – minam suas alegações de que o supostamente st",
-      "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-      "publishedAt": "Thu, 06 Aug 2026 15:10:32 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Documentos judiciais recentemente apresentados mostram a estratégia legal da OpenAI no processo de segredos comerciais da Apple: argumentam que as próprias práticas de segurança e desligamento da Apple – incluindo permitir que um gerente da Apple acesse a conta iCloud de um ex-engenheiro depois que ele deixou a empresa – minam suas alegações de que as informações supostamente roubadas foram devidamente protegidas.",
-      "lang": "en",
-      "depts": [
-        "Jurídico",
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Exclusivo: Mirendil fecha acordo de US$ 100 milhões + Google Cloud para dimensionar IA de autoaperfeiçoamento",
-      "description": "Mirendil assinou uma parceria de mais de US$ 100 milhões com o Google Cloud para expandir sua infraestrutura de computação, impulsionando a pesquisa em sistemas de IA auto-aperfeiçoados, projetados para acelerar a descoberta científica e o desenvolvimento de IA.",
-      "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-      "publishedAt": "Thu, 06 Aug 2026 13:00:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Mirendil assinou uma parceria de mais de US$ 100 milhões com o Google Cloud para expandir sua infraestrutura de computação, impulsionando a pesquisa em sistemas de IA auto-aperfeiçoados, projetados para acelerar a descoberta científica e o desenvolvimento de IA.",
-      "lang": "en",
-      "depts": [
-        "Comercial"
-      ]
-    },
-    {
-      "title": "Em teste, Claude mente e cria contas falsas para forçar ataque hacker",
-      "description": "Sem prompt específico, Mythos 5 decide enganar desenvolvedor humano para inserir código malicioso no GitHub. Em teste, Claude mente e cria contas falsas para forçar ataque hacker",
-      "url": "https://tecnoblog.net/noticias/claude-ai-mente-e-cria-contas-falsas-para-forcar-ataque-hacker-em-teste/",
-      "publishedAt": "Thu, 06 Aug 2026 12:40:01 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/06/O-que-e-claude-ai.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "Google faz mudanças e troca chefes de divisão de inteligência artificial",
-      "description": "Demis Hassabis, CEO e cofundador da Google DeepMind, deixará responsabilidades operacionais e assumirá cargo de cientista-chefe. Google faz mudanças e troca chefes de divisão de inteligência artificial",
-      "url": "https://tecnoblog.net/noticias/google-faz-mudancas-e-troca-chefes-de-divisao-de-inteligencia-artificial/",
-      "publishedAt": "Wed, 05 Aug 2026 20:57:21 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/05/capa-ia-google-3_tb.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "Robô chinesa chega ao Brasil para atender visitantes e clientes",
-      "description": "Humanoide Mornine foi desenvolvida pelo Grupo Chery. Robô tem microfones, sensores e LiDAR 3D. Robô chinesa chega ao Brasil para atender visitantes e clientes",
-      "url": "https://tecnoblog.net/noticias/robo-humanoide-chines-chega-ao-brasil-para-atender-visitantes-e-clientes/",
-      "publishedAt": "Wed, 05 Aug 2026 20:37:46 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/mornine-humanoide-aimoga-edited.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Comercial"
-      ]
-    },
-    {
-      "title": "Google decreta fim definitivo do Google Assistente",
-      "description": "Substituição pelo Gemini começa em 4 de setembro e será aplicada de forma gradual. Google decreta fim definitivo do Google Assistente",
-      "url": "https://tecnoblog.net/noticias/google-decreta-fim-definitivo-do-google-assistente/",
-      "publishedAt": "Wed, 05 Aug 2026 17:18:18 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/capa-fim-do-google-assistente.jpg",
       "source": "Tecnoblog",
       "content": null,
       "lang": "pt",
@@ -525,6 +513,19 @@
         "RH",
         "Gestão",
         "Educação"
+      ]
+    },
+    {
+      "title": "12 prompts do Gemini para pesquisar, comparar e comprar um celular novo",
+      "description": "Comprar produtos de tecnologia deveria ser simples, mas quase nunca é. Você entra querendo só escolher um celular e, quando percebe, já está preso em abas, reviews que dizem coisas opostas, fichas técnicas cheias de números difíceis de comparar e promoções que aparecem e somem o tempo todo. Vale com",
+      "url": "https://canaltech.com.br/inteligencia-artificial/prompts-gemini-pesquisar-comparar-comprar-celular-novo/",
+      "publishedAt": "Sat, 04 Jul 2026 16:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/u-ApvEXeczP3CmhwQ0AK7cHkEGs=/700x394/smart/i1132313.png",
+      "source": "Canaltech IA",
+      "content": "Comprar produtos de tecnologia deveria ser simples, mas quase nunca é. Você entra querendo só escolher um celular e, quando percebe, já está preso em abas, reviews que dizem coisas opostas, fichas técnicas cheias de números difíceis de comparar e promoções que aparecem e somem o tempo todo. Vale comprar celular com 256 GB ou 512 GB hoje? Veja cenário real Celular usado: como avaliar o aparelho em 8 passos e saber se vale a pena compra No meio disso tudo, fica a sensação de que sempre falta alguma informação importante e que decidir “certo” virou mais cansativo do que deveria. É justamente aqui que o Gemini pode ajudar a organizar esse caos. A ideia deste guia é te mostrar como transformar essa busca em algo mais simples e guiado . Para isso, você pode dividir o caminho em quatro etapas: entender a categoria, comparar opções, analisar preço e só então decidir com mais segurança. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Ao longo do texto, vamos usar como exemplo alguém procurando um celular entre R$ 2.000 e R$ 2.500, mas o mesmo método funciona para notebooks, TVs, fones, consoles e outros eletrônicos do dia a dia. A seguir, confira: Etapa 1: Pesquisa de categoria Etapa 2: Comparação técnica Etapa 3: Busca de preço e custo-benefício Etapa 4: Decisão final Etapa 1: Pesquisa de categoria Antes de olhar modelo, marca ou promoção, vale dar um passo atrás e entender o cenário. É aqui que você começa a enxergar o que realmente existe dentro do seu orçamento . Nesse momento, a ideia não é escolher o modelo ainda, mas sim montar uma primeira lista de opções confiáveis para não ficar perdido depois. Nesta etapa, veja: 1. Panorama da categoria 2. Perfil de uso 3. Quais critérios usar 1. Panorama da categoria Se você ainda não sabe quais celulares fazem sentido na faixa de R$ 2.000 a R$ 2.500, o primeiro passo é pedir uma visão geral do mercado. O Gemini pode organizar isso sep",
+      "lang": "pt",
+      "depts": [
+        "Comercial"
       ]
     }
   ]
