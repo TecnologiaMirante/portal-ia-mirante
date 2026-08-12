@@ -1,7 +1,93 @@
 {
-  "updatedAt": "2026-08-11T10:41:01.786Z",
+  "updatedAt": "2026-08-12T10:50:40.490Z",
   "count": 40,
   "articles": [
+    {
+      "title": "OpenAI lança aplicativo de desktop ChatGPT para Linux",
+      "description": "OpenAI está finalmente trazendo um aplicativo de desktop ChatGPT dedicado para sistemas operacionais Linux.",
+      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "publishedAt": "Tue, 11 Aug 2026 19:15:35 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "O aplicativo Gemini do Google atinge 1 bilhão de usuários",
+      "description": "O Google também compartilhou números de como as pessoas estão realmente usando o chatbot, com 63% dos usuários do Gemini conversando diretamente com o assistente usando o recurso de voz. Além disso, o Gemini agora gera mais de 150 milhões de imagens todos os dias, segundo o Google.",
+      "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+      "publishedAt": "Tue, 11 Aug 2026 18:49:12 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "O Google também compartilhou números de como as pessoas estão realmente usando o chatbot, com 63% dos usuários do Gemini conversando diretamente com o assistente usando o recurso de voz. Além disso, o Gemini agora gera mais de 150 milhões de imagens todos os dias, segundo o Google.",
+      "lang": "en",
+      "depts": [
+        "Educação"
+      ]
+    },
+    {
+      "title": "Brad Lightcap, COO de longa data da OpenAI, está saindo para começar algo novo",
+      "description": "Um dos executivos mais antigos da OpenAI está saindo, embora o COO de longa data tenha dito à equipe que estava “animado em ajudar todos vocês a avançar na missão de um ponto de vista diferente”.",
+      "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+      "publishedAt": "Tue, 11 Aug 2026 17:41:34 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Um dos executivos mais antigos da OpenAI está saindo, embora o COO de longa data tenha dito à equipe que estava “animado em ajudar todos vocês a avançar na missão de um ponto de vista diferente”.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Um modelo antrópico inédito fez progressos em um dos maiores problemas não resolvidos da matemática",
+      "description": "Por mais de 150 anos, a hipótese de Riemann permaneceu como um dos principais problemas não resolvidos da matemática. A Antrópica não resolveu o problema – mas os modelos da empresa progrediram mais do que você poderia esperar.",
+      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+      "publishedAt": "Tue, 11 Aug 2026 16:25:20 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Por mais de 150 anos, a hipótese de Riemann permaneceu como um dos principais problemas não resolvidos da matemática. A Antrópica não resolveu o problema – mas os modelos da empresa progrediram mais do que você poderia esperar.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Anthropic vai identificar textos e imagens gerados pelo Claude",
+      "description": "Marca d'água estará na forma como a IA redige os textos. Anthropic vai identificar textos e imagens gerados pelo Claude",
+      "url": "https://tecnoblog.net/noticias/anthropic-vai-identificar-textos-e-imagens-gerados-pelo-claude/",
+      "publishedAt": "Tue, 11 Aug 2026 15:24:24 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-4.jpg",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Marketing"
+      ]
+    },
+    {
+      "title": "Incansável! Robô troca a própria bateria em 3 minutos e volta ao trabalho",
+      "description": "Sistema da Boston Dynamics elimina espera de 90 minutos na tomada. Incansável! Robô troca a própria bateria em 3 minutos e volta ao trabalho",
+      "url": "https://tecnoblog.net/noticias/incansavel-robo-troca-a-propria-bateria-em-tres-minutos-e-volta-ao-trabalho/",
+      "publishedAt": "Tue, 11 Aug 2026 15:16:58 +0000",
+      "image": "https://www.youtube.com/embed/rrUHZKlrxms",
+      "source": "Tecnoblog",
+      "content": "Robô dispensa os 90 minutos de tomada com troca rápida e independente (imagem: reprodução/Boston Dynamics) Resumo O robô Atlas, desenvolvido pela Boston Dynamics, pode trocar sua própria bateria em menos de 3 minutos, permitindo que opere em turnos ininterruptos na indústria. A troca rápida da bateria foi implementada para eliminar a espera de 90 minutos necessária para o carregamento convencional, possibilitando que o robô volte ao trabalho rapidamente. O Atlas é equipado com sensores táteis e um sistema de câmeras que oferece visão em 360 graus, permitindo que ele execute tarefas complexas e se adapte a diferentes situações no ambiente industrial. O robô humanoide Atlas, desenvolvido pela Boston Dynamics, recebeu uma atualização essencial para atuar no chão de fábrica. A máquina agora consegue substituir uma bateria descarregada de forma autônoma em menos de três minutos. Com esse novo sistema, o equipamento poderá operar em múltiplos turnos de trabalho e com o mínimo de intervenção humana, solucionando um grande desafio do setor: o tempo de inatividade. A versão elétrica do Atlas reconhece quando os níveis de energia atingem um estado crítico. Nesse momento, a máquina interrompe a tarefa, caminha até uma estação de baterias, troca o componente e retoma o trabalho exatamente de onde parou – uma capacidade que já era realidade na indústria chinesa . A Boston Dynamics não divulga preços para o Atlas. Fontes do mercado estimam que cada unidade custe entre US$ 130 mil e US$ 320 mil, a depender das configurações, o que dá entre R$ 715 mil a R$ 1,76 milhão. Como funciona a recarga do Atlas? A autonomia do robô varia dependendo da intensidade da tarefa. Em condições normais, o Atlas entrega cerca de quatro horas contínuas de funcionamento. No entanto, se ele fizer serviços pesados, como levantamento e transporte de materiais, esse tempo cai pela metade, limitando o “expediente” a aproximadamente duas horas. Antes desse sistema de troca rápida, o carregamento convencional da bateria levava em torno de 90 minutos. Em uma fábrica ou grande centro de distribuição, perder uma hora e meia a cada duas horas de atividade representava um custo inviável. Ao encurtar o intervalo, as empresas eliminam a necessidade de adquirir frotas inteiras para cobrir o buraco deixado pelas unidades ociosas. Robô treinado para o ambiente industrial Treinamento virtual permite que o robô manipule objetos fora do padrão (imagem: reprodução/Boston Dynamics) Para encarar o trabalho pesado, a Boston Dynamics equipou o Atlas com especificações parrudas. O modelo mede cerca de 1,90 metro e pesa em torno de 90 kg. Na prática, ele suporta cargas de até 30 kg de maneira constante, além de conseguir executar levantamentos curtos de até 50 kg. A máquina conta com múltiplos sensores táteis nas mãos e um sistema de câmeras que oferece visão em 360 graus. A fabricante já detalhou como o Atlas aprende a manipular objetos fora do convencional , como, por exemplo, transportar uma geladeira de mais de 45 kg, utilizando a técnica de aprendizado por reforço. O desenvolvimento de novas habilidades começa em simulações de computador, em que sistema consegue executar o equivalente a milhões de horas de treinamento em um único dia. Os programadores alteram variáveis a cada tentativa. Com esse método, os comportamentos criados digitalmente podem ser transferidos para o robô no ambiente real. A equipe de engenharia continua testando os limites do hardware ao ensinar a máquina a realizar acrobacias impressionantes, uma tradição de anos . Embora a máquina não vá dar saltos mortais no meio de uma linha de montagem automotiva, esses movimentos desenvolvem noções de equilíbrio, agilidade e recuperação. Se o equipamento tropeçar enquanto carrega uma peça pesada, por exemplo, essas habilidades atléticas garantem que ele consiga compensar o peso, firmar os pés no chão e evitar quedas, protegendo o próprio hardware e os produtos da fábrica. Incansável! Robô troca a própria bateria em 3 minutos e volta ao trabalho",
+      "lang": "pt",
+      "depts": [
+        "RH",
+        "Gestão"
+      ]
+    },
+    {
+      "title": "Anthropic diz que colocará marca d'água no texto gerado por seus modelos de IA",
+      "description": "A Anthropic estenderá o suporte para marcas d'água de gerações de IA também para modelos mais antigos.",
+      "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
+      "publishedAt": "Tue, 11 Aug 2026 12:13:47 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "Marketing"
+      ]
+    },
     {
       "title": "A OpenAI supostamente concluiu uma oferta pública de US$ 7 bilhões para funcionários",
       "description": "O mercado imobiliário de São Francisco está novamente em apuros.",
@@ -97,17 +183,6 @@
       ]
     },
     {
-      "title": "OpenAI diz que retardou o desenvolvimento do modelo Astra por questões de segurança",
-      "description": "A OpenAI disse que este modelo, que ainda está em desenvolvimento, atingiu seu “limiar crítico de segurança cibernética”, o que significa que poderia identificar e realizar ataques cibernéticos de forma independente contra sistemas do mundo real tradicionalmente bem protegidos.",
-      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "publishedAt": "Fri, 07 Aug 2026 22:48:24 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "A OpenAI disse que este modelo, que ainda está em desenvolvimento, atingiu seu “limiar crítico de segurança cibernética”, o que significa que poderia identificar e realizar ataques cibernéticos de forma independente contra sistemas do mundo real tradicionalmente bem protegidos.",
-      "lang": "en",
-      "depts": []
-    },
-    {
       "title": "Melhor smartwatch Samsung: qual relógio comprar em 2026?",
       "description": "Encontre o melhor relógio inteligente da Samsung para o seu dia a dia; lista inclui desde smartwatches baratos até modelos com recursos avançados para monitoramento de saúde e exercícios Melhor smartwatch Samsung: qual relógio comprar em 2026?",
       "url": "https://tecnoblog.net/guias/melhor-smartwatch-samsung/",
@@ -120,101 +195,6 @@
         "Saúde",
         "Educação"
       ]
-    },
-    {
-      "title": "TCL libera IA do Google em TVs do Brasil; veja os modelos",
-      "description": "Gemini chega a aparelhos vendidos a partir de 2025 no mercado doméstico. TCL libera IA do Google em TVs do Brasil; veja os modelos",
-      "url": "https://tecnoblog.net/noticias/tcl-libera-ia-do-google-em-tvs-do-brasil-veja-os-modelos/",
-      "publishedAt": "Fri, 07 Aug 2026 15:07:40 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/image-7.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "Jill Lepore sobre o ‘Estado Artificial’ e por que os líderes do Vale do Silício são maus leitores de ficção científica",
-      "description": "A historiadora Jill Lepore tem uma teoria sobre por que as empresas de tecnologia costumam usar uma linguagem exagerada para descrever seus produtos – quase como se estivessem reformando um novo governo. E quer você esteja pensando na antiga “prefeitura no seu bolso” do Twitter ou na constituição de Claude da Antrópico, é uma teoria que não importa.",
-      "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
-      "publishedAt": "Fri, 07 Aug 2026 14:00:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "A historiadora Jill Lepore tem uma teoria sobre por que as empresas de tecnologia costumam usar uma linguagem exagerada para descrever seus produtos – quase como se estivessem reformando um novo governo. E quer você esteja pensando na antiga “prefeitura no seu bolso” do Twitter ou na constituição Claude da Anthropic, é uma teoria que não pinta o Vale do Silício de uma forma muito lisonjeira. No próximo livro de Lepore, The Rise and Fall of the Artificial State, o Pulitzer [ ]",
-      "lang": "en",
-      "depts": [
-        "Comercial",
-        "Jurídico"
-      ]
-    },
-    {
-      "title": "Adobe lança plugin para ChatGPT com mais de 70 ferramentas de edição",
-      "description": "Empresa unifica extensões lançadas anteriormente e promete expandir recursos para Gemini e Slack. Adobe lança plugin para ChatGPT com mais de 70 ferramentas de edição",
-      "url": "https://tecnoblog.net/noticias/adobe-lanca-plugin-para-chatgpt-com-mais-de-70-ferramentas-de-edicao/",
-      "publishedAt": "Fri, 07 Aug 2026 11:05:41 +0000",
-      "image": "https://www.youtube.com/embed/7OjUlX2WOIA",
-      "source": "Tecnoblog",
-      "content": "Plugin da Adobe faz edições a partir de comandos escritos em linguagem natural (imagem: divulgação) Resumo A Adobe lançou um plugin para o ChatGPT com mais de 70 ferramentas de edição de imagens e documentos, unificando soluções anteriores como Photoshop Express e Acrobat. Para usar o plugin, basta instalá-lo, fazer login com uma conta Adobe ou entrar como convidado, e digitar “@Adobe” em uma conversa no ChatGPT para executar tarefas como edição de vídeos e criação de PDFs. A empresa planeja expandir os recursos para o Google Gemini e o Slack, e já oferece ferramentas semelhantes em outras plataformas como o Claude e o Copilot. A Adobe liberou, nesta quinta-feira (06/08), um novo plugin para o ChatGPT. Ele unifica soluções lançadas anteriormente pela empresa de modo separado, como Photoshop Express e Acrobat, oferecendo mais de 70 ferramentas para imagens e documentos. “Com mais de 70 ferramentas dos pacotes criativos e de produtividade da Adobe, o plugin para o ChatGPT oferece suporte a uma ampla variedade de fluxos de trabalho, desde edição de fotos e criação de vídeos de campanha até design de ativos de marketing e geração de PDFs sofisticados”, diz a empresa em seu comunicado . Como usar o plugin da Adobe no ChatGPT? Para adicionar o plugin ao ChatGPT, siga estes passos: Abra a página do plugin da Adobe e clique no botão “Instalar plugin”. Faça login com sua conta da Adobe ou escolha a opção de entrar como convidado. Abra uma nova conversa no ChatGPT e digite “@Adobe” para usar as ferramentas do pacote. A partir daí, basta usar prompts escritos em linguagem natural para executar as tarefas. Entre os exemplos dados pela Adobe, estão comandos como “redimensione meu vídeo para redes sociais”, “mude o fundo para rosa” e “crie um modelo de embalagem”. A conta Adobe é opcional. Com o login, é possível acessar arquivos da Creative Cloud e salvar o trabalho para continuar futuramente naquele mesmo dispositivo ou em outro aparelho. Assinantes dos planos da Adobe também têm acesso aos créditos generativos, necessários para alguns recursos mais avançados do pacote. Mais chatbots em breve O plugin da Adobe funciona em diversas plataformas do ChatGPT, incluindo o Codex e o ChatGPT Work. A empresa oferece ferramentas semelhantes no Claude (com o conector Adobe for Creativity ) e no Copilot (com plugins do Acrobat e do Adobe Express). Além deles, a companhia prepara soluções similares para o Google Gemini e o Slack. Adobe lança plugin para ChatGPT com mais de 70 ferramentas de edição",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Gestão",
-        "Educação"
-      ]
-    },
-    {
-      "title": "O novo alto-falante inteligente de IA da OpenAI será vendido por entre US$ 300 e US$ 400",
-      "description": "Detalhes adicionais sobre o misterioso novo dispositivo de IA da OpenAI fazem com que pareça um alto-falante inteligente caro.",
-      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-      "publishedAt": "Thu, 06 Aug 2026 22:43:53 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Meta diz que sua IA também invadiu sistemas de outra empresa durante teste",
-      "description": "Incidente se soma a episódios revelados por OpenAI e Anthropic. Especialistas questionam capacidade de empresas para criar ambientes controlados. Meta diz que sua IA também invadiu sistemas de outra empresa durante teste",
-      "url": "https://tecnoblog.net/noticias/meta-diz-que-sua-ia-tambem-invadiu-sistemas-de-outra-empresa-durante-teste/",
-      "publishedAt": "Thu, 06 Aug 2026 20:49:22 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-03.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "ChatGPT libera mensagens ilimitadas no plano gratuito",
-      "description": "Atualização remove limites de interação mesmo para não-assinantes e troca o GPT-5.5 pelo GPT-5.6 Luna. ChatGPT libera mensagens ilimitadas no plano gratuito",
-      "url": "https://tecnoblog.net/noticias/chatgpt-libera-mensagens-ilimitadas-no-plano-gratuito/",
-      "publishedAt": "Thu, 06 Aug 2026 19:46:18 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-2_capa.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "ChatGPT traz chats de texto ilimitados para usuários gratuitos",
-      "description": "OpenAI disse que os usuários do ChatGPT gratuito e Go também estão recebendo um novo botão de pensamento para consultas complexas.",
-      "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-      "publishedAt": "Thu, 06 Aug 2026 17:34:42 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "OpenAI diz que agentes de IA discutiram como fugir de ambiente controlado",
-      "description": "Em palestra sobre cibersegurança, empresa apresenta linha do tempo da invasão do Hugging Face. Repositório foi usado para troca de informações entre modelos. OpenAI diz que agentes de IA discutiram como fugir de ambiente controlado",
-      "url": "https://tecnoblog.net/noticias/openai-diz-que-agentes-de-ia-discutiram-como-fugir-de-ambiente-controlado/",
-      "publishedAt": "Thu, 06 Aug 2026 16:40:14 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/openai-2_capa.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
     },
     {
       "title": "8 prompts para conversar com voz no ChatGPT",
@@ -526,6 +506,37 @@
       "lang": "pt",
       "depts": [
         "Comercial"
+      ]
+    },
+    {
+      "title": "IA pode destruir a bateria do seu celular; veja como resolver",
+      "description": "A inteligência artificial está cada vez mais presente nos smartphones, sendo integrada ao sistema e a diversos aplicativos para executar tarefas, como resumos de notificações, edição de fotos, sugestões personalizadas, além de atuar como assistentes de voz avançados. 15 recursos secretos do Apple In",
+      "url": "https://canaltech.com.br/inteligencia-artificial/ia-pode-destruir-a-bateria-do-seu-celular-veja-como-resolver/",
+      "publishedAt": "Sat, 04 Jul 2026 12:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/ZHTeRLBEvZ9V6ryjoDtw8E9DI2E=/700x394/smart/i1086691.jpeg",
+      "source": "Canaltech IA",
+      "content": "A inteligência artificial está cada vez mais presente nos smartphones, sendo integrada ao sistema e a diversos aplicativos para executar tarefas, como resumos de notificações, edição de fotos, sugestões personalizadas, além de atuar como assistentes de voz avançados. 15 recursos secretos do Apple Intelligence que a Apple \"escondeu\" Qual celular tem a melhor IA para tirar pessoas indesejadas das suas fotos? Apesar de trazer mais praticidade no dia a dia, isso tem um custo invisível: a necessidade de processamento constante . No próprio aparelho ou na nuvem, essas ferramentas permanecem ativas em segundo plano e podem consumir energia de forma contínua, o que acaba com a bateria sem que o usuário perceba. A seguir, tire suas dúvidas sobre: - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Por que a IA consome tanta energia? Como ajustar a IA no iPhone para economizar bateria? Como reduzir o consumo de IA no Android? Como ter certeza que a IA é realmente o problema? Por que a IA consome tanta energia? A IA nos celulares funciona de forma diferente dos aplicativos tradicionais. Ela não é ativada apenas quando o usuário abre um app, ela permanece parcialmente ativa o tempo todo para realizar tarefas, como a análise de fotos, interpretação de comandos de voz e geração de sugestões em tempo real. O custo oculto aparece justamente nessa ideia de IA “sempre disponível”. Para que ela responda imediatamente, são executados processos contínuos em segundo plano , com previsão de ações e análise de padrões de uso. Quanto maior o nível de personalização, maior o volume de dados processados de forma constante, o que aumenta o consumo de energia ao longo do dia. Como ajustar a IA no iPhone para economizar bateria? No iPhone, alguns recursos ligados à Apple Intelligence e à Siri podem impactar a autonomia da bateria. O ideal é revisar quais funções realmente são necessárias no uso diário. Po",
+      "lang": "pt",
+      "depts": [
+        "Financeiro",
+        "Gestão",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Governo Federal lança matriz de competências para uso de IA",
+      "description": "O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) divulgou, na última semana, a Matriz de Competências em Inteligência Artificial do Governo do Brasil . O documento vai orientar os cursos e treinamentos oferecidos a servidores federais sobre o uso da tecnologia, com eixos voltados à ét",
+      "url": "https://canaltech.com.br/inteligencia-artificial/governo-federal-lanca-matriz-de-competencias-para-uso-de-ia/",
+      "publishedAt": "Fri, 03 Jul 2026 19:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/kzQDM-16SY2FIYKPRKkiU42iGYs=/700x394/smart/i1140307.png",
+      "source": "Canaltech IA",
+      "content": "O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) divulgou, na última semana, a Matriz de Competências em Inteligência Artificial do Governo do Brasil . O documento vai orientar os cursos e treinamentos oferecidos a servidores federais sobre o uso da tecnologia, com eixos voltados à ética, segurança, privacidade e soberania digital. A publicação é do Núcleo de Inteligência Artificial (NIA), iniciativa da Secretaria de Governo Digital (SGD) para apoiar a adoção de IA no Poder Executivo Federal. A matriz passa a nortear todas as capacitações conduzidas pelo núcleo. Mais de 167 mil servidores já foram capacitados Segundo o secretário de Governo Digital, Rogério Mascarenhas, ao menos 167 mil servidores já concluíram alguma capacitação dos programas do ministério. Para ele, o número demonstra interesse crescente pelo uso da tecnologia no serviço público. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Mascarenhas afirma que a matriz foi criada para orientar o desenvolvimento de novos cursos e identificar lacunas de competência em cada perfil de servidor. O secretário também classificou o documento como inovador e disse que ele pode servir de referência para outros países e para empresas privadas. Seis perfis de servidores e onze programas de formação O MGI dividiu o público-alvo das capacitações em seis perfis: agente público, gestor de TIC, gestor público, executivo de dados, curador de dados e altas lideranças. Cada perfil tem competências específicas a desenvolver, conforme a rotina de trabalho ou o nível de decisão sobre o uso da tecnologia no órgão. As formações somam 11 programas, oferecidos pela Escola Virtual de Governo (EV.G), vinculada à Escola Nacional de Administração Pública (Enap), em parceria com o Serpro. Os cursos são gratuitos, a distância e abertos a qualquer servidor, e abrangem temas como IA generativa, ética em IA, proteção de dados pessoais",
+      "lang": "pt",
+      "depts": [
+        "Comercial",
+        "Jurídico",
+        "Gestão",
+        "Educação"
       ]
     }
   ]
