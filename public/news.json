@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-08-15T10:11:54.394Z",
+  "updatedAt": "2026-08-16T10:12:28.299Z",
   "count": 40,
   "articles": [
+    {
+      "title": "Mulher afirma que seu padrasto usou Grok para transformar fotos de infância em imagens explícitas",
+      "description": "A mulher afirmou que as ferramentas de IA estão “pegando a vida cotidiana e transformando-a em abuso sexual infantil”.",
+      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "publishedAt": "Sat, 15 Aug 2026 21:29:19 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Anthropic compartilha mais detalhes sobre como funcionarão as novas marcas d'água de Claude",
+      "description": "Como a marca d'água realmente funcionará? Pode ser escondido com edição? E como isso afeta o código?",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "publishedAt": "Sat, 15 Aug 2026 18:58:39 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "Marketing"
+      ]
+    },
     {
       "title": "Nova ferramenta do ChatGPT lembra recurso do Windows 11 que caiu em desgraça",
       "description": "Computer History tenta evitar problemas que levaram Microsoft a adiar diversas vezes o Windows Recall. Nova ferramenta do ChatGPT lembra recurso do Windows 11 que caiu em desgraça",
@@ -209,17 +233,6 @@
         "Gestão",
         "Educação"
       ]
-    },
-    {
-      "title": "Thrive Holdings, apoiada pela OpenAI, levanta US$ 2 bilhões para trazer IA para a empresa",
-      "description": "A Thrive Holdings levantou US$ 2 bilhões em novos financiamentos com uma avaliação de US$ 12 bilhões de investidores como SoftBank, D1 Capital Partners e Altimeter Capital.",
-      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-      "publishedAt": "Wed, 12 Aug 2026 17:41:29 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "A Thrive Holdings levantou US$ 2 bilhões em novos financiamentos com uma avaliação de US$ 12 bilhões de investidores como SoftBank, D1 Capital Partners e Altimeter Capital.",
-      "lang": "en",
-      "depts": []
     },
     {
       "title": "8 prompts para conversar com voz no ChatGPT",
@@ -531,21 +544,6 @@
       "lang": "pt",
       "depts": [
         "Comercial"
-      ]
-    },
-    {
-      "title": "IA pode destruir a bateria do seu celular; veja como resolver",
-      "description": "A inteligência artificial está cada vez mais presente nos smartphones, sendo integrada ao sistema e a diversos aplicativos para executar tarefas, como resumos de notificações, edição de fotos, sugestões personalizadas, além de atuar como assistentes de voz avançados. 15 recursos secretos do Apple In",
-      "url": "https://canaltech.com.br/inteligencia-artificial/ia-pode-destruir-a-bateria-do-seu-celular-veja-como-resolver/",
-      "publishedAt": "Sat, 04 Jul 2026 12:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/ZHTeRLBEvZ9V6ryjoDtw8E9DI2E=/700x394/smart/i1086691.jpeg",
-      "source": "Canaltech IA",
-      "content": "A inteligência artificial está cada vez mais presente nos smartphones, sendo integrada ao sistema e a diversos aplicativos para executar tarefas, como resumos de notificações, edição de fotos, sugestões personalizadas, além de atuar como assistentes de voz avançados. 15 recursos secretos do Apple Intelligence que a Apple \"escondeu\" Qual celular tem a melhor IA para tirar pessoas indesejadas das suas fotos? Apesar de trazer mais praticidade no dia a dia, isso tem um custo invisível: a necessidade de processamento constante . No próprio aparelho ou na nuvem, essas ferramentas permanecem ativas em segundo plano e podem consumir energia de forma contínua, o que acaba com a bateria sem que o usuário perceba. A seguir, tire suas dúvidas sobre: - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Por que a IA consome tanta energia? Como ajustar a IA no iPhone para economizar bateria? Como reduzir o consumo de IA no Android? Como ter certeza que a IA é realmente o problema? Por que a IA consome tanta energia? A IA nos celulares funciona de forma diferente dos aplicativos tradicionais. Ela não é ativada apenas quando o usuário abre um app, ela permanece parcialmente ativa o tempo todo para realizar tarefas, como a análise de fotos, interpretação de comandos de voz e geração de sugestões em tempo real. O custo oculto aparece justamente nessa ideia de IA “sempre disponível”. Para que ela responda imediatamente, são executados processos contínuos em segundo plano , com previsão de ações e análise de padrões de uso. Quanto maior o nível de personalização, maior o volume de dados processados de forma constante, o que aumenta o consumo de energia ao longo do dia. Como ajustar a IA no iPhone para economizar bateria? No iPhone, alguns recursos ligados à Apple Intelligence e à Siri podem impactar a autonomia da bateria. O ideal é revisar quais funções realmente são necessárias no uso diário. Po",
-      "lang": "pt",
-      "depts": [
-        "Financeiro",
-        "Gestão",
-        "Educação"
       ]
     }
   ]
