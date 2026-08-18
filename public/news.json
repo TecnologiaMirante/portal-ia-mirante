@@ -1,7 +1,100 @@
 {
-  "updatedAt": "2026-08-17T10:20:47.693Z",
+  "updatedAt": "2026-08-18T10:16:55.264Z",
   "count": 40,
   "articles": [
+    {
+      "title": "OpenAI estreita laços com o Brasil e busca mais parceiros",
+      "description": "Empresa de inteligência artificial anuncia apoio a pesquisas nas áreas de matemática e saúde. OpenAI estreita laços com o Brasil e busca mais parceiros",
+      "url": "https://tecnoblog.net/noticias/openai-estreia-lacos-com-brasil-e-busca-mais-parceiros/",
+      "publishedAt": "Tue, 18 Aug 2026 08:00:00 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-2_capa.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Saúde"
+      ]
+    },
+    {
+      "title": "A receita anualizada da Anthropic sobe para US$ 65 bilhões",
+      "description": "A fabricante de modelos adicionou US$ 18 bilhões em receita anualizada em dois meses.",
+      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "publishedAt": "Mon, 17 Aug 2026 23:56:26 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "Financeiro"
+      ]
+    },
+    {
+      "title": "Amazon, que começou vendendo livros, está destruindo textos raros para treinar IA",
+      "description": "Livros raros são extremamente valiosos para o treinamento de LLMs, uma vez que esses modelos já treinaram em tudo o que está disponível online.",
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "publishedAt": "Mon, 17 Aug 2026 16:38:44 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "Educação"
+      ]
+    },
+    {
+      "title": "Galaxy Watch 8 BT com inteligência artificial tem queda histórica com cupom",
+      "description": "Galaxy Watch 8 BT (44 mm) traz tela Super AMOLED e recursos de IA da Samsung; smartwatch sai pelo menor preço até hoje com cupom no Mercado Livre Galaxy Watch 8 BT com inteligência artificial tem queda histórica com cupom",
+      "url": "https://tecnoblog.net/achados/galaxy-watch-8-bt-com-inteligencia-artificial-tem-queda-historica-com-cupom/",
+      "publishedAt": "Mon, 17 Aug 2026 16:35:35 +0000",
+      "image": "https://www.youtube.com/embed/-UkUNaXH68o",
+      "source": "Tecnoblog",
+      "content": "AQUITEM 59% OFF Ver preço Galaxy Watch 8 BT 44 mm R$ 1.316,65 R$ 3.199,00 59% OFF Prós Tela de 3.000 nits Suporte a NFC e GPS dupla frequência Compatível com Galaxy AI Responde notificações e mensagens Certificação IP68 e MIL-STD-810H Contras Autonomia reduzida com GPS ativo Não conversa com iPhone Funções exclusivas com linha Galaxy Variante sem conectividade LTE PIX Cupom AQUITEM 59% OFF Ver preço Participe dos canais de ofertas do Achados do TB WhatsApp Telegram O Galaxy Watch 8 Bluetooth de 44 mm está saindo por R$ 1.316 no Pix com cupom AQUITEM no Mercado Livre. O smartwatch da Samsung com tela Super AMOLED e funções da suíte Galaxy AI atinge o menor preço histórico com desconto de 59% sobre o preço original de R$ 3.199. Galaxy Watch 8 tem tela Super AMOLED e funções do Galaxy AI A tela&nbsp; Super AMOLED &nbsp;de 1,47″ do Galaxy Watch 8 possui brilho de até 3.000 nits, sendo capaz de entregar cores realistas com visibilidade em qualquer lugar. O vidro Cristal de Safira resiste a quedas e pancadas. A suíte Galaxy AI analisa dados do sono para criar um perfil personalizado, para indicar a melhor hora de dormir e pontuar o desempenho do usuário. O smartwatch ainda possui sensores para medir o ECG, a oxigenação do sangue e mais e oferecer insights relativos a atividades físicas e saúde do usuário. O relógio inteligente da Samsung ainda pode ser de grande ajuda em situações de risco, desde que pareado a um celular. No caso de uma emergência médica, o Galaxy Watch 8 pode ligar para contatos específicos e números como 190 (polícia) e 192 (ambulância). O smartwatch conta com o chip Exynos W1000, 2 GB de RAM e 32 GB de espaço interno, kit esse que permite instalar e rodar apps localmente. A bateria de 435 mAh dura até 40 horas de uso, segundo a Samsung, e suporta carregamento sem fio de 10 W. Seu corpo de alumínio Armor de 44 mm possui certificações&nbsp; IP68 &nbsp;e&nbsp; militar MIL-STD810H , que conferem proteção em cenários extremos e resistência a até 5 ATM. Dessa forma o gadget pode ser usado em esportes aquáticos, como mergulhos de profundidade. O Galaxy Watch 8 BT de 44 mm ( R$ 1.316 no Pix com cupom AQUITEM ) roda Wear OS 6 e suporta apps e soluções do Google. O smartwatch possui conectividade&nbsp;Wi-Fi 5,&nbsp;Bluetooth 5.3, NFC e&nbsp;GPS multibanda, que determina a posição exata do usuário em tempo real. Aviso de ética: ao clicar em um link de afiliado, o preço não muda para você e recebemos uma comissão. Galaxy Watch 8 BT com inteligência artificial tem queda histórica com cupom",
+      "lang": "pt",
+      "depts": [
+        "Educação"
+      ]
+    },
+    {
+      "title": "OpenAI desmontou equipe responsável por avaliar riscos de IA, diz jornal",
+      "description": "Funcionários foram divididos entre setores existentes e continuam trabalhando para garantir segurança, segundo fontes. OpenAI desmontou equipe responsável por avaliar riscos de IA, diz jornal",
+      "url": "https://tecnoblog.net/noticias/openai-desmontou-equipe-responsavel-por-avaliar-riscos-de-ia-diz-jornal/",
+      "publishedAt": "Mon, 17 Aug 2026 15:55:06 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/openai-4_capa.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "RH"
+      ]
+    },
+    {
+      "title": "Nvidia investe US$ 1,5 bilhão no desenvolvedor de data center SoftBank por trás do projeto OpenAI",
+      "description": "O investimento da Nvidia no desenvolvedor de data center da SoftBank garantirá que seus chips abasteçam um data center OpenAI.",
+      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "publishedAt": "Mon, 17 Aug 2026 15:16:24 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "Financeiro"
+      ]
+    },
+    {
+      "title": "Microsoft acaba com função de IA no Excel",
+      "description": "Microsoft decidiu remover função COPILOT do Excel a partir de setembro de 2026, mas a IA continuará disponível via painel lateral. Microsoft acaba com função de IA no Excel",
+      "url": "https://tecnoblog.net/noticias/microsoft-acaba-com-funcao-de-ia-no-excel/",
+      "publishedAt": "Mon, 17 Aug 2026 12:08:52 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/08/microsoft-copilot-excel.jpg",
+      "source": "Tecnoblog",
+      "content": "Função COPILOT no Excel (imagem: reprodução/Microsoft) Resumo Microsoft anunciou fim da função COPILOT no Excel, recurso de IA que realizava tarefas específicas em planilhas mediante comandos em células; a função foi descontinuada por ser redundante, já que o Copilot pode ser acessado via painel lateral ou o Botão de Ação Dinâmica no Excel; a integração do Excel com o Copilot como mecanismo de IA permanecerá, mas a função específica COPILOT deixará de existir em 14 de setembro de 2026. Era agosto de 2025 quando a Microsoft anunciou a função COPILOT para o Excel . O recurso surgiu com a proposta de permitir que o usuário digitasse prompts diretamente em uma célula para que a IA realizasse tarefas específicas em uma planilha. Um ano se passou e, bom, a Microsoft simplesmente desistiu da ideia. Função, no Excel, não descreve exatamente uma funcionalidade, mas uma fórmula que realiza operações específicas. Por isso, a função relacionada ao Microsoft Copilot seguia a mesma dinâmica. O usuário tinha que digitar =COPILOT (ou =copilot) em uma célula e, entre parênteses, adicionar as instruções. Um exemplo dado pela própria Microsoft quando o recurso foi apresentado segue abaixo. Nele, o Copilot é acionado para resumir os textos dentro do intervalo de células A2 e A20: =COPILOT( Resumir este feedback , A2:A20) Por que a função COPILOT foi descontinuada no Excel? A Microsoft não deu explicações prolongadas sobre a decisão, apenas a publicou no Message Center sinalizando que a função COPILOT será mantida no Excel somente até 14 de setembro de 2026. Mas sabe-se que pesou para a decisão o fato de a função ser redundante. O Copilot já pode (e continuará podendo) ser acionado no Excel via painel lateral ou por meio do Botão de Ação Dinâmica (o ícone de acesso rápido à IA), por exemplo. Outro exemplo da função COPILOT em ação no Excel (imagem: reprodução/Microsoft) Fica claro, portanto, que é a função COPILOT que está sendo descontinuada, não a integração do Excel com o Copilot como mecanismo de inteligência artificial em si. O Neowin destaca ainda que a função COPILOT tinha algumas limitações importantes, como o fato de não ser recomendada para cálculos numéricos, bem como para operações que envolvem dados recentes ou em tempo real. Além disso, a função exigia conexão permanente à internet (afinal, as atividades de IA eram processadas nas nuvens) e uma assinatura do Microsoft 365 Premium. Com base nisso, é de se presumir que, se a função COPILOT fizer falta no Excel, vai ser para pouca gente. Microsoft acaba com função de IA no Excel",
+      "lang": "pt",
+      "depts": [
+        "Comercial",
+        "Gestão",
+        "Educação"
+      ]
+    },
     {
       "title": "Como se preparar para não ser substituído pela IA e aumentar seu salário em até 62%",
       "description": "A revolução da inteligência artificial já transformou diversas áreas. Estar preparado é a chave para aproveitar as oportunidades. Como se preparar para não ser substituído pela IA e aumentar seu salário em até 62%",
@@ -152,84 +245,6 @@
       "lang": "en",
       "depts": [
         "Financeiro",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Google lança Gemini 3.7 Flash apenas três semanas após versão anterior",
-      "description": "Modelo leve da IA do Google ganha atualização que custa metade do preço para concorrer com serviços chineses. Google lança Gemini 3.7 Flash apenas três semanas após versão anterior",
-      "url": "https://tecnoblog.net/noticias/google-lanca-gemini-3-7-flash-apenas-tres-semanas-apos-versao-anterior/",
-      "publishedAt": "Thu, 13 Aug 2026 20:44:57 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capas-google-gemini-2026-3.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Comercial"
-      ]
-    },
-    {
-      "title": "OpenAI apresenta Ultrafast, um novo modo que faz o GPT-5.6 Sol funcionar a 14x mais velocidade",
-      "description": "A OpenAI está lançando uma prévia de uma versão acelerada de seu modelo mais recente e poderoso, em um esforço para cortejar os usuários corporativos.",
-      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "publishedAt": "Thu, 13 Aug 2026 19:22:40 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "IBM faz parceria com OpenAI para reforçar impulso de IA empresarial",
-      "description": "A IBM planeja treinar e certificar dezenas de milhares de consultores nas tecnologias OpenAI como parte deste acordo.",
-      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-      "publishedAt": "Thu, 13 Aug 2026 19:19:49 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Comercial"
-      ]
-    },
-    {
-      "title": "A Antrópica soltou agentes de IA na mesma tarefa. Eles começaram uma guerra territorial.",
-      "description": "Os investigadores antrópicos descobriram que os agentes de IA podem colidir, conspirar e coordenar-se de formas inesperadas, levantando novas questões sobre se os testes de segurança actuais captam os riscos dos sistemas multiagentes.",
-      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "publishedAt": "Thu, 13 Aug 2026 18:28:14 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Os investigadores antrópicos descobriram que os agentes de IA podem colidir, conspirar e coordenar-se de formas inesperadas, levantando novas questões sobre se os testes de segurança actuais captam os riscos dos sistemas multiagentes.",
-      "lang": "en",
-      "depts": [
-        "Gestão"
-      ]
-    },
-    {
-      "title": "OpenAI contrata novo CRO enquanto a mudança executiva continua",
-      "description": "A OpenAI substituiu a diretora de receita Denise Dresser depois de apenas nove meses no cargo, contratando o presidente e diretor de operações da Wiz, Dali Rajic, para assumir o cargo de vendas do laboratório de fronteira.",
-      "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-      "publishedAt": "Thu, 13 Aug 2026 17:07:13 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "A OpenAI substituiu a diretora de receita Denise Dresser depois de apenas nove meses no cargo, contratando o presidente e diretor de operações da Wiz, Dali Rajic, para assumir o cargo de vendas do laboratório de fronteira.",
-      "lang": "en",
-      "depts": [
-        "Financeiro",
-        "Comercial"
-      ]
-    },
-    {
-      "title": "A Microsoft elimina recursos de IA malsucedidos ao mesclar seus aplicativos Copilot separados",
-      "description": "A Microsoft está simplificando o Copilot combinando seus aplicativos de consumo e de negócios e eliminando podcasts gerados por IA, bate-papos em grupo, pesquisas profundas e seu personagem Mico.",
-      "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-      "publishedAt": "Thu, 13 Aug 2026 15:30:52 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "A Microsoft está simplificando o Copilot combinando seus aplicativos de consumo e de negócios e eliminando podcasts gerados por IA, bate-papos em grupo, pesquisas profundas e seu personagem Mico.",
-      "lang": "en",
-      "depts": [
-        "Comercial",
         "Educação"
       ]
     },
@@ -530,19 +545,6 @@
         "RH",
         "Gestão",
         "Educação"
-      ]
-    },
-    {
-      "title": "12 prompts do Gemini para pesquisar, comparar e comprar um celular novo",
-      "description": "Comprar produtos de tecnologia deveria ser simples, mas quase nunca é. Você entra querendo só escolher um celular e, quando percebe, já está preso em abas, reviews que dizem coisas opostas, fichas técnicas cheias de números difíceis de comparar e promoções que aparecem e somem o tempo todo. Vale com",
-      "url": "https://canaltech.com.br/inteligencia-artificial/prompts-gemini-pesquisar-comparar-comprar-celular-novo/",
-      "publishedAt": "Sat, 04 Jul 2026 16:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/u-ApvEXeczP3CmhwQ0AK7cHkEGs=/700x394/smart/i1132313.png",
-      "source": "Canaltech IA",
-      "content": "Comprar produtos de tecnologia deveria ser simples, mas quase nunca é. Você entra querendo só escolher um celular e, quando percebe, já está preso em abas, reviews que dizem coisas opostas, fichas técnicas cheias de números difíceis de comparar e promoções que aparecem e somem o tempo todo. Vale comprar celular com 256 GB ou 512 GB hoje? Veja cenário real Celular usado: como avaliar o aparelho em 8 passos e saber se vale a pena compra No meio disso tudo, fica a sensação de que sempre falta alguma informação importante e que decidir “certo” virou mais cansativo do que deveria. É justamente aqui que o Gemini pode ajudar a organizar esse caos. A ideia deste guia é te mostrar como transformar essa busca em algo mais simples e guiado . Para isso, você pode dividir o caminho em quatro etapas: entender a categoria, comparar opções, analisar preço e só então decidir com mais segurança. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Ao longo do texto, vamos usar como exemplo alguém procurando um celular entre R$ 2.000 e R$ 2.500, mas o mesmo método funciona para notebooks, TVs, fones, consoles e outros eletrônicos do dia a dia. A seguir, confira: Etapa 1: Pesquisa de categoria Etapa 2: Comparação técnica Etapa 3: Busca de preço e custo-benefício Etapa 4: Decisão final Etapa 1: Pesquisa de categoria Antes de olhar modelo, marca ou promoção, vale dar um passo atrás e entender o cenário. É aqui que você começa a enxergar o que realmente existe dentro do seu orçamento . Nesse momento, a ideia não é escolher o modelo ainda, mas sim montar uma primeira lista de opções confiáveis para não ficar perdido depois. Nesta etapa, veja: 1. Panorama da categoria 2. Perfil de uso 3. Quais critérios usar 1. Panorama da categoria Se você ainda não sabe quais celulares fazem sentido na faixa de R$ 2.000 a R$ 2.500, o primeiro passo é pedir uma visão geral do mercado. O Gemini pode organizar isso sep",
-      "lang": "pt",
-      "depts": [
-        "Comercial"
       ]
     }
   ]
