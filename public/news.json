@@ -1,7 +1,117 @@
 {
-  "updatedAt": "2026-08-18T10:16:55.264Z",
+  "updatedAt": "2026-08-19T10:17:50.194Z",
   "count": 40,
   "articles": [
+    {
+      "title": "Copilot “ensinou” pesquisadores a hackear o próprio sistema",
+      "description": "A IA da Microsoft entregou o caminho para a falha que permitia roubo silencioso de dados com um clique. Correção já foi liberada. Copilot “ensinou” pesquisadores a hackear o próprio sistema",
+      "url": "https://tecnoblog.net/noticias/copilot-ensinou-pesquisadores-a-hackear-o-proprio-sistema/",
+      "publishedAt": "Tue, 18 Aug 2026 22:52:04 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/11/capa-copilot-2.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Educação"
+      ]
+    },
+    {
+      "title": "Firefox ganha mais recursos de IA (calma, eles são opcionais)",
+      "description": "Smart Window, que roda separada da janela principal do navegador, terá agrupamento inteligente de abas e busca no histórico com linguagem natural. Firefox ganha mais recursos de IA (calma, eles são opcionais)",
+      "url": "https://tecnoblog.net/noticias/firefox-ganha-mais-recursos-de-ia-calma-eles-sao-opcionais/",
+      "publishedAt": "Tue, 18 Aug 2026 20:07:35 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/02/capa-mozila-tb.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Educação"
+      ]
+    },
+    {
+      "title": "Custo-benefício: Galaxy Tab S10 FE 5G tem 36% OFF na melhor oferta recente",
+      "description": "Galaxy Tab S10 FE traz tela de 90 Hz, 8GB de RAM e recursos de inteligência artificial. Use o cupom TECNO300 para pagar mais barato no tablet da Samsung com melhor custo-benefíco atualmente Custo-benefício: Galaxy Tab S10 FE 5G tem 36% OFF na melhor oferta recente",
+      "url": "https://tecnoblog.net/achados/custo-beneficio-galaxy-tab-s10-fe-5g-tem-36-off-na-melhor-oferta-recente/",
+      "publishedAt": "Tue, 18 Aug 2026 19:42:28 +0000",
+      "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2026/01/galaxy-tab-s10-fe-edicao-de-imagem-1060x596.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Financeiro",
+        "Educação"
+      ]
+    },
+    {
+      "title": "OpenAI lança ChatGPT for Teens, com ferramentas pedagógicas e filtros reforçados",
+      "description": "Versão para adolescentes agrupa Modo Estudo, controles parentais e alertas de risco em conversas íntimas. OpenAI lança ChatGPT for Teens, com ferramentas pedagógicas e filtros reforçados",
+      "url": "https://tecnoblog.net/noticias/openai-lanca-chatgpt-for-teens-com-ferramentas-pedagogicas-e-filtros-reforcados/",
+      "publishedAt": "Tue, 18 Aug 2026 18:52:04 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-2_capa.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Educação"
+      ]
+    },
+    {
+      "title": "OpenAI institui novas salvaguardas após violação do Hugging Face",
+      "description": "As novas salvaguardas incluem um monitoramento mais detalhado dos modelos durante o processo de desenvolvimento, bem como maior ênfase no alinhamento e segurança durante o processo pós-treinamento.",
+      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "publishedAt": "Tue, 18 Aug 2026 18:00:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "As novas salvaguardas incluem um monitoramento mais detalhado dos modelos durante o processo de desenvolvimento, bem como maior ênfase no alinhamento e segurança durante o processo pós-treinamento.",
+      "lang": "en",
+      "depts": [
+        "Gestão",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Robô chinês corre mais que Usain Bolt e ainda dá saltos de 2 metros",
+      "description": "Superman foi desenvolvido pela Unitree como um projeto experimental. Robô chinês corre mais que Usain Bolt e ainda dá saltos de 2 metros",
+      "url": "https://tecnoblog.net/noticias/robo-chines-corre-mais-que-usain-bolt-e-ainda-salta-2-metros-para-o-alto-veja/",
+      "publishedAt": "Tue, 18 Aug 2026 16:19:50 +0000",
+      "image": "https://www.youtube.com/embed/O7OkiZfIlS4",
+      "source": "Tecnoblog",
+      "content": "Protótipo da Unitree atinge 45,5 km/h (GIF: divulgação) Resumo A fabricante chinesa Unitree apresentou um robô humanoide chamado Superman que atinge 45,5 km/h e salta 2 metros de altura. O robô alcança essa velocidade graças às suas pernas de 0,85 metros e à energia focada para a propulsão frontal. A Unitree já produziu cerca de 18 mil robôs bípedes e conta com apoio de investimentos de conglomerados como Tencent, Alibaba e DeepSeek. Um novo robô desenvolvido na China vem dando o que falar: o Superman consegue atingir uma velocidade de corrida superior ao lendário atleta Usain Bolt, de acordo com a fabricante Unitree. O anúncio foi feito nesta segunda-feira (17/08). Segundo a empresa, o protótipo atingiu uma velocidade máxima de 12,66 metros por segundo, o equivalente a 45,5 km/h, e saltou dois metros de altura a partir do repouso. Esses números superam o pico de 12,42 metros por segundo alcançado por Bolt no seu recorde mundial dos 100 metros em Berlim, em 2009. Com pernas de 0,85 metro de comprimento, o robô foi desenvolvido em pouco mais de três meses. O vídeo oficial mostra a máquina aterrissando perfeitamente no solo e ajustando as pernas para garantir estabilidade. A Unitree ressaltou que o conteúdo não foi gerado por inteligência artificial . Como o robô atinge essa velocidade? O desempenho do Superman é possível por restrições de design. O robô não tem cabeça ou garras, e foi construído do zero como uma máquina focada em locomoção, permitindo que as pernas direcionem toda a energia para a propulsão frontal. A fabricante classifica a novidade como uma plataforma experimental voltada para o estudo de movimentos, reconhecendo que o modelo não tem capacidade de carga. Diferentemente de robôs humanoides da marca que atuam como funcionários de aeroporto no Japão , o Superman não consegue desempenhar tarefas comerciais ou industriais práticas, como pegar caixas, apertar botões ou abrir portas. É importante destacar que os dados apresentados pela companhia não foram verificados de forma independente sob os protocolos rigorosos de uma pista de atletismo oficial. Novo robô é o destaque da Unitree às vésperas de sua estreia na bolsa de valores (imagem: divulgação/Unitree) Qual é o impacto da Unitree no mercado de robótica? A revelação do robô ocorre junto à entrada da Unitree companhia na Bolsa de Valores de Xangai, realizada hoje (quarta-feira na China), com arrecadação inicial de quase US$ 1 bilhão . A startup é comandada pelo fundador e CEO Wang Xingxing, reportou receitas de 1,699 bilhão de yuans em 2025 (cerca de R$ 1,3 bilhão) e conta com investimentos de conglomerados como Tencent, Alibaba e DeepSeek. A Unitree entregou cerca de 18 mil robôs bípedes de diversos modelos até julho de 2026. Além dos aparelhos experimentais, a companhia tem chamado a atenção com robôs gigantes que podem ser pilotados e também revelou recentemente o As2W , um quadrúpede com rodas capaz de levar até 16 quilos de carga. Restrições fora da China Apesar das inovações, os robôs da Unitree esbarram em limitações políticas fora de seu país de origem. A Comissão Federal de Comunicações (FCC) dos Estados Unidos proibiu a entrada de novos modelos da fabricante no fim de julho de 2026, citando vulnerabilidades de segurança. O Pentágono, por sua vez, rotulou a startup como uma empresa militar chinesa em junho deste ano, bloqueando a possibilidade de acordos ou contratos com o governo norte-americano. Robô chinês corre mais que Usain Bolt e ainda dá saltos de 2 metros",
+      "lang": "pt",
+      "depts": [
+        "Marketing",
+        "Financeiro",
+        "Saúde"
+      ]
+    },
+    {
+      "title": "Anthropic explica como o Claude vai identificar textos gerados por IA",
+      "description": "Tecnologia cria um padrão na escolha das palavras para estimar se o conteúdo teve participação do chatbot. Anthropic explica como o Claude vai identificar textos gerados por IA",
+      "url": "https://tecnoblog.net/noticias/anthropic-explica-como-o-claude-vai-identificar-textos-gerados-por-ia/",
+      "publishedAt": "Tue, 18 Aug 2026 14:56:19 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-5.jpg",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Marketing"
+      ]
+    },
+    {
+      "title": "OpenAI lança um ChatGPT mais seguro para adolescentes – anos depois que os adolescentes começaram a usá-lo",
+      "description": "ChatGPT for Teens adiciona medidas de segurança adequadas à idade, controles parentais e ferramentas de aprendizagem projetadas para afastar os adolescentes de conteúdo prejudicial - e de usar IA para colar nos deveres de casa.",
+      "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "publishedAt": "Tue, 18 Aug 2026 13:50:30 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "ChatGPT for Teens adiciona medidas de segurança adequadas à idade, controles parentais e ferramentas de aprendizagem projetadas para afastar os adolescentes de conteúdo prejudicial - e de usar IA para colar nos deveres de casa.",
+      "lang": "en",
+      "depts": [
+        "Marketing",
+        "Financeiro",
+        "Educação"
+      ]
+    },
     {
       "title": "OpenAI estreita laços com o Brasil e busca mais parceiros",
       "description": "Empresa de inteligência artificial anuncia apoio a pesquisas nas áreas de matemática e saúde. OpenAI estreita laços com o Brasil e busca mais parceiros",
@@ -48,7 +158,7 @@
       "publishedAt": "Mon, 17 Aug 2026 16:35:35 +0000",
       "image": "https://www.youtube.com/embed/-UkUNaXH68o",
       "source": "Tecnoblog",
-      "content": "AQUITEM 59% OFF Ver preço Galaxy Watch 8 BT 44 mm R$ 1.316,65 R$ 3.199,00 59% OFF Prós Tela de 3.000 nits Suporte a NFC e GPS dupla frequência Compatível com Galaxy AI Responde notificações e mensagens Certificação IP68 e MIL-STD-810H Contras Autonomia reduzida com GPS ativo Não conversa com iPhone Funções exclusivas com linha Galaxy Variante sem conectividade LTE PIX Cupom AQUITEM 59% OFF Ver preço Participe dos canais de ofertas do Achados do TB WhatsApp Telegram O Galaxy Watch 8 Bluetooth de 44 mm está saindo por R$ 1.316 no Pix com cupom AQUITEM no Mercado Livre. O smartwatch da Samsung com tela Super AMOLED e funções da suíte Galaxy AI atinge o menor preço histórico com desconto de 59% sobre o preço original de R$ 3.199. Galaxy Watch 8 tem tela Super AMOLED e funções do Galaxy AI A tela&nbsp; Super AMOLED &nbsp;de 1,47″ do Galaxy Watch 8 possui brilho de até 3.000 nits, sendo capaz de entregar cores realistas com visibilidade em qualquer lugar. O vidro Cristal de Safira resiste a quedas e pancadas. A suíte Galaxy AI analisa dados do sono para criar um perfil personalizado, para indicar a melhor hora de dormir e pontuar o desempenho do usuário. O smartwatch ainda possui sensores para medir o ECG, a oxigenação do sangue e mais e oferecer insights relativos a atividades físicas e saúde do usuário. O relógio inteligente da Samsung ainda pode ser de grande ajuda em situações de risco, desde que pareado a um celular. No caso de uma emergência médica, o Galaxy Watch 8 pode ligar para contatos específicos e números como 190 (polícia) e 192 (ambulância). O smartwatch conta com o chip Exynos W1000, 2 GB de RAM e 32 GB de espaço interno, kit esse que permite instalar e rodar apps localmente. A bateria de 435 mAh dura até 40 horas de uso, segundo a Samsung, e suporta carregamento sem fio de 10 W. Seu corpo de alumínio Armor de 44 mm possui certificações&nbsp; IP68 &nbsp;e&nbsp; militar MIL-STD810H , que conferem proteção em cenários extremos e resistência a até 5 ATM. Dessa forma o gadget pode ser usado em esportes aquáticos, como mergulhos de profundidade. O Galaxy Watch 8 BT de 44 mm ( R$ 1.316 no Pix com cupom AQUITEM ) roda Wear OS 6 e suporta apps e soluções do Google. O smartwatch possui conectividade&nbsp;Wi-Fi 5,&nbsp;Bluetooth 5.3, NFC e&nbsp;GPS multibanda, que determina a posição exata do usuário em tempo real. Aviso de ética: ao clicar em um link de afiliado, o preço não muda para você e recebemos uma comissão. Galaxy Watch 8 BT com inteligência artificial tem queda histórica com cupom",
+      "content": "MELICUPOM 59% OFF Ver preço Galaxy Watch 8 BT 44 mm R$ 1.299,73 R$ 3.199,00 59% OFF Prós Tela de 3.000 nits Suporte a e GPS dupla frequência Compatível com Galaxy AI Responde notificações e mensagens Certificação IP68 e MIL-STD-810H Contras Autonomia reduzida com GPS ativo Não conversa com iPhone Funções exclusivas com linha Galaxy Variante sem conectividade LTE PIX Cupom MELICUPOM 59% OFF Ver preço Participe dos canais de ofertas do Achados do TB WhatsApp Telegram O Galaxy Watch 8 Bluetooth de 44 mm está saindo por R$ 299,73 no Pix com cupom MELICUPOM no Mercado Livre. O smartwatch da Samsung com tela Super AMOLED e funções da suíte Galaxy AI atinge o menor preço histórico com desconto de 59% sobre o preço original de R$ 3.199. Galaxy Watch 8 tem tela Super AMOLED e funções do Galaxy AI A tela&nbsp; Super AMOLED &nbsp;de 1,47″ do Galaxy Watch 8 possui brilho de até 3.000 nits, sendo capaz de entregar cores realistas com visibilidade em qualquer lugar. O vidro Cristal de Safira resiste a quedas e pancadas. A suíte Galaxy AI analisa dados do sono para criar um perfil personalizado, para indicar a melhor hora de dormir e pontuar o desempenho do usuário. O smartwatch ainda possui sensores para medir o ECG, a oxigenação do sangue e mais e oferecer insights relativos a atividades físicas e saúde do usuário. O relógio inteligente da Samsung ainda pode ser de grande ajuda em situações de risco, desde que pareado a um celular. No caso de uma emergência médica, o Galaxy Watch 8 pode ligar para contatos específicos e números como 190 (polícia) e 192 (ambulância). O smartwatch conta com o chip Exynos W1000, 2 GB de RAM e 32 GB de espaço interno, kit esse que permite instalar e rodar apps localmente. A bateria de 435 mAh dura até 40 horas de uso, segundo a Samsung, e suporta carregamento sem fio de 10 W. Seu corpo de alumínio Armor de 44 mm possui certificações&nbsp; IP68 &nbsp;e&nbsp; militar MIL-STD810H , que conferem proteção em cenários extremos e resistência a até 5 ATM. Dessa forma o gadget pode ser usado em esportes aquáticos, como mergulhos de profundidade. O Galaxy Watch 8 BT de 44 mm ( R$ 1.299,73 no Pix com cupom MELICUPOM ) roda Wear OS 6 e suporta apps e soluções do Google. O smartwatch possui conectividade Wi-Fi 5, Bluetooth 5.3, NFC e GPS multibanda, que determina a posição exata do usuário em tempo real. Aviso de ética: ao clicar em um link de afiliado, o preço não muda para você e recebemos uma comissão. Galaxy Watch 8 BT com inteligência artificial tem queda histórica com cupom",
       "lang": "pt",
       "depts": [
         "Educação"
@@ -144,108 +254,6 @@
       "lang": "en",
       "depts": [
         "Marketing"
-      ]
-    },
-    {
-      "title": "Nova ferramenta do ChatGPT lembra recurso do Windows 11 que caiu em desgraça",
-      "description": "Computer History tenta evitar problemas que levaram Microsoft a adiar diversas vezes o Windows Recall. Nova ferramenta do ChatGPT lembra recurso do Windows 11 que caiu em desgraça",
-      "url": "https://tecnoblog.net/noticias/nova-ferramenta-do-chatgpt-lembra-recurso-do-windows-11-que-caiu-em-desgraca/",
-      "publishedAt": "Fri, 14 Aug 2026 21:03:08 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-3_capa.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Educação"
-      ]
-    },
-    {
-      "title": "Google decide que marca d água para IA é opcional; entenda",
-      "description": "Gemini e Flow ganham opção de remover marca d'água visível. Google decide que marca d água para IA é opcional; entenda",
-      "url": "https://tecnoblog.net/noticias/google-decide-que-marca-dagua-para-ia-e-opcional-entenda/",
-      "publishedAt": "Fri, 14 Aug 2026 20:40:18 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capas-google-gemini-2026-2.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Marketing"
-      ]
-    },
-    {
-      "title": "Chega de confusão: Microsoft unifica apps do Copilot",
-      "description": "Empresa vai acabar com a separação entre Copilot pessoal e Microsoft 365 Copilot. Chega de confusão: Microsoft unifica apps do Copilot",
-      "url": "https://tecnoblog.net/noticias/chega-de-confusao-microsoft-unifica-apps-do-copilot/",
-      "publishedAt": "Fri, 14 Aug 2026 17:08:27 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/logo-copilot-novo-1.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "Mark Zuckerberg realmente acredita que a IA é para todos?",
-      "description": "A Meta lançou o Glimmer esta semana, um modelo de IA aberto que qualquer um pode baixar e executar em seu próprio hardware – um contraste com o Muse Spark, o modelo mais poderoso da empresa que permanece bloqueado por suas próprias APIs. O lançamento chegou junto com uma carta de Mark Zuckerberg argumentando que a IA deveria ser “para todos",
-      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "publishedAt": "Fri, 14 Aug 2026 15:43:28 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "A Meta lançou o Glimmer esta semana, um modelo de IA aberto que qualquer um pode baixar e executar em seu próprio hardware – um contraste com o Muse Spark, o modelo mais poderoso da empresa que permanece bloqueado por suas próprias APIs. O lançamento chegou junto com uma carta de Mark Zuckerberg argumentando que a IA deveria ser “para todos”, em vez de controlada por um punhado de laboratórios, mas como a Equity []",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Irmão do Clippy sofre aposentadoria precoce",
-      "description": "Mico chegou em 2025 para ser a cara do Copilot, mas unificação de recursos de IA deixou o personagem sem espaço. Irmão do Clippy sofre aposentadoria precoce",
-      "url": "https://tecnoblog.net/noticias/irmao-do-clippy-sofre-aposentadoria-precoce/",
-      "publishedAt": "Fri, 14 Aug 2026 15:15:12 +0000",
-      "image": "https://www.youtube.com/embed/lZfJ0OXVDPE",
-      "source": "Tecnoblog",
-      "content": "Mico trabalhou como rosto do Copilot (imagem: divulgação/Microsoft) Resumo O Mico, personagem do Copilot da Microsoft, foi aposentado precocemente devido à unificação de recursos de IA, menos de um ano após seu lançamento em 2025. O Mico era usado como identidade do modo voz do assistente, com expressões faciais e animações; os recursos de conversa em áudio continuam sem o personagem. A Microsoft manterá o Mico no recurso Learn Live da IA, como tutor com animações em tempo real e voz. A Microsoft unificou várias ferramentas de inteligência artificial em seu novo app do Copilot, mas alguns recursos ficaram para trás. É o caso do personagem Mico, espécie de “irmão mais novo” do clássico assistente Clippy. O Mico servia como “identidade” do modo voz do assistente, reagindo em tempo real com expressões faciais e animações. Os recursos de conversa em áudio continuam, mas sem a carinha simpática do personagem. “Mico nos ajudou a aprender sobre cordialidade, expressividade e como as pessoas querem interagir com a IA. Esses aprendizados vão moldar o futuro do Copilot”, diz a Microsoft na página destinada a explicar as funcionalidades de IA abandonadas. Mico durou menos de um ano no cargo As primeiras notícias sobre o Mico surgiram em julho de 2025, três meses antes de seu lançamento oficial . Isso significa que o personagem não chegou a completar dez meses sendo o rosto da IA da Microsoft. “Demitido” do Copilot, o Mico não ficará desocupado: ele estará presente no recurso Learn Live da IA, onde será um tutor com animações em tempo real e voz. Segundo a empresa, esse é o lugar onde o personagem “tem mais espaço para crescer, com sessões de tutoria que dão ao Mico mais situações para reagir e ensinar”. Como lembra o Verge , o Mico entra para a galeria dos personagens assistentes da Microsoft. Além do próprio Clippy, a lista tem o cachorro Rover, que aparecia na busca do Windows XP, e a Cortana , “emprestada” da franquia Halo para trabalhar como assistente no Windows 10. O que mais muda no Copilot? A Microsoft está unificando os apps Copilot, para consumidores individuais, e Microsoft 365 Copilot, para profissionais e clientes corporativos. O novo app terá o chatbot e mais recursos, mas algumas funcionalidades serão abandonadas, como conversas em grupo, podcasts gerados por IA, recursos experimentais do Labs e o Deep Research, este último sendo substituído pelo Research para usuários pagantes. Com informações do TechCrunch e do The Verge . Irmão do Clippy sofre aposentadoria precoce",
-      "lang": "pt",
-      "depts": [
-        "RH",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Xiaomi anuncia HyperOS 4; veja novidades e celulares compatíveis",
-      "description": "Xiaomi revelou HyperOS 4 com novos efeitos visuais e assistente de IA renovado. Novidade traz ainda otimizações e mais personalização. Xiaomi anuncia HyperOS 4; veja novidades e celulares compatíveis",
-      "url": "https://tecnoblog.net/noticias/xiaomi-anuncia-hyperos-4-veja-novidades-e-celulares-compativeis/",
-      "publishedAt": "Fri, 14 Aug 2026 14:32:33 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/hyperos-4-xiaomi.jpg",
-      "source": "Tecnoblog",
-      "content": "O HyperOS 4 já é oficial (imagem: reprodução/Xiaomi) Resumo Xiaomi anunciou o HyperOS 4, nova versão de seu sistema operacional Android, com otimização de CPU e memória RAM, mais opções de personalização e assistente de IA Super XiaoAI 2.0; HyperOS 4 traz o design Soft Light Glass com efeitos translúcidos e personalização de elementos da interface, como relógio da tela de bloqueio e agrupamento de widgets; nova versão estará disponível para aparelhos como Xiaomi 17 Ultra, Xiaomi 15 Pro e Redmi K80 Pro, com possibilidade de liberação inicial para setembro de 2026, na China. Esta foi a semana escolhida pela Xiaomi para o anúncio oficial do HyperOS 4, a nova versão do sistema operacional Android da companhia. A novidade otimiza o uso de CPU e memória RAM, traz mais opções de personalização e introduz o assistente de inteligência artificial Super XiaoAI 2.0. Mas o que salta aos olhos de imediato é o design Soft Light Glass. Soft Light Glass e seus efeitos translúcidos O visual Soft Light Glass apresenta campos de texto, widgets, botões e outros elementos de interface com efeitos translúcidos que, inevitavelmente, lembram o conceito Liquid Glass, da Apple. Os níveis de transparência desses elementos se adaptam às cores do conteúdo visual e rápidos efeitos de luz são aplicados quando botões são tocados ou objetos são arrastados, por exemplo. Mas é importante deixar claro que os efeitos do Soft Light Glass podem variar de aparelho para aparelho e são direcionados a celulares mais potentes, que trazem chips de linhas como Qualcomm Snapdragon 8 Elite e MediaTek Dimensity 9500. Soft Light Glass no HyperOS 4 (vídeo: reprodução/Xiaomi) Ainda mais personalizável A Xiaomi sempre permitiu que os usuários alterassem diversos elementos da interface. No HyperOS 4, essa política é mantida. Nos aparelhos Xiaomi mais avançados, a nova versão possibilita que o relógio da tela de bloqueio tenha fonte, tamanho e cores personalizadas, por exemplo. Também é possível agrupar widgets (colocar um sobre o outro) na tela inicial, ajustar o tamanho de pastas, configurar mais facilmente a quantidade de ícones de aplicativos exibidos ao mesmo tempo, entre outros. HyperOS 4 oferece mais personalização (imagem: reprodução/Xiaomi) Otimização de CPU e memória RAM No HyperOS 4, a Xiaomi otimizou o HyperCore, a estrutura de baixo nível que regula parâmetros de desempenho do sistema operacional. O efeito desse trabalho é uma redução considerável do uso do processador, da memória RAM e até do consumo de energia em relação ao HyperOS 3 . Isso é feito, por exemplo, por meio do monitoramento da sequência de execução de tarefas para que os recursos de processamento sejam alocados com mais precisão, bem como via o uso de inteligência artificial para prever ações de modo que componentes necessários para a sua execução sejam pré-carregados na memória. Super XiaoAI 2.0: funciona até como agente de IA Outra novidade do HyperOS 4 é o Super XiaoAI 2.0, assistente de inteligência artificial baseado nos modelos Xiaomi MiMo-V2.5. Além de herdar capacidades de seu antecessor, como pesquisar pelo conteúdo que aparece na tela ou resumir resultados, esta nova versão pode funcionar como um agente de IA . Nesse sentido, o destaque vai para o Modo Especialista, que pode realizar tarefas que requerem vários passos para serem concluídas, como geração de vídeos a partir de um conteúdo em texto ou a criação de relatórios detalhados. O Modo Especialista é direcionado apenas a smartphones Xiaomi avançados, porém. Super XiaoAI 2.0 no HyperOS 4 (vídeo: reprodução/Xiaomi) Para quais aparelhos o HyperOS 4 estará disponível? O HyperOS 4 foi anunciado em 13 de agosto de 2026, não lançado. No momento, a nova versão está em fase beta. A liberação da versão final dependerá do país e do modelo do celular, mas é de se esperar que, pelo menos na China, esse processo comece em setembro deste ano. Entre os aparelhos que receberão o HyperOS 4 estão os modelos abaixo. A tabela classifica os celulares de acordo com a data prevista para que eles recebam a versão beta do sistema. Mas fica a observação de que o cronograma parece ser válido somente para o mercado chinês: 14 de agosto 27 de agosto 17 de setembro Xiaomi 17 Ultra Xiaomi 17 Max Redmi K100 Pro Max Xiaomi 17 Pro Max Xiaomi 17T Pro Redmi K100 Pro Xiaomi 17 Pro Xiaomi 17T Redmi K80 Pro Xiaomi 17 Xiaomi 15 Ultra Redmi K80 Pro Extreme Edition Redmi K90 Pro Max Xiaomi 15S Pro Redmi K80 Redmi K90 Xiaomi 15 Pro Xiaomi Mix Flip 2 Xiaomi Pad 8 Pro Xiaomi 15 Xiaomi Pad 7 Ultra Xiaomi Pad 8 Redmi K90 Max Xiaomi Pad 7S Pro 12.5 &nbsp; Redmi K90 Ultra &nbsp; &nbsp; Redmi K Pad 2 &nbsp; Aparelhos de famílias como POCO X7, POCO X8 e POCO F8 também deverão receber o HyperOS 4. Por outro lado, linhas como Xiaomi 12, Xiaomi MIX 4, Redmi A3 e Redmi 14 devem ficar de fora. Xiaomi anuncia HyperOS 4; veja novidades e celulares compatíveis",
-      "lang": "pt",
-      "depts": [
-        "Marketing"
-      ]
-    },
-    {
-      "title": "IA aberta da Meta e um negócio de US$ 250 milhões que deu muito errado",
-      "description": "A Meta lançou o Glimmer esta semana, um modelo de IA aberto que qualquer um pode baixar e executar em seu próprio hardware – um contraste com o Muse Spark, o modelo mais poderoso da empresa que permanece bloqueado por suas próprias APIs. O lançamento chegou junto com uma carta de Mark Zuckerberg argumentando que a IA deveria ser “para todos",
-      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-      "publishedAt": "Fri, 14 Aug 2026 14:00:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "A Meta lançou o Glimmer esta semana, um modelo de IA aberto que qualquer um pode baixar e executar em seu próprio hardware – um contraste com o Muse Spark, o modelo mais poderoso da empresa que permanece bloqueado por suas próprias APIs. O lançamento chegou junto com uma carta de Mark Zuckerberg argumentando que a IA deveria ser “para todos”, em vez de controlada por um punhado de laboratórios, mas como a Equity []",
-      "lang": "en",
-      "depts": [
-        "Comercial"
-      ]
-    },
-    {
-      "title": "Writer apresenta novo modelo de IA e equipamento atualizado para conter custos de token",
-      "description": "Construído como uma variação pós-treinamento do modelo de código aberto GLM-5.2 da Z.ai, Writer diz que o novo sistema deve fornecer recursos prontos para implantação a um preço muito mais baixo.",
-      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-      "publishedAt": "Thu, 13 Aug 2026 21:13:24 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Construído como uma variação pós-treinamento do modelo de código aberto GLM-5.2 da Z.ai, Writer diz que o novo sistema deve fornecer recursos prontos para implantação a um preço muito mais baixo.",
-      "lang": "en",
-      "depts": [
-        "Financeiro",
-        "Educação"
       ]
     },
     {
