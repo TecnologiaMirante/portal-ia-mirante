@@ -1,7 +1,97 @@
 {
-  "updatedAt": "2026-08-21T10:18:54.372Z",
+  "updatedAt": "2026-08-22T10:12:21.627Z",
   "count": 40,
   "articles": [
+    {
+      "title": "O Opus 4.6 da Antrópico é uma máquina obscena",
+      "description": "A Anthropic proíbe seus modelos Claude de gerar conteúdo sexualmente explícito. Mas uma série de testes conduzidos pelo TechCrunch descobriu que não demorou muito para superar a restrição.",
+      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "publishedAt": "Fri, 21 Aug 2026 23:07:25 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "A Anthropic proíbe seus modelos Claude de gerar conteúdo sexualmente explícito. Mas uma série de testes conduzidos pelo TechCrunch descobriu que não demorou muito para superar a restrição.",
+      "lang": "en",
+      "depts": [
+        "Marketing"
+      ]
+    },
+    {
+      "title": "Google libera um ano de IA premium para estudantes; veja como ativar",
+      "description": "Estudantes do ensino superior brasileiro ganham 12 meses gratuitos do plano Google AI Plus e desconto no Google AI Pro. Google libera um ano de IA premium para estudantes; veja como ativar",
+      "url": "https://tecnoblog.net/noticias/google-libera-um-ano-de-ia-premium-para-estudantes-veja-como-ativar/",
+      "publishedAt": "Fri, 21 Aug 2026 20:44:46 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capas-google-gemini-2026-3.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Jurídico",
+        "Educação"
+      ]
+    },
+    {
+      "title": "IAs descumprem regra do TSE e mostram ranking de candidatos às eleições",
+      "description": "ChatGPT, Grok e Gemini criam listas de presidenciáveis após comandos simples. Resolução do Tribunal Superior Eleitoral proíbe esse tipo de recomendação. IAs descumprem regra do TSE e mostram ranking de candidatos às eleições",
+      "url": "https://tecnoblog.net/noticias/ias-descumprem-regra-do-tse-com-ranking-de-candidatos-as-eleicoes-2026/",
+      "publishedAt": "Fri, 21 Aug 2026 20:15:39 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/03/urna-2_capa_tb.jpeg",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Jurídico"
+      ]
+    },
+    {
+      "title": "A Nvidia acabou de mostrar que o chicote, e não o modelo de IA, é agora o verdadeiro herói",
+      "description": "A pesquisa da Nvidia mostra que os agentes de IA podem ter um bom desempenho, e não exagerar, por meio de ajustes finos, mesmo que o modelo de IA não seja tão bom na tarefa.",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "publishedAt": "Fri, 21 Aug 2026 19:43:39 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "A pesquisa da Nvidia mostra que os agentes de IA podem ter um bom desempenho, e não exagerar, por meio de ajustes finos, mesmo que o modelo de IA não seja tão bom na tarefa.",
+      "lang": "en",
+      "depts": [
+        "Gestão"
+      ]
+    },
+    {
+      "title": "DeepSeek revela IA mais barata para competir com o Claude Opus",
+      "description": "Versão experimental processa um milhão de palavras por menos de US$ 1. IA interpreta imagens e textos e supera modelo da Anthropic em três de 11 benchmarks. DeepSeek revela IA mais barata para competir com o Claude Opus",
+      "url": "https://tecnoblog.net/noticias/deepseek-revela-ia-mais-barata-para-desafiar-modelo-da-anthropic/",
+      "publishedAt": "Fri, 21 Aug 2026 17:22:12 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/01/capa-deepseek.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Saúde"
+      ]
+    },
+    {
+      "title": "Apple Music terá selo para identificar músicas feitas com IA",
+      "description": "Sinalização de uso de inteligência artificial deve aparecer para usuários do serviço até o final do ano. Apple Music terá selo para identificar músicas feitas com IA",
+      "url": "https://tecnoblog.net/noticias/apple-music-tera-selo-para-identificar-musicas-feitas-com-ia/",
+      "publishedAt": "Fri, 21 Aug 2026 14:51:09 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/05/apple-music_capa-1_tb.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Comercial"
+      ]
+    },
+    {
+      "title": "Um em cada três sites criados após ChatGPT tem sinais de IA",
+      "description": "Pesquisa aponta rastro de inteligência artificial cada vez maior em links publicados depois de 2022. Um em cada três sites criados após ChatGPT tem sinais de IA",
+      "url": "https://tecnoblog.net/noticias/um-em-cada-tres-sites-criados-apos-chatgpt-tem-sinais-de-ia/",
+      "publishedAt": "Fri, 21 Aug 2026 11:31:20 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2018/10/capa-tbr-ia.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
     {
       "title": "Gerenciador de Tarefas do Windows vai monitorar hardware usado por IA",
       "description": "Ferramenta do sistema terá colunas para mostrar como cada processo usa a NPU e o acelerador neural da GPU. Novidade pode ajudar profissionais de TI e desenvolvedores. Gerenciador de Tarefas do Windows vai monitorar hardware usado por IA",
@@ -38,7 +128,7 @@
       "depts": []
     },
     {
-      "title": "Um terço das páginas da web publicadas desde o lançamento do ChatGPT mostram sinais de autoria de IA, segundo estudo",
+      "title": "Um terço das páginas da web publicadas desde o lançamento do ChatGPT foram escritas por IA, segundo estudo",
       "description": "ChatGPT e outros modelos de IA agora criam e editam grande parte da nova web.",
       "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
       "publishedAt": "Thu, 20 Aug 2026 17:18:58 +0000",
@@ -100,136 +190,6 @@
       "lang": "en",
       "depts": [
         "Financeiro"
-      ]
-    },
-    {
-      "title": "OpenAI busca superar a Anthropic com novas proteções de privacidade do cliente",
-      "description": "Está se desenvolvendo uma competição entre OpenAI e Anthropic sobre quem pode fornecer as melhores proteções de privacidade para dados de clientes corporativos.",
-      "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-      "publishedAt": "Wed, 19 Aug 2026 22:10:46 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Comercial",
-        "Jurídico"
-      ]
-    },
-    {
-      "title": "CEO da Cognition nega relato de que a SpaceX tentou adquirir a startup",
-      "description": "A SpaceX estava supostamente em negociações para comprar a Cognition, startup de codificação de IA. A SpaceX já adquiriu o Cursor enquanto corre para alcançar rivais como OpenAI e Anthropic em IA empresarial.",
-      "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
-      "publishedAt": "Wed, 19 Aug 2026 21:51:23 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "A SpaceX estava supostamente em negociações para comprar a Cognition, startup de codificação de IA. A SpaceX já adquiriu o Cursor enquanto corre para alcançar rivais como OpenAI e Anthropic em IA empresarial.",
-      "lang": "en",
-      "depts": [
-        "Educação"
-      ]
-    },
-    {
-      "title": "Desenvolvedores já burlam nova marca d água de texto do Claude",
-      "description": "Código lançado poucas horas após o anúncio usa outros modelos de IA para modificar o conteúdo. Desenvolvedores já burlam nova marca d água de texto do Claude",
-      "url": "https://tecnoblog.net/noticias/desenvolvedores-ja-burlam-nova-marca-dagua-de-texto-do-claude/",
-      "publishedAt": "Wed, 19 Aug 2026 20:11:30 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-4.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Marketing"
-      ]
-    },
-    {
-      "title": "Geladeiras smart da Samsung vão receber recurso dos smartphones Galaxy",
-      "description": "Linha Bespoke AI ganhará Now Brief, que traz resumo do dia. Update também inclui reconhecimento de alimentos usando o Gemini e análise dos produtos mais consumidos. Geladeiras smart da Samsung vão receber recurso dos smartphones Galaxy",
-      "url": "https://tecnoblog.net/noticias/geladeiras-smart-da-samsung-vao-receber-recurso-dos-smartphones-galaxy/",
-      "publishedAt": "Wed, 19 Aug 2026 19:47:06 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/08/samsung-digital-appliances-one-ui-home-appliances-software-smartthings-knox-matrix_dl1-edited.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Comercial",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Google traz Search e Gemini com novas ferramentas de estudo de IA",
-      "description": "O lançamento dos novos recursos de estudo marca o esforço mais recente do Google para tornar o Gemini o assistente de IA que os alunos recorrem quando aprendem e estudam, à medida que continua a competir com empresas como a OpenAI.",
-      "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
-      "publishedAt": "Wed, 19 Aug 2026 19:00:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "O lançamento dos novos recursos de estudo marca o esforço mais recente do Google para tornar o Gemini o assistente de IA que os alunos recorrem quando aprendem e estudam, à medida que continua a competir com empresas como a OpenAI.",
-      "lang": "en",
-      "depts": [
-        "Marketing",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Pesquisadores dizem que a OpenAI revogou seu acesso a programas cibernéticos limitados",
-      "description": "A ideia por trás do programa Trusted Access for Cyber ​​da OpenAI é fornecer aos defensores confiáveis ​​melhores modelos para que possam relatar bugs e vulnerabilidades às empresas, com o objetivo de corrigir as falhas mais rapidamente.",
-      "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-      "publishedAt": "Wed, 19 Aug 2026 18:46:14 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "A ideia por trás do programa Trusted Access for Cyber ​​da OpenAI é fornecer aos defensores confiáveis ​​melhores modelos para que possam relatar bugs e vulnerabilidades às empresas, com o objetivo de corrigir as falhas mais rapidamente.",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Claude agora pode enviar e-mails pelo Gmail por conta própria",
-      "description": "Novidade permite automatizar o envio de mensagens em contas corporativas. Assistente da Anthropic também ganhou novos comandos no Google Drive. Claude agora pode enviar e-mails pelo Gmail por conta própria",
-      "url": "https://tecnoblog.net/noticias/claude-agora-pode-enviar-e-mails-pelo-gmail-sem-intervencao-do-usuario/",
-      "publishedAt": "Wed, 19 Aug 2026 14:19:03 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-4.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "Copilot “ensinou” pesquisadores a hackear o próprio sistema",
-      "description": "A IA da Microsoft entregou o caminho para a falha que permitia roubo silencioso de dados com um clique. Correção já foi liberada. Copilot “ensinou” pesquisadores a hackear o próprio sistema",
-      "url": "https://tecnoblog.net/noticias/copilot-ensinou-pesquisadores-a-hackear-o-proprio-sistema/",
-      "publishedAt": "Tue, 18 Aug 2026 22:52:04 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/11/capa-copilot-2.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Educação"
-      ]
-    },
-    {
-      "title": "Firefox ganha mais recursos de IA (calma, eles são opcionais)",
-      "description": "Smart Window, que roda separada da janela principal do navegador, terá agrupamento inteligente de abas e busca no histórico com linguagem natural. Firefox ganha mais recursos de IA (calma, eles são opcionais)",
-      "url": "https://tecnoblog.net/noticias/firefox-ganha-mais-recursos-de-ia-calma-eles-sao-opcionais/",
-      "publishedAt": "Tue, 18 Aug 2026 20:07:35 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/02/capa-mozila-tb.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Educação"
-      ]
-    },
-    {
-      "title": "Custo-benefício: Galaxy Tab S10 FE 5G tem 36% OFF na melhor oferta recente",
-      "description": "Galaxy Tab S10 FE traz tela de 90 Hz, 8GB de RAM e recursos de inteligência artificial. Use o cupom TECNO300 para pagar mais barato no tablet da Samsung com melhor custo-benefíco atualmente Custo-benefício: Galaxy Tab S10 FE 5G tem 36% OFF na melhor oferta recente",
-      "url": "https://tecnoblog.net/achados/custo-beneficio-galaxy-tab-s10-fe-5g-tem-36-off-na-melhor-oferta-recente/",
-      "publishedAt": "Tue, 18 Aug 2026 19:42:28 +0000",
-      "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2026/01/galaxy-tab-s10-fe-edicao-de-imagem-1060x596.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Financeiro",
-        "Educação"
       ]
     },
     {
@@ -542,6 +502,52 @@
       "lang": "pt",
       "depts": [
         "Comercial"
+      ]
+    },
+    {
+      "title": "IA pode destruir a bateria do seu celular; veja como resolver",
+      "description": "A inteligência artificial está cada vez mais presente nos smartphones, sendo integrada ao sistema e a diversos aplicativos para executar tarefas, como resumos de notificações, edição de fotos, sugestões personalizadas, além de atuar como assistentes de voz avançados. 15 recursos secretos do Apple In",
+      "url": "https://canaltech.com.br/inteligencia-artificial/ia-pode-destruir-a-bateria-do-seu-celular-veja-como-resolver/",
+      "publishedAt": "Sat, 04 Jul 2026 12:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/ZHTeRLBEvZ9V6ryjoDtw8E9DI2E=/700x394/smart/i1086691.jpeg",
+      "source": "Canaltech IA",
+      "content": "A inteligência artificial está cada vez mais presente nos smartphones, sendo integrada ao sistema e a diversos aplicativos para executar tarefas, como resumos de notificações, edição de fotos, sugestões personalizadas, além de atuar como assistentes de voz avançados. 15 recursos secretos do Apple Intelligence que a Apple \"escondeu\" Qual celular tem a melhor IA para tirar pessoas indesejadas das suas fotos? Apesar de trazer mais praticidade no dia a dia, isso tem um custo invisível: a necessidade de processamento constante . No próprio aparelho ou na nuvem, essas ferramentas permanecem ativas em segundo plano e podem consumir energia de forma contínua, o que acaba com a bateria sem que o usuário perceba. A seguir, tire suas dúvidas sobre: - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Por que a IA consome tanta energia? Como ajustar a IA no iPhone para economizar bateria? Como reduzir o consumo de IA no Android? Como ter certeza que a IA é realmente o problema? Por que a IA consome tanta energia? A IA nos celulares funciona de forma diferente dos aplicativos tradicionais. Ela não é ativada apenas quando o usuário abre um app, ela permanece parcialmente ativa o tempo todo para realizar tarefas, como a análise de fotos, interpretação de comandos de voz e geração de sugestões em tempo real. O custo oculto aparece justamente nessa ideia de IA “sempre disponível”. Para que ela responda imediatamente, são executados processos contínuos em segundo plano , com previsão de ações e análise de padrões de uso. Quanto maior o nível de personalização, maior o volume de dados processados de forma constante, o que aumenta o consumo de energia ao longo do dia. Como ajustar a IA no iPhone para economizar bateria? No iPhone, alguns recursos ligados à Apple Intelligence e à Siri podem impactar a autonomia da bateria. O ideal é revisar quais funções realmente são necessárias no uso diário. Po",
+      "lang": "pt",
+      "depts": [
+        "Financeiro",
+        "Gestão",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Governo Federal lança matriz de competências para uso de IA",
+      "description": "O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) divulgou, na última semana, a Matriz de Competências em Inteligência Artificial do Governo do Brasil . O documento vai orientar os cursos e treinamentos oferecidos a servidores federais sobre o uso da tecnologia, com eixos voltados à ét",
+      "url": "https://canaltech.com.br/inteligencia-artificial/governo-federal-lanca-matriz-de-competencias-para-uso-de-ia/",
+      "publishedAt": "Fri, 03 Jul 2026 19:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/kzQDM-16SY2FIYKPRKkiU42iGYs=/700x394/smart/i1140307.png",
+      "source": "Canaltech IA",
+      "content": "O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) divulgou, na última semana, a Matriz de Competências em Inteligência Artificial do Governo do Brasil . O documento vai orientar os cursos e treinamentos oferecidos a servidores federais sobre o uso da tecnologia, com eixos voltados à ética, segurança, privacidade e soberania digital. A publicação é do Núcleo de Inteligência Artificial (NIA), iniciativa da Secretaria de Governo Digital (SGD) para apoiar a adoção de IA no Poder Executivo Federal. A matriz passa a nortear todas as capacitações conduzidas pelo núcleo. Mais de 167 mil servidores já foram capacitados Segundo o secretário de Governo Digital, Rogério Mascarenhas, ao menos 167 mil servidores já concluíram alguma capacitação dos programas do ministério. Para ele, o número demonstra interesse crescente pelo uso da tecnologia no serviço público. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Mascarenhas afirma que a matriz foi criada para orientar o desenvolvimento de novos cursos e identificar lacunas de competência em cada perfil de servidor. O secretário também classificou o documento como inovador e disse que ele pode servir de referência para outros países e para empresas privadas. Seis perfis de servidores e onze programas de formação O MGI dividiu o público-alvo das capacitações em seis perfis: agente público, gestor de TIC, gestor público, executivo de dados, curador de dados e altas lideranças. Cada perfil tem competências específicas a desenvolver, conforme a rotina de trabalho ou o nível de decisão sobre o uso da tecnologia no órgão. As formações somam 11 programas, oferecidos pela Escola Virtual de Governo (EV.G), vinculada à Escola Nacional de Administração Pública (Enap), em parceria com o Serpro. Os cursos são gratuitos, a distância e abertos a qualquer servidor, e abrangem temas como IA generativa, ética em IA, proteção de dados pessoais",
+      "lang": "pt",
+      "depts": [
+        "Comercial",
+        "Jurídico",
+        "Gestão",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Novo app da Meta mostra criações feitas por vibe coding",
+      "description": "A Meta lançou silenciosamente o Pocket , um novo aplicativo para criar e compartilhar pequenos jogos e experiências interativas, chamados de \"gizmos\", usando comandos de inteligência artificial. O app já está disponível na App Store e no Google Play, mas a empresa ainda não fez um anúncio sobre o la",
+      "url": "https://canaltech.com.br/inteligencia-artificial/novo-app-da-meta-mostra-criacoes-feitas-por-vibe-coding/",
+      "publishedAt": "Fri, 03 Jul 2026 17:10:00 -0300",
+      "image": "https://t.ctcdn.com.br/o35a_R-0f5b8pzB7LdM_9qhgmOE=/700x394/smart/i1140309.png",
+      "source": "Canaltech IA",
+      "content": "A Meta lançou silenciosamente o Pocket , um novo aplicativo para criar e compartilhar pequenos jogos e experiências interativas, chamados de \"gizmos\", usando comandos de inteligência artificial. O app já está disponível na App Store e no Google Play, mas a empresa ainda não fez um anúncio sobre o lançamento, o que sugere que a ferramenta pode estar em fase inicial de testes. O aplicativo foi descoberto e divulgado primeiro no X por Alessandro Paluzzi, engenheiro reverso conhecido por encontrar novos aplicativos e recursos antes dos anúncios oficiais. Segundo dados da Appfigures, no entanto, o Pocket já estava disponível nas lojas desde 29 de junho. #Meta is working on a new app called Pocket 👀 ℹ️ A new creative platform to make and share gizmos. pic.twitter.com/zFjMU5jj1U - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - — Alessandro Paluzzi (@alex193a) July 2, 2026 O Pocket usa prompts de texto para gerar conteúdos interativos . Assim, até pessoas sem conhecimento em programação conseguem criar seus próprios miniapps. Além da ferramenta de criação, o aplicativo conta com um feed em que os usuários podem descobrir e testar gizmos desenvolvidos por outras pessoas. O projeto foi criado após a Meta adquirir, no início de 2026, a equipe da Gizmo, plataforma que já utilizava o conceito de vibe coding e acumulava mais de 635 mil instalações. O aplicativo original registrava 98% de avaliações positivas entre os usuários e, curiosamente, continua disponível nas lojas de aplicativos mesmo após o lançamento do Pocket pela Meta. A iniciativa reforça a estratégia da Meta de ampliar o acesso às ferramentas de criação com inteligência artificial. O Pocket ( play.google.com ) integra um ecossistema que já inclui o Vibes, de vídeos gerados por IA, e o Meta AI, focado na criação de imagens. Recentemente, a empresa também adicionou recursos de IA ao editor de vídeos Edits. O Pocket é o novo",
+      "lang": "pt",
+      "depts": [
+        "Marketing",
+        "Comercial",
+        "Educação"
       ]
     }
   ]
