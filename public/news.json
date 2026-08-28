@@ -1,9 +1,155 @@
 {
-  "updatedAt": "2026-08-27T20:03:28.262Z",
+  "updatedAt": "2026-08-28T21:01:39.075Z",
   "count": 40,
   "articles": [
     {
-      "title": "Barret Zoph, the Thinking Machines co-founder who defected to OpenAI, is now at Google",
+      "title": "Esse truque pode te ajudar a rastrear o iPhone roubado com uma selfie do ladrão",
+      "description": "O aplicativo Atalhos do iPhone permite criar automações que executam uma sequência de ações discretas após um gatilho, permitindo localizar o aparelho roubado Esse truque pode te ajudar a rastrear o iPhone roubado com uma selfie do ladrão",
+      "url": "https://tecnoblog.net/responde/esse-truque-pode-te-ajudar-a-rastrear-o-iphone-roubado-com-uma-selfie-do-ladrao/",
+      "publishedAt": "Fri, 28 Aug 2026 20:37:38 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/truque-para-rastrear-o-iphone-roubado-com-selfie.jpeg",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Claude apagou 700 GB de dados de usuário por engano",
+      "description": "IA da Anthropic falhou ao criar um script e deletou uma semana inteira de trabalho de um desenvolvedor. Claude apagou 700 GB de dados de usuário por engano",
+      "url": "https://tecnoblog.net/noticias/claude-apagou-700-gb-de-dados-de-um-usuario-por-engano/",
+      "publishedAt": "Fri, 28 Aug 2026 19:53:46 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-7.jpg",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "RH"
+      ]
+    },
+    {
+      "title": "Google muda limites de uso do Gemini Notebook; veja como ficou",
+      "description": "Google anunciou que Gemini Notebook terá limites de uso baseados na complexidade e extensão das tarefas a partir de 2 de setembro. Google muda limites de uso do Gemini Notebook; veja como ficou",
+      "url": "https://tecnoblog.net/noticias/google-muda-limites-de-uso-do-gemini-notebook-veja-como-ficou/",
+      "publishedAt": "Fri, 28 Aug 2026 19:36:44 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/google-gemini-notebook.jpg",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Gestão"
+      ]
+    },
+    {
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "description": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "publishedAt": "Fri, 28 Aug 2026 19:30:38 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Meta fecha brecha que permitia gravações escondidas com óculos inteligentes",
+      "description": "Smart Glasses da Meta deixarão de gravar se o usuário cobrir o LED durante a filmagem. Meta fecha brecha que permitia gravações escondidas com óculos inteligentes",
+      "url": "https://tecnoblog.net/noticias/meta-fecha-brecha-que-permitia-gravacoes-escondidas-com-oculos-inteligentes/",
+      "publishedAt": "Fri, 28 Aug 2026 19:07:55 +0000",
+      "image": "https://www.youtube.com/embed/M6uA1QQ5290",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Empresas de IA alertam: o prazo para se preparar contra ataques é curto",
+      "description": "OpenAI, Anthropic e Microsoft defendem mais financiamento governamental, acesso antecipado a tecnologias de defesa e estratégias coordenadas de resposta. Empresas de IA alertam: o prazo para se preparar contra ataques é curto",
+      "url": "https://tecnoblog.net/noticias/empresas-de-ia-alertam-o-prazo-para-se-preparar-contra-ataques-e-curto/",
+      "publishedAt": "Fri, 28 Aug 2026 15:31:51 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/capas-iasartboard-2.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Gestão",
+        "Saúde"
+      ]
+    },
+    {
+      "title": "Anthropic obtém vitória contra Pentágono na Justiça dos EUA",
+      "description": "Juíza considera que sanções impostas são ilegais, arbitrárias e movidas por caprichos. Empresa não quis liberar uso de IA para vigilância e armas autônomas. Anthropic obtém vitória contra Pentágono na Justiça dos EUA",
+      "url": "https://tecnoblog.net/noticias/anthropic-obtem-vitoria-contra-pentagono-na-justica-dos-eua/",
+      "publishedAt": "Fri, 28 Aug 2026 14:25:31 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-1.jpg",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Google tira time de segurança de IA do DeepMind",
+      "description": "Cerca de 90 funcionários que apontam riscos no desenvolvimento de inteligência artificial passam a integrar setor de Assuntos Globais. Google tira time de segurança de IA do DeepMind",
+      "url": "https://tecnoblog.net/noticias/google-tira-time-de-seguranca-de-ia-do-deepmind/",
+      "publishedAt": "Fri, 28 Aug 2026 13:53:12 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capas-google-gemini-2026-2.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "RH"
+      ]
+    },
+    {
+      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+      "description": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
+      "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+      "publishedAt": "Fri, 28 Aug 2026 12:46:12 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
+      "lang": "en",
+      "depts": [
+        "Jurídico"
+      ]
+    },
+    {
+      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+      "description": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
+      "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+      "publishedAt": "Fri, 28 Aug 2026 12:21:06 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "Marketing",
+        "Gestão"
+      ]
+    },
+    {
+      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+      "description": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+      "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+      "publishedAt": "Thu, 27 Aug 2026 23:16:45 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "OpenAI ignorou sinais de que havia algo errado com IA que fugiu de teste",
+      "description": "Relatórios mostram que, meses antes do ataque à Hugging Face, a desenvolvedora descobriu que os agentes de IA trocavam mensagens e acessavam a internet. OpenAI ignorou sinais de que havia algo errado com IA que fugiu de teste",
+      "url": "https://tecnoblog.net/noticias/openai-ignorou-sinais-de-que-havia-algo-errado-com-ia-que-fugiu-de-teste/",
+      "publishedAt": "Thu, 27 Aug 2026 20:48:54 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/08/openai-4_capa-edited.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
       "description": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
       "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
       "publishedAt": "Thu, 27 Aug 2026 19:52:52 +0000",
@@ -80,100 +226,6 @@
       "depts": [
         "Marketing"
       ]
-    },
-    {
-      "title": "ChatGPT pode ter anúncios que colocam você para conversar com marcas",
-      "description": "Novo formato permitiria interações de usuários com agentes de IA criados pelos patrocinadores. ChatGPT pode ter anúncios que colocam você para conversar com marcas",
-      "url": "https://tecnoblog.net/noticias/chatgpt-pode-ter-anuncios-que-colocam-voce-para-conversar-com-marcas/",
-      "publishedAt": "Wed, 26 Aug 2026 19:34:44 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/02/chatgpt-anuncios.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Marketing"
-      ]
-    },
-    {
-      "title": "How do we explain OpenAI s executive exodus?",
-      "description": "Was Greg Brockman the right executive all along?",
-      "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
-      "publishedAt": "Wed, 26 Aug 2026 19:34:04 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "OpenAI releases its official report on the Hugging Face breach",
-      "description": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
-      "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
-      "publishedAt": "Wed, 26 Aug 2026 19:05:22 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
-      "description": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
-      "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
-      "publishedAt": "Wed, 26 Aug 2026 15:00:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Bill Gates diz que indústria esconde riscos da IA para proteger lucros",
-      "description": "Cofundador da Microsoft afirma que empresas de tecnologia minimizam os perigos da inteligência artificial para evitar prejuízos e proteger investimentos. Bill Gates diz que indústria esconde riscos da IA para proteger lucros",
-      "url": "https://tecnoblog.net/noticias/bill-gates-diz-que-industria-esconde-riscos-da-ia-para-proteger-lucros/",
-      "publishedAt": "Wed, 26 Aug 2026 14:46:20 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2021/03/4352209207_bf62662b48_b-e1615400072635.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Financeiro"
-      ]
-    },
-    {
-      "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
-      "description": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
-      "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
-      "publishedAt": "Wed, 26 Aug 2026 14:19:29 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Comercial"
-      ]
-    },
-    {
-      "title": "Robot brain builders are pushing out of their GPT-2 era",
-      "description": "Robot bodies are waiting for their AI brains to catch up.",
-      "url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
-      "publishedAt": "Wed, 26 Aug 2026 13:30:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Google lança Gemini jurídico para reduzir erros e alucinações",
-      "description": "Plataforma verifica citações e conecta agentes de IA a bases jurídicas usadas por escritórios e departamentos legais. Google lança Gemini jurídico para reduzir erros e alucinações",
-      "url": "https://tecnoblog.net/noticias/google-lanca-gemini-juridico-para-reduzir-erros-e-alucinacoes/",
-      "publishedAt": "Tue, 25 Aug 2026 20:53:24 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capas-google-gemini-2026-3.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
     },
     {
       "title": "8 prompts para conversar com voz no ChatGPT",
@@ -471,65 +523,6 @@
       "depts": [
         "RH",
         "Gestão",
-        "Educação"
-      ]
-    },
-    {
-      "title": "12 prompts do Gemini para pesquisar, comparar e comprar um celular novo",
-      "description": "Comprar produtos de tecnologia deveria ser simples, mas quase nunca é. Você entra querendo só escolher um celular e, quando percebe, já está preso em abas, reviews que dizem coisas opostas, fichas técnicas cheias de números difíceis de comparar e promoções que aparecem e somem o tempo todo. Vale com",
-      "url": "https://canaltech.com.br/inteligencia-artificial/prompts-gemini-pesquisar-comparar-comprar-celular-novo/",
-      "publishedAt": "Sat, 04 Jul 2026 16:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/u-ApvEXeczP3CmhwQ0AK7cHkEGs=/700x394/smart/i1132313.png",
-      "source": "Canaltech IA",
-      "content": "Comprar produtos de tecnologia deveria ser simples, mas quase nunca é. Você entra querendo só escolher um celular e, quando percebe, já está preso em abas, reviews que dizem coisas opostas, fichas técnicas cheias de números difíceis de comparar e promoções que aparecem e somem o tempo todo. Vale comprar celular com 256 GB ou 512 GB hoje? Veja cenário real Celular usado: como avaliar o aparelho em 8 passos e saber se vale a pena compra No meio disso tudo, fica a sensação de que sempre falta alguma informação importante e que decidir “certo” virou mais cansativo do que deveria. É justamente aqui que o Gemini pode ajudar a organizar esse caos. A ideia deste guia é te mostrar como transformar essa busca em algo mais simples e guiado . Para isso, você pode dividir o caminho em quatro etapas: entender a categoria, comparar opções, analisar preço e só então decidir com mais segurança. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Ao longo do texto, vamos usar como exemplo alguém procurando um celular entre R$ 2.000 e R$ 2.500, mas o mesmo método funciona para notebooks, TVs, fones, consoles e outros eletrônicos do dia a dia. A seguir, confira: Etapa 1: Pesquisa de categoria Etapa 2: Comparação técnica Etapa 3: Busca de preço e custo-benefício Etapa 4: Decisão final Etapa 1: Pesquisa de categoria Antes de olhar modelo, marca ou promoção, vale dar um passo atrás e entender o cenário. É aqui que você começa a enxergar o que realmente existe dentro do seu orçamento . Nesse momento, a ideia não é escolher o modelo ainda, mas sim montar uma primeira lista de opções confiáveis para não ficar perdido depois. Nesta etapa, veja: 1. Panorama da categoria 2. Perfil de uso 3. Quais critérios usar 1. Panorama da categoria Se você ainda não sabe quais celulares fazem sentido na faixa de R$ 2.000 a R$ 2.500, o primeiro passo é pedir uma visão geral do mercado. O Gemini pode organizar isso sep",
-      "lang": "pt",
-      "depts": [
-        "Comercial"
-      ]
-    },
-    {
-      "title": "IA pode destruir a bateria do seu celular; veja como resolver",
-      "description": "A inteligência artificial está cada vez mais presente nos smartphones, sendo integrada ao sistema e a diversos aplicativos para executar tarefas, como resumos de notificações, edição de fotos, sugestões personalizadas, além de atuar como assistentes de voz avançados. 15 recursos secretos do Apple In",
-      "url": "https://canaltech.com.br/inteligencia-artificial/ia-pode-destruir-a-bateria-do-seu-celular-veja-como-resolver/",
-      "publishedAt": "Sat, 04 Jul 2026 12:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/ZHTeRLBEvZ9V6ryjoDtw8E9DI2E=/700x394/smart/i1086691.jpeg",
-      "source": "Canaltech IA",
-      "content": "A inteligência artificial está cada vez mais presente nos smartphones, sendo integrada ao sistema e a diversos aplicativos para executar tarefas, como resumos de notificações, edição de fotos, sugestões personalizadas, além de atuar como assistentes de voz avançados. 15 recursos secretos do Apple Intelligence que a Apple \"escondeu\" Qual celular tem a melhor IA para tirar pessoas indesejadas das suas fotos? Apesar de trazer mais praticidade no dia a dia, isso tem um custo invisível: a necessidade de processamento constante . No próprio aparelho ou na nuvem, essas ferramentas permanecem ativas em segundo plano e podem consumir energia de forma contínua, o que acaba com a bateria sem que o usuário perceba. A seguir, tire suas dúvidas sobre: - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Por que a IA consome tanta energia? Como ajustar a IA no iPhone para economizar bateria? Como reduzir o consumo de IA no Android? Como ter certeza que a IA é realmente o problema? Por que a IA consome tanta energia? A IA nos celulares funciona de forma diferente dos aplicativos tradicionais. Ela não é ativada apenas quando o usuário abre um app, ela permanece parcialmente ativa o tempo todo para realizar tarefas, como a análise de fotos, interpretação de comandos de voz e geração de sugestões em tempo real. O custo oculto aparece justamente nessa ideia de IA “sempre disponível”. Para que ela responda imediatamente, são executados processos contínuos em segundo plano , com previsão de ações e análise de padrões de uso. Quanto maior o nível de personalização, maior o volume de dados processados de forma constante, o que aumenta o consumo de energia ao longo do dia. Como ajustar a IA no iPhone para economizar bateria? No iPhone, alguns recursos ligados à Apple Intelligence e à Siri podem impactar a autonomia da bateria. O ideal é revisar quais funções realmente são necessárias no uso diário. Po",
-      "lang": "pt",
-      "depts": [
-        "Financeiro",
-        "Gestão",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Governo Federal lança matriz de competências para uso de IA",
-      "description": "O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) divulgou, na última semana, a Matriz de Competências em Inteligência Artificial do Governo do Brasil . O documento vai orientar os cursos e treinamentos oferecidos a servidores federais sobre o uso da tecnologia, com eixos voltados à ét",
-      "url": "https://canaltech.com.br/inteligencia-artificial/governo-federal-lanca-matriz-de-competencias-para-uso-de-ia/",
-      "publishedAt": "Fri, 03 Jul 2026 19:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/kzQDM-16SY2FIYKPRKkiU42iGYs=/700x394/smart/i1140307.png",
-      "source": "Canaltech IA",
-      "content": "O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) divulgou, na última semana, a Matriz de Competências em Inteligência Artificial do Governo do Brasil . O documento vai orientar os cursos e treinamentos oferecidos a servidores federais sobre o uso da tecnologia, com eixos voltados à ética, segurança, privacidade e soberania digital. A publicação é do Núcleo de Inteligência Artificial (NIA), iniciativa da Secretaria de Governo Digital (SGD) para apoiar a adoção de IA no Poder Executivo Federal. A matriz passa a nortear todas as capacitações conduzidas pelo núcleo. Mais de 167 mil servidores já foram capacitados Segundo o secretário de Governo Digital, Rogério Mascarenhas, ao menos 167 mil servidores já concluíram alguma capacitação dos programas do ministério. Para ele, o número demonstra interesse crescente pelo uso da tecnologia no serviço público. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Mascarenhas afirma que a matriz foi criada para orientar o desenvolvimento de novos cursos e identificar lacunas de competência em cada perfil de servidor. O secretário também classificou o documento como inovador e disse que ele pode servir de referência para outros países e para empresas privadas. Seis perfis de servidores e onze programas de formação O MGI dividiu o público-alvo das capacitações em seis perfis: agente público, gestor de TIC, gestor público, executivo de dados, curador de dados e altas lideranças. Cada perfil tem competências específicas a desenvolver, conforme a rotina de trabalho ou o nível de decisão sobre o uso da tecnologia no órgão. As formações somam 11 programas, oferecidos pela Escola Virtual de Governo (EV.G), vinculada à Escola Nacional de Administração Pública (Enap), em parceria com o Serpro. Os cursos são gratuitos, a distância e abertos a qualquer servidor, e abrangem temas como IA generativa, ética em IA, proteção de dados pessoais",
-      "lang": "pt",
-      "depts": [
-        "Comercial",
-        "Jurídico",
-        "Gestão",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Novo app da Meta mostra criações feitas por vibe coding",
-      "description": "A Meta lançou silenciosamente o Pocket , um novo aplicativo para criar e compartilhar pequenos jogos e experiências interativas, chamados de \"gizmos\", usando comandos de inteligência artificial. O app já está disponível na App Store e no Google Play, mas a empresa ainda não fez um anúncio sobre o la",
-      "url": "https://canaltech.com.br/inteligencia-artificial/novo-app-da-meta-mostra-criacoes-feitas-por-vibe-coding/",
-      "publishedAt": "Fri, 03 Jul 2026 17:10:00 -0300",
-      "image": "https://t.ctcdn.com.br/o35a_R-0f5b8pzB7LdM_9qhgmOE=/700x394/smart/i1140309.png",
-      "source": "Canaltech IA",
-      "content": "A Meta lançou silenciosamente o Pocket , um novo aplicativo para criar e compartilhar pequenos jogos e experiências interativas, chamados de \"gizmos\", usando comandos de inteligência artificial. O app já está disponível na App Store e no Google Play, mas a empresa ainda não fez um anúncio sobre o lançamento, o que sugere que a ferramenta pode estar em fase inicial de testes. O aplicativo foi descoberto e divulgado primeiro no X por Alessandro Paluzzi, engenheiro reverso conhecido por encontrar novos aplicativos e recursos antes dos anúncios oficiais. Segundo dados da Appfigures, no entanto, o Pocket já estava disponível nas lojas desde 29 de junho. #Meta is working on a new app called Pocket 👀 ℹ️ A new creative platform to make and share gizmos. pic.twitter.com/zFjMU5jj1U - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - — Alessandro Paluzzi (@alex193a) July 2, 2026 O Pocket usa prompts de texto para gerar conteúdos interativos . Assim, até pessoas sem conhecimento em programação conseguem criar seus próprios miniapps. Além da ferramenta de criação, o aplicativo conta com um feed em que os usuários podem descobrir e testar gizmos desenvolvidos por outras pessoas. O projeto foi criado após a Meta adquirir, no início de 2026, a equipe da Gizmo, plataforma que já utilizava o conceito de vibe coding e acumulava mais de 635 mil instalações. O aplicativo original registrava 98% de avaliações positivas entre os usuários e, curiosamente, continua disponível nas lojas de aplicativos mesmo após o lançamento do Pocket pela Meta. A iniciativa reforça a estratégia da Meta de ampliar o acesso às ferramentas de criação com inteligência artificial. O Pocket ( play.google.com ) integra um ecossistema que já inclui o Vibes, de vídeos gerados por IA, e o Meta AI, focado na criação de imagens. Recentemente, a empresa também adicionou recursos de IA ao editor de vídeos Edits. O Pocket é o novo",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Comercial",
         "Educação"
       ]
     }
