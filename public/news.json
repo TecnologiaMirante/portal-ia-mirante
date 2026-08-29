@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T21:01:39.075Z",
+  "updatedAt": "2026-08-29T14:46:40.526Z",
   "count": 40,
   "articles": [
     {
@@ -40,13 +40,13 @@
       ]
     },
     {
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "description": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+      "title": "Um pesquisador antrópico acabou de nos dar uma olhada no autoaperfeiçoamento da IA",
+      "description": "Dados 10 benchmarks para comportamentos desalinhados específicos, os sistemas automatizados foram capazes de melhorar o desempenho em cada um deles sem degradar o desempenho geral.",
       "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
       "publishedAt": "Fri, 28 Aug 2026 19:30:38 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+      "content": "Dados 10 benchmarks para comportamentos desalinhados específicos, os sistemas automatizados foram capazes de melhorar o desempenho em cada um deles sem degradar o desempenho geral.",
       "lang": "en",
       "depts": []
     },
@@ -100,21 +100,22 @@
       ]
     },
     {
-      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-      "description": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
+      "title": "Anthropic obtém sua primeira vitória judicial sobre o rótulo de risco da cadeia de suprimentos do Pentágono",
+      "description": "Um juiz federal decidiu que a administração Trump classificou ilegalmente a Antrópico como um risco para a cadeia de abastecimento, dando à empresa de IA uma vitória enquanto seu segundo processo no Pentágono continua em Washington.",
       "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
       "publishedAt": "Fri, 28 Aug 2026 12:46:12 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
+      "content": "Um juiz federal decidiu que a administração Trump classificou ilegalmente a Antrópico como um risco para a cadeia de abastecimento, dando à empresa de IA uma vitória enquanto seu segundo processo no Pentágono continua em Washington.",
       "lang": "en",
       "depts": [
-        "Jurídico"
+        "Jurídico",
+        "Gestão"
       ]
     },
     {
-      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-      "description": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
+      "title": "Meta executivo sai para OpenAI enquanto o gigante da mídia social enfrenta crescente escrutínio na Índia",
+      "description": "Sandhya Devanathan supervisionará algumas operações da OpenAI no Sudeste Asiático e na Austrália em sua nova função.",
       "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
       "publishedAt": "Fri, 28 Aug 2026 12:21:06 +0000",
       "image": null,
@@ -122,18 +123,17 @@
       "content": null,
       "lang": "en",
       "depts": [
-        "Marketing",
-        "Gestão"
+        "Marketing"
       ]
     },
     {
-      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-      "description": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+      "title": "Anthropic e OpenAI estão se juntando ao estágio de IA no TechCrunch Disrupt 2026",
+      "description": "No TechCrunch Disrupt 2026, o AI Stage está de volta para se aprofundar no tópico mais quente da comunidade nos últimos anos, apresentado pelo Google for Startups.",
       "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
       "publishedAt": "Thu, 27 Aug 2026 23:16:45 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+      "content": "No TechCrunch Disrupt 2026, o AI Stage está de volta para se aprofundar no tópico mais quente da comunidade nos últimos anos, apresentado pelo Google for Startups.",
       "lang": "en",
       "depts": []
     },
@@ -149,76 +149,43 @@
       "depts": []
     },
     {
-      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-      "description": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
+      "title": "Barret Zoph, o cofundador da Thinking Machines demitido antes de ingressar na OpenAI, está agora no Google",
+      "description": "Zoph, que cofundou o Thinking Machines Lab ao lado de Mira Murati e também atuou como CTO da startup, liderou uma breve passagem pela OpenAI e agora está no Google.",
       "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
       "publishedAt": "Thu, 27 Aug 2026 19:52:52 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
+      "content": "Zoph, que cofundou o Thinking Machines Lab ao lado de Mira Murati e também atuou como CTO da startup, liderou uma breve passagem pela OpenAI e agora está no Google.",
       "lang": "en",
       "depts": []
     },
     {
-      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-      "description": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
+      "title": "OpenAI, Anthropic, Google e 100 outras empresas pedem ação para se defender contra IA desonesta",
+      "description": "Algumas das maiores empresas de tecnologia e startups de IA do mundo uniram-se para criticar o estado atual da segurança cibernética e para anunciar uma nova solução que, segundo eles, pode afastar uma nova geração de ameaças cibernéticas.",
       "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
       "publishedAt": "Thu, 27 Aug 2026 17:43:24 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
+      "content": "Algumas das maiores empresas de tecnologia e startups de IA do mundo uniram-se para criticar o estado atual da segurança cibernética e para anunciar uma nova solução que, segundo eles, pode afastar uma nova geração de ameaças cibernéticas.",
       "lang": "en",
       "depts": []
     },
     {
-      "title": "Here’s all the times AI has gone rogue and hacked other companies",
-      "description": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
+      "title": "Aqui estão todas as vezes em que a IA se tornou desonesta e hackeou outras empresas",
+      "description": "Uma recapitulação de todos os incidentes envolvendo LLMs feitos pela Anthropic, Meta e OpenAI, que se tornaram desonestos e atacaram empresas e indivíduos reais na internet.",
       "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
       "publishedAt": "Thu, 27 Aug 2026 14:01:42 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
+      "content": "Uma recapitulação de todos os incidentes envolvendo LLMs feitos pela Anthropic, Meta e OpenAI, que se tornaram desonestos e atacaram empresas e indivíduos reais na internet.",
       "lang": "en",
       "depts": []
     },
     {
-      "title": "OpenAI to start showing ads on ChatGPT s free and Go tiers in India",
-      "description": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
+      "title": "OpenAI começará a exibir anúncios nos níveis gratuito e Go do ChatGPT na Índia",
+      "description": "OpenAI tem mais de 100 milhões de usuários ChatGPT ativos semanais na Índia, uma grande parte dos quais está nos níveis Go gratuitos ou de preço mais baixo.",
       "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
       "publishedAt": "Thu, 27 Aug 2026 11:35:59 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
-      "description": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
-      "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
-      "publishedAt": "Thu, 27 Aug 2026 00:24:57 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-      "description": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
-      "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-      "publishedAt": "Wed, 26 Aug 2026 21:37:39 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Google s Gemini has a branding problem, and so does the rest of AI",
-      "description": "Consumer AI apps need to stop making users learn their product architecture.",
-      "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
-      "publishedAt": "Wed, 26 Aug 2026 19:37:34 +0000",
       "image": null,
       "source": "TechCrunch AI",
       "content": null,
@@ -226,6 +193,30 @@
       "depts": [
         "Marketing"
       ]
+    },
+    {
+      "title": "A startup de IA viral Instinct arrecadou US$ 350 milhões com uma avaliação de US$ 2,5 bilhões",
+      "description": "A startup tem apenas um ano, mas já gerou uma enorme quantidade de entusiasmo (e dinheiro), ao mesmo tempo que estimulou preocupações com a privacidade.",
+      "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+      "publishedAt": "Thu, 27 Aug 2026 00:24:57 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "Jurídico"
+      ]
+    },
+    {
+      "title": "Anthropic continua onda de consumo de computação em acordo de US$ 45 bilhões com a Nscale",
+      "description": "O novo acordo com o fornecedor de infraestrutura é o exemplo mais recente da onda de devoração de computação da Anthropic.",
+      "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+      "publishedAt": "Wed, 26 Aug 2026 21:37:39 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
     },
     {
       "title": "8 prompts para conversar com voz no ChatGPT",
@@ -524,6 +515,19 @@
         "RH",
         "Gestão",
         "Educação"
+      ]
+    },
+    {
+      "title": "12 prompts do Gemini para pesquisar, comparar e comprar um celular novo",
+      "description": "Comprar produtos de tecnologia deveria ser simples, mas quase nunca é. Você entra querendo só escolher um celular e, quando percebe, já está preso em abas, reviews que dizem coisas opostas, fichas técnicas cheias de números difíceis de comparar e promoções que aparecem e somem o tempo todo. Vale com",
+      "url": "https://canaltech.com.br/inteligencia-artificial/prompts-gemini-pesquisar-comparar-comprar-celular-novo/",
+      "publishedAt": "Sat, 04 Jul 2026 16:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/u-ApvEXeczP3CmhwQ0AK7cHkEGs=/700x394/smart/i1132313.png",
+      "source": "Canaltech IA",
+      "content": "Comprar produtos de tecnologia deveria ser simples, mas quase nunca é. Você entra querendo só escolher um celular e, quando percebe, já está preso em abas, reviews que dizem coisas opostas, fichas técnicas cheias de números difíceis de comparar e promoções que aparecem e somem o tempo todo. Vale comprar celular com 256 GB ou 512 GB hoje? Veja cenário real Celular usado: como avaliar o aparelho em 8 passos e saber se vale a pena compra No meio disso tudo, fica a sensação de que sempre falta alguma informação importante e que decidir “certo” virou mais cansativo do que deveria. É justamente aqui que o Gemini pode ajudar a organizar esse caos. A ideia deste guia é te mostrar como transformar essa busca em algo mais simples e guiado . Para isso, você pode dividir o caminho em quatro etapas: entender a categoria, comparar opções, analisar preço e só então decidir com mais segurança. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Ao longo do texto, vamos usar como exemplo alguém procurando um celular entre R$ 2.000 e R$ 2.500, mas o mesmo método funciona para notebooks, TVs, fones, consoles e outros eletrônicos do dia a dia. A seguir, confira: Etapa 1: Pesquisa de categoria Etapa 2: Comparação técnica Etapa 3: Busca de preço e custo-benefício Etapa 4: Decisão final Etapa 1: Pesquisa de categoria Antes de olhar modelo, marca ou promoção, vale dar um passo atrás e entender o cenário. É aqui que você começa a enxergar o que realmente existe dentro do seu orçamento . Nesse momento, a ideia não é escolher o modelo ainda, mas sim montar uma primeira lista de opções confiáveis para não ficar perdido depois. Nesta etapa, veja: 1. Panorama da categoria 2. Perfil de uso 3. Quais critérios usar 1. Panorama da categoria Se você ainda não sabe quais celulares fazem sentido na faixa de R$ 2.000 a R$ 2.500, o primeiro passo é pedir uma visão geral do mercado. O Gemini pode organizar isso sep",
+      "lang": "pt",
+      "depts": [
+        "Comercial"
       ]
     }
   ]
