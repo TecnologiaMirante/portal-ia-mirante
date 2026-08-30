@@ -1,7 +1,22 @@
 {
-  "updatedAt": "2026-08-29T14:46:40.526Z",
+  "updatedAt": "2026-08-30T14:34:08.491Z",
   "count": 40,
   "articles": [
+    {
+      "title": "Sony Music e Warner processam Anthropic, alegando uma campanha descarada de roubo de propriedade intelectual",
+      "description": "Este último processo é particularmente amplo e aborda acusações de pirataria ilegal.",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "publishedAt": "Sat, 29 Aug 2026 18:41:59 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "Marketing",
+        "Jurídico",
+        "Gestão"
+      ]
+    },
     {
       "title": "Esse truque pode te ajudar a rastrear o iPhone roubado com uma selfie do ladrão",
       "description": "O aplicativo Atalhos do iPhone permite criar automações que executam uma sequência de ações discretas após um gatilho, permitindo localizar o aparelho roubado Esse truque pode te ajudar a rastrear o iPhone roubado com uma selfie do ladrão",
@@ -206,17 +221,6 @@
       "depts": [
         "Jurídico"
       ]
-    },
-    {
-      "title": "Anthropic continua onda de consumo de computação em acordo de US$ 45 bilhões com a Nscale",
-      "description": "O novo acordo com o fornecedor de infraestrutura é o exemplo mais recente da onda de devoração de computação da Anthropic.",
-      "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-      "publishedAt": "Wed, 26 Aug 2026 21:37:39 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
     },
     {
       "title": "8 prompts para conversar com voz no ChatGPT",
