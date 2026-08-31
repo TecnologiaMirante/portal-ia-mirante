@@ -1,10 +1,45 @@
 {
-  "updatedAt": "2026-08-30T14:34:08.491Z",
+  "updatedAt": "2026-08-31T17:17:33.005Z",
   "count": 40,
   "articles": [
     {
-      "title": "Sony Music e Warner processam Anthropic, alegando uma campanha descarada de roubo de propriedade intelectual",
-      "description": "Este último processo é particularmente amplo e aborda acusações de pirataria ilegal.",
+      "title": "ChatGPT fora do ar: falha deixa usuários sem acesso nesta segunda (31)",
+      "description": "Problema técnico impede assinantes de começarem ou continuarem tarefas no ChatGPT Work. ChatGPT fora do ar: falha deixa usuários sem acesso nesta segunda (31)",
+      "url": "https://tecnoblog.net/noticias/chatgpt-fora-do-ar-falha-deixa-usuarios-sem-acesso-nesta-segunda-31/",
+      "publishedAt": "Mon, 31 Aug 2026 16:59:38 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-2_capa.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Gestão"
+      ]
+    },
+    {
+      "title": "Gemini Notebook agora pode puxar informações de livros que você comprou",
+      "description": "Antigo NotebookLM agora pode extrair trechos diretamente de obras compradas via Google Play Livros. Gemini Notebook agora pode puxar informações de livros que você comprou",
+      "url": "https://tecnoblog.net/noticias/gemini-notebook-agora-pode-puxar-informacoes-de-livros-que-voce-comprou/",
+      "publishedAt": "Mon, 31 Aug 2026 11:41:23 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/gemini-notebook-app.jpg",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Erro faz Claude e Codex executarem código malicioso em redes corporativas",
+      "description": "Arquivos mal configurados enganam assistentes de programação, permitindo a entrada de malwares em sistemas grandes de empresas. Erro faz Claude e Codex executarem código malicioso em redes corporativas",
+      "url": "https://tecnoblog.net/noticias/erro-faz-claude-e-codex-executarem-codigo-malicioso-em-redes-corporativas/",
+      "publishedAt": "Mon, 31 Aug 2026 11:39:37 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/06/tbr-malware.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Sony Music, Warner sue Anthropic, alleging a brazen campaign of intellectual property theft",
+      "description": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
       "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
       "publishedAt": "Sat, 29 Aug 2026 18:41:59 +0000",
       "image": null,
@@ -12,9 +47,7 @@
       "content": null,
       "lang": "en",
       "depts": [
-        "Marketing",
-        "Jurídico",
-        "Gestão"
+        "Jurídico"
       ]
     },
     {
@@ -55,13 +88,13 @@
       ]
     },
     {
-      "title": "Um pesquisador antrópico acabou de nos dar uma olhada no autoaperfeiçoamento da IA",
-      "description": "Dados 10 benchmarks para comportamentos desalinhados específicos, os sistemas automatizados foram capazes de melhorar o desempenho em cada um deles sem degradar o desempenho geral.",
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "description": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
       "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
       "publishedAt": "Fri, 28 Aug 2026 19:30:38 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "Dados 10 benchmarks para comportamentos desalinhados específicos, os sistemas automatizados foram capazes de melhorar o desempenho em cada um deles sem degradar o desempenho geral.",
+      "content": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
       "lang": "en",
       "depts": []
     },
@@ -115,22 +148,21 @@
       ]
     },
     {
-      "title": "Anthropic obtém sua primeira vitória judicial sobre o rótulo de risco da cadeia de suprimentos do Pentágono",
-      "description": "Um juiz federal decidiu que a administração Trump classificou ilegalmente a Antrópico como um risco para a cadeia de abastecimento, dando à empresa de IA uma vitória enquanto seu segundo processo no Pentágono continua em Washington.",
+      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+      "description": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
       "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
       "publishedAt": "Fri, 28 Aug 2026 12:46:12 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "Um juiz federal decidiu que a administração Trump classificou ilegalmente a Antrópico como um risco para a cadeia de abastecimento, dando à empresa de IA uma vitória enquanto seu segundo processo no Pentágono continua em Washington.",
+      "content": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
       "lang": "en",
       "depts": [
-        "Jurídico",
-        "Gestão"
+        "Jurídico"
       ]
     },
     {
-      "title": "Meta executivo sai para OpenAI enquanto o gigante da mídia social enfrenta crescente escrutínio na Índia",
-      "description": "Sandhya Devanathan supervisionará algumas operações da OpenAI no Sudeste Asiático e na Austrália em sua nova função.",
+      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+      "description": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
       "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
       "publishedAt": "Fri, 28 Aug 2026 12:21:06 +0000",
       "image": null,
@@ -138,89 +170,42 @@
       "content": null,
       "lang": "en",
       "depts": [
-        "Marketing"
+        "Marketing",
+        "Gestão"
       ]
     },
     {
-      "title": "Anthropic e OpenAI estão se juntando ao estágio de IA no TechCrunch Disrupt 2026",
-      "description": "No TechCrunch Disrupt 2026, o AI Stage está de volta para se aprofundar no tópico mais quente da comunidade nos últimos anos, apresentado pelo Google for Startups.",
+      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+      "description": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
       "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
       "publishedAt": "Thu, 27 Aug 2026 23:16:45 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "No TechCrunch Disrupt 2026, o AI Stage está de volta para se aprofundar no tópico mais quente da comunidade nos últimos anos, apresentado pelo Google for Startups.",
+      "content": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
       "lang": "en",
       "depts": []
     },
     {
-      "title": "OpenAI ignorou sinais de que havia algo errado com IA que fugiu de teste",
-      "description": "Relatórios mostram que, meses antes do ataque à Hugging Face, a desenvolvedora descobriu que os agentes de IA trocavam mensagens e acessavam a internet. OpenAI ignorou sinais de que havia algo errado com IA que fugiu de teste",
-      "url": "https://tecnoblog.net/noticias/openai-ignorou-sinais-de-que-havia-algo-errado-com-ia-que-fugiu-de-teste/",
-      "publishedAt": "Thu, 27 Aug 2026 20:48:54 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/08/openai-4_capa-edited.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "Barret Zoph, o cofundador da Thinking Machines demitido antes de ingressar na OpenAI, está agora no Google",
-      "description": "Zoph, que cofundou o Thinking Machines Lab ao lado de Mira Murati e também atuou como CTO da startup, liderou uma breve passagem pela OpenAI e agora está no Google.",
+      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+      "description": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
       "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
       "publishedAt": "Thu, 27 Aug 2026 19:52:52 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "Zoph, que cofundou o Thinking Machines Lab ao lado de Mira Murati e também atuou como CTO da startup, liderou uma breve passagem pela OpenAI e agora está no Google.",
+      "content": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
       "lang": "en",
       "depts": []
     },
     {
-      "title": "OpenAI, Anthropic, Google e 100 outras empresas pedem ação para se defender contra IA desonesta",
-      "description": "Algumas das maiores empresas de tecnologia e startups de IA do mundo uniram-se para criticar o estado atual da segurança cibernética e para anunciar uma nova solução que, segundo eles, pode afastar uma nova geração de ameaças cibernéticas.",
+      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+      "description": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
       "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
       "publishedAt": "Thu, 27 Aug 2026 17:43:24 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "Algumas das maiores empresas de tecnologia e startups de IA do mundo uniram-se para criticar o estado atual da segurança cibernética e para anunciar uma nova solução que, segundo eles, pode afastar uma nova geração de ameaças cibernéticas.",
+      "content": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
       "lang": "en",
       "depts": []
-    },
-    {
-      "title": "Aqui estão todas as vezes em que a IA se tornou desonesta e hackeou outras empresas",
-      "description": "Uma recapitulação de todos os incidentes envolvendo LLMs feitos pela Anthropic, Meta e OpenAI, que se tornaram desonestos e atacaram empresas e indivíduos reais na internet.",
-      "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
-      "publishedAt": "Thu, 27 Aug 2026 14:01:42 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Uma recapitulação de todos os incidentes envolvendo LLMs feitos pela Anthropic, Meta e OpenAI, que se tornaram desonestos e atacaram empresas e indivíduos reais na internet.",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "OpenAI começará a exibir anúncios nos níveis gratuito e Go do ChatGPT na Índia",
-      "description": "OpenAI tem mais de 100 milhões de usuários ChatGPT ativos semanais na Índia, uma grande parte dos quais está nos níveis Go gratuitos ou de preço mais baixo.",
-      "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
-      "publishedAt": "Thu, 27 Aug 2026 11:35:59 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Marketing"
-      ]
-    },
-    {
-      "title": "A startup de IA viral Instinct arrecadou US$ 350 milhões com uma avaliação de US$ 2,5 bilhões",
-      "description": "A startup tem apenas um ano, mas já gerou uma enorme quantidade de entusiasmo (e dinheiro), ao mesmo tempo que estimulou preocupações com a privacidade.",
-      "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
-      "publishedAt": "Thu, 27 Aug 2026 00:24:57 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Jurídico"
-      ]
     },
     {
       "title": "8 prompts para conversar com voz no ChatGPT",
@@ -532,6 +517,21 @@
       "lang": "pt",
       "depts": [
         "Comercial"
+      ]
+    },
+    {
+      "title": "IA pode destruir a bateria do seu celular; veja como resolver",
+      "description": "A inteligência artificial está cada vez mais presente nos smartphones, sendo integrada ao sistema e a diversos aplicativos para executar tarefas, como resumos de notificações, edição de fotos, sugestões personalizadas, além de atuar como assistentes de voz avançados. 15 recursos secretos do Apple In",
+      "url": "https://canaltech.com.br/inteligencia-artificial/ia-pode-destruir-a-bateria-do-seu-celular-veja-como-resolver/",
+      "publishedAt": "Sat, 04 Jul 2026 12:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/ZHTeRLBEvZ9V6ryjoDtw8E9DI2E=/700x394/smart/i1086691.jpeg",
+      "source": "Canaltech IA",
+      "content": "A inteligência artificial está cada vez mais presente nos smartphones, sendo integrada ao sistema e a diversos aplicativos para executar tarefas, como resumos de notificações, edição de fotos, sugestões personalizadas, além de atuar como assistentes de voz avançados. 15 recursos secretos do Apple Intelligence que a Apple \"escondeu\" Qual celular tem a melhor IA para tirar pessoas indesejadas das suas fotos? Apesar de trazer mais praticidade no dia a dia, isso tem um custo invisível: a necessidade de processamento constante . No próprio aparelho ou na nuvem, essas ferramentas permanecem ativas em segundo plano e podem consumir energia de forma contínua, o que acaba com a bateria sem que o usuário perceba. A seguir, tire suas dúvidas sobre: - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Por que a IA consome tanta energia? Como ajustar a IA no iPhone para economizar bateria? Como reduzir o consumo de IA no Android? Como ter certeza que a IA é realmente o problema? Por que a IA consome tanta energia? A IA nos celulares funciona de forma diferente dos aplicativos tradicionais. Ela não é ativada apenas quando o usuário abre um app, ela permanece parcialmente ativa o tempo todo para realizar tarefas, como a análise de fotos, interpretação de comandos de voz e geração de sugestões em tempo real. O custo oculto aparece justamente nessa ideia de IA “sempre disponível”. Para que ela responda imediatamente, são executados processos contínuos em segundo plano , com previsão de ações e análise de padrões de uso. Quanto maior o nível de personalização, maior o volume de dados processados de forma constante, o que aumenta o consumo de energia ao longo do dia. Como ajustar a IA no iPhone para economizar bateria? No iPhone, alguns recursos ligados à Apple Intelligence e à Siri podem impactar a autonomia da bateria. O ideal é revisar quais funções realmente são necessárias no uso diário. Po",
+      "lang": "pt",
+      "depts": [
+        "Financeiro",
+        "Gestão",
+        "Educação"
       ]
     }
   ]
