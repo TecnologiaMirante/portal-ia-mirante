@@ -2,7 +2,7 @@
  * AICreations — live gallery connected to Firestore
  * Supports: video (YouTube / direct), image, and audio creations
  */
-import { useEffect, useState, useCallback, useMemo, useRef } from "react";
+import { useEffect, useLayoutEffect, useState, useCallback, useMemo, useRef } from "react";
 import { collection, onSnapshot, doc, updateDoc, increment } from "firebase/firestore";
 import { db } from "@infra/firebase";
 import {
@@ -190,6 +190,17 @@ function CustomVideoPlayer({ src, poster }) {
 
   useEffect(() => { playingRef.current = playing; }, [playing]);
 
+  /* trigger play as early as possible — useLayoutEffect runs before paint,
+     keeping it within the browser's user-gesture activation window */
+  useLayoutEffect(() => {
+    const v = videoRef.current;
+    if (!v) return;
+    v.play().catch(() => {
+      // retry once browser signals it has enough data
+      v.addEventListener("canplay", () => v.play().catch(() => {}), { once: true });
+    });
+  }, []);
+
   /* auto-hide controls after 3s of inactivity */
   const reveal = useCallback(() => {
     setShowCtrl(true);
@@ -225,7 +236,6 @@ function CustomVideoPlayer({ src, poster }) {
     v.addEventListener("canplay",          onCan);
     v.addEventListener("ended",            onEnd);
     document.addEventListener("fullscreenchange", onFS);
-    v.play().catch(() => {});
     return () => {
       v.removeEventListener("play",           onPlay);
       v.removeEventListener("pause",          onPause);
@@ -338,6 +348,7 @@ function CustomVideoPlayer({ src, poster }) {
         onContextMenu={(e) => e.preventDefault()}
         controlsList="nodownload noremoteplayback"
         disablePictureInPicture
+        autoPlay
         playsInline
         style={{ cursor: showCtrl ? "default" : "none" }}
       />
@@ -827,6 +838,22 @@ function MediaModal({ creation, onClose, onWantSimilar }) {
           onClose={() => setFsOpen(false)}
         />
       )}
+
+      {/* Preload adjacent direct-video files so switching is instant */}
+      {items.map((it, i) => {
+        if (i === idx || it.type !== "video" || getYouTubeId(it.url)) return null;
+        return (
+          <video
+            key={`preload-${it.url}`}
+            src={it.url}
+            preload="auto"
+            muted
+            playsInline
+            aria-hidden="true"
+            style={{ position: "fixed", width: 0, height: 0, opacity: 0, pointerEvents: "none", zIndex: -1 }}
+          />
+        );
+      })}
 
       <div
         className="fixed inset-0 z-[90] flex items-center justify-center p-4 sm:p-6 animate-in fade-in duration-200"

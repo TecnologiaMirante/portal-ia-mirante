@@ -369,7 +369,7 @@ portal-ia-mirante/
 │   └── ...                       # Outros assets estáticos
 │
 ├── firebaseClient/
-│   └── index.js                  # Inicialização do Firebase (auth, db, storage)
+│   └── index.js                  # Inicialização do Firebase — usa persistentLocalCache (IndexedDB) para Firestore
 │
 ├── src/
 │   ├── assets/                   # Logos e imagens estáticas
@@ -451,15 +451,17 @@ Navegue até `/admin/login` e autentique com e-mail e senha cadastrados no Fireb
 1. Clique em **Nova criação** no dashboard
 2. Preencha: **Título**, **Autor**, **Área**, **Ferramentas usadas**, **Descrição**
 3. Escolha o tipo de mídia:
-   - **URL** — cole um link do YouTube
-   - **Upload** — envie vídeo, imagem ou áudio
+   - **URL** — cole um link do YouTube (um vídeo por publicação)
+   - **Upload** — arraste ou selecione **múltiplos arquivos** de uma vez (vídeo, imagem e/ou áudio, sem limite de quantidade)
 4. Clique em **Publicar**
+
+> No portal, criações com mais de um item exibem um carrossel com setas de navegação e dots indicadores.
 
 ### Editando uma Publicação
 
-- A mídia atual é exibida em tempo real no formulário
-- Para substituir: faça upload de um novo arquivo (o arquivo antigo é deletado automaticamente do Storage)
-- Para remover sem substituir: clique em **Remover mídia** e adicione uma nova antes de salvar
+- Os itens de mídia já publicados aparecem listados com miniatura e botão **✕** para remover individualmente
+- O drop zone exibido abaixo permite adicionar mais arquivos por cima dos existentes
+- Ao salvar: itens removidos são deletados do Storage automaticamente; novos arquivos são feitos upload e somados aos existentes
 
 ---
 
