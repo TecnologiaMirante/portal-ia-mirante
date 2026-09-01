@@ -3,7 +3,7 @@
  * Supports: video (YouTube / direct), image, and audio creations
  */
 import { useEffect, useState, useCallback, useMemo, useRef } from "react";
-import { collection, onSnapshot } from "firebase/firestore";
+import { collection, onSnapshot, doc, updateDoc, increment } from "firebase/firestore";
 import { db } from "@infra/firebase";
 import {
   Play, Pause,
@@ -30,9 +30,13 @@ import {
   ChevronLeft,
   ChevronRight,
   Layers,
+  Sparkles,
+  Heart,
 } from "lucide-react";
 import { TiltCard } from "@/components/effects/TiltCard";
 import { aiTools } from "@/data/aiTools";
+import { CaseSubmitModal } from "@/components/CaseSubmitModal";
+import { SimilarRequestModal } from "@/components/SimilarRequestModal";
 
 const PAGE_SIZE = 8;
 
@@ -91,6 +95,41 @@ const GRADIENTS = [
   "from-amber-500/40 via-orange-500/30 to-rose-500/40",
   "from-sky-500/40 via-blue-500/30 to-violet-500/40",
 ];
+
+/* ─── LikeButton ─────────────────────────────────────────── */
+function LikeButton({ creation, stopPropagation = false }) {
+  const [liked, setLiked] = useState(() => {
+    try { return localStorage.getItem(`liked_${creation.id}`) === "1"; } catch { return false; }
+  });
+  const [count, setCount] = useState(creation.likes ?? 0);
+
+  const handleLike = async (e) => {
+    if (stopPropagation) e.stopPropagation();
+    if (liked) return;
+    try {
+      await updateDoc(doc(db, "creations", creation.id), { likes: increment(1) });
+    } catch { /* Firestore indisponível — atualiza só localmente */ }
+    setCount((c) => c + 1);
+    setLiked(true);
+    try { localStorage.setItem(`liked_${creation.id}`, "1"); } catch {}
+  };
+
+  return (
+    <button
+      onClick={handleLike}
+      title={liked ? "Você curtiu isso!" : "Curtir"}
+      className={[
+        "flex items-center gap-1.5 px-2.5 py-1 rounded-xl text-xs font-semibold border transition-all duration-200",
+        liked
+          ? "bg-rose-500/10 border-rose-500/30 text-rose-500 cursor-default"
+          : "border-border text-muted-foreground hover:border-rose-500/30 hover:text-rose-500 hover:bg-rose-500/8 active:scale-95",
+      ].join(" ")}
+    >
+      <Heart className={`w-3.5 h-3.5 transition-all ${liked ? "fill-rose-500 scale-110" : ""}`} />
+      {count > 0 && <span>{count}</span>}
+    </button>
+  );
+}
 
 /* ─── AiBadge ────────────────────────────────────────────── */
 function AiBadge({ name }) {
@@ -730,7 +769,7 @@ function FullscreenImageViewer({ items, startIdx, onClose }) {
 }
 
 /* ─── MediaModal ─────────────────────────────────────────── */
-function MediaModal({ creation, onClose }) {
+function MediaModal({ creation, onClose, onWantSimilar }) {
   const items = getMediaItems(creation);
   const [idx, setIdx] = useState(0);
   const [fsOpen, setFsOpen] = useState(false);
@@ -971,6 +1010,18 @@ function MediaModal({ creation, onClose }) {
                 ))}
               </div>
             )}
+
+            {/* Ações — curtir + quero fazer algo parecido */}
+            <div className="pt-3 border-t border-border/50 flex items-center gap-3">
+              <LikeButton creation={creation} />
+              <button
+                onClick={() => onWantSimilar?.((creation.aiUsed ?? [])[0] ?? "", creation.title ?? "")}
+                className="flex-1 flex items-center justify-center gap-2 h-10 rounded-xl border border-primary/30 bg-primary/5 text-primary text-sm font-semibold hover:bg-primary/12 hover:border-primary/50 transition-all"
+              >
+                <Sparkles className="w-4 h-4" />
+                Quero fazer algo parecido
+              </button>
+            </div>
           </div>
         </div>
       </div>
@@ -1116,13 +1167,14 @@ function CreationCard({ creation, index, onClick }) {
           )}
         </div>
 
-        {(creation.aiUsed ?? []).length > 0 && (
-          <div className="flex flex-wrap gap-1.5 px-4 pb-4 pt-3 border-t border-border/60">
-            {creation.aiUsed.map((t) => (
+        <div className="flex items-center justify-between px-4 pb-4 pt-3 border-t border-border/60 gap-2">
+          <div className="flex flex-wrap gap-1.5 flex-1">
+            {(creation.aiUsed ?? []).map((t) => (
               <AiBadge key={t} name={t} />
             ))}
           </div>
-        )}
+          <LikeButton creation={creation} stopPropagation />
+        </div>
       </TiltCard>
     </div>
   );
@@ -1143,6 +1195,13 @@ export function AICreations() {
   const [sortOrder,     setSortOrder]     = useState("desc");
   const [visibleCount,  setVisibleCount]  = useState(PAGE_SIZE);
   const [showToolFilter, setShowToolFilter] = useState(false);
+
+  const [caseFormOpen, setCaseFormOpen] = useState(false);
+  const [caseFormTool, setCaseFormTool] = useState("");
+
+  const [similarOpen,      setSimilarOpen]      = useState(false);
+  const [similarTool,      setSimilarTool]      = useState("");
+  const [similarTitle,     setSimilarTitle]     = useState("");
 
   useEffect(() => {
     const unsub = onSnapshot(
@@ -1249,19 +1308,28 @@ export function AICreations() {
               </p>
             </div>
 
-            <div className="reveal reveal-delay-1 flex items-center gap-2 px-3 py-1.5 rounded-full border border-border bg-card text-xs text-muted-foreground">
-              <span
-                className={`w-1.5 h-1.5 rounded-full shrink-0 ${
-                  error ? "bg-destructive"
-                    : loading ? "bg-amber-400 animate-pulse"
-                    : "bg-emerald-400 animate-pulse"
-                }`}
-              />
-              {loading
-                ? "Carregando…"
-                : error
-                  ? "Erro ao carregar"
-                  : `${filtered.length} criaç${filtered.length !== 1 ? "ões" : "ão"}`}
+            <div className="reveal reveal-delay-1 flex flex-col items-end gap-2">
+              <div className="flex items-center gap-2 px-3 py-1.5 rounded-full border border-border bg-card text-xs text-muted-foreground">
+                <span
+                  className={`w-1.5 h-1.5 rounded-full shrink-0 ${
+                    error ? "bg-destructive"
+                      : loading ? "bg-amber-400 animate-pulse"
+                      : "bg-emerald-400 animate-pulse"
+                  }`}
+                />
+                {loading
+                  ? "Carregando…"
+                  : error
+                    ? "Erro ao carregar"
+                    : `${filtered.length} criaç${filtered.length !== 1 ? "ões" : "ão"}`}
+              </div>
+              <button
+                onClick={() => { setCaseFormTool(""); setCaseFormOpen(true); }}
+                className="flex items-center gap-1.5 px-4 py-1.5 rounded-full border border-primary/30 bg-primary/8 text-primary text-xs font-semibold hover:bg-primary/15 hover:border-primary/50 transition-all"
+              >
+                <Sparkles className="w-3 h-3" />
+                Envie seu caso
+              </button>
             </div>
           </div>
 
@@ -1485,7 +1553,31 @@ export function AICreations() {
         <div className="section-divider mt-4" />
       </section>
 
-      {active && <MediaModal creation={active} onClose={closeModal} />}
+      {active && (
+        <MediaModal
+          creation={active}
+          onClose={closeModal}
+          onWantSimilar={(tool, title) => {
+            closeModal();
+            setSimilarTool(tool);
+            setSimilarTitle(title);
+            setSimilarOpen(true);
+          }}
+        />
+      )}
+
+      <CaseSubmitModal
+        open={caseFormOpen}
+        onClose={() => setCaseFormOpen(false)}
+        prefilledTool={caseFormTool}
+      />
+
+      <SimilarRequestModal
+        open={similarOpen}
+        onClose={() => setSimilarOpen(false)}
+        referenceTitle={similarTitle}
+        prefilledTool={similarTool}
+      />
     </>
   );
 }

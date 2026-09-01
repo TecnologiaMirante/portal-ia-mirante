@@ -10,6 +10,7 @@ const navLinks = [
   { label: "Ferramentas", href: "#ferramentas"     },
   { label: "Portais IA",  href: "#implementacoes"  },
   { label: "Criações",    href: "#criacoes"        },
+  { label: "Desafio",     href: "#desafio"         },
   { label: "Notícias IA", href: "#noticias-ia"     },
   { label: "🏆 Prêmio IA", href: "#premio-ia"      },
 ];

@@ -1,0 +1,454 @@
+{
+  "prompts": [
+    {
+      "id": 1,
+      "area": "Marketing",
+      "tool": "ChatGPT",
+      "toolColor": "#10a37f",
+      "title": "Legenda para redes sociais",
+      "prompt": "Crie 3 opções de legenda para [LinkedIn/Instagram] sobre [descreva o tema em 1 frase], com tom [profissional/descontraído/inspiracional]. Inclua call-to-action e até 5 hashtags relevantes para cada opção.",
+      "example": "Crie 3 opções de legenda para o LinkedIn sobre a entrega de um projeto de transformação digital, com tom profissional e inspiracional. Inclua call-to-action e até 5 hashtags relevantes para cada opção."
+    },
+    {
+      "id": 2,
+      "area": "Marketing",
+      "tool": "ChatGPT",
+      "toolColor": "#10a37f",
+      "title": "Roteiro de vídeo curto",
+      "prompt": "Crie um roteiro para um vídeo de [30/60/90] segundos sobre [tema]. Formato: gancho inicial (5s), desenvolvimento (corpo principal), encerramento com CTA. Tom: [formal/descontraído]. Indique o que aparece em tela em cada momento.",
+      "example": "Crie um roteiro para um vídeo de 60 segundos apresentando o novo portal de IA da empresa. Formato: gancho inicial, desenvolvimento e encerramento com CTA. Tom descontraído. Indique o que aparece em tela em cada momento."
+    },
+    {
+      "id": 3,
+      "area": "Marketing",
+      "tool": "Gemini",
+      "toolColor": "#4285f4",
+      "title": "Análise de concorrente",
+      "prompt": "Pesquise e faça uma análise do posicionamento de marketing de [empresa concorrente] no mercado brasileiro. Identifique: mensagem principal, canais usados, pontos fortes, pontos fracos percebidos e 2 oportunidades que isso abre para nós.",
+      "example": "Pesquise e faça uma análise do posicionamento de marketing da Agência XYZ no mercado brasileiro. Identifique: mensagem principal, canais usados, pontos fortes, pontos fracos e 2 oportunidades que isso abre para nós."
+    },
+    {
+      "id": 4,
+      "area": "Marketing",
+      "tool": "ChatGPT",
+      "toolColor": "#10a37f",
+      "title": "E-mail marketing",
+      "prompt": "Escreva um e-mail marketing para [produto/serviço/evento] direcionado a [perfil do público]. Objetivo: [gerar cadastros/divulgar/converter]. Inclua: assunto irresistível, subtítulo, corpo com benefícios claros, CTA e PS. Máx. 250 palavras no corpo.",
+      "example": "Escreva um e-mail marketing para o lançamento de um novo módulo de BI direcionado a gestores financeiros. Objetivo: gerar demonstrações agendadas. Inclua assunto, subtítulo, corpo, CTA e PS. Máx. 250 palavras."
+    },
+    {
+      "id": 5,
+      "area": "Marketing",
+      "tool": "ChatGPT",
+      "toolColor": "#10a37f",
+      "title": "Pauta de conteúdo mensal",
+      "prompt": "Crie uma pauta de conteúdo para [canal: blog/LinkedIn/Instagram] para o mês de [mês]. Tema central do mês: [tema]. Gere 12 ideias de posts com: título chamativo, formato sugerido (artigo/carrossel/vídeo/enquete), objetivo (educar/engajar/converter) e semana de publicação.",
+      "example": "Crie uma pauta de conteúdo para o LinkedIn para outubro. Tema central: Inteligência Artificial nas empresas. Gere 12 ideias com título, formato, objetivo e semana de publicação."
+    },
+    {
+      "id": 6,
+      "area": "Comercial",
+      "tool": "Claude",
+      "toolColor": "#d97706",
+      "title": "Proposta comercial",
+      "prompt": "Escreva uma proposta comercial para [produto/serviço] destinada a [tipo de cliente/setor]. Inclua: resumo executivo, problema que resolvemos, nossa solução, diferenciais, próximos passos e prazo de validade. Tom: profissional e consultivo. Sem mencionar preço — será abordado na reunião.",
+      "example": "Escreva uma proposta comercial para serviços de consultoria em transformação digital destinada a empresas de médio porte do setor educacional. Inclua resumo executivo, problema, solução, diferenciais e próximos passos."
+    },
+    {
+      "id": 7,
+      "area": "Comercial",
+      "tool": "ChatGPT",
+      "toolColor": "#10a37f",
+      "title": "Rebater objeções de venda",
+      "prompt": "Estou negociando com um cliente que levantou as seguintes objeções:\n\n[LISTE AS OBJEÇÕES]\n\nCrie respostas empáticas e consultivas para cada uma, sem parecer defensivo. Use a técnica: reconhecer → reformular → evidência → pergunta de avanço.",
+      "example": "Cliente disse: 'O preço está acima do orçamento', 'Já temos uma solução interna' e 'Precisamos aprovar com o conselho'. Crie respostas empáticas para cada objeção usando a técnica: reconhecer → reformular → evidência → pergunta de avanço."
+    },
+    {
+      "id": 8,
+      "area": "Comercial",
+      "tool": "Claude",
+      "toolColor": "#d97706",
+      "title": "Follow-up de reunião comercial",
+      "prompt": "Escreva um e-mail de follow-up para uma reunião comercial com [cargo/nome do contato] de [empresa]. O que foi discutido: [resumo]. Próximos passos acordados: [o que ficou combinado]. Tom: profissional e proativo. Reforce o valor, confirme o combinado e facilite o próximo passo.",
+      "example": "Escreva um e-mail de follow-up para reunião com o Diretor de TI da Empresa X. Discutimos a implantação de um módulo de BI. Ficou combinado enviar proposta até sexta. Tom profissional e proativo."
+    },
+    {
+      "id": 9,
+      "area": "Comercial",
+      "tool": "ChatGPT",
+      "toolColor": "#10a37f",
+      "title": "Apresentação de produto/serviço",
+      "prompt": "Crie um roteiro de pitch de [5/10/15] minutos para apresentar [produto/serviço] para [perfil do público]. Estrutura: abertura com problema, agitação do problema, apresentação da solução, prova social, demonstração, proposta de valor, CTA. Inclua sugestões de perguntas para engajar a audiência.",
+      "example": "Crie um roteiro de pitch de 10 minutos para apresentar nosso portal de IA para gestores de RH. Estrutura completa com abertura, problema, solução, prova social e CTA."
+    },
+    {
+      "id": 10,
+      "area": "Comercial",
+      "tool": "Gemini",
+      "toolColor": "#4285f4",
+      "title": "Análise de oportunidade de mercado",
+      "prompt": "Pesquise o mercado de [segmento] no Brasil e identifique: tamanho estimado do mercado, principais players, tendências de crescimento nos próximos 2 anos, e 3 oportunidades concretas para uma empresa de [nosso perfil] entrar ou se expandir nesse segmento.",
+      "example": "Pesquise o mercado de soluções de BI para pequenas e médias empresas no Brasil. Identifique tamanho, principais players, tendências e 3 oportunidades para uma empresa de tecnologia regional."
+    },
+    {
+      "id": 11,
+      "area": "RH",
+      "tool": "Claude",
+      "toolColor": "#d97706",
+      "title": "Descrição de vaga",
+      "prompt": "Escreva uma descrição de vaga para [cargo] na área de [departamento]. A empresa é [perfil da empresa]. Inclua: missão do cargo, responsabilidades principais, requisitos obrigatórios, diferenciais desejáveis, o que oferecemos e como se candidatar. Tom: acolhedor e direto. Evite jargões e linguagem excludente.",
+      "example": "Escreva uma descrição de vaga para Analista de Marketing Digital na área de Comunicação. Empresa de tecnologia de médio porte, cultura colaborativa. Inclua missão, responsabilidades, requisitos e benefícios."
+    },
+    {
+      "id": 12,
+      "area": "RH",
+      "tool": "Claude",
+      "toolColor": "#d97706",
+      "title": "Feedback estruturado",
+      "prompt": "Preciso dar feedback para [colaborador/situação]. O que aconteceu: [descreva o comportamento ou situação]. Use o modelo SCI (Situação → Comportamento → Impacto) para estruturar um feedback construtivo, direto e empático. Inclua uma pergunta final para abrir diálogo.",
+      "example": "Preciso dar feedback para um analista que não entregou o relatório no prazo combinado e não avisou com antecedência. Use o modelo SCI para estruturar um feedback construtivo, direto e empático."
+    },
+    {
+      "id": 13,
+      "area": "RH",
+      "tool": "ChatGPT",
+      "toolColor": "#10a37f",
+      "title": "Roteiro de entrevista",
+      "prompt": "Crie um roteiro de entrevista para a vaga de [cargo]. Foco em avaliar: [liste 3-4 competências prioritárias]. Gere: 5 perguntas comportamentais (situação passada), 3 perguntas situacionais (como agiria), 2 perguntas técnicas e 1 pergunta de encerramento. Inclua o que observar em cada resposta.",
+      "example": "Crie um roteiro de entrevista para a vaga de Gerente de Projetos. Foco em avaliar: liderança, gestão de conflitos, orientação a resultados e comunicação. Perguntas comportamentais, situacionais, técnicas e de encerramento."
+    },
+    {
+      "id": 14,
+      "area": "RH",
+      "tool": "Claude",
+      "toolColor": "#d97706",
+      "title": "Comunicado interno",
+      "prompt": "Escreva um comunicado interno sobre [assunto] para [público: toda a empresa / equipe específica]. Tom: [formal / próximo e humano]. Inclua: contexto, o que muda, quando entra em vigor e contato para dúvidas. Máx. 200 palavras. Comece com o ponto mais importante.",
+      "example": "Escreva um comunicado interno sobre a mudança do benefício de home office para toda a empresa. Tom próximo e humano. Inclua contexto, o que muda, data de início e contato para dúvidas."
+    },
+    {
+      "id": 15,
+      "area": "RH",
+      "tool": "ChatGPT",
+      "toolColor": "#10a37f",
+      "title": "Plano de Desenvolvimento Individual (PDI)",
+      "prompt": "Ajude a estruturar um PDI para [cargo] com foco em desenvolver [competência ou objetivo]. Crie: objetivo principal em 6 meses, 3 ações concretas com prazo, recursos sugeridos (cursos, livros, práticas no trabalho) e como medir o progresso. Formato prático e aplicável.",
+      "example": "Estruture um PDI para um Analista de Dados com foco em desenvolver habilidades de comunicação e storytelling com dados. Objetivo em 6 meses, 3 ações com prazo, recursos e métricas de progresso."
+    },
+    {
+      "id": 16,
+      "area": "Financeiro",
+      "tool": "Claude",
+      "toolColor": "#d97706",
+      "title": "Resumo de relatório financeiro",
+      "prompt": "Resuma o seguinte relatório financeiro em um briefing executivo de uma página:\n\n[COLE O CONTEÚDO DO RELATÓRIO]\n\nDestaque: principais indicadores, variações mais relevantes vs. período anterior, pontos de atenção e recomendações. Escreva para um leitor que não tem formação financeira.",
+      "example": "Resuma um relatório de DRE do trimestre em briefing executivo. Destaque indicadores principais, variações vs. trimestre anterior, pontos de atenção e recomendações para não-financeiros."
+    },
+    {
+      "id": 17,
+      "area": "Financeiro",
+      "tool": "ChatGPT",
+      "toolColor": "#10a37f",
+      "title": "Análise de variações orçamentárias",
+      "prompt": "Analise as seguintes variações entre orçado e realizado:\n\n[COLE OS DADOS]\n\nPara cada variação significativa (acima de [X]%): explique a possível causa, classifique como controlável ou não, e sugira uma ação corretiva. Ao final, dê uma avaliação geral do desempenho do período.",
+      "example": "Analise variações orçamentárias do mês: receita 8% abaixo, custo de pessoal 12% acima, marketing 25% abaixo do previsto. Para cada variação: causa provável, se é controlável e ação corretiva sugerida."
+    },
+    {
+      "id": 18,
+      "area": "Financeiro",
+      "tool": "Gamma",
+      "toolColor": "#8b5cf6",
+      "title": "Apresentação de resultados",
+      "prompt": "Crie uma estrutura de apresentação de resultados [mensais/trimestrais/anuais] para a diretoria. Dados: [descreva os principais números]. Inclua: slide de sumário executivo, performance vs. meta, destaques positivos, pontos de atenção, projeção e próximos passos. Tom: objetivo e confiante.",
+      "example": "Estruture uma apresentação de resultados trimestrais para a diretoria. Receita cresceu 15%, margem caiu 2%, inadimplência em alta. Inclua sumário, performance vs. meta, destaques, riscos e próximos passos."
+    },
+    {
+      "id": 19,
+      "area": "Financeiro",
+      "tool": "ChatGPT",
+      "toolColor": "#10a37f",
+      "title": "Projeção de cenários",
+      "prompt": "Crie uma análise de cenários para [situação ou decisão financeira]. Contexto atual: [descreva]. Gere 3 cenários: pessimista, base e otimista. Para cada um: premissas principais, impacto financeiro estimado, probabilidade (baixa/média/alta) e ação recomendada.",
+      "example": "Crie análise de cenários para a decisão de expandir a equipe em 30%. Contexto: crescimento de 20% no pipeline, mas incerteza econômica. Gere cenários pessimista, base e otimista com impacto e recomendação."
+    },
+    {
+      "id": 20,
+      "area": "Financeiro",
+      "tool": "Claude",
+      "toolColor": "#d97706",
+      "title": "Justificativa de investimento",
+      "prompt": "Escreva uma justificativa de investimento para [projeto/ferramenta/contratação]. Inclua: problema ou oportunidade identificada, solução proposta, investimento necessário, retorno esperado (quantitativo e qualitativo), riscos e mitigações, e recomendação final. Tom: executivo e baseado em dados.",
+      "example": "Escreva uma justificativa de investimento para a contratação de uma plataforma de BI. Inclua problema, solução, custo, ROI esperado, riscos e recomendação executiva."
+    },
+    {
+      "id": 21,
+      "area": "TI",
+      "tool": "Claude",
+      "toolColor": "#d97706",
+      "title": "Documentação de sistema",
+      "prompt": "Crie a documentação técnica para [sistema/módulo/API]. Inclua: visão geral e propósito, arquitetura simplificada, principais funcionalidades, dependências, como instalar/configurar, exemplos de uso e troubleshooting com erros comuns. Público: desenvolvedores que nunca viram o sistema.",
+      "example": "Crie documentação técnica para uma API REST de autenticação. Inclua visão geral, arquitetura, funcionalidades, dependências, configuração, exemplos e troubleshooting."
+    },
+    {
+      "id": 22,
+      "area": "TI",
+      "tool": "ChatGPT",
+      "toolColor": "#10a37f",
+      "title": "Análise de bug",
+      "prompt": "Analise o seguinte erro e me ajude a debugar:\n\nErro: [mensagem de erro ou stack trace]\nContexto: [linguagem, framework, o que estava tentando fazer]\nJá tentei: [o que você já fez]\n\nExplique: o que provavelmente causou o erro, como reproduzi-lo de forma controlada, e 3 abordagens para resolver, da mais simples à mais profunda.",
+      "example": "Analise o erro 'Cannot read properties of undefined (reading map)' em React. Contexto: componente de lista, dados vindo de API. Já verifiquei se a API retorna. Explique causa, como reproduzir e 3 soluções."
+    },
+    {
+      "id": 23,
+      "area": "TI",
+      "tool": "Claude",
+      "toolColor": "#d97706",
+      "title": "Revisão de código",
+      "prompt": "Revise o seguinte trecho de código e aponte melhorias:\n\n[COLE O CÓDIGO]\n\nAnalise: legibilidade, performance, segurança, boas práticas da linguagem e possíveis bugs. Para cada ponto: descreva o problema, o impacto e mostre a versão melhorada. Seja direto e justifique cada sugestão.",
+      "example": "Revise este código Python de consulta ao banco de dados. Analise legibilidade, performance, segurança (SQL injection), boas práticas e bugs. Para cada ponto: problema, impacto e versão corrigida."
+    },
+    {
+      "id": 24,
+      "area": "TI",
+      "tool": "ChatGPT",
+      "toolColor": "#10a37f",
+      "title": "E-mail técnico para não-técnicos",
+      "prompt": "Preciso explicar [problema técnico ou solução] para [público: diretoria/cliente/área de negócio] que não tem background técnico. Escreva um e-mail que: explique o que aconteceu em linguagem simples, mostre o impacto no negócio, informe o que foi ou será feito e o prazo. Sem jargões técnicos.",
+      "example": "Explique uma queda de sistema de 2 horas para a diretoria. Descreva o que aconteceu em linguagem simples, impacto no negócio, ações tomadas e prazo para prevenção futura. Sem termos técnicos."
+    },
+    {
+      "id": 25,
+      "area": "TI",
+      "tool": "Claude",
+      "toolColor": "#d97706",
+      "title": "Levantamento de requisitos",
+      "prompt": "Com base na seguinte solicitação de uma área de negócio, faça um levantamento de requisitos estruturado:\n\nSolicitação: [o que o usuário pediu]\n\nGere: requisitos funcionais (o que o sistema deve fazer), requisitos não-funcionais (performance, segurança, usabilidade), perguntas em aberto que precisam ser respondidas antes de iniciar e critérios de aceite sugeridos.",
+      "example": "A área comercial pediu: 'um relatório automático das vendas do mês'. Estruture requisitos funcionais, não-funcionais, perguntas em aberto e critérios de aceite."
+    },
+    {
+      "id": 26,
+      "area": "Administrativo",
+      "tool": "Claude",
+      "toolColor": "#d97706",
+      "title": "Ata de reunião",
+      "prompt": "Transforme as seguintes anotações em uma ata de reunião formal:\n\n[COLE SUAS ANOTAÇÕES]\n\nFormate com: data, participantes, pauta, discussões por ponto, decisões tomadas, ações com responsável e prazo, e próxima reunião (se definida). Tom: formal e objetivo.",
+      "example": "Transforme estas anotações bagunçadas de uma reunião de planejamento em uma ata formal com data, participantes, pauta, decisões e ações com responsável e prazo."
+    },
+    {
+      "id": 27,
+      "area": "Administrativo",
+      "tool": "ChatGPT",
+      "toolColor": "#10a37f",
+      "title": "Agenda de evento corporativo",
+      "prompt": "Crie uma agenda detalhada para [tipo de evento] com duração de [X horas/dias]. Participantes: [número e perfil]. Objetivo do evento: [o que deve ser alcançado]. Inclua: horários, atividades, responsáveis, intervalos e tempo de buffer. Formate como tabela.",
+      "example": "Crie uma agenda para um workshop de planejamento estratégico de 1 dia (8h às 18h) para 15 gestores. Objetivo: definir metas do próximo semestre. Com horários, atividades, responsáveis e intervalos."
+    },
+    {
+      "id": 28,
+      "area": "Administrativo",
+      "tool": "Claude",
+      "toolColor": "#d97706",
+      "title": "Comunicado interno",
+      "prompt": "Escreva um comunicado interno sobre [assunto] para [público: todos os colaboradores / equipe específica]. Tom: [formal / próximo]. Inclua: o quê, quando, por que muda, como impacta o dia a dia e onde tirar dúvidas. Comece pelo ponto mais importante. Máx. 180 palavras.",
+      "example": "Escreva um comunicado para todos os colaboradores sobre a mudança do sistema de ponto eletrônico. Tom próximo. Inclua o quê muda, quando, por que e onde tirar dúvidas."
+    },
+    {
+      "id": 29,
+      "area": "Administrativo",
+      "tool": "ChatGPT",
+      "toolColor": "#10a37f",
+      "title": "Checklist de processo",
+      "prompt": "Crie um checklist detalhado para o processo de [nome do processo]. Organize por fases. Para cada item: ação clara no imperativo, quem é responsável (se houver), quando deve ser feito e o critério para marcar como concluído. Formato: prático para uso diário.",
+      "example": "Crie um checklist para o processo de onboarding de novos colaboradores. Organizado por fases: antes do primeiro dia, primeiro dia, primeira semana, primeiro mês. Com responsável e critério de conclusão."
+    },
+    {
+      "id": 30,
+      "area": "Administrativo",
+      "tool": "ChatGPT",
+      "toolColor": "#10a37f",
+      "title": "Relatório de atividades",
+      "prompt": "Transforme a seguinte lista de atividades em um relatório mensal estruturado:\n\n[LISTE SUAS ATIVIDADES DO MÊS]\n\nOrganize por categoria, destaque conquistas e resultados (quantifique quando possível), mencione desafios enfrentados e indique o foco do próximo período. Tom: profissional. Formato: adequado para enviar ao gestor.",
+      "example": "Transforme esta lista de atividades do mês em um relatório mensal para o gestor. Organize por categoria, destaque resultados quantificados, desafios e foco do próximo mês."
+    },
+    {
+      "id": 31,
+      "area": "Jornalismo",
+      "tool": "Claude",
+      "toolColor": "#d97706",
+      "title": "Estrutura de matéria jornalística",
+      "prompt": "Crie a estrutura de uma matéria jornalística sobre [tema]. Inclua: título principal (chamativo e factual), sutitre, lead (quem, o quê, quando, onde, por quê), corpo com desenvolvimento lógico, box de dados complementares e sugestão de fontes a entrevistar. Tom: jornalístico, imparcial.",
+      "example": "Crie a estrutura de uma matéria sobre o avanço do uso de IA nas redações brasileiras. Título, subtítulo, lead, desenvolvimento, box de dados e fontes sugeridas."
+    },
+    {
+      "id": 32,
+      "area": "Jornalismo",
+      "tool": "ChatGPT",
+      "toolColor": "#10a37f",
+      "title": "Nota de imprensa",
+      "prompt": "Escreva uma nota de imprensa para [evento/conquista/lançamento]. Inclua: título em negrito, data e local de distribuição, lead com as informações essenciais, corpo com contexto e citação de porta-voz, informações sobre a empresa e contato de imprensa. Tom: factual e profissional. Máx. 400 palavras.",
+      "example": "Escreva uma nota de imprensa para o lançamento de um novo portal interno de IA em uma empresa de tecnologia. Inclua título, lead, citação de porta-voz, contexto da empresa e contato."
+    },
+    {
+      "id": 33,
+      "area": "Jornalismo",
+      "tool": "ChatGPT",
+      "toolColor": "#10a37f",
+      "title": "Headlines criativas",
+      "prompt": "Crie 10 opções de título/headline para uma matéria sobre [tema]. Variedade: 3 títulos factuais, 3 com dado impactante, 2 com pergunta provocativa e 2 criativos/inusitados. Todos devem ser verdadeiros e não sensacionalistas. Indique qual você recomenda e por quê.",
+      "example": "Crie 10 headlines para uma matéria sobre como empresas brasileiras estão usando IA para reduzir custos operacionais. Factuais, com dado, pergunta provocativa e criativos."
+    },
+    {
+      "id": 34,
+      "area": "Jornalismo",
+      "tool": "Claude",
+      "toolColor": "#d97706",
+      "title": "Análise de dados em texto",
+      "prompt": "Transforme os seguintes dados em um texto jornalístico narrativo:\n\n[COLE OS DADOS]\n\nEscreva como uma matéria com: contexto, análise do que os números revelam, comparação com período anterior ou referência, e implicações práticas. Evite listar dados sem interpretação — conte a história por trás dos números.",
+      "example": "Transforme dados de pesquisa sobre uso de IA no trabalho (% por setor, horas economizadas, barreiras) em texto jornalístico narrativo que conta a história por trás dos números."
+    },
+    {
+      "id": 35,
+      "area": "Jornalismo",
+      "tool": "ChatGPT",
+      "toolColor": "#10a37f",
+      "title": "Roteiro de entrevista jornalística",
+      "prompt": "Crie um roteiro de entrevista jornalística para entrevistar [perfil do entrevistado] sobre [tema]. Inclua: 3 perguntas de aquecimento (contexto e trajetória), 5 perguntas centrais sobre o tema, 2 perguntas difíceis/desafiadoras e 1 pergunta de encerramento. Adicione dicas de como conduzir cada bloco.",
+      "example": "Crie roteiro de entrevista com um CTO sobre o impacto da IA na segurança da informação. Aquecimento, perguntas centrais, questões desafiadoras e encerramento com dicas de condução."
+    },
+    {
+      "id": 36,
+      "area": "Marketing",
+      "tool": "ChatGPT",
+      "toolColor": "#10a37f",
+      "title": "Brief criativo para campanha",
+      "prompt": "Crie um brief criativo para uma campanha de [produto/serviço/evento]. Inclua: contexto e objetivo da campanha, público-alvo detalhado (perfil, dores, desejos), mensagem central única, tom e personalidade da comunicação, formatos sugeridos (vídeo, carrossel, e-mail, OOH), KPIs de sucesso e o que deve ser evitado. Máx. 1 página.",
+      "example": "Crie um brief criativo para o lançamento de um novo portal de inteligência artificial para colaboradores de uma empresa de tecnologia. Inclua objetivo, público, mensagem central, tom, formatos e KPIs."
+    },
+    {
+      "id": 37,
+      "area": "Marketing",
+      "tool": "Gemini",
+      "toolColor": "#4285f4",
+      "title": "Análise de desempenho de conteúdo",
+      "prompt": "Analise os seguintes dados de desempenho dos meus conteúdos publicados:\n\n[COLE OS DADOS: posts, alcance, engajamento, cliques]\n\nIdentifique: os 3 conteúdos de melhor desempenho e por que funcionaram, padrões nos conteúdos com baixo desempenho, o melhor horário e formato para o meu público e 3 recomendações práticas para melhorar os próximos 30 dias.",
+      "example": "Analise os dados de 20 posts do LinkedIn do último mês: taxa de engajamento, alcance e cliques por tipo de conteúdo. Identifique o que funcionou, padrões de baixo desempenho e recomendações para o próximo mês."
+    },
+    {
+      "id": 38,
+      "area": "Comercial",
+      "tool": "Claude",
+      "toolColor": "#d97706",
+      "title": "Resumo de CRM pós-reunião",
+      "prompt": "Com base nas informações abaixo sobre uma reunião comercial, gere um registro estruturado para o CRM:\n\n[DESCREVA A REUNIÃO: empresa, participantes, o que foi discutido, interesse demonstrado, dúvidas levantadas, próximos passos]\n\nFormate com: resumo em 3 linhas, situação atual do lead (fase do funil), principais dores identificadas, objeções levantadas, próxima ação com data e probabilidade de fechamento (%).",
+      "example": "Reunião com Gerente Comercial da Empresa X. Demonstramos o módulo de BI, interesse alto em relatórios automáticos, objeção de preço e prazo de implementação. Próximos passos: enviar proposta e referências de clientes similares até sexta."
+    },
+    {
+      "id": 39,
+      "area": "Comercial",
+      "tool": "Claude",
+      "toolColor": "#d97706",
+      "title": "E-mail de negociação",
+      "prompt": "Escreva um e-mail de negociação para [situação: renovação de contrato / desconto solicitado / condições especiais]. Contexto: [descreva a situação e o que o cliente pediu]. Nosso limite: [o que podemos e o que não podemos ceder]. O e-mail deve: reconhecer o pedido, apresentar nossa contrapartida com justificativa de valor, propor uma solução de ganho mútuo e manter o relacionamento.",
+      "example": "Escreva um e-mail de negociação para cliente que pediu 20% de desconto na renovação anual. Podemos oferecer 10% com contrato de 2 anos. Tom profissional, preservando o relacionamento e reforçando o valor entregue."
+    },
+    {
+      "id": 40,
+      "area": "RH",
+      "tool": "Claude",
+      "toolColor": "#d97706",
+      "title": "Avaliação de desempenho",
+      "prompt": "Ajude a estruturar uma avaliação de desempenho para [cargo] referente ao período [período]. Com base nas seguintes observações:\n\n[DESCREVA: o que o colaborador fez bem, o que precisa melhorar, episódios relevantes]\n\nGere: pontos fortes com evidências concretas, áreas de desenvolvimento com impacto claro, rating sugerido (escala de 1 a 5) com justificativa e 2 metas de desenvolvimento para o próximo período. Tom: construtivo, honesto e respeitoso.",
+      "example": "Avaliação de um Analista de Marketing no segundo semestre. Pontos positivos: entregas no prazo, qualidade dos materiais. Pontos a melhorar: proatividade e comunicação com o time. Gere avaliação estruturada com metas."
+    },
+    {
+      "id": 41,
+      "area": "RH",
+      "tool": "ChatGPT",
+      "toolColor": "#10a37f",
+      "title": "Pesquisa de clima organizacional",
+      "prompt": "Crie um questionário de pesquisa de clima organizacional para [tipo de empresa]. Foco em medir: engajamento, liderança, comunicação interna, condições de trabalho e desenvolvimento. Gere: 15 questões fechadas (escala 1-5), 3 questões abertas e 2 questões de NPS (promotor/detrator). Inclua instruções de aplicação e análise dos resultados.",
+      "example": "Crie uma pesquisa de clima para empresa de tecnologia com 80 colaboradores. 15 questões fechadas sobre engajamento, liderança e comunicação, 3 abertas e NPS. Com instruções de aplicação e análise."
+    },
+    {
+      "id": 42,
+      "area": "Financeiro",
+      "tool": "ChatGPT",
+      "toolColor": "#10a37f",
+      "title": "Análise de fluxo de caixa",
+      "prompt": "Analise o seguinte fluxo de caixa:\n\n[COLE OS DADOS: entradas, saídas, saldo por período]\n\nIdentifique: meses ou semanas críticos de caixa negativo ou baixo, padrões sazonais de receita e despesa, as 3 maiores saídas que podem ser otimizadas e recomendações para melhorar o capital de giro. Apresente também uma projeção simples para os próximos 2 meses com base nos dados.",
+      "example": "Analise o fluxo de caixa dos últimos 6 meses de uma empresa de serviços. Identifique períodos críticos, padrões sazonais, maiores saídas a otimizar e projete os próximos 2 meses."
+    },
+    {
+      "id": 43,
+      "area": "TI",
+      "tool": "Claude",
+      "toolColor": "#d97706",
+      "title": "Plano de testes",
+      "prompt": "Crie um plano de testes para [sistema/funcionalidade/módulo]. Contexto: [o que foi desenvolvido, tecnologia, usuários afetados]. Inclua: objetivo dos testes, escopo (o que será e não será testado), tipos de teste necessários (unitário, integração, UAT, regressão), casos de teste principais para os fluxos críticos, critérios de aceite e o que fazer em caso de bug crítico.",
+      "example": "Crie um plano de testes para um módulo de autenticação com login, recuperação de senha e 2FA. Inclua escopo, tipos de teste, casos críticos, critérios de aceite e protocolo para bugs críticos."
+    },
+    {
+      "id": 44,
+      "area": "TI",
+      "tool": "Claude",
+      "toolColor": "#d97706",
+      "title": "Relatório de incidente",
+      "prompt": "Escreva um relatório de incidente técnico para comunicar [o que aconteceu] para a liderança e/ou clientes afetados. Inclua: resumo executivo (1 parágrafo), linha do tempo do incidente, causa raiz identificada, impacto nos usuários/negócio, ações tomadas para resolver, medidas preventivas para não repetir e responsáveis por cada ação. Tom: transparente, objetivo e responsável.",
+      "example": "Escreva um relatório de incidente de queda do sistema de 3 horas causada por falha de servidor. Inclua resumo, linha do tempo, causa raiz, impacto, ações de resolução e medidas preventivas."
+    },
+    {
+      "id": 45,
+      "area": "Administrativo",
+      "tool": "ChatGPT",
+      "toolColor": "#10a37f",
+      "title": "Gestão de fornecedores",
+      "prompt": "Crie um roteiro de avaliação de fornecedores para [categoria: serviços de TI, gráfica, transporte, facilities, etc.]. Inclua: critérios de avaliação com peso (qualidade, prazo, preço, atendimento, compliance), escala de pontuação, modelo de scorecard mensal e protocolo de ação para fornecedores com baixo desempenho. Formate como planilha de avaliação.",
+      "example": "Crie um roteiro de avaliação mensal de fornecedores de serviços de TI. Critérios com peso, escala de pontuação, scorecard e protocolo para fornecedores abaixo da nota mínima."
+    },
+    {
+      "id": 46,
+      "area": "Administrativo",
+      "tool": "Claude",
+      "toolColor": "#d97706",
+      "title": "Proposta de melhoria de processo",
+      "prompt": "Escreva uma proposta de melhoria para o seguinte processo:\n\nProcesso atual: [descreva como funciona hoje]\nProblemas identificados: [gargalos, retrabalho, tempo perdido]\nSolução proposta: [o que você quer implementar]\n\nEstruture a proposta com: diagnóstico do problema, solução detalhada, benefícios esperados (quantifique quando possível), recursos necessários para implementar, cronograma de implantação e KPIs para medir o sucesso.",
+      "example": "Proposta de melhoria para o processo de aprovação de compras: hoje leva 5 dias por e-mail. Solução: sistema de aprovação digital com alçadas. Estruture diagnóstico, solução, benefícios, recursos e cronograma."
+    },
+    {
+      "id": 47,
+      "area": "Jornalismo",
+      "tool": "Claude",
+      "toolColor": "#d97706",
+      "title": "Resumo de entrevista gravada",
+      "prompt": "Aqui está a transcrição (ou anotações) de uma entrevista:\n\n[COLE A TRANSCRIÇÃO OU ANOTAÇÕES]\n\nGere:\n1. Resumo executivo das ideias principais (máx. 5 linhas)\n2. As 5 melhores citações diretas (com contexto de quando foram ditas)\n3. Temas emergentes que o entrevistado não disse explicitamente mas subentendeu\n4. Contradições ou pontos que merecem aprofundamento\n5. Sugestão de ângulo principal para a matéria baseada na entrevista",
+      "example": "Analise a transcrição de entrevista com um especialista em IA sobre o futuro do trabalho. Gere resumo executivo, melhores citações, temas implícitos, contradições e ângulo sugerido para a matéria."
+    },
+    {
+      "id": 48,
+      "area": "Jornalismo",
+      "tool": "Gemini",
+      "toolColor": "#4285f4",
+      "title": "Monitoramento de pauta em tempo real",
+      "prompt": "Pesquise as principais notícias e discussões sobre [tema] nas últimas 48 horas no Brasil e no mundo. Identifique: os fatos mais relevantes com fonte, ângulos ainda não explorados pela mídia brasileira, vozes e especialistas que estão sendo ouvidos e 3 pautas derivadas que eu poderia explorar com exclusividade ou aprofundamento.",
+      "example": "Pesquise as principais notícias sobre regulamentação de IA no Brasil nas últimas 48 horas. Identifique fatos relevantes, ângulos inexplorados, especialistas consultados e 3 pautas derivadas para aprofundamento."
+    },
+    {
+      "id": 49,
+      "area": "Marketing",
+      "tool": "Claude",
+      "toolColor": "#d97706",
+      "title": "Storytelling de marca",
+      "prompt": "Ajude a construir o storytelling da seguinte marca/empresa/produto:\n\nNome: [nome]\nO que faz: [descrição]\nPara quem: [público]\nO que nos diferencia: [diferencial real]\nOrigem ou momento transformador: [história fundante, se houver]\n\nCrie: o arco narrativo da marca (herói, conflito, transformação), a mensagem central em 1 frase, 3 histórias reais (ou hipotéticas) que materializam os valores da marca e como adaptar o storytelling para LinkedIn, apresentações e site.",
+      "example": "Construa o storytelling de uma empresa de tecnologia educacional que nasceu de um professor frustrado com a falta de ferramentas digitais. Inclua arco narrativo, mensagem central, 3 histórias e adaptações por canal."
+    },
+    {
+      "id": 50,
+      "area": "Comercial",
+      "tool": "ChatGPT",
+      "toolColor": "#10a37f",
+      "title": "Script de prospecção ativa",
+      "prompt": "Crie um script de prospecção para contato inicial com [perfil do prospect: cargo, setor] via [canal: telefone / LinkedIn / e-mail frio]. Nosso produto/serviço: [o que oferecemos]. Problema que resolvemos: [dor principal]. O script deve ter: abertura que gera credibilidade em 10 segundos, gancho com problema relevante, proposta de valor clara e curta, e convite para uma conversa (sem pressionar). Inclua 2 variações de tom: direto e consultivo.",
+      "example": "Crie script de prospecção por LinkedIn para abordar Gerentes de RH de empresas com 200+ colaboradores. Oferecemos plataforma de desenvolvimento de liderança. Tom direto e consultivo, com abertura, gancho e convite para conversa."
+    }
+  ]
+}

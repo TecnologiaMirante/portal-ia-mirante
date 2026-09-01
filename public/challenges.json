@@ -1,0 +1,311 @@
+{
+  "startDate": "2026-09-01",
+  "challenges": [
+    {
+      "id": 1,
+      "week": 1,
+      "title": "Resumir uma reunião com IA",
+      "tagline": "Transforme anotações bagunçadas em decisões claras",
+      "description": "Pegue as anotações ou a gravação da última reunião que você participou e use IA para gerar um resumo executivo com decisões, responsáveis e próximos passos.",
+      "tool": "ChatGPT",
+      "toolColor": "#10a37f",
+      "difficulty": "Fácil",
+      "estimatedTime": "15 min",
+      "prompt": "Aqui estão as anotações da minha reunião:\n\n[COLE SUAS ANOTAÇÕES AQUI]\n\nPor favor, gere:\n1. Resumo executivo em 3 frases\n2. Principais decisões tomadas\n3. Próximos passos com responsáveis (se mencionados)\n4. Pontos que ficaram em aberto",
+      "tips": [
+        "Quanto mais detalhadas as anotações, melhor o resumo",
+        "Pode colar transcrições automáticas do Teams ou Meet",
+        "Peça para adaptar o tom: formal para diretoria, direto para o time"
+      ]
+    },
+    {
+      "id": 2,
+      "week": 2,
+      "title": "Transformar relatório em apresentação",
+      "tagline": "De texto para slides em minutos",
+      "description": "Escolha um relatório, documento ou análise que você precise apresentar. Use IA para transformar o conteúdo em uma estrutura de slides clara e objetiva.",
+      "tool": "Gamma",
+      "toolColor": "#8b5cf6",
+      "difficulty": "Fácil",
+      "estimatedTime": "20 min",
+      "prompt": "Preciso transformar o seguinte relatório em uma apresentação de slides:\n\n[COLE O CONTEÚDO DO RELATÓRIO]\n\nCrie uma estrutura com:\n- Slide de título e objetivo\n- Contexto e dados principais (máx. 3 slides)\n- Insights e conclusões\n- Próximos passos\n\nUse linguagem direta, bullet points curtos e destaque os números mais importantes.",
+      "tips": [
+        "No Gamma, cole o prompt e deixe a IA montar os slides automaticamente",
+        "Você pode pedir para ajustar o tom: executivo, técnico ou didático",
+        "Exporte como PDF ou PowerPoint ao final"
+      ]
+    },
+    {
+      "id": 3,
+      "week": 3,
+      "title": "Analisar dados de uma planilha",
+      "tagline": "Encontre padrões que você nunca viu antes",
+      "description": "Exporte os dados de uma planilha que você usa no trabalho (sem informações confidenciais) e peça para a IA identificar padrões, tendências e anomalias.",
+      "tool": "ChatGPT",
+      "toolColor": "#10a37f",
+      "difficulty": "Médio",
+      "estimatedTime": "25 min",
+      "prompt": "Aqui estão os dados da minha planilha:\n\n[COLE OS DADOS EM FORMATO DE TABELA OU CSV]\n\nPor favor:\n1. Identifique os 3 principais padrões ou tendências\n2. Aponte alguma anomalia ou dado que chama atenção\n3. Sugira uma visualização ideal para esses dados (gráfico de barras, linha, etc.)\n4. Faça 2 perguntas que esses dados ainda não respondem, mas deveriam",
+      "tips": [
+        "Anonimize dados sensíveis antes de colar",
+        "No ChatGPT Plus você pode fazer upload direto do arquivo Excel",
+        "Peça para gerar fórmulas do Excel baseadas nos insights"
+      ]
+    },
+    {
+      "id": 4,
+      "week": 4,
+      "title": "Escrever um e-mail difícil",
+      "tagline": "Tom certo, mensagem clara, zero estresse",
+      "description": "Escolha um e-mail que você está adiando escrever — uma reclamação, um pedido delicado, um feedback negativo ou uma negociação. Use IA para encontrar o tom e as palavras certas.",
+      "tool": "Claude",
+      "toolColor": "#d97706",
+      "difficulty": "Fácil",
+      "estimatedTime": "10 min",
+      "prompt": "Preciso escrever um e-mail profissional sobre o seguinte assunto:\n\n[DESCREVA A SITUAÇÃO E O QUE VOCÊ PRECISA COMUNICAR]\n\nDestinatário: [cargo ou relação: colega, cliente, fornecedor, gestor]\nTom desejado: [formal / direto / empático / firme]\nObjetivo do e-mail: [o que você quer que aconteça após a leitura]\n\nEscreva o e-mail completo, com assunto, corpo e assinatura. Ao final, explique as escolhas de linguagem que fez.",
+      "tips": [
+        "O Claude é excelente para textos sensíveis — ele considera as nuances emocionais",
+        "Peça versões alternativas: uma mais direta e uma mais suave",
+        "Use a explicação final para aprender como melhorar seus próprios e-mails"
+      ]
+    },
+    {
+      "id": 5,
+      "week": 5,
+      "title": "Pesquisar tendências do seu setor",
+      "tagline": "Fique à frente sem gastar horas navegando",
+      "description": "Use IA com acesso à internet para pesquisar as principais tendências e novidades do setor onde você atua, e gere um briefing executivo atualizado.",
+      "tool": "Gemini",
+      "toolColor": "#4285f4",
+      "difficulty": "Fácil",
+      "estimatedTime": "15 min",
+      "prompt": "Pesquise e me apresente um briefing executivo sobre:\n\nSetor/tema: [ex: comunicação corporativa, tecnologia educacional, mercado financeiro digital]\nEscopo: Brasil e América Latina, com contexto global quando relevante\nPeríodo: últimos 3 meses\n\nEstruture assim:\n- 3 tendências principais com impacto prático\n- 1 tecnologia ou ferramenta emergente que vale acompanhar\n- 1 ameaça ou risco que o setor está enfrentando\n- Fontes consultadas\n\nSeja objetivo. Use dados quando disponíveis.",
+      "tips": [
+        "O Gemini tem acesso à internet em tempo real — aproveite",
+        "Peça para comparar com o que acontece em outros países",
+        "Salve o briefing e compare com o da próxima semana para ver a evolução"
+      ]
+    },
+    {
+      "id": 6,
+      "week": 6,
+      "title": "Criar conteúdo para redes sociais",
+      "tagline": "Uma semana de posts em 20 minutos",
+      "description": "Planeje e escreva o conteúdo de uma semana inteira para as redes sociais da sua área ou projeto. Use IA para gerar variações de tom, formato e objetivo.",
+      "tool": "ChatGPT",
+      "toolColor": "#10a37f",
+      "difficulty": "Médio",
+      "estimatedTime": "20 min",
+      "prompt": "Crie um plano de conteúdo para 5 posts nas redes sociais:\n\nAssunto principal: [tema central da semana]\nTom da marca: [profissional / descontraído / inspiracional / educativo]\nRedes: [LinkedIn / Instagram / ambos]\nObjetivo: [gerar engajamento / educar / divulgar conquista / humanizar a marca]\n\nPara cada post entregue:\n- Formato sugerido (carrossel, estático, Reels, texto longo)\n- Texto completo com call-to-action\n- 5 hashtags relevantes\n- Melhor horário de publicação",
+      "tips": [
+        "Peça variações: um post mais formal e um mais humano sobre o mesmo tema",
+        "Use o Gamma para criar o carrossel visual depois do texto pronto",
+        "ChatGPT pode sugerir pautas para o mês inteiro com um único prompt"
+      ]
+    },
+    {
+      "id": 7,
+      "week": 7,
+      "title": "Documentar um processo com IA",
+      "tagline": "Transforme conhecimento tácito em manual útil",
+      "description": "Escolha um processo que só você (ou poucos do time) sabe fazer e use IA para transformar sua explicação informal em uma documentação clara e replicável.",
+      "tool": "Claude",
+      "toolColor": "#d97706",
+      "difficulty": "Médio",
+      "estimatedTime": "30 min",
+      "prompt": "Vou descrever um processo que executo regularmente no trabalho. Transforme em uma documentação profissional:\n\n[DESCREVA O PROCESSO COM SUAS PRÓPRIAS PALAVRAS, SEM SE PREOCUPAR COM ORGANIZAÇÃO]\n\nFormate a documentação com:\n- Nome e objetivo do processo\n- Pré-requisitos (acesso, ferramentas, informações necessárias)\n- Passo a passo numerado com detalhes práticos\n- Pontos de atenção e erros comuns\n- Critério de sucesso (como saber que foi feito corretamente)\n\nUse linguagem clara para quem nunca executou esse processo antes.",
+      "tips": [
+        "Grave um áudio descrevendo o processo e transcreva — fica mais natural",
+        "Peça para gerar um checklist resumido além da documentação completa",
+        "Essa documentação pode ser a base para treinar a equipe ou criar um agente de IA"
+      ]
+    },
+    {
+      "id": 8,
+      "week": 8,
+      "title": "Gerar ideias para resolver um problema real",
+      "tagline": "Da trave em branco para 10 ideias em 5 minutos",
+      "description": "Traga um problema, desafio ou oportunidade real que sua área enfrenta. Use IA como parceiro de brainstorming para gerar e avaliar alternativas.",
+      "tool": "ChatGPT",
+      "toolColor": "#10a37f",
+      "difficulty": "Fácil",
+      "estimatedTime": "20 min",
+      "prompt": "Preciso de ajuda para pensar em soluções para o seguinte problema:\n\nProblema: [descreva o problema ou desafio]\nContexto: [qual área, quantas pessoas impacta, há quanto tempo existe]\nRestrições: [orçamento limitado / prazo curto / equipe pequena / sem nova tecnologia]\nJá tentamos: [o que já foi feito que não funcionou]\n\nGere:\n1. 5 soluções convencionais (rápidas de implementar)\n2. 3 soluções criativas ou não óbvias\n3. 1 solução que parece impossível mas seria ideal\n\nPara cada ideia: tempo estimado de implementação e principal risco.",
+      "tips": [
+        "Quanto mais detalhado o contexto, mais relevantes as ideias",
+        "Peça para a IA 'ser o advogado do diabo' em cada solução",
+        "Use a solução favorita como ponto de partida para um novo prompt detalhado"
+      ]
+    },
+    {
+      "id": 9,
+      "week": 9,
+      "title": "Analisar feedbacks de clientes",
+      "tagline": "Encontre padrões em dezenas de opiniões em segundos",
+      "description": "Reúna avaliações, e-mails de clientes ou respostas de pesquisa de satisfação e peça para a IA identificar os principais temas, sentimentos e oportunidades de melhoria.",
+      "tool": "ChatGPT",
+      "toolColor": "#10a37f",
+      "difficulty": "Médio",
+      "estimatedTime": "20 min",
+      "prompt": "Analise os seguintes feedbacks de clientes:\n\n[COLE OS FEEDBACKS — pode ser texto, e-mails ou respostas de pesquisa]\n\nIdentifique:\n1. Os 3 temas mais recorrentes (positivos e negativos)\n2. O sentimento geral (escala de 1 a 10)\n3. Frases ou expressões que mais aparecem\n4. Top 2 pedidos de melhoria que os clientes fazem\n5. Uma ação imediata que resolveria o maior número de reclamações",
+      "tips": [
+        "Cole de 10 a 30 feedbacks para ter análise mais precisa",
+        "Pode usar respostas de NPS, Google Reviews ou e-mails de suporte",
+        "Peça para gerar um resumo executivo de uma página para apresentar à diretoria"
+      ]
+    },
+    {
+      "id": 10,
+      "week": 10,
+      "title": "Criar um treinamento com IA",
+      "tagline": "Transforme seu conhecimento em conteúdo didático",
+      "description": "Escolha um tema que você domina — um processo, uma ferramenta ou um conhecimento da sua área — e use IA para estruturar um mini-treinamento completo para o time.",
+      "tool": "Claude",
+      "toolColor": "#d97706",
+      "difficulty": "Médio",
+      "estimatedTime": "30 min",
+      "prompt": "Quero criar um mini-treinamento sobre [TEMA] para [PÚBLICO-ALVO: ex. novos colaboradores da área comercial].\n\nCrie:\n1. Objetivo de aprendizagem (o que o participante saberá fazer ao final)\n2. Estrutura em módulos (3 a 4 partes com nome e duração estimada)\n3. Para cada módulo: conteúdo principal, exemplo prático e 1 exercício\n4. Quiz de fixação com 5 perguntas e gabarito\n5. Recursos complementares sugeridos (artigos, vídeos, ferramentas)",
+      "tips": [
+        "Grave um áudio explicando o tema e transcreva — o conteúdo fica mais natural",
+        "Use o Gamma para transformar o treinamento em slides depois",
+        "O Claude é ótimo para adaptar o nível de linguagem ao público"
+      ]
+    },
+    {
+      "id": 11,
+      "week": 11,
+      "title": "Planejar um projeto do zero",
+      "tagline": "De ideia vaga a plano de ação em 25 minutos",
+      "description": "Descreva um projeto que precisa sair do papel — uma iniciativa, evento, melhoria de processo ou entrega — e use IA para estruturar um plano completo com etapas, prazos e riscos.",
+      "tool": "ChatGPT",
+      "toolColor": "#10a37f",
+      "difficulty": "Médio",
+      "estimatedTime": "25 min",
+      "prompt": "Preciso planejar o seguinte projeto:\n\nProjeto: [nome e objetivo]\nContexto: [equipe disponível, recursos, prazo final]\nPrioridade: [alta/média/baixa]\n\nCrie:\n1. Escopo resumido (o que está dentro e fora do projeto)\n2. Fases do projeto com entregáveis por fase\n3. Cronograma macro em semanas\n4. Principais riscos e como mitigá-los\n5. Critérios de sucesso mensuráveis",
+      "tips": [
+        "Quanto mais contexto você der, mais realista o plano gerado",
+        "Peça para gerar uma versão em tabela para usar no Excel ou Notion",
+        "Use o plano como ponto de partida e ajuste com o time — não como documento final"
+      ]
+    },
+    {
+      "id": 12,
+      "week": 12,
+      "title": "Criar FAQ a partir de dúvidas reais",
+      "tagline": "Transforme as perguntas repetidas em base de conhecimento",
+      "description": "Reúna as perguntas que clientes, colaboradores ou parceiros fazem com frequência e use IA para criar uma FAQ clara, organizada e útil.",
+      "tool": "Claude",
+      "toolColor": "#d97706",
+      "difficulty": "Fácil",
+      "estimatedTime": "15 min",
+      "prompt": "Aqui estão as perguntas frequentes que recebo sobre [TEMA/PRODUTO/PROCESSO]:\n\n[LISTE AS PERGUNTAS — pode ser em linguagem informal]\n\nCrie uma FAQ organizada:\n1. Agrupe perguntas similares em categorias\n2. Reescreva cada pergunta de forma clara e direta\n3. Escreva respostas completas em linguagem simples\n4. Ordene do mais básico ao mais avançado dentro de cada categoria\n5. Sugira 3 perguntas que as pessoas deveriam fazer mas não fazem",
+      "tips": [
+        "Cole mensagens do WhatsApp, e-mails ou tickets de suporte como fonte",
+        "Peça para adaptar o tom: técnico para equipe interna, simples para clientes",
+        "Use a FAQ gerada como base para um chatbot ou página de ajuda"
+      ]
+    },
+    {
+      "id": 13,
+      "week": 13,
+      "title": "Escrever uma política interna",
+      "tagline": "Regras claras evitam problemas desnecessários",
+      "description": "Transforme regras informais, acordos verbais ou práticas que 'todo mundo sabe mas ninguém escreveu' em uma política interna formal e acessível.",
+      "tool": "Claude",
+      "toolColor": "#d97706",
+      "difficulty": "Médio",
+      "estimatedTime": "20 min",
+      "prompt": "Preciso criar uma política interna sobre [TEMA: ex. uso de IA no trabalho, home office, segurança da informação].\n\nContexto: [tipo de empresa, cultura, o que motivou a necessidade da política]\nPúblico: [todos os colaboradores / equipe específica]\n\nEscreva uma política com:\n1. Objetivo e escopo (a quem se aplica)\n2. Definições importantes\n3. Diretrizes e regras claras (linguagem direta e afirmativa)\n4. O que é permitido / o que não é permitido\n5. Como agir em casos de dúvida\n6. Vigência e responsável pela política",
+      "tips": [
+        "O Claude mantém coerência ao longo de documentos longos — ideal para políticas",
+        "Peça uma versão 'resumida para poster' além da versão completa",
+        "Revise com RH ou Jurídico antes de publicar — IA gera o rascunho, você valida"
+      ]
+    },
+    {
+      "id": 14,
+      "week": 14,
+      "title": "Criar pitch de ideia inovadora",
+      "tagline": "Venda sua ideia em 3 minutos",
+      "description": "Você tem uma ideia que quer apresentar para a liderança ou para um cliente? Use IA para estruturar um pitch conciso, convincente e com os argumentos certos.",
+      "tool": "Claude",
+      "toolColor": "#d97706",
+      "difficulty": "Médio",
+      "estimatedTime": "20 min",
+      "prompt": "Quero apresentar a seguinte ideia:\n\nIdeia: [descreva em 2-3 linhas]\nAudiência: [quem vai ouvir: diretoria, cliente, time]\nContexto: [problema que resolve ou oportunidade que aproveita]\nRecursos necessários: [tempo, dinheiro, pessoas]\n\nCrie um pitch de 3 minutos com:\n1. Abertura com gancho (problema ou dado impactante)\n2. Solução proposta de forma simples\n3. Por que agora (urgência e oportunidade)\n4. O que preciso (pedido claro)\n5. Próximo passo sugerido\n\nAo final, antecipe as 3 principais objeções e como respondê-las.",
+      "tips": [
+        "Treine o pitch em voz alta antes de apresentar",
+        "Peça uma versão de 1 minuto (elevador) e uma de 10 minutos para reunião",
+        "Use o Gamma para criar os slides de apoio"
+      ]
+    },
+    {
+      "id": 15,
+      "week": 15,
+      "title": "Benchmark competitivo com IA",
+      "tagline": "Entenda onde você está no mercado",
+      "description": "Use IA com acesso à internet para mapear concorrentes diretos — posicionamento, pontos fortes, fraquezas — e identificar onde sua empresa pode se destacar.",
+      "tool": "Gemini",
+      "toolColor": "#4285f4",
+      "difficulty": "Médio",
+      "estimatedTime": "25 min",
+      "prompt": "Faça um benchmark competitivo do mercado de [SETOR/NICHO] no Brasil.\n\nNossa empresa: [descreva brevemente o que faz, para quem e como]\nConcorrentes: [liste 3 a 5 empresas]\n\nPara cada concorrente, pesquise e compare:\n1. Posicionamento e mensagem principal\n2. Canais de marketing e aquisição\n3. Pontos fortes percebidos\n4. Lacunas ou pontos fracos\n5. Faixa de preço (se pública)\n\nAo final: 3 oportunidades de diferenciação para nós e 1 ameaça que devo acompanhar.",
+      "tips": [
+        "O Gemini tem acesso à internet — aproveite para pesquisa em tempo real",
+        "Peça para comparar em formato de tabela ao final",
+        "Repita esse exercício a cada trimestre para acompanhar o mercado"
+      ]
+    },
+    {
+      "id": 16,
+      "week": 16,
+      "title": "Criar template de relatório inteligente",
+      "tagline": "Nunca mais comece um relatório do zero",
+      "description": "Identifique um relatório que você produz regularmente e use IA para criar um template completo que qualquer pessoa do time possa preencher.",
+      "tool": "ChatGPT",
+      "toolColor": "#10a37f",
+      "difficulty": "Fácil",
+      "estimatedTime": "15 min",
+      "prompt": "Preciso criar um template de [TIPO DE RELATÓRIO: ex. relatório semanal de vendas, relatório mensal de marketing] para uso recorrente.\n\nContexto: [quem preenche, quem lê, qual a frequência]\nInformações que devem constar: [liste os dados e seções importantes]\n\nCrie:\n1. Estrutura completa com seções e subseções\n2. Para cada seção: instruções de preenchimento entre colchetes []\n3. Exemplos de como preencher cada campo principal\n4. Checklist de revisão antes de enviar\n5. Versão resumida de 1 página para executivos",
+      "tips": [
+        "Compartilhe o template com o time e colete feedback antes de adotar definitivamente",
+        "Adicione no Notion ou SharePoint para facilitar o acesso",
+        "Peça para a IA gerar também o e-mail padrão de encaminhamento do relatório"
+      ]
+    },
+    {
+      "id": 17,
+      "week": 17,
+      "title": "Mapear e otimizar uma reunião recorrente",
+      "tagline": "A reunião que todo mundo odeia pode ser melhor",
+      "description": "Escolha uma reunião recorrente da sua agenda que poderia ser mais produtiva. Use IA para redesenhar o formato, pauta e dinâmica para gerar mais resultado em menos tempo.",
+      "tool": "Claude",
+      "toolColor": "#d97706",
+      "difficulty": "Fácil",
+      "estimatedTime": "15 min",
+      "prompt": "Quero otimizar a seguinte reunião recorrente:\n\nNome da reunião: [ex. daily do time, reunião de resultado mensal]\nFrequência e duração atual: [ex. semanal, 1h]\nParticipantes: [cargos e número de pessoas]\nObjetivo original: [para que foi criada]\nProblemas atuais: [o que não está funcionando]\n\nSugira:\n1. Objetivo reformulado de forma clara e mensurável\n2. Formato ideal (presença, duração, periodicidade)\n3. Pauta otimizada com tempo para cada item\n4. Regras de ouro para manter o foco\n5. Como medir se a reunião foi produtiva",
+      "tips": [
+        "Envie a nova pauta por escrito antes da reunião — muda o comportamento do time",
+        "Teste o novo formato por 3 semanas antes de ajustar de novo",
+        "Considere transformar partes da reunião em assíncronas (updates por escrito)"
+      ]
+    },
+    {
+      "id": 18,
+      "week": 18,
+      "title": "Criar proposta de automação",
+      "tagline": "Identifique o que pode ser automatizado na sua rotina",
+      "description": "Descreva tarefas repetitivas que você ou o time executam manualmente e use IA para identificar o que pode ser automatizado, estimando o impacto em tempo e custo.",
+      "tool": "ChatGPT",
+      "toolColor": "#10a37f",
+      "difficulty": "Médio",
+      "estimatedTime": "25 min",
+      "prompt": "Aqui está uma lista de tarefas repetitivas que executo regularmente:\n\n[DESCREVA AS TAREFAS: nome, frequência, tempo gasto, quem executa]\n\nPara cada tarefa, analise:\n1. Potencial de automação (alto/médio/baixo) e por quê\n2. Ferramenta ou abordagem sugerida para automatizar\n3. Tempo estimado de implementação\n4. Economia de tempo semanal projetada\n\nAo final:\n- Ranqueie as 3 automações de maior impacto\n- Estime o total economizado por mês se as top 3 forem implementadas\n- Sugira por onde começar (menor esforço, maior retorno)",
+      "tips": [
+        "Inclua até tarefas simples — às vezes são as mais fáceis de automatizar",
+        "Apresente o resultado para o gestor como proposta de eficiência operacional",
+        "Use o resultado como roadmap de automação para os próximos meses"
+      ]
+    }
+  ]
+}

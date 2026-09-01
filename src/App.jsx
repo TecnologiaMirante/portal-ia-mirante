@@ -18,11 +18,13 @@ import { AIToolsBanner }   from "@/components/AIToolsBanner";
 import { GettingStarted }  from "@/components/GettingStarted";
 import { MiranteAIs }      from "@/components/MiranteAIs";
 import { AICreations }   from "@/components/AICreations";
+import { CasoCTA }      from "@/components/CasoCTA";
 import { PromptBankCTA } from "@/components/PromptBankCTA";
 import { NewsPreview }   from "@/components/NewsPreview";
 import { AIAward }       from "@/components/AIAward";
 import { NewsCarousel }  from "@/components/NewsCarousel";
 import { ComunicadosBanner } from "@/components/ComunicadosBanner";
+import { EngagementSection } from "@/components/EngagementSection";
 import { Footer }        from "@/components/Footer";
 import { PolicyModal }   from "@/components/PolicyModal";
 
@@ -102,11 +104,13 @@ function PortalPage() {
         <ComunicadosBanner />
         <Hero onOpenPolicy={() => setPolicyOpen(true)} />
         <NewsCarousel />
+        <EngagementSection />
         <Features />
         <GettingStarted />
         <AIToolsBanner />
         <MiranteAIs />
         <AICreations />
+        <CasoCTA />
         <PromptBankCTA />
         <NewsPreview />
         <AIAward />
