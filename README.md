@@ -2,7 +2,7 @@
 
 Portal interno da **Mirante Tecnologia** para centralizar e divulgar o uso de Inteligência Artificial na empresa — ferramentas homologadas, criações feitas com IA, cases de uso, recursos educativos e notícias diárias de IA.
 
-> **Stack:** React 19 · Vite 8 · Tailwind CSS v4 · Firebase 12 (Auth + Firestore + Storage) · GitHub Actions · Gemini AI
+> **Stack:** React 19 · Vite 8 · Tailwind CSS v4 · Firebase 12 (Auth + Firestore + Storage) · EmailJS · Google Apps Script · GitHub Actions · Gemini AI
 
 ---
 
@@ -42,8 +42,13 @@ O Portal IA Mirante é uma **Single Page Application** (SPA) com três áreas di
 - **Hero** com animação neural de fundo, blobs animados e dot-grid
   - Botão primário: **"Notícias de IA"** (scroll para a seção de notícias)
   - Botão secundário: **"Banco de Prompts"** (abre portal externo)
+  - 4 cards de acesso rápido: Política de IA · Desafio da Semana · Prompt do Dia · Comece em 5 passos
+- **Desafio da Semana** — desafio rotativo com prompt pronto para usar, dificuldade, tempo estimado e botão de envio de resultado; 18 desafios pré-carregados em `public/challenges.json`
+- **Prompt do Dia** — prompt diário com filtro por área, feedback de curtir/rejeitar e cópia com um clique; 50 prompts em `public/daily_prompts.json`
 - **Ferramentas de IA** — carrossel com ferramentas homologadas, drag-to-scroll, logos com fallback para iniciais
-- **Criações com IA** — galeria com suporte a vídeo, imagem e áudio; modal de visualização; filtros por área/ferramenta/tipo
+- **Criações com IA** — galeria com suporte a vídeo, imagem e áudio; modal de visualização; filtros por área/ferramenta/tipo; botão "Quero fazer algo parecido" abre formulário de pedido de criação
+- **Envio de casos de uso** — formulário sem login para relatar como a IA foi usada no trabalho; envia por EmailJS e registra no Google Sheets
+- **Pedido de criação similar** — formulário contextual aberto pelo botão "Quero fazer algo parecido" em cada criação; pré-preenche a ferramenta da criação de referência
 - **Banco de Prompts CTA** — link para o portal de prompts interno
 - **Notícias de IA** — seção `#noticias-ia` com os 3 artigos mais recentes e CTA para `/noticias`
 - **Política de IA** — modal com a política oficial de uso de IA da empresa
@@ -111,8 +116,30 @@ Copie `.env.example` para `.env` e preencha os valores. Todas as variáveis são
 | `VITE_FIREBASE_STORAGE_BUCKET` | Bucket do Cloud Storage (`projeto.firebasestorage.app`) |
 | `VITE_FIREBASE_MESSAGING_SENDER_ID` | ID do remetente para notificações |
 | `VITE_FIREBASE_APP_ID` | ID do app web no Firebase |
+| `VITE_EMAILJS_SERVICE_ID` | ID do serviço EmailJS (obter em emailjs.com) |
+| `VITE_EMAILJS_TEMPLATE_ID` | ID do template EmailJS usado pelos formulários |
+| `VITE_EMAILJS_PUBLIC_KEY` | Chave pública EmailJS |
+| `VITE_SHEETS_WEBHOOK_URL` | URL do Google Apps Script (Web App) para registro em planilha |
 
 > ⚠️ **Nunca** commite o arquivo `.env` com valores reais. Ele está listado no `.gitignore`.
+
+### EmailJS — configuração
+
+1. Crie conta em [emailjs.com](https://www.emailjs.com)
+2. Crie um **Service** (Gmail, Outlook, etc.) e copie o `Service ID`
+3. Crie um **Template** com as variáveis: `{{subject}}`, `{{form_type}}`, `{{sender_name}}`, `{{sender_area}}`, `{{challenge_title}}`, `{{problem}}`, `{{tool_used}}`, `{{result}}`, `{{time_saved}}`
+4. Copie o `Template ID` e a `Public Key` (em Account → API Keys)
+5. Configure `To Email` no template como fixo (`team@mirante.com.br`) — não use `{{email}}`
+
+### Google Sheets — configuração
+
+1. Crie uma planilha no Google Sheets
+2. Em **Extensões → Apps Script**, cole um script com `doPost(e)` que faz `appendRow` na planilha
+3. Publique como **Web App** (acesso: qualquer pessoa, mesmo sem login)
+4. Cole a URL gerada em `VITE_SHEETS_WEBHOOK_URL`
+5. **Importante:** execute qualquer função no editor do Apps Script antes de usar, para autorizar o acesso à planilha
+
+> Se `VITE_SHEETS_WEBHOOK_URL` estiver vazio, o envio para a planilha é silenciosamente ignorado; o EmailJS continua funcionando normalmente.
 
 ---
 
@@ -337,6 +364,8 @@ portal-ia-mirante/
 │
 ├── public/
 │   ├── news.json                 # Feed de notícias gerado automaticamente (não editar manualmente)
+│   ├── challenges.json           # 18 desafios semanais (startDate: 2026-09-01, rotação por semana)
+│   ├── daily_prompts.json        # 50 prompts do dia (rotação por dia do ano)
 │   └── ...                       # Outros assets estáticos
 │
 ├── firebaseClient/
@@ -360,21 +389,28 @@ portal-ia-mirante/
 │   │   │   ├── ScrollToTop.jsx   # Reseta scroll ao trocar de rota (React Router)
 │   │   │   └── TiltCard.jsx
 │   │   ├── ui/                   # Componentes base (shadcn/ui)
-│   │   ├── AICreations.jsx
+│   │   ├── AICreations.jsx       # Galeria de criações com filtros e modal de visualização
 │   │   ├── AIToolsBanner.jsx
+│   │   ├── CaseSubmitModal.jsx   # Formulário de envio de caso de uso com IA (EmailJS + Sheets)
+│   │   ├── DailyPrompt.jsx       # Prompt do dia — lê public/daily_prompts.json
+│   │   ├── EngagementSection.jsx # Seção #desafio — agrupa WeeklyChallenge + DailyPrompt
 │   │   ├── Features.jsx
 │   │   ├── Footer.jsx
 │   │   ├── GettingStarted.jsx
-│   │   ├── Hero.jsx              # Botão 1: Notícias de IA → #noticias-ia | Botão 2: Banco de Prompts
+│   │   ├── Hero.jsx              # 2 CTAs + 4 cards (Política·Desafio·Prompt·Começar) + stats
 │   │   ├── MiranteAIs.jsx
 │   │   ├── Navbar.jsx            # Recursos→Começar→Ferramentas→Portais IA→Criações→Notícias IA→Prêmio IA
 │   │   ├── NewsPreview.jsx       # Seção #noticias-ia — 3 artigos recentes + CTA para /noticias
 │   │   ├── PolicyModal.jsx
 │   │   ├── PortalPreview.jsx
-│   │   └── PromptBankCTA.jsx
+│   │   ├── PromptBankCTA.jsx
+│   │   ├── SimilarRequestModal.jsx # Formulário "Quero fazer algo parecido" (EmailJS + Sheets)
+│   │   └── WeeklyChallenge.jsx   # Desafio da semana — lê public/challenges.json
 │   │
 │   ├── hooks/
 │   │   ├── useAuth.jsx           # Contexto de autenticação Firebase
+│   │   ├── useChallenge.js       # Lê challenges.json e seleciona o desafio da semana atual
+│   │   ├── useDailyPrompt.js     # Lê daily_prompts.json e seleciona o prompt do dia
 │   │   ├── useNews.js            # Cache baseado em updatedAt; lê GitHub raw em produção
 │   │   ├── useScrollReveal.js
 │   │   └── useTheme.jsx          # Contexto de tema claro/escuro
