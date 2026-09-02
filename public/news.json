@@ -1,10 +1,106 @@
 {
-  "updatedAt": "2026-09-01T14:23:17.573Z",
+  "updatedAt": "2026-09-02T13:57:18.912Z",
   "count": 40,
   "articles": [
     {
-      "title": "Apple compartilha evidências chocantes contra ex-funcionário acusado de roubar dados da empresa para OpenAI",
-      "description": "A Apple afirma ter evidências de que um ex-funcionário destruiu evidências de roubo de dados após saber que estava sob investigação.",
+      "title": "Anthropic lança Fable 5.1 com menos restrições e promessa de economia",
+      "description": "Desenvolvedora também anuncia Mythos 5.1, que segue restrito a grupo de organizações confiáveis. Anthropic lança Fable 5.1 com menos restrições e promessa de economia",
+      "url": "https://tecnoblog.net/noticias/anthropic-lanca-fable-5-1-com-menos-restricoes-e-promessa-de-economia/",
+      "publishedAt": "Wed, 02 Sep 2026 13:50:21 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-2.jpg",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Financeiro"
+      ]
+    },
+    {
+      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+      "description": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
+      "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+      "publishedAt": "Wed, 02 Sep 2026 12:09:42 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
+      "lang": "en",
+      "depts": [
+        "Jurídico"
+      ]
+    },
+    {
+      "title": "AfterQuery reportedly becomes Y Combinator s fastest-ever unicorn, now valued at $3.2B",
+      "description": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+      "publishedAt": "Tue, 01 Sep 2026 22:08:24 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+      "lang": "en",
+      "depts": [
+        "Educação"
+      ]
+    },
+    {
+      "title": "OpenAI s Astra model is on the way — and very good at breaking into computer systems",
+      "description": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "publishedAt": "Tue, 01 Sep 2026 21:06:24 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Google s Android update tackles motion sickness, accessibility, and more",
+      "description": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+      "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+      "publishedAt": "Tue, 01 Sep 2026 20:53:05 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Anthropic s new Fable release is cheaper, less restrictive",
+      "description": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+      "publishedAt": "Tue, 01 Sep 2026 19:39:22 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Google s answer to Canva is an AI tool where you prompt instead of design",
+      "description": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
+      "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+      "publishedAt": "Tue, 01 Sep 2026 17:35:37 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+      "description": "OpenAI said that the integration provides read-only access to health records for clinicians.",
+      "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+      "publishedAt": "Tue, 01 Sep 2026 17:00:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "Saúde"
+      ]
+    },
+    {
+      "title": "Apple shares shocking evidence against former employee accused of stealing company data for OpenAI",
+      "description": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
       "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
       "publishedAt": "Tue, 01 Sep 2026 00:13:00 +0000",
       "image": null,
@@ -12,12 +108,13 @@
       "content": null,
       "lang": "en",
       "depts": [
-        "RH"
+        "RH",
+        "Educação"
       ]
     },
     {
-      "title": "O Pentágono agora tem sua própria versão do ChatGPT e Grok",
-      "description": "Versões do ChatGPT da OpenAI e Grok da SpaceXAI se juntarão ao Gemini do Google no portal central do Pentágono para ferramentas de IA.",
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "description": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
       "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
       "publishedAt": "Mon, 31 Aug 2026 20:13:45 +0000",
       "image": null,
@@ -40,17 +137,15 @@
       ]
     },
     {
-      "title": "Abandono de Direito de Harvard arrecada US $ 6 milhões para a Blue Voice construir um Harvey para policiais",
-      "description": "O Blue Voice é treinado em leis específicas de departamentos, regulamentos locais, protocolos e diretrizes que as ferramentas de IA de uso geral não podem acessar na Internet pública.",
+      "title": "Harvard Law dropout raises $6M for Blue Voice to build a Harvey for police officers",
+      "description": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
       "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
       "publishedAt": "Mon, 31 Aug 2026 18:35:11 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "O Blue Voice é treinado em leis específicas de departamentos, regulamentos locais, protocolos e diretrizes que as ferramentas de IA de uso geral não podem acessar na Internet pública.",
+      "content": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
       "lang": "en",
-      "depts": [
-        "Jurídico"
-      ]
+      "depts": []
     },
     {
       "title": "ChatGPT volta a funcionar após falha nesta segunda (31)",
@@ -86,121 +181,6 @@
       "content": null,
       "lang": "pt",
       "depts": []
-    },
-    {
-      "title": "Sony Music e Warner processam Anthropic, alegando uma campanha descarada de roubo de propriedade intelectual",
-      "description": "Este último processo é particularmente amplo e aborda acusações de pirataria ilegal.",
-      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-      "publishedAt": "Sat, 29 Aug 2026 18:41:59 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Marketing",
-        "Jurídico",
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Esse truque pode te ajudar a rastrear o iPhone roubado com uma selfie do ladrão",
-      "description": "O aplicativo Atalhos do iPhone permite criar automações que executam uma sequência de ações discretas após um gatilho, permitindo localizar o aparelho roubado Esse truque pode te ajudar a rastrear o iPhone roubado com uma selfie do ladrão",
-      "url": "https://tecnoblog.net/responde/esse-truque-pode-te-ajudar-a-rastrear-o-iphone-roubado-com-uma-selfie-do-ladrao/",
-      "publishedAt": "Fri, 28 Aug 2026 20:37:38 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/truque-para-rastrear-o-iphone-roubado-com-selfie.jpeg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "Claude apagou 700 GB de dados de usuário por engano",
-      "description": "IA da Anthropic falhou ao criar um script e deletou uma semana inteira de trabalho de um desenvolvedor. Claude apagou 700 GB de dados de usuário por engano",
-      "url": "https://tecnoblog.net/noticias/claude-apagou-700-gb-de-dados-de-um-usuario-por-engano/",
-      "publishedAt": "Fri, 28 Aug 2026 19:53:46 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-7.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "RH"
-      ]
-    },
-    {
-      "title": "Google muda limites de uso do Gemini Notebook; veja como ficou",
-      "description": "Google anunciou que Gemini Notebook terá limites de uso baseados na complexidade e extensão das tarefas a partir de 2 de setembro. Google muda limites de uso do Gemini Notebook; veja como ficou",
-      "url": "https://tecnoblog.net/noticias/google-muda-limites-de-uso-do-gemini-notebook-veja-como-ficou/",
-      "publishedAt": "Fri, 28 Aug 2026 19:36:44 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/google-gemini-notebook.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Um pesquisador antrópico acabou de nos dar uma olhada no autoaperfeiçoamento da IA",
-      "description": "Dados 10 benchmarks para comportamentos desalinhados específicos, os sistemas automatizados foram capazes de melhorar o desempenho em cada um deles sem degradar o desempenho geral.",
-      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "publishedAt": "Fri, 28 Aug 2026 19:30:38 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Dados 10 benchmarks para comportamentos desalinhados específicos, os sistemas automatizados foram capazes de melhorar o desempenho em cada um deles sem degradar o desempenho geral.",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Meta fecha brecha que permitia gravações escondidas com óculos inteligentes",
-      "description": "Smart Glasses da Meta deixarão de gravar se o usuário cobrir o LED durante a filmagem. Meta fecha brecha que permitia gravações escondidas com óculos inteligentes",
-      "url": "https://tecnoblog.net/noticias/meta-fecha-brecha-que-permitia-gravacoes-escondidas-com-oculos-inteligentes/",
-      "publishedAt": "Fri, 28 Aug 2026 19:07:55 +0000",
-      "image": "https://www.youtube.com/embed/M6uA1QQ5290",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "Empresas de IA alertam: o prazo para se preparar contra ataques é curto",
-      "description": "OpenAI, Anthropic e Microsoft defendem mais financiamento governamental, acesso antecipado a tecnologias de defesa e estratégias coordenadas de resposta. Empresas de IA alertam: o prazo para se preparar contra ataques é curto",
-      "url": "https://tecnoblog.net/noticias/empresas-de-ia-alertam-o-prazo-para-se-preparar-contra-ataques-e-curto/",
-      "publishedAt": "Fri, 28 Aug 2026 15:31:51 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/capas-iasartboard-2.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Gestão",
-        "Saúde"
-      ]
-    },
-    {
-      "title": "Anthropic obtém sua primeira vitória judicial sobre o rótulo de risco da cadeia de suprimentos do Pentágono",
-      "description": "Um juiz federal decidiu que a administração Trump classificou ilegalmente a Antrópico como um risco para a cadeia de abastecimento, dando à empresa de IA uma vitória enquanto seu segundo processo no Pentágono continua em Washington.",
-      "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-      "publishedAt": "Fri, 28 Aug 2026 12:46:12 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Um juiz federal decidiu que a administração Trump classificou ilegalmente a Antrópico como um risco para a cadeia de abastecimento, dando à empresa de IA uma vitória enquanto seu segundo processo no Pentágono continua em Washington.",
-      "lang": "en",
-      "depts": [
-        "Jurídico",
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Meta executivo sai para OpenAI enquanto o gigante da mídia social enfrenta crescente escrutínio na Índia",
-      "description": "Sandhya Devanathan supervisionará algumas operações da OpenAI no Sudeste Asiático e na Austrália em sua nova função.",
-      "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-      "publishedAt": "Fri, 28 Aug 2026 12:21:06 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Marketing"
-      ]
     },
     {
       "title": "8 prompts para conversar com voz no ChatGPT",
@@ -542,6 +522,21 @@
         "Comercial",
         "Jurídico",
         "Gestão",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Novo app da Meta mostra criações feitas por vibe coding",
+      "description": "A Meta lançou silenciosamente o Pocket , um novo aplicativo para criar e compartilhar pequenos jogos e experiências interativas, chamados de \"gizmos\", usando comandos de inteligência artificial. O app já está disponível na App Store e no Google Play, mas a empresa ainda não fez um anúncio sobre o la",
+      "url": "https://canaltech.com.br/inteligencia-artificial/novo-app-da-meta-mostra-criacoes-feitas-por-vibe-coding/",
+      "publishedAt": "Fri, 03 Jul 2026 17:10:00 -0300",
+      "image": "https://t.ctcdn.com.br/o35a_R-0f5b8pzB7LdM_9qhgmOE=/700x394/smart/i1140309.png",
+      "source": "Canaltech IA",
+      "content": "A Meta lançou silenciosamente o Pocket , um novo aplicativo para criar e compartilhar pequenos jogos e experiências interativas, chamados de \"gizmos\", usando comandos de inteligência artificial. O app já está disponível na App Store e no Google Play, mas a empresa ainda não fez um anúncio sobre o lançamento, o que sugere que a ferramenta pode estar em fase inicial de testes. O aplicativo foi descoberto e divulgado primeiro no X por Alessandro Paluzzi, engenheiro reverso conhecido por encontrar novos aplicativos e recursos antes dos anúncios oficiais. Segundo dados da Appfigures, no entanto, o Pocket já estava disponível nas lojas desde 29 de junho. #Meta is working on a new app called Pocket 👀 ℹ️ A new creative platform to make and share gizmos. pic.twitter.com/zFjMU5jj1U - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - — Alessandro Paluzzi (@alex193a) July 2, 2026 O Pocket usa prompts de texto para gerar conteúdos interativos . Assim, até pessoas sem conhecimento em programação conseguem criar seus próprios miniapps. Além da ferramenta de criação, o aplicativo conta com um feed em que os usuários podem descobrir e testar gizmos desenvolvidos por outras pessoas. O projeto foi criado após a Meta adquirir, no início de 2026, a equipe da Gizmo, plataforma que já utilizava o conceito de vibe coding e acumulava mais de 635 mil instalações. O aplicativo original registrava 98% de avaliações positivas entre os usuários e, curiosamente, continua disponível nas lojas de aplicativos mesmo após o lançamento do Pocket pela Meta. A iniciativa reforça a estratégia da Meta de ampliar o acesso às ferramentas de criação com inteligência artificial. O Pocket ( play.google.com ) integra um ecossistema que já inclui o Vibes, de vídeos gerados por IA, e o Meta AI, focado na criação de imagens. Recentemente, a empresa também adicionou recursos de IA ao editor de vídeos Edits. O Pocket é o novo",
+      "lang": "pt",
+      "depts": [
+        "Marketing",
+        "Comercial",
         "Educação"
       ]
     }
