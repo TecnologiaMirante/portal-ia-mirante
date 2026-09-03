@@ -1,7 +1,32 @@
 {
-  "updatedAt": "2026-09-02T13:57:18.912Z",
+  "updatedAt": "2026-09-03T13:59:56.120Z",
   "count": 40,
   "articles": [
+    {
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "description": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "publishedAt": "Wed, 02 Sep 2026 20:19:14 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+      "description": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,\" the brief reads.",
+      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+      "publishedAt": "Wed, 02 Sep 2026 17:09:06 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,\" the brief reads.",
+      "lang": "en",
+      "depts": [
+        "Jurídico",
+        "Educação"
+      ]
+    },
     {
       "title": "Anthropic lança Fable 5.1 com menos restrições e promessa de economia",
       "description": "Desenvolvedora também anuncia Mythos 5.1, que segue restrito a grupo de organizações confiáveis. Anthropic lança Fable 5.1 com menos restrições e promessa de economia",
@@ -97,90 +122,6 @@
       "depts": [
         "Saúde"
       ]
-    },
-    {
-      "title": "Apple shares shocking evidence against former employee accused of stealing company data for OpenAI",
-      "description": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
-      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-      "publishedAt": "Tue, 01 Sep 2026 00:13:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "RH",
-        "Educação"
-      ]
-    },
-    {
-      "title": "The Pentagon now has its own version of ChatGPT and Grok",
-      "description": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
-      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-      "publishedAt": "Mon, 31 Aug 2026 20:13:45 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Europa agora trata o ChatGPT como um mecanismo de busca",
-      "description": "União Europeia classificou ChatGPT como mecanismo de busca de grande porte, sujeitando serviço a regras mais rígidas. Reddit e Roblox também tiveram nova classificação. Europa agora trata o ChatGPT como um mecanismo de busca",
-      "url": "https://tecnoblog.net/noticias/europa-agora-trata-o-chatgpt-como-um-mecanismo-de-busca/",
-      "publishedAt": "Mon, 31 Aug 2026 19:23:26 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/04/chatgpt-celular.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Comercial"
-      ]
-    },
-    {
-      "title": "Harvard Law dropout raises $6M for Blue Voice to build a Harvey for police officers",
-      "description": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
-      "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
-      "publishedAt": "Mon, 31 Aug 2026 18:35:11 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "ChatGPT volta a funcionar após falha nesta segunda (31)",
-      "description": "Problema técnico impedia assinantes de começarem ou continuarem tarefas no ChatGPT Work. ChatGPT volta a funcionar após falha nesta segunda (31)",
-      "url": "https://tecnoblog.net/noticias/chatgpt-fora-do-ar-falha-deixa-usuarios-sem-acesso-nesta-segunda-31/",
-      "publishedAt": "Mon, 31 Aug 2026 16:59:38 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-2_capa.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Gemini Notebook agora pode puxar informações de livros que você comprou",
-      "description": "Antigo NotebookLM agora pode extrair trechos diretamente de obras compradas via Google Play Livros. Gemini Notebook agora pode puxar informações de livros que você comprou",
-      "url": "https://tecnoblog.net/noticias/gemini-notebook-agora-pode-puxar-informacoes-de-livros-que-voce-comprou/",
-      "publishedAt": "Mon, 31 Aug 2026 11:41:23 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/gemini-notebook-app.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "Erro faz Claude e Codex executarem código malicioso em redes corporativas",
-      "description": "Arquivos mal configurados enganam assistentes de programação, permitindo a entrada de malwares em sistemas grandes de empresas. Erro faz Claude e Codex executarem código malicioso em redes corporativas",
-      "url": "https://tecnoblog.net/noticias/erro-faz-claude-e-codex-executarem-codigo-malicioso-em-redes-corporativas/",
-      "publishedAt": "Mon, 31 Aug 2026 11:39:37 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/06/tbr-malware.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
     },
     {
       "title": "8 prompts para conversar com voz no ChatGPT",
@@ -538,6 +479,72 @@
         "Marketing",
         "Comercial",
         "Educação"
+      ]
+    },
+    {
+      "title": "O que é o “erro 1099” no Gemini? Saiba o que acontece com a IA",
+      "description": "Os usuários do Gemini, tanto na versão web quanto em celulares Android, têm relatado o aparecimento do “erro 1099” , uma falha que interrompe o uso da inteligência artificial. Quando isso acontece, o serviço deixa de responder, impedindo a continuidade da conversa. Segundo os relatos, o problema afe",
+      "url": "https://canaltech.com.br/inteligencia-artificial/o-que-e-o-erro-1099-no-gemini-saiba-o-que-acontece-com-a-ia/",
+      "publishedAt": "Fri, 03 Jul 2026 11:37:55 -0300",
+      "image": "https://t.ctcdn.com.br/BUD5tnSrkkYlVQlUMUP7n-eLQ5U=/700x394/smart/i1111873.png",
+      "source": "Canaltech IA",
+      "content": "Os usuários do Gemini, tanto na versão web quanto em celulares Android, têm relatado o aparecimento do “erro 1099” , uma falha que interrompe o uso da inteligência artificial. Quando isso acontece, o serviço deixa de responder, impedindo a continuidade da conversa. Segundo os relatos, o problema afeta os usuários da versão gratuita e os assinantes dos planos pagos . Em alguns casos, a falha aparece apenas ocasionalmente. Em outros, surge sempre que a pessoa tenta abrir ou usar o Gemini em determinado dispositivo. O erro também tem sido observado com frequência em smartphones da linha Pixel , principalmente ao acionar o Gemini pelo botão lateral. Também há relatos de que a falha acontece após um período de inatividade ou durante conversas longas no NotebookLM , o que pode indicar relação com o volume de informações que a IA precisa processar. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O erro 1099 impede o funcionamento do Gemini e pode afetar usuários da versão web e do Android. (Imagem: Viviane França/Canaltech) O que é o “erro 1099” no Gemini? Segundo especialistas da Comunidade de Suporte do Google, o erro 1099 é uma falha nos servidores do Gemini . Isso significa que o problema não está no celular, no computador ou na conexão com a internet do usuário. As possíveis causas incluem: Falha de autenticação : ocorre quando há um problema na comunicação entre o dispositivo e os servidores do Gemini durante a verificação de acesso; Limite de contexto : o erro pode aparecer quando o prompt ou o histórico da conversa fica grande demais para ser processado pela IA; Limitação de memória : o sistema pode atingir o limite de recursos disponíveis durante o processamento da solicitação; Instabilidade do serviço : o código 1099 também costuma aparecer durante períodos de instabilidade ou indisponibilidade do Gemini. A falha está relacionada aos servidores do Google e pode interro",
+      "lang": "pt",
+      "depts": [
+        "Comercial"
+      ]
+    },
+    {
+      "title": "Virginia Fonseca tem “clone de IA” para conversar com fãs por até R$ 89",
+      "description": "A plataforma Versio funciona como um chatbot de IA na qual é possível conversar com versões inspiradas em especialistas e celebridades, como a influenciadora Virginia Fonseca . O serviço cobra até R$ 89 por mês para liberar conversas com os clones de IA inspirados em pessoas famosas, mas há uma vers",
+      "url": "https://canaltech.com.br/inteligencia-artificial/virginia-fonseca-tem-clone-de-ia-para-conversar-com-fas-por-ate-r-89/",
+      "publishedAt": "Thu, 02 Jul 2026 18:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/k8MEe2l3PH5iKwUNiwyAeaBzMwA=/700x394/smart/i1139979.png",
+      "source": "Canaltech IA",
+      "content": "A plataforma Versio funciona como um chatbot de IA na qual é possível conversar com versões inspiradas em especialistas e celebridades, como a influenciadora Virginia Fonseca . O serviço cobra até R$ 89 por mês para liberar conversas com os clones de IA inspirados em pessoas famosas, mas há uma versão gratuita “escondida” . A ferramenta foi divulgada pela influenciadora nesta quarta-feira (1º) em post no Instagram. No caso, Fonseca simula uma situação em que uam seguidora pede sugestões de como se vestir para um jantar. De acordo com o site oficial, a Versio se difere de outros chatbots por ter sido treinada diretamente pelos especialistas mencionados . Algumas das personalidades disponíveis são o empresário e fisiculturista Renato Cariani, o empresário Carlos Wizard e a economista Nathalia Arcuri. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O app funciona como um chatbot convencional e permite enviar arquivos nas conversas ao assinar os planos mais caros. Ver essa foto no Instagram Um post compartilhado por Virginia (@virginia) Versão gratuita fica escondida Um detalhe sobre o Versio chamou a atenção: o site oficial (inserido no perfil da marca vinculado ao post de Virgínia) exige uma assinatura paga para usar a plataforma, mas é possível usar uma versão gratuita por outro caminho . Os planos pagos partem de R$ 29 por mês a R$ 89 por mês. A página com os Termos de Uso não carrega no site oficial, mas pode ser acessada ao iniciar um pagamento. Lá, a empresa informa que existe uma versão gratuita com versões limitadas e tem um link para o serviç o, também disponível em aplicativo para Android e iOS (as versões não são divulgadas no site principal , vinculado ao perfil da marca no post de Virginia). O CT testou a IA que conversa como a influenciadora, mas há um limite diário de conversas na versão gratuita. Os planos pagos aumentam as taxas de uso diárias e permitem env",
+      "lang": "pt",
+      "depts": [
+        "Marketing",
+        "Comercial"
+      ]
+    },
+    {
+      "title": "Por que o próximo ciclo computacional precisa ser construído para todos",
+      "description": "Nos últimos três anos, a capacidade computacional global dedicada à inteligência artificial cresceu aproximadamente 100 vezes . É uma das revoluções tecnológicas mais impactantes das últimas décadas. A IA já chegou indiscutivelmente. Mas a questão que surge agora é: ela está acessível a todos? De um",
+      "url": "https://canaltech.com.br/colunas/por-que-o-proximo-ciclo-computacional-precisa-ser-construido-para-todos/",
+      "publishedAt": "Thu, 02 Jul 2026 10:43:03 -0300",
+      "image": "https://t.ctcdn.com.br/nZ6sNq7PsgAB4H-oy5G3Tk3upoA=/700x394/smart/i1003705.png",
+      "source": "Canaltech IA",
+      "content": "Nos últimos três anos, a capacidade computacional global dedicada à inteligência artificial cresceu aproximadamente 100 vezes . É uma das revoluções tecnológicas mais impactantes das últimas décadas. A IA já chegou indiscutivelmente. Mas a questão que surge agora é: ela está acessível a todos? De um lado, temos modelos cada vez mais capazes, infraestruturas de bilhões de dólares, parcerias entre algumas das maiores empresas do planeta. De outro, desenvolvedores independentes, pesquisadores em países emergentes, startups sem acesso a crédito cloud e laboratórios universitários com acesso limitado. O próximo ciclo computacional pode encontrar caminhos para solucionar essa assimetria. O problema não é só hardware Quando falamos em democratizar a IA, GPUs e custos de treinamento são pontos importantes, mas há um gargalo além do hardware: a dependência de ecossistemas fechados que prendem desenvolvedores a plataformas específicas e concentram o poder de inovação nas mãos de poucos. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A analogia com o software é útil aqui. O movimento open source levou décadas para amadurecer, mas hoje a infraestrutura que sustenta a internet é majoritariamente aberta . Isso porque a inovação aberta com frequência se mostrou altamente resiliente e amplamente adotada em comparação com alternativas proprietárias. A IA está no começo do mesmo caminho. Plataformas abertas saltaram de nichos experimentais para infraestrutura de produção em escala global. Um pesquisador no Brasil, na Índia ou na Nigéria pode acessar hoje muitas das mesmas ferramentas utilizadas por grandes centros de tecnologia — desde que disponha de recursos de hardware adequados . A IA que mora no seu dispositivo Outra transformação relevante: a migração da IA da nuvem para o dispositivo. Processadores modernos com NPUs integradas permitem rodar inteligência artificial localmente , sem",
+      "lang": "pt",
+      "depts": [
+        "Financeiro",
+        "Comercial",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Fable e Mythos 5: governo Trump libera IAs mais perigosas da Anthropic",
+      "description": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três s",
+      "url": "https://canaltech.com.br/inteligencia-artificial/fable-e-mythos-5-governo-trump-libera-ias-mais-perigosas-da-anthropic/",
+      "publishedAt": "Wed, 01 Jul 2026 12:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/Am6VaUx8jmQtCNJCxA_znmbrltc=/700x394/smart/i1107289.png",
+      "source": "Canaltech IA",
+      "content": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três semanas depois de o governo ter suspendido o acesso aos dois sistemas por risco à segurança nacional. Segundo a Reuters, o acesso ao Fable 5 será restaurado a partir desta quarta-feira (1º) , ficando disponível ao público em geral. Já o Mythos 5, direcionado à detecção de vulnerabilidades de cibersegurança, será liberado para um grupo maior de parceiros domésticos e internacionais do programa Glasswing, da Anthropic. Como começou a restrição Em 12 de junho, o governo americano incluiu os dois modelos em sua lista de tecnologias sob controle de exportação , impedindo o acesso de estrangeiros sem aprovação especial . Como a Anthropic não tinha como verificar a nacionalidade dos usuários em tempo real, a companhia optou por suspender o Fable 5 e o Mythos 5 para todo mundo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A decisão, segundo a Reuters, partiu de uma denúncia de pesquisadores da Amazon , que encontraram uma forma de contornar as proteções do Fable 5. Com essa brecha, o modelo passou a identificar falhas de software e, em um dos casos registrados, chegou a gerar código demonstrando como explorar uma vulnerabilidade. No último domingo (28), o governo abriu uma primeira exceção , permitindo o uso do Mythos 5 por organizações selecionadas e por funcionários da própria Anthropic, incluindo estrangeiros vinculados a esses grupos. O Fable 5 seguia fora do ar até esta terça. O Claude é, atualmente, a terceira IA mais utilizada no mundo (Imagem: Marcelo Fischer/Canaltech) Por que são modelos tão perigosos O Mythos 5 concentra as capacidades que mais preocupam o governo american",
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Português é o 3º idioma mais usado no ChatGPT",
+      "description": "O português é agora o terceiro idioma mais usado no ChatGPT , segundo dados da OpenAI divulgados no relatório OpenAI Signals. Ele fica atrás apenas do inglês e do espanhol. O levantamento também mostra que, pela primeira vez, mais da metade dos usuários ativos usa o ChatGPT principalmente em idiomas",
+      "url": "https://canaltech.com.br/inteligencia-artificial/portugues-e-o-3o-idioma-mais-usado-no-chatgpt/",
+      "publishedAt": "Wed, 01 Jul 2026 09:27:36 -0300",
+      "image": "https://t.ctcdn.com.br/elWRGd7DozFcUzbnLeKmr45Ecyw=/700x394/smart/i1137007.png",
+      "source": "Canaltech IA",
+      "content": "O português é agora o terceiro idioma mais usado no ChatGPT , segundo dados da OpenAI divulgados no relatório OpenAI Signals. Ele fica atrás apenas do inglês e do espanhol. O levantamento também mostra que, pela primeira vez, mais da metade dos usuários ativos usa o ChatGPT principalmente em idiomas diferentes do inglês. Em quarto, quinto e sexto lugar aparecem, respectivamente, o francês, o indonésio e o árabe. A análise mede as interações de usuários nos planos individuais do ChatGPT , incluindo as assinaturas Free (gratuito), Go, Plus e Pro. Além disso, os idiomas uzbeque, cazaque e birmanês foram os que mais cresceram em participação desde julho de 2023. O relatório também mostra que usuários mais antigos usam o ChatGPT com mais frequência. Após seis meses na plataforma, eles enviam, em média, 50% mais mensagens por dia e realizam o dobro de tarefas diferentes em relação ao início do uso. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Português é o terceiro idioma mais usado no ChatGPT. (Imagem: Divulgação/OpenAI) Adoção do ChatGPT cresceu em todas as regiões O relatório também mostra que o uso do ChatGPT cresceu em todos os continentes desde julho de 2023, deixando a base de usuários mais global e diversa. O crescimento foi mais rápido na África, seguida pela Ásia, América do Sul, Europa, América do Norte e Oceania. Segundo a OpenAI, o crescimento foi mais rápido em países com menor Índice de Desenvolvimento Humano (IDH) , que registraram o maior aumento no número de usuários ativos por semana. O levantamento também aponta mudanças no perfil dos usuários. Pessoas com nomes tipicamente femininos representam a maior parte do uso global do ChatGPT. O Brasil, Colômbia, Polônia e Namíbia estão entre os países onde esse grupo supera os usuários com nomes tipicamente masculinos. Já Paquistão, Bangladesh, Angola, República Democrática do Congo e Mali têm a maior presença de",
+      "lang": "pt",
+      "depts": [
+        "Gestão"
       ]
     }
   ]
