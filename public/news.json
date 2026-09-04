@@ -1,26 +1,125 @@
 {
-  "updatedAt": "2026-09-03T13:59:56.120Z",
+  "updatedAt": "2026-09-04T13:51:35.366Z",
   "count": 40,
   "articles": [
     {
-      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-      "description": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
-      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-      "publishedAt": "Wed, 02 Sep 2026 20:19:14 +0000",
+      "title": "O problema da mesmice por trás daqueles menus pouco apetitosos gerados por IA",
+      "description": "Embora os proprietários de restaurantes possam olhar para a IA generativa como um atalho para melhorar o seu menu, os clientes podem sentir visceralmente que algo está errado com a comida.",
+      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "publishedAt": "Fri, 04 Sep 2026 04:21:03 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+      "content": "Embora os proprietários de restaurantes possam olhar para a IA generativa como um atalho para melhorar o seu menu, os clientes podem sentir visceralmente que algo está errado com a comida.",
+      "lang": "en",
+      "depts": [
+        "Comercial"
+      ]
+    },
+    {
+      "title": "GPT-6 Astra chega em meio a promessas de AGI e polêmicas de segurança",
+      "description": "Novo modelo da OpenAI foi treinado com mais de 100 mil GPUs e usa técnica que pode dificultar monitoramento GPT-6 Astra chega em meio a promessas de AGI e polêmicas de segurança",
+      "url": "https://tecnoblog.net/noticias/gpt-6-astra-chega-em-meio-a-promessas-de-agi-e-polemicas-de-seguranca/",
+      "publishedAt": "Thu, 03 Sep 2026 23:12:30 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-1_capa.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Abliteration.ai está fazendo um negócio removendo as proteções de IA",
+      "description": "A Abliteration.AI está facilitando o acesso a modelos poderosos de IA sem grades de proteção, argumentando que dar aos defensores as mesmas ferramentas que os malfeitores poderia, em última análise, melhorar a segurança cibernética.",
+      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "publishedAt": "Thu, 03 Sep 2026 18:37:57 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "A Abliteration.AI está facilitando o acesso a modelos poderosos de IA sem grades de proteção, argumentando que dar aos defensores as mesmas ferramentas que os malfeitores poderia, em última análise, melhorar a segurança cibernética.",
+      "lang": "en",
+      "depts": [
+        "Comercial"
+      ]
+    },
+    {
+      "title": "Meta está pagando para ver como você usa seu modelo de IA mais recente",
+      "description": "Para seu novo modelo Muse Spark, destinado à operação de codificação e outros agentes, a Meta está oferecendo um desconto explícito de cerca de 95% em média para usuários que “contribuem” para o desenvolvimento de modelos futuros, compartilhando seus prompts e resultados de modelo.",
+      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+      "publishedAt": "Thu, 03 Sep 2026 18:19:56 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Para seu novo modelo Muse Spark, destinado à operação de codificação e outros agentes, a Meta está oferecendo um desconto explícito de cerca de 95% em média para usuários que “contribuem” para o desenvolvimento de modelos futuros, compartilhando seus prompts e resultados de modelo.",
       "lang": "en",
       "depts": []
     },
     {
-      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-      "description": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,\" the brief reads.",
+      "title": "OpenAI lança Astra, seu novo modelo poderoso (e polêmico)",
+      "description": "A OpenAI afirma que o Astra representa “uma nova fronteira no uso de computadores e navegadores” e que lida com tarefas com “velocidade, precisão e segurança” incomparáveis.",
+      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "publishedAt": "Thu, 03 Sep 2026 18:01:45 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "A OpenAI afirma que o Astra representa “uma nova fronteira no uso de computadores e navegadores” e que lida com tarefas com “velocidade, precisão e segurança” incomparáveis.",
+      "lang": "en",
+      "depts": [
+        "Gestão"
+      ]
+    },
+    {
+      "title": "Bandai transforma o icônico Tamagotchi em anel inteligente",
+      "description": "Menor dispositivo da franquia ganha tela LCD colorida e bateria recarregável; febre dos anos 1990 no Brasil ainda não tem previsão de chegada ao mercado nacional. Bandai transforma o icônico Tamagotchi em anel inteligente",
+      "url": "https://tecnoblog.net/noticias/bandai-transforma-o-iconico-tamagotchi-em-anel-inteligente/",
+      "publishedAt": "Thu, 03 Sep 2026 17:49:17 +0000",
+      "image": "https://www.youtube.com/embed/dGczs3non9A",
+      "source": "Tecnoblog",
+      "content": "Novo formato compacto conta com tela LCD colorida (Imagem: Divulgação/Bandai) Resumo O clássico bichinho virtual virou o Tamagotchi Ring, um acessório vestível atualizado com tela LCD colorida e bateria recarregável por USB. Com design miniaturizado, o gadget pode ser usado no dedo ou como pingente e será vendido em três combinações de cores. A experiência original segue intacta: é preciso cuidar do pet digital diariamente para que ele evolua entre os mais de 30 personagens possíveis. A Bandai anunciou o lançamento do Tamagotchi Ring, uma versão em formato de anel do clássico brinquedo, projetada para ser usada no dedo ou como um pingente. O dispositivo já foi disponibilizado no Japão e marca a tentativa da empresa de unir o apelo retrô do bichinho virtual com o segmento crescente de acessórios vestíveis . Historicamente carregado dentro do bolso, o animal de estimação digital agora passa a ocupar um espaço mais integrado junto ao corpo do usuário. A Bandai descreve a novidade como o menor dispositivo Tamagotchi do mundo : o produto mede cerca de 28 milímetros de largura, 23 milímetros de espessura e 35 milímetros de altura. Apesar da redução extrema nas dimensões, o aparelho incorpora uma tela LCD colorida com informações visuais do bichinho, status de saúde e todas as opções de interação. A empresa disponibilizou o produto em três cores no mercado asiático: Rosa e Branco Pérola; Azul Claro e Dourado Metálico; e Preto e Prateado Metálico. Para se adaptar a diferentes usuários, o anel será comercializado nos tamanhos 10 e 14. A caixa também inclui um espaçador adicional. O pacote acompanha a clássica corrente de bolinhas que adapta o objeto para ser usado como colar ou pendurado do lado de fora de bolsas e mochilas. Como funciona o novo Tamagotchi Ring? Criatura virtual pode evoluir para mais de 30 personagens (Imagem: Divulgação/Bandai) Mesmo com o formato compacto, a Bandai garante que as mecânicas clássicas e a experiência seguem intactas no Tamagotchi Ring. Na prática, isso significa que os proprietários continuam com as mesmas obrigações das décadas passadas: é preciso alimentar o mascote virtual, cuidar de suas necessidades de higiene e interagir com a criatura. O ciclo de desenvolvimento do pet digital também permanece inalterado. A criatura evolui com o passar do tempo e pode se transformar em mais de 30 personagens diferentes. O resultado dessa evolução depende de como o usuário lida com o dispositivo, baseando-se no nível de cuidado e na atenção dedicada ao bichinho. O sistema ainda programa o surgimento aleatório de personagens secretos, servindo como uma recompensa para os jogadores. Uma atualização relevante é a bateria recarregável de polímero de lítio (LiPo), dispensando as tradicionais baterias tipo moeda que equipavam as gerações passadas. Cada unidade acompanha um carregador USB. Nova versão utiliza bateria recarregável (Imagem: Divulgação/Bandai) Preço e disponibilidade Anel inclui um espaçador de fábrica para ajuste fino nos dedos (Imagem: Divulgação/Bandai) O Tamagotchi original representou um fenômeno cultural na década de 1990 e virou febre no Brasil. O apelo do novo Tamagotchi Ring é justamente unir essa lembrança do mascote amigável e nostálgico à conveniência de um aparelho construído para permanecer mais perto do dono o dia todo. No exterior, as lojas fazem a pré-venda por preços partindo da faixa de US$ 54,75, o equivalente a cerca de R$ 280 sem impostos. Até o momento, não há previsão de venda oficial do Tamagotchi Ring no Brasil. Bandai transforma o icônico Tamagotchi em anel inteligente",
+      "lang": "pt",
+      "depts": [
+        "Marketing"
+      ]
+    },
+    {
+      "title": "Ollie está apostando que seu foco na privacidade pode ajudá-lo a vencer a corrida de assistentes de IA",
+      "description": "O assistente de IA focado na família deseja ter acesso aos detalhes da sua vida cotidiana, mas diz que não usará esses dados para treinar modelos de IA ou compartilhá-los com outras pessoas.",
+      "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+      "publishedAt": "Thu, 03 Sep 2026 16:09:01 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "O assistente de IA focado na família deseja ter acesso aos detalhes da sua vida cotidiana, mas diz que não usará esses dados para treinar modelos de IA ou compartilhá-los com outras pessoas.",
+      "lang": "en",
+      "depts": [
+        "Jurídico",
+        "Gestão"
+      ]
+    },
+    {
+      "title": "O mais recente modelo meteorológico de IA do Google não oferece desculpa para esquecer seu guarda-chuva",
+      "description": "WeatherNext 3 é a última onda de uma mudança radical na meteorologia trazida por técnicas de aprendizado profundo. O Google diz que começará a alimentar as informações meteorológicas que os usuários veem nas pesquisas, no Google Maps e no Gemini.",
+      "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+      "publishedAt": "Thu, 03 Sep 2026 15:00:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "WeatherNext 3 é a última onda de uma mudança radical na meteorologia trazida por técnicas de aprendizado profundo. O Google diz que começará a alimentar as informações meteorológicas que os usuários veem nas pesquisas, no Google Maps e no Gemini.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "A nova técnica de raciocínio da OpenAI alarma especialistas em segurança de IA",
+      "description": "O novo modelo Astra da OpenAI usará “profundidade recorrente”, uma técnica que permite que o modelo opere fora do pensamento sequencial que caracteriza a maioria dos modelos de raciocínio.",
+      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "publishedAt": "Wed, 02 Sep 2026 20:19:14 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "O novo modelo Astra da OpenAI usará “profundidade recorrente”, uma técnica que permite que o modelo opere fora do pensamento sequencial que caracteriza a maioria dos modelos de raciocínio.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "O governo dos EUA apoia a OpenAI na questão do treinamento de LLMs em material protegido por direitos autorais",
+      "description": "“Os Estados Unidos têm um forte interesse em continuar a desenvolver uma indústria de inteligência artificial robusta e competitiva que estabeleça o padrão para a prática e procedimento de uso de IA em todo o mundo”, diz o documento.",
       "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
       "publishedAt": "Wed, 02 Sep 2026 17:09:06 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,\" the brief reads.",
+      "content": "“Os Estados Unidos têm um forte interesse em continuar a desenvolver uma indústria de inteligência artificial robusta e competitiva que estabeleça o padrão para a prática e procedimento de uso de IA em todo o mundo”, diz o documento.",
       "lang": "en",
       "depts": [
         "Jurídico",
@@ -38,89 +137,6 @@
       "lang": "pt",
       "depts": [
         "Financeiro"
-      ]
-    },
-    {
-      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
-      "description": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
-      "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
-      "publishedAt": "Wed, 02 Sep 2026 12:09:42 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
-      "lang": "en",
-      "depts": [
-        "Jurídico"
-      ]
-    },
-    {
-      "title": "AfterQuery reportedly becomes Y Combinator s fastest-ever unicorn, now valued at $3.2B",
-      "description": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
-      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-      "publishedAt": "Tue, 01 Sep 2026 22:08:24 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
-      "lang": "en",
-      "depts": [
-        "Educação"
-      ]
-    },
-    {
-      "title": "OpenAI s Astra model is on the way — and very good at breaking into computer systems",
-      "description": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
-      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-      "publishedAt": "Tue, 01 Sep 2026 21:06:24 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Google s Android update tackles motion sickness, accessibility, and more",
-      "description": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
-      "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-      "publishedAt": "Tue, 01 Sep 2026 20:53:05 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Anthropic s new Fable release is cheaper, less restrictive",
-      "description": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
-      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-      "publishedAt": "Tue, 01 Sep 2026 19:39:22 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Google s answer to Canva is an AI tool where you prompt instead of design",
-      "description": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
-      "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-      "publishedAt": "Tue, 01 Sep 2026 17:35:37 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
-      "description": "OpenAI said that the integration provides read-only access to health records for clinicians.",
-      "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
-      "publishedAt": "Tue, 01 Sep 2026 17:00:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Saúde"
       ]
     },
     {
@@ -533,19 +549,6 @@
       "content": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três semanas depois de o governo ter suspendido o acesso aos dois sistemas por risco à segurança nacional. Segundo a Reuters, o acesso ao Fable 5 será restaurado a partir desta quarta-feira (1º) , ficando disponível ao público em geral. Já o Mythos 5, direcionado à detecção de vulnerabilidades de cibersegurança, será liberado para um grupo maior de parceiros domésticos e internacionais do programa Glasswing, da Anthropic. Como começou a restrição Em 12 de junho, o governo americano incluiu os dois modelos em sua lista de tecnologias sob controle de exportação , impedindo o acesso de estrangeiros sem aprovação especial . Como a Anthropic não tinha como verificar a nacionalidade dos usuários em tempo real, a companhia optou por suspender o Fable 5 e o Mythos 5 para todo mundo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A decisão, segundo a Reuters, partiu de uma denúncia de pesquisadores da Amazon , que encontraram uma forma de contornar as proteções do Fable 5. Com essa brecha, o modelo passou a identificar falhas de software e, em um dos casos registrados, chegou a gerar código demonstrando como explorar uma vulnerabilidade. No último domingo (28), o governo abriu uma primeira exceção , permitindo o uso do Mythos 5 por organizações selecionadas e por funcionários da própria Anthropic, incluindo estrangeiros vinculados a esses grupos. O Fable 5 seguia fora do ar até esta terça. O Claude é, atualmente, a terceira IA mais utilizada no mundo (Imagem: Marcelo Fischer/Canaltech) Por que são modelos tão perigosos O Mythos 5 concentra as capacidades que mais preocupam o governo american",
       "lang": "pt",
       "depts": []
-    },
-    {
-      "title": "Português é o 3º idioma mais usado no ChatGPT",
-      "description": "O português é agora o terceiro idioma mais usado no ChatGPT , segundo dados da OpenAI divulgados no relatório OpenAI Signals. Ele fica atrás apenas do inglês e do espanhol. O levantamento também mostra que, pela primeira vez, mais da metade dos usuários ativos usa o ChatGPT principalmente em idiomas",
-      "url": "https://canaltech.com.br/inteligencia-artificial/portugues-e-o-3o-idioma-mais-usado-no-chatgpt/",
-      "publishedAt": "Wed, 01 Jul 2026 09:27:36 -0300",
-      "image": "https://t.ctcdn.com.br/elWRGd7DozFcUzbnLeKmr45Ecyw=/700x394/smart/i1137007.png",
-      "source": "Canaltech IA",
-      "content": "O português é agora o terceiro idioma mais usado no ChatGPT , segundo dados da OpenAI divulgados no relatório OpenAI Signals. Ele fica atrás apenas do inglês e do espanhol. O levantamento também mostra que, pela primeira vez, mais da metade dos usuários ativos usa o ChatGPT principalmente em idiomas diferentes do inglês. Em quarto, quinto e sexto lugar aparecem, respectivamente, o francês, o indonésio e o árabe. A análise mede as interações de usuários nos planos individuais do ChatGPT , incluindo as assinaturas Free (gratuito), Go, Plus e Pro. Além disso, os idiomas uzbeque, cazaque e birmanês foram os que mais cresceram em participação desde julho de 2023. O relatório também mostra que usuários mais antigos usam o ChatGPT com mais frequência. Após seis meses na plataforma, eles enviam, em média, 50% mais mensagens por dia e realizam o dobro de tarefas diferentes em relação ao início do uso. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Português é o terceiro idioma mais usado no ChatGPT. (Imagem: Divulgação/OpenAI) Adoção do ChatGPT cresceu em todas as regiões O relatório também mostra que o uso do ChatGPT cresceu em todos os continentes desde julho de 2023, deixando a base de usuários mais global e diversa. O crescimento foi mais rápido na África, seguida pela Ásia, América do Sul, Europa, América do Norte e Oceania. Segundo a OpenAI, o crescimento foi mais rápido em países com menor Índice de Desenvolvimento Humano (IDH) , que registraram o maior aumento no número de usuários ativos por semana. O levantamento também aponta mudanças no perfil dos usuários. Pessoas com nomes tipicamente femininos representam a maior parte do uso global do ChatGPT. O Brasil, Colômbia, Polônia e Namíbia estão entre os países onde esse grupo supera os usuários com nomes tipicamente masculinos. Já Paquistão, Bangladesh, Angola, República Democrática do Congo e Mali têm a maior presença de",
-      "lang": "pt",
-      "depts": [
-        "Gestão"
-      ]
     }
   ]
 }
