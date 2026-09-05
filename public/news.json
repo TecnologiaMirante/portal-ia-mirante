@@ -1,23 +1,68 @@
 {
-  "updatedAt": "2026-09-04T13:51:35.366Z",
+  "updatedAt": "2026-09-05T13:06:28.913Z",
   "count": 40,
   "articles": [
     {
-      "title": "O problema da mesmice por trás daqueles menus pouco apetitosos gerados por IA",
-      "description": "Embora os proprietários de restaurantes possam olhar para a IA generativa como um atalho para melhorar o seu menu, os clientes podem sentir visceralmente que algo está errado com a comida.",
+      "title": "OpenAI s rogue agents keep escaping, with no formal process to investigate them",
+      "description": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "publishedAt": "Fri, 04 Sep 2026 23:15:11 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "description": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "publishedAt": "Fri, 04 Sep 2026 21:12:11 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab s knowledge",
+      "description": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+      "publishedAt": "Fri, 04 Sep 2026 16:21:11 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Google s Gemini Spark can now manage your Google Photos library",
+      "description": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
+      "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+      "publishedAt": "Fri, 04 Sep 2026 14:47:11 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "The sameness problem behind those unappetizing AI-generated menus",
+      "description": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
       "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
       "publishedAt": "Fri, 04 Sep 2026 04:21:03 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "Embora os proprietários de restaurantes possam olhar para a IA generativa como um atalho para melhorar o seu menu, os clientes podem sentir visceralmente que algo está errado com a comida.",
+      "content": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
       "lang": "en",
       "depts": [
+        "Financeiro",
         "Comercial"
       ]
     },
     {
-      "title": "GPT-6 Astra chega em meio a promessas de AGI e polêmicas de segurança",
-      "description": "Novo modelo da OpenAI foi treinado com mais de 100 mil GPUs e usa técnica que pode dificultar monitoramento GPT-6 Astra chega em meio a promessas de AGI e polêmicas de segurança",
+      "title": "OpenAI anuncia o GPT-6 Astra; modelo chega ao ChatGPT em breve",
+      "description": "Novo modelo da OpenAI foi treinado com mais de 100 mil GPUs e usa técnica que pode dificultar monitoramento OpenAI anuncia o GPT-6 Astra; modelo chega ao ChatGPT em breve",
       "url": "https://tecnoblog.net/noticias/gpt-6-astra-chega-em-meio-a-promessas-de-agi-e-polemicas-de-seguranca/",
       "publishedAt": "Thu, 03 Sep 2026 23:12:30 +0000",
       "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-1_capa.png",
@@ -27,41 +72,37 @@
       "depts": []
     },
     {
-      "title": "Abliteration.ai está fazendo um negócio removendo as proteções de IA",
-      "description": "A Abliteration.AI está facilitando o acesso a modelos poderosos de IA sem grades de proteção, argumentando que dar aos defensores as mesmas ferramentas que os malfeitores poderia, em última análise, melhorar a segurança cibernética.",
+      "title": "Abliteration.ai is making a business out of removing AI guardrails",
+      "description": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
       "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
       "publishedAt": "Thu, 03 Sep 2026 18:37:57 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "A Abliteration.AI está facilitando o acesso a modelos poderosos de IA sem grades de proteção, argumentando que dar aos defensores as mesmas ferramentas que os malfeitores poderia, em última análise, melhorar a segurança cibernética.",
-      "lang": "en",
-      "depts": [
-        "Comercial"
-      ]
-    },
-    {
-      "title": "Meta está pagando para ver como você usa seu modelo de IA mais recente",
-      "description": "Para seu novo modelo Muse Spark, destinado à operação de codificação e outros agentes, a Meta está oferecendo um desconto explícito de cerca de 95% em média para usuários que “contribuem” para o desenvolvimento de modelos futuros, compartilhando seus prompts e resultados de modelo.",
-      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-      "publishedAt": "Thu, 03 Sep 2026 18:19:56 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Para seu novo modelo Muse Spark, destinado à operação de codificação e outros agentes, a Meta está oferecendo um desconto explícito de cerca de 95% em média para usuários que “contribuem” para o desenvolvimento de modelos futuros, compartilhando seus prompts e resultados de modelo.",
+      "content": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
       "lang": "en",
       "depts": []
     },
     {
-      "title": "OpenAI lança Astra, seu novo modelo poderoso (e polêmico)",
-      "description": "A OpenAI afirma que o Astra representa “uma nova fronteira no uso de computadores e navegadores” e que lida com tarefas com “velocidade, precisão e segurança” incomparáveis.",
+      "title": "Meta is paying to peek at how you use their latest AI model",
+      "description": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
+      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+      "publishedAt": "Thu, 03 Sep 2026 18:19:56 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "description": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
       "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
       "publishedAt": "Thu, 03 Sep 2026 18:01:45 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "A OpenAI afirma que o Astra representa “uma nova fronteira no uso de computadores e navegadores” e que lida com tarefas com “velocidade, precisão e segurança” incomparáveis.",
+      "content": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
       "lang": "en",
-      "depts": [
-        "Gestão"
-      ]
+      "depts": []
     },
     {
       "title": "Bandai transforma o icônico Tamagotchi em anel inteligente",
@@ -77,66 +118,27 @@
       ]
     },
     {
-      "title": "Ollie está apostando que seu foco na privacidade pode ajudá-lo a vencer a corrida de assistentes de IA",
-      "description": "O assistente de IA focado na família deseja ter acesso aos detalhes da sua vida cotidiana, mas diz que não usará esses dados para treinar modelos de IA ou compartilhá-los com outras pessoas.",
+      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+      "description": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
       "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
       "publishedAt": "Thu, 03 Sep 2026 16:09:01 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "O assistente de IA focado na família deseja ter acesso aos detalhes da sua vida cotidiana, mas diz que não usará esses dados para treinar modelos de IA ou compartilhá-los com outras pessoas.",
+      "content": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
       "lang": "en",
-      "depts": [
-        "Jurídico",
-        "Gestão"
-      ]
+      "depts": []
     },
     {
-      "title": "O mais recente modelo meteorológico de IA do Google não oferece desculpa para esquecer seu guarda-chuva",
-      "description": "WeatherNext 3 é a última onda de uma mudança radical na meteorologia trazida por técnicas de aprendizado profundo. O Google diz que começará a alimentar as informações meteorológicas que os usuários veem nas pesquisas, no Google Maps e no Gemini.",
+      "title": "Google s latest AI weather model gives you no excuse to forget your umbrella",
+      "description": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
       "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
       "publishedAt": "Thu, 03 Sep 2026 15:00:00 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "WeatherNext 3 é a última onda de uma mudança radical na meteorologia trazida por técnicas de aprendizado profundo. O Google diz que começará a alimentar as informações meteorológicas que os usuários veem nas pesquisas, no Google Maps e no Gemini.",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "A nova técnica de raciocínio da OpenAI alarma especialistas em segurança de IA",
-      "description": "O novo modelo Astra da OpenAI usará “profundidade recorrente”, uma técnica que permite que o modelo opere fora do pensamento sequencial que caracteriza a maioria dos modelos de raciocínio.",
-      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-      "publishedAt": "Wed, 02 Sep 2026 20:19:14 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "O novo modelo Astra da OpenAI usará “profundidade recorrente”, uma técnica que permite que o modelo opere fora do pensamento sequencial que caracteriza a maioria dos modelos de raciocínio.",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "O governo dos EUA apoia a OpenAI na questão do treinamento de LLMs em material protegido por direitos autorais",
-      "description": "“Os Estados Unidos têm um forte interesse em continuar a desenvolver uma indústria de inteligência artificial robusta e competitiva que estabeleça o padrão para a prática e procedimento de uso de IA em todo o mundo”, diz o documento.",
-      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-      "publishedAt": "Wed, 02 Sep 2026 17:09:06 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "“Os Estados Unidos têm um forte interesse em continuar a desenvolver uma indústria de inteligência artificial robusta e competitiva que estabeleça o padrão para a prática e procedimento de uso de IA em todo o mundo”, diz o documento.",
+      "content": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
       "lang": "en",
       "depts": [
-        "Jurídico",
         "Educação"
-      ]
-    },
-    {
-      "title": "Anthropic lança Fable 5.1 com menos restrições e promessa de economia",
-      "description": "Desenvolvedora também anuncia Mythos 5.1, que segue restrito a grupo de organizações confiáveis. Anthropic lança Fable 5.1 com menos restrições e promessa de economia",
-      "url": "https://tecnoblog.net/noticias/anthropic-lanca-fable-5-1-com-menos-restricoes-e-promessa-de-economia/",
-      "publishedAt": "Wed, 02 Sep 2026 13:50:21 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-2.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Financeiro"
       ]
     },
     {
@@ -538,17 +540,6 @@
         "Comercial",
         "Educação"
       ]
-    },
-    {
-      "title": "Fable e Mythos 5: governo Trump libera IAs mais perigosas da Anthropic",
-      "description": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três s",
-      "url": "https://canaltech.com.br/inteligencia-artificial/fable-e-mythos-5-governo-trump-libera-ias-mais-perigosas-da-anthropic/",
-      "publishedAt": "Wed, 01 Jul 2026 12:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/Am6VaUx8jmQtCNJCxA_znmbrltc=/700x394/smart/i1107289.png",
-      "source": "Canaltech IA",
-      "content": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três semanas depois de o governo ter suspendido o acesso aos dois sistemas por risco à segurança nacional. Segundo a Reuters, o acesso ao Fable 5 será restaurado a partir desta quarta-feira (1º) , ficando disponível ao público em geral. Já o Mythos 5, direcionado à detecção de vulnerabilidades de cibersegurança, será liberado para um grupo maior de parceiros domésticos e internacionais do programa Glasswing, da Anthropic. Como começou a restrição Em 12 de junho, o governo americano incluiu os dois modelos em sua lista de tecnologias sob controle de exportação , impedindo o acesso de estrangeiros sem aprovação especial . Como a Anthropic não tinha como verificar a nacionalidade dos usuários em tempo real, a companhia optou por suspender o Fable 5 e o Mythos 5 para todo mundo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A decisão, segundo a Reuters, partiu de uma denúncia de pesquisadores da Amazon , que encontraram uma forma de contornar as proteções do Fable 5. Com essa brecha, o modelo passou a identificar falhas de software e, em um dos casos registrados, chegou a gerar código demonstrando como explorar uma vulnerabilidade. No último domingo (28), o governo abriu uma primeira exceção , permitindo o uso do Mythos 5 por organizações selecionadas e por funcionários da própria Anthropic, incluindo estrangeiros vinculados a esses grupos. O Fable 5 seguia fora do ar até esta terça. O Claude é, atualmente, a terceira IA mais utilizada no mundo (Imagem: Marcelo Fischer/Canaltech) Por que são modelos tão perigosos O Mythos 5 concentra as capacidades que mais preocupam o governo american",
-      "lang": "pt",
-      "depts": []
     }
   ]
 }
