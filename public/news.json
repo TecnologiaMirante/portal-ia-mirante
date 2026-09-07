@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-09-06T13:16:35.871Z",
+  "updatedAt": "2026-09-07T15:23:38.900Z",
   "count": 40,
   "articles": [
+    {
+      "title": "Autores recuam enquanto editores e agentes fazem reivindicações sobre o assentamento antrópico",
+      "description": "Os autores dizem que os editores parecem estar reivindicando mais do que sua parcela justa nos pagamentos de liquidação.",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "publishedAt": "Sun, 06 Sep 2026 20:47:37 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "Financeiro"
+      ]
+    },
     {
       "title": "Seattle Times e Newsday são as publicações mais recentes a processar OpenAI e Microsoft",
       "description": "Mais duas organizações de notícias estão processando a OpenAI e a Microsoft pelo suposto uso de seu jornalismo para treinar IA.",
@@ -173,31 +186,6 @@
       "depts": [
         "Marketing"
       ]
-    },
-    {
-      "title": "Ollie está apostando que seu foco na privacidade pode ajudá-lo a vencer a corrida de assistentes de IA",
-      "description": "O assistente de IA focado na família deseja ter acesso aos detalhes da sua vida cotidiana, mas diz que não usará esses dados para treinar modelos de IA ou compartilhá-los com outras pessoas.",
-      "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
-      "publishedAt": "Thu, 03 Sep 2026 16:09:01 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "O assistente de IA focado na família deseja ter acesso aos detalhes da sua vida cotidiana, mas diz que não usará esses dados para treinar modelos de IA ou compartilhá-los com outras pessoas.",
-      "lang": "en",
-      "depts": [
-        "Jurídico",
-        "Gestão"
-      ]
-    },
-    {
-      "title": "O mais recente modelo meteorológico de IA do Google não oferece desculpa para esquecer seu guarda-chuva",
-      "description": "WeatherNext 3 é a última onda de uma mudança radical na meteorologia trazida por técnicas de aprendizado profundo. O Google diz que começará a alimentar as informações meteorológicas que os usuários veem nas pesquisas, no Google Maps e no Gemini.",
-      "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-      "publishedAt": "Thu, 03 Sep 2026 15:00:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "WeatherNext 3 é a última onda de uma mudança radical na meteorologia trazida por técnicas de aprendizado profundo. O Google diz que começará a alimentar as informações meteorológicas que os usuários veem nas pesquisas, no Google Maps e no Gemini.",
-      "lang": "en",
-      "depts": []
     },
     {
       "title": "8 prompts para conversar com voz no ChatGPT",
@@ -539,6 +527,21 @@
         "Comercial",
         "Jurídico",
         "Gestão",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Novo app da Meta mostra criações feitas por vibe coding",
+      "description": "A Meta lançou silenciosamente o Pocket , um novo aplicativo para criar e compartilhar pequenos jogos e experiências interativas, chamados de \"gizmos\", usando comandos de inteligência artificial. O app já está disponível na App Store e no Google Play, mas a empresa ainda não fez um anúncio sobre o la",
+      "url": "https://canaltech.com.br/inteligencia-artificial/novo-app-da-meta-mostra-criacoes-feitas-por-vibe-coding/",
+      "publishedAt": "Fri, 03 Jul 2026 17:10:00 -0300",
+      "image": "https://t.ctcdn.com.br/o35a_R-0f5b8pzB7LdM_9qhgmOE=/700x394/smart/i1140309.png",
+      "source": "Canaltech IA",
+      "content": "A Meta lançou silenciosamente o Pocket , um novo aplicativo para criar e compartilhar pequenos jogos e experiências interativas, chamados de \"gizmos\", usando comandos de inteligência artificial. O app já está disponível na App Store e no Google Play, mas a empresa ainda não fez um anúncio sobre o lançamento, o que sugere que a ferramenta pode estar em fase inicial de testes. O aplicativo foi descoberto e divulgado primeiro no X por Alessandro Paluzzi, engenheiro reverso conhecido por encontrar novos aplicativos e recursos antes dos anúncios oficiais. Segundo dados da Appfigures, no entanto, o Pocket já estava disponível nas lojas desde 29 de junho. #Meta is working on a new app called Pocket 👀 ℹ️ A new creative platform to make and share gizmos. pic.twitter.com/zFjMU5jj1U - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - — Alessandro Paluzzi (@alex193a) July 2, 2026 O Pocket usa prompts de texto para gerar conteúdos interativos . Assim, até pessoas sem conhecimento em programação conseguem criar seus próprios miniapps. Além da ferramenta de criação, o aplicativo conta com um feed em que os usuários podem descobrir e testar gizmos desenvolvidos por outras pessoas. O projeto foi criado após a Meta adquirir, no início de 2026, a equipe da Gizmo, plataforma que já utilizava o conceito de vibe coding e acumulava mais de 635 mil instalações. O aplicativo original registrava 98% de avaliações positivas entre os usuários e, curiosamente, continua disponível nas lojas de aplicativos mesmo após o lançamento do Pocket pela Meta. A iniciativa reforça a estratégia da Meta de ampliar o acesso às ferramentas de criação com inteligência artificial. O Pocket ( play.google.com ) integra um ecossistema que já inclui o Vibes, de vídeos gerados por IA, e o Meta AI, focado na criação de imagens. Recentemente, a empresa também adicionou recursos de IA ao editor de vídeos Edits. O Pocket é o novo",
+      "lang": "pt",
+      "depts": [
+        "Marketing",
+        "Comercial",
         "Educação"
       ]
     }
