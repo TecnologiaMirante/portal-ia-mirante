@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-09-11T13:56:29.744Z",
+  "updatedAt": "2026-09-12T13:13:12.453Z",
   "count": 40,
   "articles": [
+    {
+      "title": "A rivalidade da OpenAI com os matemáticos só está aumentando",
+      "description": "Vinte e cinco matemáticos importantes assinaram uma carta aberta argumentando que os laboratórios de IA estão a ameaçar o seu trabalho intelectual.",
+      "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "publishedAt": "Fri, 11 Sep 2026 20:57:36 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "RH"
+      ]
+    },
+    {
+      "title": "O alerta apocalíptico de um pesquisador antrópico chega em um momento muito interessante",
+      "description": "Um pesquisador da Antrópico renunciou esta semana, alertando em um post no X que a empresa está “correndo direto para o autoaperfeiçoamento da superinteligência e apostando em nossas vidas”. O próprio líder de alinhamento da empresa até co-assinou a mensagem, em vez de devolvê-la. É o tipo de destruição que alerta a IA",
+      "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+      "publishedAt": "Fri, 11 Sep 2026 18:41:49 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Um pesquisador da Antrópico renunciou esta semana, alertando em um post no X que a empresa está “correndo direto para o autoaperfeiçoamento da superinteligência e apostando em nossas vidas”. O próprio líder de alinhamento da empresa até co-assinou a mensagem, em vez de devolvê-la. É o tipo de aviso devastador com o qual a indústria de IA já flertou antes, mas o momento, com a Anthropic supostamente se preparando para um IPO, faz com que ele chegue de forma diferente. Sobre [ ]",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Nscale adiciona o ex-executivo da OpenAI Fidji Simo ao seu conselho antes de um potencial IPO",
+      "description": "O segundo executivo da OpenAI também liderou a Instacart em seu IPO em 2023.",
+      "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+      "publishedAt": "Fri, 11 Sep 2026 16:46:25 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
     {
       "title": "Anthropic diz que bloqueou possível criação de arma biológica com Claude",
       "description": "Informação consta no último relatório de riscos da empresa. Medida é anunciada após críticas de ex-funcionário, que aponta irresponsabilidade no desenvolvimento de IA. Anthropic diz que bloqueou possível criação de arma biológica com Claude",
@@ -122,42 +157,6 @@
         "Marketing",
         "Gestão"
       ]
-    },
-    {
-      "title": "iOS 27 e versão da Siri com IA chegam em 14 de setembro",
-      "description": "Update traz assistente reformulada em parceria com o Google, app próprio, recursos de visão computacional na câmera e mais. iOS 27 e versão da Siri com IA chegam em 14 de setembro",
-      "url": "https://tecnoblog.net/noticias/novo-ios-27-e-siri-ai-chegam-em-14-de-setembro/",
-      "publishedAt": "Wed, 09 Sep 2026 19:31:45 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/12/capas-apple-06.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Comercial",
-        "Educação"
-      ]
-    },
-    {
-      "title": "A superinteligência está chegando. Deveríamos permitir?",
-      "description": "As empresas de IA têm falado sobre IA superinteligente como se fosse inevitável, mas incidentes de segurança recentes, como a violação Hugging Face da OpenAI, estão demonstrando os perigos potenciais da implantação de sistemas de IA que são mais capazes que os humanos. Então, o que acontece quando não podemos controlar de forma confiável o que esses sistemas",
-      "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
-      "publishedAt": "Wed, 09 Sep 2026 16:05:35 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "As empresas de IA têm falado sobre IA superinteligente como se fosse inevitável, mas incidentes de segurança recentes, como a violação Hugging Face da OpenAI, estão demonstrando os perigos potenciais da implantação de sistemas de IA que são mais capazes que os humanos. Então, o que acontece quando não conseguimos controlar de forma confiável o que esses sistemas fazem? Neste episódio do podcast Equity do TechCrunch, Rebecca Bellan é acompanhada por Connor Leahy, pesquisador de IA, empresário e agora Diretor Executivo dos EUA da []",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Você terá controle total do algoritmo (basta morar na Austrália)",
-      "description": "Projeto obriga plataformas a oferecer opção de desligar recomendações personalizadas e cria novas regras para menores de idade. Você terá controle total do algoritmo (basta morar na Austrália)",
-      "url": "https://tecnoblog.net/noticias/voce-tera-controle-total-do-algoritmo-basta-morar-na-australia/",
-      "publishedAt": "Wed, 09 Sep 2026 14:22:18 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/09/instagram-algoritmo.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
     },
     {
       "title": "8 prompts para conversar com voz no ChatGPT",
