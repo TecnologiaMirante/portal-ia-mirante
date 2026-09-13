@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-12T13:13:12.453Z",
+  "updatedAt": "2026-09-13T13:58:03.846Z",
   "count": 40,
   "articles": [
+    {
+      "title": "Sam Altman, da OpenAI, diz que seria imprudente abrir o capital em 2026",
+      "description": "Embora a OpenAI tenha solicitado confidencialmente um IPO, a empresa não abrirá o capital este ano, de acordo com o CEO Sam Altman.",
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "publishedAt": "Sat, 12 Sep 2026 20:19:16 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "CEO da Anthropic descreve plano para desacelerar o desenvolvimento da IA",
+      "description": "Dario Amodei, da Anthropic, e Sam Altman, da OpenAI, parecem concordar que é hora de “avançar na fronteira”. Como isso realmente seria?",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "publishedAt": "Sat, 12 Sep 2026 19:34:44 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
     {
       "title": "A rivalidade da OpenAI com os matemáticos só está aumentando",
       "description": "Vinte e cinco matemáticos importantes assinaram uma carta aberta argumentando que os laboratórios de IA estão a ameaçar o seu trabalho intelectual.",
@@ -131,31 +153,6 @@
       "lang": "pt",
       "depts": [
         "RH"
-      ]
-    },
-    {
-      "title": "OpenAI adiciona um proeminente AI Doomer ao seu conselho de administração",
-      "description": "Paul Christiano, um influente pesquisador de IA focado em alinhamento, está ingressando na OpenAI Foundation como membro de seu conselho.",
-      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-      "publishedAt": "Wed, 09 Sep 2026 22:25:22 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Arm revela nova CPU e GPU para rodar IA e jogos no celular",
-      "description": "CSS for Mobile 2 combina novos componentes de hardware com acelerados de inteligência artificial para melhorar gráficos e desempenho. Arm revela nova CPU e GPU para rodar IA e jogos no celular",
-      "url": "https://tecnoblog.net/noticias/arm-revela-nova-cpu-e-gpu-para-rodar-ia-e-jogos-no-celular/",
-      "publishedAt": "Wed, 09 Sep 2026 20:48:59 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/css-for-mobile-2-1400x788-1.jpg",
-      "source": "Tecnoblog",
-      "content": "Nova geração de chips da Arm foca em IA local e jogos (imagem: divulgação) Resumo Arm revelou o CSS for Mobile 2, nova arquitetura para smartphones que processa tarefas complexas de IA localmente. Mali G2-Ultra NX será a primeira GPU da marca com aceleradores neurais integrados, garantindo 14% mais desempenho em renderização tradicional. A CPU combina núcleos C2-Ultra e C2-Pro para equilibrar performance e consumo e processa LLMs até 70% mais rápido que o C1-Ultra. A Arm oficializou nesta quarta-feira (09/09) o lançamento da CSS for Mobile 2, uma nova plataforma projetada para equipar a próxima geração de smartphones. A novidade foi desenhada pela empresa para lidar com tarefas pesadas de inteligência artificial baseada em agentes e gráficos cada vez mais detalhados. A arquitetura que combina CPU e GPU foca ainda em rodar inteligência artificial localmente nos celulares. Segundo a empresa, o novo sistema consumirá menos energia entregando o mesmo desempenho. O que muda na renderização de jogos? O destaque da plataforma é a nova GPU Mali G2-Ultra NX. De acordo com a Arm, esta é a primeira Unidade de Processamento Gráfico da linha a integrar aceleradores neurais dedicados. Esse design garante um desempenho maior para gráficos aprimorados, reconstruídos ou gerados por IA. Na renderização tradicional, o ganho de performance é de 14% frente à geração anterior. O componente também estreia uma unidade de ray tracing de última geração, abrindo espaço para iluminação realista e mundos mais ricos nos jogos mobile. A indústria já abraçou a ideia. Segundo a companhia, desenvolvedoras de motores gráficos e estúdios como Sumo Digital, Tencent Games, Unity China e NetEase já preparam a integração da tecnologia neural em jogos futuros, como Arena Breakout Infinite e Where Winds Meet . Mali G2-Ultra NX é a primeira GPU Arm com hardware de aceleração de IA dedicado (imagem: divulgação) Combinação de núcleos Com a evolução da IA, o processador assume a função de maestro na plataforma. O executivo da Arm responsável pelo setor, Chris Bergey, explicou que a tecnologia atual exige a execução simultânea de aplicativos e a coordenação de diversos modelos de linguagem , tudo dentro dos rigorosos limites térmicos e de desempenho de um celular. Para suportar essa carga, a Arm combina núcleos C2-Ultra, voltados para desempenho, e núcleos C2-Pro, que priorizam a eficiência energética, além de suportar computação de IA de baixa latência direto na CPU. CPU combina núcleos C2-Ultra e C2-Pro para equilibrar performance e eficiência (imagem: divulgação) As melhorias impressionam no papel. Há um aumento prometido de 70% na velocidade de processamento de Modelos de Linguagem Pequenos (SLMs) e um desempenho de IA 1,7 vez superior ao do antigo C1-Ultra . Se os dados se comprovarem, o usuário terá um ganho de até 15% em performance de thread único (a velocidade com que um único núcleo do processador consegue executar a linha de instrução de um programa) com economia de energia de até 38%, conforme a Arm. Para garantir que as fabricantes tirem proveito desse hardware rapidamente, a empresa destaca que a plataforma CSS for Mobile 2 já conta com suporte nativo a pacotes essenciais de desenvolvimento, como o Arm KleidiAI e o Neural Graphics Development Kit, agora localizados no novo Portal de IA da Arm . Arm revela nova CPU e GPU para rodar IA e jogos no celular",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Gestão"
       ]
     },
     {
