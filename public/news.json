@@ -1,28 +1,87 @@
 {
-  "updatedAt": "2026-09-15T14:32:26.436Z",
+  "updatedAt": "2026-09-16T14:26:59.316Z",
   "count": 40,
   "articles": [
     {
-      "title": "Contratação antecipada da Anthropic, ex-COO da METR encontrou uma maneira de controlar agentes de IA desonestos",
-      "description": "Sua startup, Artificial Intelligence Underwriting Company (AIUC) arrecadou US$ 40 milhões em uma rodada da Série A liderada pela Ribbit Capital, com participação da First Harmonic.",
+      "title": "Former Infosys chief s AI startup nabs another $53M",
+      "description": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
+      "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+      "publishedAt": "Wed, 16 Sep 2026 13:00:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "description": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "publishedAt": "Tue, 15 Sep 2026 20:12:53 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+      "lang": "en",
+      "depts": [
+        "Educação"
+      ]
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn t make it",
+      "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "publishedAt": "Tue, 15 Sep 2026 19:00:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "União Europeia avança na proibição de chatbots de IA e redes sociais para menores",
+      "description": "Projeto prevê contas monitoradas e bloqueio total para menores de 3 anos. Documento também estabelece taxa de supervisão paga pelas big techs. União Europeia avança na proibição de chatbots de IA e redes sociais para menores",
+      "url": "https://tecnoblog.net/noticias/uniao-europeia-avanca-na-proibicao-de-chatbots-de-ia-e-redes-sociais-para-menores/",
+      "publishedAt": "Tue, 15 Sep 2026 18:52:21 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2021/10/1280px-european_union_flags_2.jpg",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Marketing"
+      ]
+    },
+    {
+      "title": "Meta expands subscription push with new AI-focused plans",
+      "description": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
+      "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+      "publishedAt": "Tue, 15 Sep 2026 17:05:24 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "Marketing"
+      ]
+    },
+    {
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "description": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "publishedAt": "Tue, 15 Sep 2026 15:47:03 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+      "description": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
       "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
       "publishedAt": "Tue, 15 Sep 2026 13:00:00 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "Sua startup, Artificial Intelligence Underwriting Company (AIUC) arrecadou US$ 40 milhões em uma rodada da Série A liderada pela Ribbit Capital, com participação da First Harmonic.",
-      "lang": "en",
-      "depts": [
-        "RH"
-      ]
-    },
-    {
-      "title": "OpenAI compra fabricante de câmeras para smartphones Glass Imaging por US$ 300 milhões, diz relatório",
-      "description": "A Glass Imaging foi fundada por dois ex-engenheiros da Apple que anteriormente lideraram a equipe que desenvolveu o Modo Retrato da Apple.",
-      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-      "publishedAt": "Mon, 14 Sep 2026 20:44:14 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
+      "content": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
       "lang": "en",
       "depts": []
     },
@@ -31,26 +90,10 @@
       "description": "Os tipos de AI Slop, ou lixo de IA, variam de textos automatizados, imagens hiper-realistas bizarras até vídeos e músicas genéricas produzidas em massa O que é AI Slop? Entenda a gíria que vai contra o uso desenfreado de inteligência artificial",
       "url": "https://tecnoblog.net/responde/o-que-e-ai-slop-entenda-a-giria-que-vai-contra-o-uso-desenfreado-de-inteligencia-artificial/",
       "publishedAt": "Mon, 14 Sep 2026 17:54:08 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/ai-slop-marcela-barsse-getty-image.png",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/capa-tbr-ai-slop.jpg",
       "source": "Tecnoblog",
-      "content": "Saiba como o AI Slop vem afetando o comportamento das pessoas na internet (imagem: Marcela Barsse/Getty Images) Navegar pela internet exige um esforço constante para se desviar de AI Slop, termo usado para definir conteúdos em massa de baixa qualidade gerados por inteligência artificial. São textos genéricos, cartazes com visuais padronizados e artigos superficiais que tomaram conta das redes sociais e buscadores. Essa avalanche de lixo de IA prejudica a experiência do usuário ao poluir a internet com desinformação, gerando um “discurso descuidado”. Além de ocultar conteúdos autênticos nos resultados de busca, o fenômeno desvaloriza o trabalho de criadores e jornalistas humanos. A seguir, o Tecnoblog te explica o significado de AI Slop, a diferença em relação ao uso consciente de IA generativa e como identificar esses conteúdos. Índice O que é AI Slop? Quando surgiu o termo de AI Slop? Como o AI Slop se diferencia do uso normal de inteligência artificial? Como o AI Slop afeta o consumo na internet? Dá para identificar quando um conteúdo é AI Slop? Dá para combater o AI Slop? O que é AI Slop? O AI Slop (lixo de IA) se refere aos conteúdos de baixa qualidade gerados em massa por inteligência artificial generativa, sem uma revisão humana. A expressão é utilizada no meio da tecnologia como um termo pejorativo tanto para criticar materiais irrelevantes e automatizados quanto para desqualificar, de forma geral, mídias criadas por algoritmos. Quando surgiu o termo de AI Slop? O termo AI Slop surgiu informalmente em fóruns de tecnologia por volta de 2022, mas ganhou força em maio de 2024. O conceito foi impulsionado pelo programador e criador de conteúdo Simon Willison ao comparar os conteúdos de baixa qualidade gerados por IA ao spam não solicitado. Em 2025, o termo foi eleito a palavra do ano pelo Macquarie Dictionary , tanto pelo júri oficial quanto pelo voto público. Isso consagrou a gíria técnica no vocabulário popular dos usuários de internet descontentes com os materiais desleixados. Shrimp Jesus foi uma das primeiras peças de AI Slop a viralizar na internet (imagem: Reprodução) Como o AI Slop se diferencia do uso normal de inteligência artificial? O AI Slop é resultado da produção em massa focada na escala e rapidez, publicando conteúdos automatizados sem revisão ou checagem de fatos. Essa automação descontrolada, aliada à baixa responsabilidade, resulta em materiais superficiais e imprecisos, ou “desleixo de IA”. Por outro lado, o uso consciente integra a IA generativa como ferramenta auxiliar sob supervisão técnica rigorosa. Essa aplicação envolve validar informações e refinar rascunhos com o propósito de gerar valor real. As artes geradas no contexto de AI Slop saíram da internet e passaram a ser peças comuns no comércio ao redor do mundo (imagem: Reprodução) Como o AI Slop afeta o consumo na internet?&nbsp; O volume excessivo de lixo de IA polui os mecanismos de busca e redes sociais com artigos e mídias genéricas. Essa avalanche de dados irrelevantes dificulta a navegação diária e atrasa a descoberta de informações realmente úteis. Esse cenário gerou o fenômeno de “discurso descuidado”, que torna uma parte do público mais cética e desconfiada, conforme notado pelo estudo da Royal Society Open Science . Já pessoas menos instruídas têm dificuldade para distinguir o que é autêntico do que é gerado por IA, criando um terreno para a desinformação. Como resultado, o comportamento do consumidor muda para uma atitude defensiva. O hábito de leitura rápida é prejudicado pelo medo constante de consumir dados imprecisos ou links enganosos, promovendo uma fadiga mental diante da tela. Além de degradar a experiência online, um relatório do Institute of Global Politics (SIPA/Columbia) cita que os desleixos de IA desvalorizam criadores humanos. Contudo, existe um movimento do público em busca de plataformas “mais limpas” e com curadorias rigorosas para se proteger de desinformação. As novelas com frutas do TikTok são um exemplo de AI Slop (imagem: Reprodução/TikTok) Dá para identificar quando um conteúdo é AI Slop? É possível identificar indícios de AI Slop, embora isso dependa de uma avaliação de qualidade do material. Os principais sinais incluem frases genéricas, conceitos repetidos, textos inflados sem dados concretos e ausência de especialistas ou fontes verificáveis. Nas mídias visuais, os alertas aparecem em anatomias inconsistentes, reflexos desalinhados e narrações com sincronia labial imperfeita. Em perfis digitais, a publicação em massa e a falta de histórico do autor também revelam padrões automatizados. Como detectores automáticos falham e geram falsos positivos, a confirmação exige checagem cruzada de informações e análise das fontes originais. O fator decisivo para constatar a fraude é apurar o contexto, a precisão do conteúdo e a procedência do material. Dá para combater o AI Slop? Sim, combater o AI Slop exige que os usuários evitem dar engajamento aos conteúdos de baixa qualidade gerados por IA. Ações simples, como ignorar publicações suspeitas, cortam o alcance dessas produções em massa sem supervisão humana. Outro passo fundamental é verificar a procedência das informações em fontes independentes e buscar relatórios originais antes de compartilhar conteúdos duvidosos. O uso de buscas reversas e a checagem de fatos ajudam a identificar fraudes antes que o material se espalhe nas redes. Por fim, os usuários devem incentivar o jornalismo profissional e criadores de conteúdo que citam fontes e corrigem falhas. Ao direcionar curtidas e seguidores para matérias relevantes, o público ensina os sistemas de busca a priorizar a qualidade em vez de quantidade. O que é AI Slop? Entenda a gíria que vai contra o uso desenfreado de inteligência artificial",
+      "content": null,
       "lang": "pt",
-      "depts": [
-        "Marketing",
-        "RH",
-        "Jurídico",
-        "Educação"
-      ]
-    },
-    {
-      "title": "O novo código de conduta de IA da Microsoft diz aos modelos para não hackearem sistemas ou enganarem humanos",
-      "description": "O código de conduta estabelece princípios gerais que os modelos de IA da Microsoft devem respeitar – apoiando os humanos em vez de os substituir, por exemplo, e acelerando o florescimento humano – bem como restrições de segurança específicas destinadas a implementar esses princípios.",
-      "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-      "publishedAt": "Mon, 14 Sep 2026 16:27:53 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "O código de conduta estabelece princípios gerais que os modelos de IA da Microsoft devem respeitar – apoiando os humanos em vez de os substituir, por exemplo, e acelerando o florescimento humano – bem como restrições de segurança específicas destinadas a implementar esses princípios.",
-      "lang": "en",
       "depts": []
     },
     {
@@ -67,17 +110,6 @@
       ]
     },
     {
-      "title": "Somente no TechCrunch Disrupt 2026: O que acontece quando a OpenAI envia seu roteiro?",
-      "description": "Se você está construindo uma empresa de IA, a questão não é se os modelos básicos continuarão a evoluir. É se sua empresa continuará criando valor como faz. Não perca esta sessão interativa no Builders Stage do TechCrunch Disrupt 2026.",
-      "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-      "publishedAt": "Mon, 14 Sep 2026 15:00:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Se você está construindo uma empresa de IA, a questão não é se os modelos básicos continuarão a evoluir. É se sua empresa continuará criando valor como faz. Não perca esta sessão interativa no Builders Stage do TechCrunch Disrupt 2026.",
-      "lang": "en",
-      "depts": []
-    },
-    {
       "title": "Microsoft coloca IA de Elon Musk no Word, Excel e PowerPoint",
       "description": "Grok agora pode ser escolhido entre os modelos disponíveis no Copilot. Microsoft coloca IA de Elon Musk no Word, Excel e PowerPoint",
       "url": "https://tecnoblog.net/noticias/microsoft-coloca-grok-no-word-excel-e-powerpoint/",
@@ -86,41 +118,6 @@
       "source": "Tecnoblog",
       "content": null,
       "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "Obama exorta os democratas a terem um “plano claro” para salvaguardas de IA",
-      "description": "Obama disse recentemente que os Democratas precisam de fazer da inteligência artificial uma das suas “agendas centrais” e “ter um plano muito claro” para abordar as preocupações em torno do impacto económico e da segurança da tecnologia.",
-      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-      "publishedAt": "Sun, 13 Sep 2026 16:30:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Obama disse recentemente que os Democratas precisam de fazer da inteligência artificial uma das suas “agendas centrais” e “ter um plano muito claro” para abordar as preocupações em torno do impacto económico e da segurança da tecnologia.",
-      "lang": "en",
-      "depts": [
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Sam Altman, da OpenAI, diz que seria imprudente abrir o capital em 2026",
-      "description": "Embora a OpenAI tenha solicitado confidencialmente um IPO, a empresa não abrirá o capital este ano, de acordo com o CEO Sam Altman.",
-      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "publishedAt": "Sat, 12 Sep 2026 20:19:16 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "CEO da Anthropic descreve plano para desacelerar o desenvolvimento da IA",
-      "description": "Dario Amodei, da Anthropic, e Sam Altman, da OpenAI, parecem concordar que é hora de “avançar na fronteira”. Como isso realmente seria?",
-      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "publishedAt": "Sat, 12 Sep 2026 19:34:44 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
       "depts": []
     },
     {
