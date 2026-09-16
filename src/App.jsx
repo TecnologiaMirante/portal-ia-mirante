@@ -53,34 +53,38 @@ import { PremioIAEditPage } from "@/pages/PremioIAEditPage";
 import { ErrorBoundary } from "@/components/ErrorBoundary";
 import { NotFound }      from "@/components/NotFound";
 
-/* ── Scroll reveal — re-observa a cada troca de rota ────── */
+/* ── Scroll reveal — robusto: scroll + mutation + timeouts ─ */
 function ScrollReveal() {
   const location = useLocation();
 
   useEffect(() => {
-    const observer = new IntersectionObserver(
-      (entries) => {
-        entries.forEach((entry) => {
-          if (entry.isIntersecting) {
-            entry.target.classList.add("visible");
-            observer.unobserve(entry.target);
-          }
-        });
-      },
-      { threshold: 0.08 },
-    );
+    /* Revela qualquer .reveal cujo topo já está dentro da janela (+150px) */
+    const reveal = () => {
+      document.querySelectorAll(".reveal:not(.visible)").forEach((el) => {
+        const { top } = el.getBoundingClientRect();
+        if (top < window.innerHeight + 150) el.classList.add("visible");
+      });
+    };
 
-    const observe = () =>
-      document.querySelectorAll(".reveal:not(.visible)").forEach((el) => observer.observe(el));
+    reveal();
+    const t1 = setTimeout(reveal, 150);
+    const t2 = setTimeout(reveal, 600);
+    const t3 = setTimeout(reveal, 1500);
+    const t4 = setTimeout(reveal, 3000);
 
-    observe();
-    const t1 = setTimeout(observe, 100);
-    const t2 = setTimeout(observe, 400);
+    window.addEventListener("scroll", reveal, { passive: true });
+
+    /* Captura conteúdo renderizado de forma assíncrona (fetch, lazy, etc.) */
+    const mo = new MutationObserver(reveal);
+    mo.observe(document.body, { childList: true, subtree: true });
 
     return () => {
-      observer.disconnect();
+      window.removeEventListener("scroll", reveal);
+      mo.disconnect();
       clearTimeout(t1);
       clearTimeout(t2);
+      clearTimeout(t3);
+      clearTimeout(t4);
     };
   }, [location.pathname]);
 

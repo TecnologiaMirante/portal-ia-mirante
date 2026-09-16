@@ -465,6 +465,80 @@ html {
   animation: shimmer 4s linear infinite;
 }
 
+/* ── Typewriter cursor ──────────────────────────────── */
+@keyframes cursor-blink {
+  0%, 100% { opacity: 1; }
+  50%       { opacity: 0; }
+}
+.typewriter-cursor {
+  display: inline-block;
+  width: 2px;
+  height: 0.85em;
+  margin-left: 3px;
+  vertical-align: middle;
+  background: currentColor;
+  border-radius: 1px;
+  animation: cursor-blink 0.75s step-end infinite;
+  -webkit-text-fill-color: initial;
+}
+
+/* ── Floating AI tool chips ─────────────────────────── */
+@keyframes float-chip {
+  0%, 100% { transform: translateY(0px) rotate(-1deg);   opacity: 0.7; }
+  50%      { transform: translateY(-18px) rotate(1.5deg); opacity: 1;  }
+}
+.hero-float-chip {
+  animation: float-chip var(--chip-dur, 4s) ease-in-out infinite;
+  animation-delay: var(--chip-delay, 0s);
+}
+
+/* ── Hero radar rings (pulse from center) ───────────── */
+@keyframes ring-expand {
+  0%   { transform: translate(-50%, -50%) scale(0.15); opacity: 0.7; }
+  70%  { opacity: 0.2; }
+  100% { transform: translate(-50%, -50%) scale(1);    opacity: 0;   }
+}
+.hero-ring {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 750px;
+  height: 750px;
+  border-radius: 50%;
+  border: 1.5px solid oklch(0.55 0.28 264 / 0.5);
+  animation: ring-expand 6s ease-out infinite;
+  animation-delay: var(--ring-delay, 0s);
+  pointer-events: none;
+}
+.dark .hero-ring {
+  border-color: oklch(0.62 0.26 264 / 0.4);
+}
+
+/* ── Sparkle particles (drift upward) ───────────────── */
+@keyframes sparkle-rise {
+  0%   { transform: translateY(0) scale(1);    opacity: 0;   }
+  8%   { opacity: 0.9; }
+  85%  { opacity: 0.4; }
+  100% { transform: translateY(-95vh) scale(0.4); opacity: 0; }
+}
+.hero-sparkle {
+  position: absolute;
+  width: var(--sp-size, 3px);
+  height: var(--sp-size, 3px);
+  border-radius: 50%;
+  background: oklch(0.72 0.22 295);
+  box-shadow: 0 0 6px 2px oklch(0.72 0.22 295 / 0.6);
+  animation: sparkle-rise var(--sp-dur, 8s) ease-in infinite;
+  animation-delay: var(--sp-delay, 0s);
+  bottom: 5%;
+  left: var(--sp-left, 50%);
+  pointer-events: none;
+}
+.dark .hero-sparkle {
+  background: oklch(0.75 0.24 264);
+  box-shadow: 0 0 8px 3px oklch(0.75 0.24 264 / 0.5);
+}
+
 /* ══════════════════════════════════════════════════════
    TILT CARD (transform-style helper)
    ══════════════════════════════════════════════════════ */
