@@ -55,7 +55,7 @@ const footerLinks = [
       },
       {
         label: "Produtos e Soluções",
-        href: "https://produtosesolucoes.mirante.com.br",
+        href: "http://produtosesolucoes.mirante.com.br",
         external: true,
       },
       {
