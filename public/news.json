@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-16T14:26:59.316Z",
+  "updatedAt": "2026-09-17T14:31:35.975Z",
   "count": 40,
   "articles": [
     {
-      "title": "Former Infosys chief s AI startup nabs another $53M",
-      "description": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
-      "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
-      "publishedAt": "Wed, 16 Sep 2026 13:00:00 +0000",
+      "title": "Google, Nvidia e Anthropic querem que Emerald AI encontre espaço na rede para mais data centers",
+      "description": "Uma nova coalizão que inclui Google, Nvidia, Anthropic e Emerald AI quer encontrar 100 GW de capacidade de rede para novos data centers.",
+      "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
+      "publishedAt": "Thu, 17 Sep 2026 13:38:33 +0000",
       "image": null,
       "source": "TechCrunch AI",
       "content": null,
@@ -14,28 +14,99 @@
       "depts": []
     },
     {
-      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "description": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
-      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-      "publishedAt": "Tue, 15 Sep 2026 20:12:53 +0000",
+      "title": "Expansão da IA pode provocar tsunami de lixo eletrônico, diz relatório",
+      "description": "Organização afirma que corrida por data centers de inteligência artificial pode triplicar resíduos eletrônicos até 2050. Expansão da IA pode provocar tsunami de lixo eletrônico, diz relatório",
+      "url": "https://tecnoblog.net/noticias/expansao-da-ia-pode-provocar-tsunami-de-lixo-eletronico-diz-relatorio/",
+      "publishedAt": "Thu, 17 Sep 2026 13:26:54 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/lixo-eletronico.jpg",
+      "source": "Tecnoblog",
+      "content": "Aumento de novos servidores pode triplicar lixo eletrônico nas próximas décadas (imagem: reprodução/Magnific) Resumo A corrida por data centers de IA pode triplicar o volume anual de lixo eletrônico tóxico até 2050, segundo a Basel Action Network (BAN). De acordo com o relatório da entidade, a expansão de data centers pode gerar 13 milhões de toneladas de resíduos por ano somente até 2030. Apenas cerca de 20% do lixo eletrônico recebe destinação adequada, de acordo com o cofundador da BAN, Jim Puckett. A expansão da infraestrutura necessária para sustentar a IA pode triplicar o volume anual de lixo eletrônico tóxico nos próximos 25 anos. É o que diz um relatório da Basel Action Network (BAN), organização ambiental que acompanha o descarte e a movimentação internacional de resíduos eletrônicos. Segundo a entidade, o acúmulo nesse período seria suficiente para preencher seis fileiras de contêineres ao redor da Terra . O material pode conter substâncias como mercúrio, cádmio, chumbo e compostos químicos persistentes, além de metais que exigem processos específicos para serem recuperados. Servidores aumentam volume de resíduos O levantamento projeta a quantidade de materiais que precisarão ser fabricados como parte da expansão de data centers nos próximos anos. Nos Estados Unidos, serão ao menos 4.871, segundo a organização, sendo muitos deles voltados a IA. Para calcular o impacto, a organização considerou uma estimativa de aproximadamente 100 gigawatts (GW) de nova capacidade computacional no mundo até 2030. A conta inclui servidores, sistemas de refrigeração, infraestrutura elétrica, cabeamento e outros componentes importantes para os centros de processamento. Entre eles: Racks de servidores: um rack de alta densidade usado em compuação de IA pode pesar cerca de 1.360 kg. Switches e cabeamento: equipamentos de rede chegam a 30 kg cada, equanto cada rack pode concentrar centenas de quilos de cabos de cobre. Troca de equipamentos: componentes podem ser substituídos a cada dois a cinco anos, seja pelo desgaste térmico, seja pela defasagem de desempenho. Outros eletrônicos: a evolução dos requisitos para IA também pode acelerar a substituição de computadores, celulares e outros equipamentos de telecomunicações. A partir desses fatores, a BAN estima que o descarte de hardware possa chegar a 13 milhões de toneladas por ano até 2030. O número é superior ao de estimativas apresentadas anteriormente por outros estudos sobre o lixo eletrônico do setor. Falta de destinação adequada Lixo eletrônico seria consequência da obsolescência programada (imagem: John Cameron/Unsplash) Apesar da preocupação para o futuro, o descarte de equipamentos eletrônicos já cresce rapidamente e é um problema no momento. Jim Puckett, cofundador da BAN, afirmou ao jornal The Guardian que apenas cerca de 20% desse material recebe uma destinação adequada . A entidade atua internacionalmente contra o envio ilegal de resíduos tóxicos para países em desenvolvimento, onde parte desses equipamentos pode ser desmontada ou processada sem as mesmas condições de controle ambiental. O Brasil, por exemplo, produz mais de 2,4 milhões de toneladas desse material anualmente, segundo a Associação Brasileira de Reciclagem de Eletroeletrônicos e Eletrodomésticos. O valor deve aumentar com a expansão dos centros de dados no país, impulsionada pela aprovação do Redata, sancionado nessa quarta-feira (16/09) . Para a BAN, a velocidade da expansão da IA não está sendo acompanhada por uma estrutura equivalente para lidar com os equipamentos. A entidade alerta que, sem mudanças na forma como esses materiais são projetados, reutilizados e reciclados, a expansão da IA poderá transformar uma parcela crescente da infraestrutura tecnológica em resíduos tóxicos. Expansão da IA pode provocar tsunami de lixo eletrônico, diz relatório",
+      "lang": "pt",
+      "depts": [
+        "Jurídico",
+        "Gestão"
+      ]
+    },
+    {
+      "title": "Treble, com sede na Islândia, arrecada US$ 18 milhões para sua plataforma de simulação de voz",
+      "description": "A plataforma de simulação de voz da Treble é usada por desenvolvedores de modelos de IA de voz e empresas de robótica e wearables de IA,",
+      "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+      "publishedAt": "Thu, 17 Sep 2026 05:00:00 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "A Anthropic e a OpenAI desejam incorporar avaliadores de segurança. Serão realmente independentes?",
+      "description": "A Anthropic e a OpenAI desejam incorporar avaliadores de segurança independentes em seus laboratórios de IA. Os investigadores acolhem favoravelmente o acesso sem precedentes, mas alertam que uma supervisão significativa requer transparência, independência e, eventualmente, regulamentação.",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "publishedAt": "Wed, 16 Sep 2026 21:07:24 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "A Anthropic e a OpenAI desejam incorporar avaliadores de segurança independentes em seus laboratórios de IA. Os investigadores acolhem favoravelmente o acesso sem precedentes, mas alertam que uma supervisão significativa requer transparência, independência e, eventualmente, regulamentação.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Seus agentes de IA agora podem controlar seus dispositivos Google Home",
+      "description": "O Google está lançando acesso antecipado a um novo servidor MCP para o Google Home, permitindo que agentes de IA como Claude, ChatGPT e outros controlem dispositivos conectados, revisem resumos de câmeras e acessem atividades domésticas inteligentes usando linguagem natural.",
+      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "publishedAt": "Wed, 16 Sep 2026 17:00:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "O Google está lançando acesso antecipado a um novo servidor MCP para o Google Home, permitindo que agentes de IA como Claude, ChatGPT e outros controlem dispositivos conectados, revisem resumos de câmeras e acessem atividades domésticas inteligentes usando linguagem natural.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Anthropic mescla Claude chat e Cowork em uma interface",
+      "description": "A Anthropic está liberando inicialmente esses recursos para assinantes dos planos Pro e Max.",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+      "publishedAt": "Wed, 16 Sep 2026 16:30:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
       "lang": "en",
       "depts": [
         "Educação"
       ]
     },
     {
-      "title": "The AI graveyard: a running list of projects and startups that didn t make it",
-      "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "publishedAt": "Tue, 15 Sep 2026 19:00:00 +0000",
+      "title": "Zuckerberg rejeita apelos para frear desenvolvimento da IA",
+      "description": "CEO da Meta argumenta que pressões de mercado e riscos legais já garantem a segurança da inteligência artificial. Zuckerberg rejeita apelos para frear desenvolvimento da IA",
+      "url": "https://tecnoblog.net/noticias/zuckerberg-rejeita-apelos-para-frear-desenvolvimento-da-ia/",
+      "publishedAt": "Wed, 16 Sep 2026 16:22:45 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-04.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Os robôs estão esperando por um momento ChatGPT: Les Karpas da Nvidia explica o porquê no TechCrunch Disrupt 2026",
+      "description": "A indústria da robótica ainda aguarda seu avanço na vida cotidiana. Les Karpas da Nvidia tem uma resposta sobre o porquê no TechCrunch Disrupt 2026. Registre-se antes de 25 de setembro para economizar até US$ 200 em seu passe.",
+      "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+      "publishedAt": "Wed, 16 Sep 2026 15:00:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "A indústria da robótica ainda aguarda seu avanço na vida cotidiana. Les Karpas da Nvidia tem uma resposta sobre o porquê no TechCrunch Disrupt 2026. Registre-se antes de 25 de setembro para economizar até US$ 200 em seu passe.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Startup de IA do ex-chefe da Infosys ganha outros US$ 53 milhões",
+      "description": "A startup de Palo Alto afirma que conseguiu vários contratos empresariais de sete dígitos meses após o lançamento.",
+      "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+      "publishedAt": "Wed, 16 Sep 2026 13:00:00 +0000",
       "image": null,
       "source": "TechCrunch AI",
       "content": null,
       "lang": "en",
-      "depts": []
+      "depts": [
+        "Comercial"
+      ]
     },
     {
       "title": "União Europeia avança na proibição de chatbots de IA e redes sociais para menores",
@@ -49,76 +120,6 @@
       "depts": [
         "Marketing"
       ]
-    },
-    {
-      "title": "Meta expands subscription push with new AI-focused plans",
-      "description": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
-      "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
-      "publishedAt": "Tue, 15 Sep 2026 17:05:24 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Marketing"
-      ]
-    },
-    {
-      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-      "description": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
-      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-      "publishedAt": "Tue, 15 Sep 2026 15:47:03 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-      "description": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
-      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-      "publishedAt": "Tue, 15 Sep 2026 13:00:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "O que é AI Slop? Entenda a gíria que vai contra o uso desenfreado de inteligência artificial",
-      "description": "Os tipos de AI Slop, ou lixo de IA, variam de textos automatizados, imagens hiper-realistas bizarras até vídeos e músicas genéricas produzidas em massa O que é AI Slop? Entenda a gíria que vai contra o uso desenfreado de inteligência artificial",
-      "url": "https://tecnoblog.net/responde/o-que-e-ai-slop-entenda-a-giria-que-vai-contra-o-uso-desenfreado-de-inteligencia-artificial/",
-      "publishedAt": "Mon, 14 Sep 2026 17:54:08 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/capa-tbr-ai-slop.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "Senador dos EUA propõe prisão para quem criar uma super-IA",
-      "description": "Bernie Sanders propõe barrar o avanço descontrolado da superinteligência artificial. Projeto prevê até 20 anos de prisão para quem não respeitar essa lei. Senador dos EUA propõe prisão para quem criar uma super-IA",
-      "url": "https://tecnoblog.net/noticias/senador-dos-eua-propoe-prisao-para-quem-criar-uma-super-ia/",
-      "publishedAt": "Mon, 14 Sep 2026 15:01:11 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/capas-iasartboard-2.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Jurídico"
-      ]
-    },
-    {
-      "title": "Microsoft coloca IA de Elon Musk no Word, Excel e PowerPoint",
-      "description": "Grok agora pode ser escolhido entre os modelos disponíveis no Copilot. Microsoft coloca IA de Elon Musk no Word, Excel e PowerPoint",
-      "url": "https://tecnoblog.net/noticias/microsoft-coloca-grok-no-word-excel-e-powerpoint/",
-      "publishedAt": "Mon, 14 Sep 2026 14:28:02 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/06/ilustracao-do-grok-da-xai.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
     },
     {
       "title": "8 prompts para conversar com voz no ChatGPT",
