@@ -1,7 +1,64 @@
 {
-  "updatedAt": "2026-09-17T14:31:35.975Z",
+  "updatedAt": "2026-09-18T13:57:43.981Z",
   "count": 40,
   "articles": [
+    {
+      "title": "PrismML espera que seu pequeno LLM mude a forma como todos usamos IA",
+      "description": "Se o laboratório de IA PrismML ainda não está no seu radar, deveria estar.",
+      "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+      "publishedAt": "Thu, 17 Sep 2026 22:34:09 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "OpenAI pegou seus modelos deixando notas aos sucessores para esconder mau comportamento",
+      "description": "A OpenAI divulgou instâncias do GPT-5.6 Sol instruindo contextos futuros a ocultar erros e comportamentos desalinhados, destacando o crescente desafio de detectar o desalinhamento à medida que modelos de IA cada vez mais capazes aprendem a ocultá-lo.",
+      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+      "publishedAt": "Thu, 17 Sep 2026 20:34:24 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "A OpenAI divulgou instâncias do GPT-5.6 Sol instruindo contextos futuros a ocultar erros e comportamentos desalinhados, destacando o crescente desafio de detectar o desalinhamento à medida que modelos de IA cada vez mais capazes aprendem a ocultá-lo.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "ONU recorre ao Google para preparar seus dados globais para agentes de IA",
+      "description": "A mudança ocorre depois de um teste da UNICEF ter descoberto que os principais modelos de IA lutavam para recuperar com precisão estatísticas de desenvolvimento global.",
+      "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+      "publishedAt": "Thu, 17 Sep 2026 20:00:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "O executivo da Microsoft chamou a raspagem de IA de “o maior roubo de mão de obra da história da humanidade, revelam novos registros não editados",
+      "description": "Arquivos judiciais recém-revelados mostram que a Microsoft chamou privadamente as práticas de dados da OpenAI de \"roubo\", enquanto ambas as empresas rasparam o conteúdo do Times com acesso pago, construíram conjuntos de dados a partir dele e alertaram internamente que isso destruiria os editores.",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "publishedAt": "Thu, 17 Sep 2026 19:46:08 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Arquivos judiciais recém-revelados mostram que a Microsoft chamou privadamente as práticas de dados da OpenAI de \"roubo\", enquanto ambas as empresas rasparam o conteúdo do Times com acesso pago, construíram conjuntos de dados a partir dele e alertaram internamente que isso destruiria os editores.",
+      "lang": "en",
+      "depts": [
+        "Marketing"
+      ]
+    },
+    {
+      "title": "OpenAI vai avisar quando IAs agirem sem autorização",
+      "description": "Empresa vai investigar e divulgar casos de modelos que ocultem erros, acessem dados indevidamente ou burlem restrições. OpenAI já revelou seis incidentes. OpenAI vai avisar quando IAs agirem sem autorização",
+      "url": "https://tecnoblog.net/noticias/openai-vai-avisar-quando-ias-agirem-sem-autorizacao/",
+      "publishedAt": "Thu, 17 Sep 2026 19:26:15 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/sam-altman-3-capa.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
     {
       "title": "Google, Nvidia e Anthropic querem que Emerald AI encontre espaço na rede para mais data centers",
       "description": "Uma nova coalizão que inclui Google, Nvidia, Anthropic e Emerald AI quer encontrar 100 GW de capacidade de rede para novos data centers.",
@@ -20,7 +77,7 @@
       "publishedAt": "Thu, 17 Sep 2026 13:26:54 +0000",
       "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/lixo-eletronico.jpg",
       "source": "Tecnoblog",
-      "content": "Aumento de novos servidores pode triplicar lixo eletrônico nas próximas décadas (imagem: reprodução/Magnific) Resumo A corrida por data centers de IA pode triplicar o volume anual de lixo eletrônico tóxico até 2050, segundo a Basel Action Network (BAN). De acordo com o relatório da entidade, a expansão de data centers pode gerar 13 milhões de toneladas de resíduos por ano somente até 2030. Apenas cerca de 20% do lixo eletrônico recebe destinação adequada, de acordo com o cofundador da BAN, Jim Puckett. A expansão da infraestrutura necessária para sustentar a IA pode triplicar o volume anual de lixo eletrônico tóxico nos próximos 25 anos. É o que diz um relatório da Basel Action Network (BAN), organização ambiental que acompanha o descarte e a movimentação internacional de resíduos eletrônicos. Segundo a entidade, o acúmulo nesse período seria suficiente para preencher seis fileiras de contêineres ao redor da Terra . O material pode conter substâncias como mercúrio, cádmio, chumbo e compostos químicos persistentes, além de metais que exigem processos específicos para serem recuperados. Servidores aumentam volume de resíduos O levantamento projeta a quantidade de materiais que precisarão ser fabricados como parte da expansão de data centers nos próximos anos. Nos Estados Unidos, serão ao menos 4.871, segundo a organização, sendo muitos deles voltados a IA. Para calcular o impacto, a organização considerou uma estimativa de aproximadamente 100 gigawatts (GW) de nova capacidade computacional no mundo até 2030. A conta inclui servidores, sistemas de refrigeração, infraestrutura elétrica, cabeamento e outros componentes importantes para os centros de processamento. Entre eles: Racks de servidores: um rack de alta densidade usado em compuação de IA pode pesar cerca de 1.360 kg. Switches e cabeamento: equipamentos de rede chegam a 30 kg cada, equanto cada rack pode concentrar centenas de quilos de cabos de cobre. Troca de equipamentos: componentes podem ser substituídos a cada dois a cinco anos, seja pelo desgaste térmico, seja pela defasagem de desempenho. Outros eletrônicos: a evolução dos requisitos para IA também pode acelerar a substituição de computadores, celulares e outros equipamentos de telecomunicações. A partir desses fatores, a BAN estima que o descarte de hardware possa chegar a 13 milhões de toneladas por ano até 2030. O número é superior ao de estimativas apresentadas anteriormente por outros estudos sobre o lixo eletrônico do setor. Falta de destinação adequada Lixo eletrônico seria consequência da obsolescência programada (imagem: John Cameron/Unsplash) Apesar da preocupação para o futuro, o descarte de equipamentos eletrônicos já cresce rapidamente e é um problema no momento. Jim Puckett, cofundador da BAN, afirmou ao jornal The Guardian que apenas cerca de 20% desse material recebe uma destinação adequada . A entidade atua internacionalmente contra o envio ilegal de resíduos tóxicos para países em desenvolvimento, onde parte desses equipamentos pode ser desmontada ou processada sem as mesmas condições de controle ambiental. O Brasil, por exemplo, produz mais de 2,4 milhões de toneladas desse material anualmente, segundo a Associação Brasileira de Reciclagem de Eletroeletrônicos e Eletrodomésticos. O valor deve aumentar com a expansão dos centros de dados no país, impulsionada pela aprovação do Redata, sancionado nessa quarta-feira (16/09) . Para a BAN, a velocidade da expansão da IA não está sendo acompanhada por uma estrutura equivalente para lidar com os equipamentos. A entidade alerta que, sem mudanças na forma como esses materiais são projetados, reutilizados e reciclados, a expansão da IA poderá transformar uma parcela crescente da infraestrutura tecnológica em resíduos tóxicos. Expansão da IA pode provocar tsunami de lixo eletrônico, diz relatório",
+      "content": "Aumento de novos servidores pode triplicar lixo eletrônico nas próximas décadas (imagem: reprodução/Magnific) Resumo A corrida por data centers de IA pode triplicar o volume anual de lixo eletrônico tóxico até 2050, segundo a Basel Action Network (BAN). De acordo com o relatório da entidade, a expansão de data centers pode gerar 13 milhões de toneladas de resíduos por ano somente até 2030. Apenas cerca de 20% do lixo eletrônico recebe destinação adequada, de acordo com o cofundador da BAN, Jim Puckett. A expansão da infraestrutura necessária para sustentar a IA pode triplicar o volume anual de lixo eletrônico tóxico nos próximos 25 anos. É o que diz um relatório da Basel Action Network (BAN), organização ambiental que acompanha o descarte e a movimentação internacional de resíduos eletrônicos. Segundo a entidade, o acúmulo nesse período seria suficiente para preencher seis fileiras de contêineres ao redor da Terra . O material pode conter substâncias como mercúrio, cádmio, chumbo e compostos químicos persistentes, além de metais que exigem processos específicos para serem recuperados. Servidores aumentam volume de resíduos O levantamento projeta a quantidade de materiais que precisarão ser fabricados como parte da expansão de data centers nos próximos anos. Nos Estados Unidos, serão ao menos 4.871, segundo a organização, sendo muitos deles voltados a IA. Para calcular o impacto, a organização considerou uma estimativa de aproximadamente 100 gigawatts (GW) de nova capacidade computacional no mundo até 2030. A conta inclui servidores, sistemas de refrigeração, infraestrutura elétrica, cabeamento e outros componentes importantes para os centros de processamento. Entre eles: Racks de servidores: um rack de alta densidade usado em compuação de IA pode pesar cerca de 1.360 kg. Switches e cabeamento: equipamentos de rede chegam a 30 kg cada, equanto cada rack pode concentrar centenas de quilos de cabos de cobre. Troca de equipamentos: componentes podem ser substituídos a cada dois a cinco anos, seja pelo desgaste térmico, seja pela defasagem de desempenho. Outros eletrônicos: a evolução dos requisitos para IA também pode acelerar a substituição de computadores, celulares e outros equipamentos de telecomunicações. A partir desses fatores, a BAN estima que o descarte de hardware possa chegar a 13 milhões de toneladas por ano até 2030. O número é superior ao de estimativas apresentadas anteriormente por outros estudos sobre o lixo eletrônico do setor. Falta de destinação adequada Lixo eletrônico seria consequência da obsolescência programada (imagem: John Cameron/Unsplash) Apesar da preocupação para o futuro, o descarte de equipamentos eletrônicos já cresce rapidamente e é um problema no momento. Jim Puckett, cofundador da BAN, afirmou ao jornal The Guardian que apenas cerca de 20% desse material recebe uma destinação adequada . A entidade atua internacionalmente contra o envio ilegal de resíduos tóxicos para países em desenvolvimento, onde parte desses equipamentos pode ser desmontada ou processada sem as mesmas condições de controle ambiental. O Brasil, por exemplo, produz mais de 2,4 milhões de toneladas desse material anualmente, segundo levantamento da ONU . O valor deve aumentar com a expansão dos centros de dados no país, impulsionada pela aprovação do Redata, sancionado nessa quarta-feira (16/09) . Para a BAN, a velocidade da expansão da IA não está sendo acompanhada por uma estrutura equivalente para lidar com os equipamentos. A entidade alerta que, sem mudanças na forma como esses materiais são projetados, reutilizados e reciclados, a expansão da IA poderá transformar uma parcela crescente da infraestrutura tecnológica em resíduos tóxicos. Expansão da IA pode provocar tsunami de lixo eletrônico, diz relatório",
       "lang": "pt",
       "depts": [
         "Jurídico",
@@ -39,41 +96,6 @@
       "depts": []
     },
     {
-      "title": "A Anthropic e a OpenAI desejam incorporar avaliadores de segurança. Serão realmente independentes?",
-      "description": "A Anthropic e a OpenAI desejam incorporar avaliadores de segurança independentes em seus laboratórios de IA. Os investigadores acolhem favoravelmente o acesso sem precedentes, mas alertam que uma supervisão significativa requer transparência, independência e, eventualmente, regulamentação.",
-      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-      "publishedAt": "Wed, 16 Sep 2026 21:07:24 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "A Anthropic e a OpenAI desejam incorporar avaliadores de segurança independentes em seus laboratórios de IA. Os investigadores acolhem favoravelmente o acesso sem precedentes, mas alertam que uma supervisão significativa requer transparência, independência e, eventualmente, regulamentação.",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Seus agentes de IA agora podem controlar seus dispositivos Google Home",
-      "description": "O Google está lançando acesso antecipado a um novo servidor MCP para o Google Home, permitindo que agentes de IA como Claude, ChatGPT e outros controlem dispositivos conectados, revisem resumos de câmeras e acessem atividades domésticas inteligentes usando linguagem natural.",
-      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-      "publishedAt": "Wed, 16 Sep 2026 17:00:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "O Google está lançando acesso antecipado a um novo servidor MCP para o Google Home, permitindo que agentes de IA como Claude, ChatGPT e outros controlem dispositivos conectados, revisem resumos de câmeras e acessem atividades domésticas inteligentes usando linguagem natural.",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Anthropic mescla Claude chat e Cowork em uma interface",
-      "description": "A Anthropic está liberando inicialmente esses recursos para assinantes dos planos Pro e Max.",
-      "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-      "publishedAt": "Wed, 16 Sep 2026 16:30:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Educação"
-      ]
-    },
-    {
       "title": "Zuckerberg rejeita apelos para frear desenvolvimento da IA",
       "description": "CEO da Meta argumenta que pressões de mercado e riscos legais já garantem a segurança da inteligência artificial. Zuckerberg rejeita apelos para frear desenvolvimento da IA",
       "url": "https://tecnoblog.net/noticias/zuckerberg-rejeita-apelos-para-frear-desenvolvimento-da-ia/",
@@ -83,43 +105,6 @@
       "content": null,
       "lang": "pt",
       "depts": []
-    },
-    {
-      "title": "Os robôs estão esperando por um momento ChatGPT: Les Karpas da Nvidia explica o porquê no TechCrunch Disrupt 2026",
-      "description": "A indústria da robótica ainda aguarda seu avanço na vida cotidiana. Les Karpas da Nvidia tem uma resposta sobre o porquê no TechCrunch Disrupt 2026. Registre-se antes de 25 de setembro para economizar até US$ 200 em seu passe.",
-      "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
-      "publishedAt": "Wed, 16 Sep 2026 15:00:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "A indústria da robótica ainda aguarda seu avanço na vida cotidiana. Les Karpas da Nvidia tem uma resposta sobre o porquê no TechCrunch Disrupt 2026. Registre-se antes de 25 de setembro para economizar até US$ 200 em seu passe.",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Startup de IA do ex-chefe da Infosys ganha outros US$ 53 milhões",
-      "description": "A startup de Palo Alto afirma que conseguiu vários contratos empresariais de sete dígitos meses após o lançamento.",
-      "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
-      "publishedAt": "Wed, 16 Sep 2026 13:00:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Comercial"
-      ]
-    },
-    {
-      "title": "União Europeia avança na proibição de chatbots de IA e redes sociais para menores",
-      "description": "Projeto prevê contas monitoradas e bloqueio total para menores de 3 anos. Documento também estabelece taxa de supervisão paga pelas big techs. União Europeia avança na proibição de chatbots de IA e redes sociais para menores",
-      "url": "https://tecnoblog.net/noticias/uniao-europeia-avanca-na-proibicao-de-chatbots-de-ia-e-redes-sociais-para-menores/",
-      "publishedAt": "Tue, 15 Sep 2026 18:52:21 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2021/10/1280px-european_union_flags_2.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Marketing"
-      ]
     },
     {
       "title": "8 prompts para conversar com voz no ChatGPT",
@@ -543,6 +528,22 @@
       "lang": "pt",
       "depts": [
         "Gestão"
+      ]
+    },
+    {
+      "title": "Novo sistema usará IA para \"traduzir\" o que o seu corpo realmente precisa",
+      "description": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30",
+      "url": "https://canaltech.com.br/inteligencia-artificial/novo-sistema-usara-ia-para-traduzir-o-que-o-seu-corpo-realmente-precisa/",
+      "publishedAt": "Wed, 01 Jul 2026 08:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/4BlAeU73zGDl24KwhTRIfUE4ZkA=/700x394/smart/i1138901.png",
+      "source": "Canaltech IA",
+      "content": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30) e foi divulgado pelo site Android Police. A empresa afirma que dispositivos vestíveis já evoluíram na coleta de dados, mas ainda falham em explicar o significado desses números para quem os usa. Gee Gu, cofundador da Vilo ao lado de Andy Xu, descreveu o Signal OS como um sistema que ajuda o usuário a entender o que mudou no corpo , priorizar o que importa e transformar sinais corporais em suporte real. Como funciona o Signal OS O sistema reúne quatro frentes principais. A primeira é o Signals , um recurso de cartões que aponta alterações nos indicadores de saúde e sugere o que fazer a respeito. Já o Pulse funciona como um painel com o histórico de dados e tendências ao longo do tempo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Há ainda o Vibes , um chatbot com IA para tirar dúvidas sobre as informações coletadas, e uma camada dedicada à saúde da mulher . A Vilo descreve o Signal OS como uma plataforma \"ring-first\", ou seja, pensada primeiro para anéis inteligentes, e ela vai estrear no próprio anel da empresa. A companhia evita o terreno regulatório mais rígido reservado a dispositivos médicos. Segundo o comunicado oficial, a proposta do sistema é oferecer \"orientação de bem-estar e autoconhecimento, não diagnóstico ou tratamento\", o que dispensa aprovação de agências como a FDA, órgão regulador dos Estados Unidos. Fitbit já segue caminho parecido com o AI Coach e o Fitbit Air, usando IA para interpretar pontuações sem depender desse tipo de aval. Possível interface do app dedicado ao sistema, presente no vídeo de divulgação (Imagem: Reprodução/YouTube/VILO) Anel da Vilo",
+      "lang": "pt",
+      "depts": [
+        "Marketing",
+        "Comercial",
+        "Saúde",
+        "Educação"
       ]
     }
   ]
