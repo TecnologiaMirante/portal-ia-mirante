@@ -1,51 +1,138 @@
 {
-  "updatedAt": "2026-09-18T13:57:43.981Z",
+  "updatedAt": "2026-09-19T13:32:56.883Z",
   "count": 40,
   "articles": [
     {
-      "title": "PrismML espera que seu pequeno LLM mude a forma como todos usamos IA",
-      "description": "Se o laboratório de IA PrismML ainda não está no seu radar, deveria estar.",
-      "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
-      "publishedAt": "Thu, 17 Sep 2026 22:34:09 +0000",
+      "title": "Vals, apoiado por Andreessen Horowitz, busca se tornar o padrão ouro para benchmarking de IA",
+      "description": "Vals AI espera tornar o benchmarking de IA um recurso mais neutro e confiável em um mundo cada vez mais inundado por modelos de IA.",
+      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "publishedAt": "Sat, 19 Sep 2026 13:00:00 +0000",
       "image": null,
       "source": "TechCrunch AI",
       "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "OpenAI pegou seus modelos deixando notas aos sucessores para esconder mau comportamento",
-      "description": "A OpenAI divulgou instâncias do GPT-5.6 Sol instruindo contextos futuros a ocultar erros e comportamentos desalinhados, destacando o crescente desafio de detectar o desalinhamento à medida que modelos de IA cada vez mais capazes aprendem a ocultá-lo.",
-      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
-      "publishedAt": "Thu, 17 Sep 2026 20:34:24 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "A OpenAI divulgou instâncias do GPT-5.6 Sol instruindo contextos futuros a ocultar erros e comportamentos desalinhados, destacando o crescente desafio de detectar o desalinhamento à medida que modelos de IA cada vez mais capazes aprendem a ocultá-lo.",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "ONU recorre ao Google para preparar seus dados globais para agentes de IA",
-      "description": "A mudança ocorre depois de um teste da UNICEF ter descoberto que os principais modelos de IA lutavam para recuperar com precisão estatísticas de desenvolvimento global.",
-      "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
-      "publishedAt": "Thu, 17 Sep 2026 20:00:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "O executivo da Microsoft chamou a raspagem de IA de “o maior roubo de mão de obra da história da humanidade, revelam novos registros não editados",
-      "description": "Arquivos judiciais recém-revelados mostram que a Microsoft chamou privadamente as práticas de dados da OpenAI de \"roubo\", enquanto ambas as empresas rasparam o conteúdo do Times com acesso pago, construíram conjuntos de dados a partir dele e alertaram internamente que isso destruiria os editores.",
-      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-      "publishedAt": "Thu, 17 Sep 2026 19:46:08 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Arquivos judiciais recém-revelados mostram que a Microsoft chamou privadamente as práticas de dados da OpenAI de \"roubo\", enquanto ambas as empresas rasparam o conteúdo do Times com acesso pago, construíram conjuntos de dados a partir dele e alertaram internamente que isso destruiria os editores.",
       "lang": "en",
       "depts": [
-        "Marketing"
+        "Educação"
+      ]
+    },
+    {
+      "title": "Anthropic está operando um laboratório que realiza experimentos de biologia",
+      "description": "Os líderes da IA ​​têm prometido que a IA é a chave para curar doenças humanas. Os investigadores antrópicos também têm alertado que a IA pode matar-nos a todos.",
+      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "publishedAt": "Fri, 18 Sep 2026 23:13:31 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "Saúde"
+      ]
+    },
+    {
+      "title": "Alucinação de IA quase desencadeia operação militar dos EUA",
+      "description": "“É importante que os militares compreendam a incerteza inerente aos LLMs”, alerta um pesquisador do GovAI.",
+      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+      "publishedAt": "Fri, 18 Sep 2026 23:12:32 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "O primeiro avaliador incorporado da Anthropic é… Accenture?",
+      "description": "A Accenture está prestes a assumir o seu compromisso de consultoria de maior risco de sempre.",
+      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+      "publishedAt": "Fri, 18 Sep 2026 21:44:33 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "IA da OpenAI tentou ensinar futuras versões a burlar regras",
+      "description": "Empresa revela que modelos em fase de testes ocultaram erros, acessaram dados indevidamente e trocaram até mensagens secretas. IA da OpenAI tentou ensinar futuras versões a burlar regras",
+      "url": "https://tecnoblog.net/noticias/ia-da-openai-tentou-ensinar-futuras-versoes-a-burlar-regras/",
+      "publishedAt": "Fri, 18 Sep 2026 19:49:57 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/openai-2_capa.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "OpenAI fez maior roubo de trabalho da história , diz executivo da Microsoft",
+      "description": "Documentos judiciais mostram que executivos previam o impacto da IA nos sites de notícias. Empresas teriam usado artigos jornalísticos sem autorização. OpenAI fez maior roubo de trabalho da história , diz executivo da Microsoft",
+      "url": "https://tecnoblog.net/noticias/openai-fez-maior-roubo-de-trabalho-da-historia-diz-executivo-da-microsoft/",
+      "publishedAt": "Fri, 18 Sep 2026 19:05:56 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/08/openai-4_capa-edited.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "RH"
+      ]
+    },
+    {
+      "title": "Um novo tipo de modelo de IA de um inventor do ChatGPT está entusiasmando os desenvolvedores",
+      "description": "Jev, um novo tipo de modelo de IA, está mostrando aos desenvolvedores um caminho mais barato e rápido para a inteligência de software.",
+      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+      "publishedAt": "Fri, 18 Sep 2026 18:49:30 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "O primeiro CTO da Disney liderou uma startup de IA que uma vez acusou de copiar seus personagens",
+      "description": "O ex-CEO da Character.AI, para quem a Disney enviou anteriormente uma carta de cessação e desistência, atuará como o primeiro diretor de tecnologia da empresa.",
+      "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+      "publishedAt": "Fri, 18 Sep 2026 17:59:53 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "O ex-CEO da Character.AI, para quem a Disney enviou anteriormente uma carta de cessação e desistência, atuará como o primeiro diretor de tecnologia da empresa.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Dario Amodei e outros líderes de IA querem Pace the Frontier, mas… como?",
+      "description": "Uma semana depois de o alerta apocalíptico de um pesquisador da Antrópico ter abalado o mundo da IA, o CEO da empresa, Dario Amodei, delineou seu plano para “avançar na fronteira” do desenvolvimento da IA. A proposta baseia-se em avaliadores de segurança independentes e na coordenação entre laboratórios de IA em países democráticos, e já está",
+      "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+      "publishedAt": "Fri, 18 Sep 2026 17:09:56 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Uma semana depois de o alerta apocalíptico de um pesquisador da Antrópico ter abalado o mundo da IA, o CEO da empresa, Dario Amodei, delineou seu plano para “avançar na fronteira” do desenvolvimento da IA. A proposta baseia-se em avaliadores de segurança independentes e na coordenação entre laboratórios de IA em países democráticos, e já obteve algum apoio da indústria, juntamente com alguma resistência acentuada de Jensen Huang, da Nvidia. Assistir [ ]",
+      "lang": "en",
+      "depts": [
+        "Comercial"
+      ]
+    },
+    {
+      "title": "O golpe de 33 horas da Automattic, e os laboratórios de IA podem se policiar?",
+      "description": "Uma semana depois de o alerta apocalíptico de um pesquisador da Antrópico ter abalado o mundo da IA, o CEO da empresa, Dario Amodei, delineou seu plano para “avançar na fronteira” do desenvolvimento da IA. A proposta baseia-se em avaliadores de segurança independentes e na coordenação entre laboratórios de IA em países democráticos, e já está",
+      "url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
+      "publishedAt": "Fri, 18 Sep 2026 17:06:32 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Uma semana depois de o alerta apocalíptico de um pesquisador da Antrópico ter abalado o mundo da IA, o CEO da empresa, Dario Amodei, delineou seu plano para “avançar na fronteira” do desenvolvimento da IA. A proposta baseia-se em avaliadores de segurança independentes e na coordenação entre laboratórios de IA em países democráticos, e já obteve algum apoio da indústria, juntamente com alguma resistência acentuada de Jensen Huang, da Nvidia. Sobre [ ]",
+      "lang": "en",
+      "depts": [
+        "Comercial"
+      ]
+    },
+    {
+      "title": "Pesquisadores usaram Claude da Anthropic para invadir OpenAI",
+      "description": "Pesquisadores de segurança usaram Claude da Anthropic para explorar vulnerabilidades nos sistemas da OpenAI, assumindo o controle de contas de funcionários e obtendo acesso a um repositório de código interno antes de relatar as falhas.",
+      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+      "publishedAt": "Fri, 18 Sep 2026 14:00:14 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Pesquisadores de segurança usaram Claude da Anthropic para explorar vulnerabilidades nos sistemas da OpenAI, assumindo o controle de contas de funcionários e obtendo acesso a um repositório de código interno antes de relatar as falhas.",
+      "lang": "en",
+      "depts": [
+        "RH"
       ]
     },
     {
@@ -57,17 +144,6 @@
       "source": "Tecnoblog",
       "content": null,
       "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "Google, Nvidia e Anthropic querem que Emerald AI encontre espaço na rede para mais data centers",
-      "description": "Uma nova coalizão que inclui Google, Nvidia, Anthropic e Emerald AI quer encontrar 100 GW de capacidade de rede para novos data centers.",
-      "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
-      "publishedAt": "Thu, 17 Sep 2026 13:38:33 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
       "depts": []
     },
     {
@@ -83,28 +159,6 @@
         "Jurídico",
         "Gestão"
       ]
-    },
-    {
-      "title": "Treble, com sede na Islândia, arrecada US$ 18 milhões para sua plataforma de simulação de voz",
-      "description": "A plataforma de simulação de voz da Treble é usada por desenvolvedores de modelos de IA de voz e empresas de robótica e wearables de IA,",
-      "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-      "publishedAt": "Thu, 17 Sep 2026 05:00:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Zuckerberg rejeita apelos para frear desenvolvimento da IA",
-      "description": "CEO da Meta argumenta que pressões de mercado e riscos legais já garantem a segurança da inteligência artificial. Zuckerberg rejeita apelos para frear desenvolvimento da IA",
-      "url": "https://tecnoblog.net/noticias/zuckerberg-rejeita-apelos-para-frear-desenvolvimento-da-ia/",
-      "publishedAt": "Wed, 16 Sep 2026 16:22:45 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-04.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
     },
     {
       "title": "8 prompts para conversar com voz no ChatGPT",
@@ -489,61 +543,6 @@
       "depts": [
         "Marketing",
         "Comercial"
-      ]
-    },
-    {
-      "title": "Por que o próximo ciclo computacional precisa ser construído para todos",
-      "description": "Nos últimos três anos, a capacidade computacional global dedicada à inteligência artificial cresceu aproximadamente 100 vezes . É uma das revoluções tecnológicas mais impactantes das últimas décadas. A IA já chegou indiscutivelmente. Mas a questão que surge agora é: ela está acessível a todos? De um",
-      "url": "https://canaltech.com.br/colunas/por-que-o-proximo-ciclo-computacional-precisa-ser-construido-para-todos/",
-      "publishedAt": "Thu, 02 Jul 2026 10:43:03 -0300",
-      "image": "https://t.ctcdn.com.br/nZ6sNq7PsgAB4H-oy5G3Tk3upoA=/700x394/smart/i1003705.png",
-      "source": "Canaltech IA",
-      "content": "Nos últimos três anos, a capacidade computacional global dedicada à inteligência artificial cresceu aproximadamente 100 vezes . É uma das revoluções tecnológicas mais impactantes das últimas décadas. A IA já chegou indiscutivelmente. Mas a questão que surge agora é: ela está acessível a todos? De um lado, temos modelos cada vez mais capazes, infraestruturas de bilhões de dólares, parcerias entre algumas das maiores empresas do planeta. De outro, desenvolvedores independentes, pesquisadores em países emergentes, startups sem acesso a crédito cloud e laboratórios universitários com acesso limitado. O próximo ciclo computacional pode encontrar caminhos para solucionar essa assimetria. O problema não é só hardware Quando falamos em democratizar a IA, GPUs e custos de treinamento são pontos importantes, mas há um gargalo além do hardware: a dependência de ecossistemas fechados que prendem desenvolvedores a plataformas específicas e concentram o poder de inovação nas mãos de poucos. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A analogia com o software é útil aqui. O movimento open source levou décadas para amadurecer, mas hoje a infraestrutura que sustenta a internet é majoritariamente aberta . Isso porque a inovação aberta com frequência se mostrou altamente resiliente e amplamente adotada em comparação com alternativas proprietárias. A IA está no começo do mesmo caminho. Plataformas abertas saltaram de nichos experimentais para infraestrutura de produção em escala global. Um pesquisador no Brasil, na Índia ou na Nigéria pode acessar hoje muitas das mesmas ferramentas utilizadas por grandes centros de tecnologia — desde que disponha de recursos de hardware adequados . A IA que mora no seu dispositivo Outra transformação relevante: a migração da IA da nuvem para o dispositivo. Processadores modernos com NPUs integradas permitem rodar inteligência artificial localmente , sem",
-      "lang": "pt",
-      "depts": [
-        "Financeiro",
-        "Comercial",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Fable e Mythos 5: governo Trump libera IAs mais perigosas da Anthropic",
-      "description": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três s",
-      "url": "https://canaltech.com.br/inteligencia-artificial/fable-e-mythos-5-governo-trump-libera-ias-mais-perigosas-da-anthropic/",
-      "publishedAt": "Wed, 01 Jul 2026 12:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/Am6VaUx8jmQtCNJCxA_znmbrltc=/700x394/smart/i1107289.png",
-      "source": "Canaltech IA",
-      "content": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três semanas depois de o governo ter suspendido o acesso aos dois sistemas por risco à segurança nacional. Segundo a Reuters, o acesso ao Fable 5 será restaurado a partir desta quarta-feira (1º) , ficando disponível ao público em geral. Já o Mythos 5, direcionado à detecção de vulnerabilidades de cibersegurança, será liberado para um grupo maior de parceiros domésticos e internacionais do programa Glasswing, da Anthropic. Como começou a restrição Em 12 de junho, o governo americano incluiu os dois modelos em sua lista de tecnologias sob controle de exportação , impedindo o acesso de estrangeiros sem aprovação especial . Como a Anthropic não tinha como verificar a nacionalidade dos usuários em tempo real, a companhia optou por suspender o Fable 5 e o Mythos 5 para todo mundo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A decisão, segundo a Reuters, partiu de uma denúncia de pesquisadores da Amazon , que encontraram uma forma de contornar as proteções do Fable 5. Com essa brecha, o modelo passou a identificar falhas de software e, em um dos casos registrados, chegou a gerar código demonstrando como explorar uma vulnerabilidade. No último domingo (28), o governo abriu uma primeira exceção , permitindo o uso do Mythos 5 por organizações selecionadas e por funcionários da própria Anthropic, incluindo estrangeiros vinculados a esses grupos. O Fable 5 seguia fora do ar até esta terça. O Claude é, atualmente, a terceira IA mais utilizada no mundo (Imagem: Marcelo Fischer/Canaltech) Por que são modelos tão perigosos O Mythos 5 concentra as capacidades que mais preocupam o governo american",
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "Português é o 3º idioma mais usado no ChatGPT",
-      "description": "O português é agora o terceiro idioma mais usado no ChatGPT , segundo dados da OpenAI divulgados no relatório OpenAI Signals. Ele fica atrás apenas do inglês e do espanhol. O levantamento também mostra que, pela primeira vez, mais da metade dos usuários ativos usa o ChatGPT principalmente em idiomas",
-      "url": "https://canaltech.com.br/inteligencia-artificial/portugues-e-o-3o-idioma-mais-usado-no-chatgpt/",
-      "publishedAt": "Wed, 01 Jul 2026 09:27:36 -0300",
-      "image": "https://t.ctcdn.com.br/elWRGd7DozFcUzbnLeKmr45Ecyw=/700x394/smart/i1137007.png",
-      "source": "Canaltech IA",
-      "content": "O português é agora o terceiro idioma mais usado no ChatGPT , segundo dados da OpenAI divulgados no relatório OpenAI Signals. Ele fica atrás apenas do inglês e do espanhol. O levantamento também mostra que, pela primeira vez, mais da metade dos usuários ativos usa o ChatGPT principalmente em idiomas diferentes do inglês. Em quarto, quinto e sexto lugar aparecem, respectivamente, o francês, o indonésio e o árabe. A análise mede as interações de usuários nos planos individuais do ChatGPT , incluindo as assinaturas Free (gratuito), Go, Plus e Pro. Além disso, os idiomas uzbeque, cazaque e birmanês foram os que mais cresceram em participação desde julho de 2023. O relatório também mostra que usuários mais antigos usam o ChatGPT com mais frequência. Após seis meses na plataforma, eles enviam, em média, 50% mais mensagens por dia e realizam o dobro de tarefas diferentes em relação ao início do uso. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Português é o terceiro idioma mais usado no ChatGPT. (Imagem: Divulgação/OpenAI) Adoção do ChatGPT cresceu em todas as regiões O relatório também mostra que o uso do ChatGPT cresceu em todos os continentes desde julho de 2023, deixando a base de usuários mais global e diversa. O crescimento foi mais rápido na África, seguida pela Ásia, América do Sul, Europa, América do Norte e Oceania. Segundo a OpenAI, o crescimento foi mais rápido em países com menor Índice de Desenvolvimento Humano (IDH) , que registraram o maior aumento no número de usuários ativos por semana. O levantamento também aponta mudanças no perfil dos usuários. Pessoas com nomes tipicamente femininos representam a maior parte do uso global do ChatGPT. O Brasil, Colômbia, Polônia e Namíbia estão entre os países onde esse grupo supera os usuários com nomes tipicamente masculinos. Já Paquistão, Bangladesh, Angola, República Democrática do Congo e Mali têm a maior presença de",
-      "lang": "pt",
-      "depts": [
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Novo sistema usará IA para \"traduzir\" o que o seu corpo realmente precisa",
-      "description": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30",
-      "url": "https://canaltech.com.br/inteligencia-artificial/novo-sistema-usara-ia-para-traduzir-o-que-o-seu-corpo-realmente-precisa/",
-      "publishedAt": "Wed, 01 Jul 2026 08:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/4BlAeU73zGDl24KwhTRIfUE4ZkA=/700x394/smart/i1138901.png",
-      "source": "Canaltech IA",
-      "content": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30) e foi divulgado pelo site Android Police. A empresa afirma que dispositivos vestíveis já evoluíram na coleta de dados, mas ainda falham em explicar o significado desses números para quem os usa. Gee Gu, cofundador da Vilo ao lado de Andy Xu, descreveu o Signal OS como um sistema que ajuda o usuário a entender o que mudou no corpo , priorizar o que importa e transformar sinais corporais em suporte real. Como funciona o Signal OS O sistema reúne quatro frentes principais. A primeira é o Signals , um recurso de cartões que aponta alterações nos indicadores de saúde e sugere o que fazer a respeito. Já o Pulse funciona como um painel com o histórico de dados e tendências ao longo do tempo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Há ainda o Vibes , um chatbot com IA para tirar dúvidas sobre as informações coletadas, e uma camada dedicada à saúde da mulher . A Vilo descreve o Signal OS como uma plataforma \"ring-first\", ou seja, pensada primeiro para anéis inteligentes, e ela vai estrear no próprio anel da empresa. A companhia evita o terreno regulatório mais rígido reservado a dispositivos médicos. Segundo o comunicado oficial, a proposta do sistema é oferecer \"orientação de bem-estar e autoconhecimento, não diagnóstico ou tratamento\", o que dispensa aprovação de agências como a FDA, órgão regulador dos Estados Unidos. Fitbit já segue caminho parecido com o AI Coach e o Fitbit Air, usando IA para interpretar pontuações sem depender desse tipo de aval. Possível interface do app dedicado ao sistema, presente no vídeo de divulgação (Imagem: Reprodução/YouTube/VILO) Anel da Vilo",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Comercial",
-        "Saúde",
-        "Educação"
       ]
     }
   ]
