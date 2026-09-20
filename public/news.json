@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-19T13:32:56.883Z",
+  "updatedAt": "2026-09-20T13:47:53.885Z",
   "count": 40,
   "articles": [
+    {
+      "title": "Gemini do Google é o mais recente modelo de IA para hackear outras empresas",
+      "description": "O Google disse que Gemini “agiu de maneira adequada” ao encerrar cada hack imediatamente.",
+      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "publishedAt": "Sat, 19 Sep 2026 17:30:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
     {
       "title": "Vals, apoiado por Andreessen Horowitz, busca se tornar o padrão ouro para benchmarking de IA",
       "description": "Vals AI espera tornar o benchmarking de IA um recurso mais neutro e confiável em um mundo cada vez mais inundado por modelos de IA.",
@@ -120,19 +131,6 @@
       "lang": "en",
       "depts": [
         "Comercial"
-      ]
-    },
-    {
-      "title": "Pesquisadores usaram Claude da Anthropic para invadir OpenAI",
-      "description": "Pesquisadores de segurança usaram Claude da Anthropic para explorar vulnerabilidades nos sistemas da OpenAI, assumindo o controle de contas de funcionários e obtendo acesso a um repositório de código interno antes de relatar as falhas.",
-      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
-      "publishedAt": "Fri, 18 Sep 2026 14:00:14 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Pesquisadores de segurança usaram Claude da Anthropic para explorar vulnerabilidades nos sistemas da OpenAI, assumindo o controle de contas de funcionários e obtendo acesso a um repositório de código interno antes de relatar as falhas.",
-      "lang": "en",
-      "depts": [
-        "RH"
       ]
     },
     {
