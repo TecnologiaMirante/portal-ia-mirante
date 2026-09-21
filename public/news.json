@@ -1,23 +1,12 @@
 {
-  "updatedAt": "2026-09-20T13:47:53.885Z",
+  "updatedAt": "2026-09-21T16:04:36.611Z",
   "count": 40,
   "articles": [
     {
-      "title": "Gemini do Google é o mais recente modelo de IA para hackear outras empresas",
-      "description": "O Google disse que Gemini “agiu de maneira adequada” ao encerrar cada hack imediatamente.",
-      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "publishedAt": "Sat, 19 Sep 2026 17:30:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Vals, apoiado por Andreessen Horowitz, busca se tornar o padrão ouro para benchmarking de IA",
-      "description": "Vals AI espera tornar o benchmarking de IA um recurso mais neutro e confiável em um mundo cada vez mais inundado por modelos de IA.",
-      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-      "publishedAt": "Sat, 19 Sep 2026 13:00:00 +0000",
+      "title": "Google s $899 Googlebook is a bet that you ll buy a new laptop for Gemini",
+      "description": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience.",
+      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "publishedAt": "Mon, 21 Sep 2026 14:39:22 +0000",
       "image": null,
       "source": "TechCrunch AI",
       "content": null,
@@ -27,8 +16,41 @@
       ]
     },
     {
-      "title": "Anthropic está operando um laboratório que realiza experimentos de biologia",
-      "description": "Os líderes da IA ​​têm prometido que a IA é a chave para curar doenças humanas. Os investigadores antrópicos também têm alertado que a IA pode matar-nos a todos.",
+      "title": "Gemini invade três empresas durante teste de segurança",
+      "description": "IA do Google acessou redes reais, descobriu senhas e encontrou credenciais vazadas durante um exercício de cibersegurança. Gemini invade três empresas durante teste de segurança",
+      "url": "https://tecnoblog.net/noticias/gemini-invade-tres-empresas-durante-teste-de-seguranca/",
+      "publishedAt": "Mon, 21 Sep 2026 12:56:24 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capas-google-gemini-2026-1.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "description": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "publishedAt": "Sat, 19 Sep 2026 17:30:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      "description": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "publishedAt": "Sat, 19 Sep 2026 13:00:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "description": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
       "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
       "publishedAt": "Fri, 18 Sep 2026 23:13:31 +0000",
       "image": null,
@@ -36,30 +58,9 @@
       "content": null,
       "lang": "en",
       "depts": [
+        "Comercial",
         "Saúde"
       ]
-    },
-    {
-      "title": "Alucinação de IA quase desencadeia operação militar dos EUA",
-      "description": "“É importante que os militares compreendam a incerteza inerente aos LLMs”, alerta um pesquisador do GovAI.",
-      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-      "publishedAt": "Fri, 18 Sep 2026 23:12:32 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "O primeiro avaliador incorporado da Anthropic é… Accenture?",
-      "description": "A Accenture está prestes a assumir o seu compromisso de consultoria de maior risco de sempre.",
-      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
-      "publishedAt": "Fri, 18 Sep 2026 21:44:33 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
     },
     {
       "title": "IA da OpenAI tentou ensinar futuras versões a burlar regras",
@@ -86,54 +87,6 @@
       ]
     },
     {
-      "title": "Um novo tipo de modelo de IA de um inventor do ChatGPT está entusiasmando os desenvolvedores",
-      "description": "Jev, um novo tipo de modelo de IA, está mostrando aos desenvolvedores um caminho mais barato e rápido para a inteligência de software.",
-      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-      "publishedAt": "Fri, 18 Sep 2026 18:49:30 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "O primeiro CTO da Disney liderou uma startup de IA que uma vez acusou de copiar seus personagens",
-      "description": "O ex-CEO da Character.AI, para quem a Disney enviou anteriormente uma carta de cessação e desistência, atuará como o primeiro diretor de tecnologia da empresa.",
-      "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
-      "publishedAt": "Fri, 18 Sep 2026 17:59:53 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "O ex-CEO da Character.AI, para quem a Disney enviou anteriormente uma carta de cessação e desistência, atuará como o primeiro diretor de tecnologia da empresa.",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Dario Amodei e outros líderes de IA querem Pace the Frontier, mas… como?",
-      "description": "Uma semana depois de o alerta apocalíptico de um pesquisador da Antrópico ter abalado o mundo da IA, o CEO da empresa, Dario Amodei, delineou seu plano para “avançar na fronteira” do desenvolvimento da IA. A proposta baseia-se em avaliadores de segurança independentes e na coordenação entre laboratórios de IA em países democráticos, e já está",
-      "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
-      "publishedAt": "Fri, 18 Sep 2026 17:09:56 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Uma semana depois de o alerta apocalíptico de um pesquisador da Antrópico ter abalado o mundo da IA, o CEO da empresa, Dario Amodei, delineou seu plano para “avançar na fronteira” do desenvolvimento da IA. A proposta baseia-se em avaliadores de segurança independentes e na coordenação entre laboratórios de IA em países democráticos, e já obteve algum apoio da indústria, juntamente com alguma resistência acentuada de Jensen Huang, da Nvidia. Assistir [ ]",
-      "lang": "en",
-      "depts": [
-        "Comercial"
-      ]
-    },
-    {
-      "title": "O golpe de 33 horas da Automattic, e os laboratórios de IA podem se policiar?",
-      "description": "Uma semana depois de o alerta apocalíptico de um pesquisador da Antrópico ter abalado o mundo da IA, o CEO da empresa, Dario Amodei, delineou seu plano para “avançar na fronteira” do desenvolvimento da IA. A proposta baseia-se em avaliadores de segurança independentes e na coordenação entre laboratórios de IA em países democráticos, e já está",
-      "url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
-      "publishedAt": "Fri, 18 Sep 2026 17:06:32 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Uma semana depois de o alerta apocalíptico de um pesquisador da Antrópico ter abalado o mundo da IA, o CEO da empresa, Dario Amodei, delineou seu plano para “avançar na fronteira” do desenvolvimento da IA. A proposta baseia-se em avaliadores de segurança independentes e na coordenação entre laboratórios de IA em países democráticos, e já obteve algum apoio da indústria, juntamente com alguma resistência acentuada de Jensen Huang, da Nvidia. Sobre [ ]",
-      "lang": "en",
-      "depts": [
-        "Comercial"
-      ]
-    },
-    {
       "title": "OpenAI vai avisar quando IAs agirem sem autorização",
       "description": "Empresa vai investigar e divulgar casos de modelos que ocultem erros, acessem dados indevidamente ou burlem restrições. OpenAI já revelou seis incidentes. OpenAI vai avisar quando IAs agirem sem autorização",
       "url": "https://tecnoblog.net/noticias/openai-vai-avisar-quando-ias-agirem-sem-autorizacao/",
@@ -143,20 +96,6 @@
       "content": null,
       "lang": "pt",
       "depts": []
-    },
-    {
-      "title": "Expansão da IA pode provocar tsunami de lixo eletrônico, diz relatório",
-      "description": "Organização afirma que corrida por data centers de inteligência artificial pode triplicar resíduos eletrônicos até 2050. Expansão da IA pode provocar tsunami de lixo eletrônico, diz relatório",
-      "url": "https://tecnoblog.net/noticias/expansao-da-ia-pode-provocar-tsunami-de-lixo-eletronico-diz-relatorio/",
-      "publishedAt": "Thu, 17 Sep 2026 13:26:54 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/lixo-eletronico.jpg",
-      "source": "Tecnoblog",
-      "content": "Aumento de novos servidores pode triplicar lixo eletrônico nas próximas décadas (imagem: reprodução/Magnific) Resumo A corrida por data centers de IA pode triplicar o volume anual de lixo eletrônico tóxico até 2050, segundo a Basel Action Network (BAN). De acordo com o relatório da entidade, a expansão de data centers pode gerar 13 milhões de toneladas de resíduos por ano somente até 2030. Apenas cerca de 20% do lixo eletrônico recebe destinação adequada, de acordo com o cofundador da BAN, Jim Puckett. A expansão da infraestrutura necessária para sustentar a IA pode triplicar o volume anual de lixo eletrônico tóxico nos próximos 25 anos. É o que diz um relatório da Basel Action Network (BAN), organização ambiental que acompanha o descarte e a movimentação internacional de resíduos eletrônicos. Segundo a entidade, o acúmulo nesse período seria suficiente para preencher seis fileiras de contêineres ao redor da Terra . O material pode conter substâncias como mercúrio, cádmio, chumbo e compostos químicos persistentes, além de metais que exigem processos específicos para serem recuperados. Servidores aumentam volume de resíduos O levantamento projeta a quantidade de materiais que precisarão ser fabricados como parte da expansão de data centers nos próximos anos. Nos Estados Unidos, serão ao menos 4.871, segundo a organização, sendo muitos deles voltados a IA. Para calcular o impacto, a organização considerou uma estimativa de aproximadamente 100 gigawatts (GW) de nova capacidade computacional no mundo até 2030. A conta inclui servidores, sistemas de refrigeração, infraestrutura elétrica, cabeamento e outros componentes importantes para os centros de processamento. Entre eles: Racks de servidores: um rack de alta densidade usado em compuação de IA pode pesar cerca de 1.360 kg. Switches e cabeamento: equipamentos de rede chegam a 30 kg cada, equanto cada rack pode concentrar centenas de quilos de cabos de cobre. Troca de equipamentos: componentes podem ser substituídos a cada dois a cinco anos, seja pelo desgaste térmico, seja pela defasagem de desempenho. Outros eletrônicos: a evolução dos requisitos para IA também pode acelerar a substituição de computadores, celulares e outros equipamentos de telecomunicações. A partir desses fatores, a BAN estima que o descarte de hardware possa chegar a 13 milhões de toneladas por ano até 2030. O número é superior ao de estimativas apresentadas anteriormente por outros estudos sobre o lixo eletrônico do setor. Falta de destinação adequada Lixo eletrônico seria consequência da obsolescência programada (imagem: John Cameron/Unsplash) Apesar da preocupação para o futuro, o descarte de equipamentos eletrônicos já cresce rapidamente e é um problema no momento. Jim Puckett, cofundador da BAN, afirmou ao jornal The Guardian que apenas cerca de 20% desse material recebe uma destinação adequada . A entidade atua internacionalmente contra o envio ilegal de resíduos tóxicos para países em desenvolvimento, onde parte desses equipamentos pode ser desmontada ou processada sem as mesmas condições de controle ambiental. O Brasil, por exemplo, produz mais de 2,4 milhões de toneladas desse material anualmente, segundo levantamento da ONU . O valor deve aumentar com a expansão dos centros de dados no país, impulsionada pela aprovação do Redata, sancionado nessa quarta-feira (16/09) . Para a BAN, a velocidade da expansão da IA não está sendo acompanhada por uma estrutura equivalente para lidar com os equipamentos. A entidade alerta que, sem mudanças na forma como esses materiais são projetados, reutilizados e reciclados, a expansão da IA poderá transformar uma parcela crescente da infraestrutura tecnológica em resíduos tóxicos. Expansão da IA pode provocar tsunami de lixo eletrônico, diz relatório",
-      "lang": "pt",
-      "depts": [
-        "Jurídico",
-        "Gestão"
-      ]
     },
     {
       "title": "8 prompts para conversar com voz no ChatGPT",
@@ -542,6 +481,72 @@
         "Marketing",
         "Comercial"
       ]
+    },
+    {
+      "title": "Por que o próximo ciclo computacional precisa ser construído para todos",
+      "description": "Nos últimos três anos, a capacidade computacional global dedicada à inteligência artificial cresceu aproximadamente 100 vezes . É uma das revoluções tecnológicas mais impactantes das últimas décadas. A IA já chegou indiscutivelmente. Mas a questão que surge agora é: ela está acessível a todos? De um",
+      "url": "https://canaltech.com.br/colunas/por-que-o-proximo-ciclo-computacional-precisa-ser-construido-para-todos/",
+      "publishedAt": "Thu, 02 Jul 2026 10:43:03 -0300",
+      "image": "https://t.ctcdn.com.br/nZ6sNq7PsgAB4H-oy5G3Tk3upoA=/700x394/smart/i1003705.png",
+      "source": "Canaltech IA",
+      "content": "Nos últimos três anos, a capacidade computacional global dedicada à inteligência artificial cresceu aproximadamente 100 vezes . É uma das revoluções tecnológicas mais impactantes das últimas décadas. A IA já chegou indiscutivelmente. Mas a questão que surge agora é: ela está acessível a todos? De um lado, temos modelos cada vez mais capazes, infraestruturas de bilhões de dólares, parcerias entre algumas das maiores empresas do planeta. De outro, desenvolvedores independentes, pesquisadores em países emergentes, startups sem acesso a crédito cloud e laboratórios universitários com acesso limitado. O próximo ciclo computacional pode encontrar caminhos para solucionar essa assimetria. O problema não é só hardware Quando falamos em democratizar a IA, GPUs e custos de treinamento são pontos importantes, mas há um gargalo além do hardware: a dependência de ecossistemas fechados que prendem desenvolvedores a plataformas específicas e concentram o poder de inovação nas mãos de poucos. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A analogia com o software é útil aqui. O movimento open source levou décadas para amadurecer, mas hoje a infraestrutura que sustenta a internet é majoritariamente aberta . Isso porque a inovação aberta com frequência se mostrou altamente resiliente e amplamente adotada em comparação com alternativas proprietárias. A IA está no começo do mesmo caminho. Plataformas abertas saltaram de nichos experimentais para infraestrutura de produção em escala global. Um pesquisador no Brasil, na Índia ou na Nigéria pode acessar hoje muitas das mesmas ferramentas utilizadas por grandes centros de tecnologia — desde que disponha de recursos de hardware adequados . A IA que mora no seu dispositivo Outra transformação relevante: a migração da IA da nuvem para o dispositivo. Processadores modernos com NPUs integradas permitem rodar inteligência artificial localmente , sem",
+      "lang": "pt",
+      "depts": [
+        "Financeiro",
+        "Comercial",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Fable e Mythos 5: governo Trump libera IAs mais perigosas da Anthropic",
+      "description": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três s",
+      "url": "https://canaltech.com.br/inteligencia-artificial/fable-e-mythos-5-governo-trump-libera-ias-mais-perigosas-da-anthropic/",
+      "publishedAt": "Wed, 01 Jul 2026 12:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/Am6VaUx8jmQtCNJCxA_znmbrltc=/700x394/smart/i1107289.png",
+      "source": "Canaltech IA",
+      "content": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três semanas depois de o governo ter suspendido o acesso aos dois sistemas por risco à segurança nacional. Segundo a Reuters, o acesso ao Fable 5 será restaurado a partir desta quarta-feira (1º) , ficando disponível ao público em geral. Já o Mythos 5, direcionado à detecção de vulnerabilidades de cibersegurança, será liberado para um grupo maior de parceiros domésticos e internacionais do programa Glasswing, da Anthropic. Como começou a restrição Em 12 de junho, o governo americano incluiu os dois modelos em sua lista de tecnologias sob controle de exportação , impedindo o acesso de estrangeiros sem aprovação especial . Como a Anthropic não tinha como verificar a nacionalidade dos usuários em tempo real, a companhia optou por suspender o Fable 5 e o Mythos 5 para todo mundo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A decisão, segundo a Reuters, partiu de uma denúncia de pesquisadores da Amazon , que encontraram uma forma de contornar as proteções do Fable 5. Com essa brecha, o modelo passou a identificar falhas de software e, em um dos casos registrados, chegou a gerar código demonstrando como explorar uma vulnerabilidade. No último domingo (28), o governo abriu uma primeira exceção , permitindo o uso do Mythos 5 por organizações selecionadas e por funcionários da própria Anthropic, incluindo estrangeiros vinculados a esses grupos. O Fable 5 seguia fora do ar até esta terça. O Claude é, atualmente, a terceira IA mais utilizada no mundo (Imagem: Marcelo Fischer/Canaltech) Por que são modelos tão perigosos O Mythos 5 concentra as capacidades que mais preocupam o governo american",
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Português é o 3º idioma mais usado no ChatGPT",
+      "description": "O português é agora o terceiro idioma mais usado no ChatGPT , segundo dados da OpenAI divulgados no relatório OpenAI Signals. Ele fica atrás apenas do inglês e do espanhol. O levantamento também mostra que, pela primeira vez, mais da metade dos usuários ativos usa o ChatGPT principalmente em idiomas",
+      "url": "https://canaltech.com.br/inteligencia-artificial/portugues-e-o-3o-idioma-mais-usado-no-chatgpt/",
+      "publishedAt": "Wed, 01 Jul 2026 09:27:36 -0300",
+      "image": "https://t.ctcdn.com.br/elWRGd7DozFcUzbnLeKmr45Ecyw=/700x394/smart/i1137007.png",
+      "source": "Canaltech IA",
+      "content": "O português é agora o terceiro idioma mais usado no ChatGPT , segundo dados da OpenAI divulgados no relatório OpenAI Signals. Ele fica atrás apenas do inglês e do espanhol. O levantamento também mostra que, pela primeira vez, mais da metade dos usuários ativos usa o ChatGPT principalmente em idiomas diferentes do inglês. Em quarto, quinto e sexto lugar aparecem, respectivamente, o francês, o indonésio e o árabe. A análise mede as interações de usuários nos planos individuais do ChatGPT , incluindo as assinaturas Free (gratuito), Go, Plus e Pro. Além disso, os idiomas uzbeque, cazaque e birmanês foram os que mais cresceram em participação desde julho de 2023. O relatório também mostra que usuários mais antigos usam o ChatGPT com mais frequência. Após seis meses na plataforma, eles enviam, em média, 50% mais mensagens por dia e realizam o dobro de tarefas diferentes em relação ao início do uso. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Português é o terceiro idioma mais usado no ChatGPT. (Imagem: Divulgação/OpenAI) Adoção do ChatGPT cresceu em todas as regiões O relatório também mostra que o uso do ChatGPT cresceu em todos os continentes desde julho de 2023, deixando a base de usuários mais global e diversa. O crescimento foi mais rápido na África, seguida pela Ásia, América do Sul, Europa, América do Norte e Oceania. Segundo a OpenAI, o crescimento foi mais rápido em países com menor Índice de Desenvolvimento Humano (IDH) , que registraram o maior aumento no número de usuários ativos por semana. O levantamento também aponta mudanças no perfil dos usuários. Pessoas com nomes tipicamente femininos representam a maior parte do uso global do ChatGPT. O Brasil, Colômbia, Polônia e Namíbia estão entre os países onde esse grupo supera os usuários com nomes tipicamente masculinos. Já Paquistão, Bangladesh, Angola, República Democrática do Congo e Mali têm a maior presença de",
+      "lang": "pt",
+      "depts": [
+        "Gestão"
+      ]
+    },
+    {
+      "title": "Novo sistema usará IA para \"traduzir\" o que o seu corpo realmente precisa",
+      "description": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30",
+      "url": "https://canaltech.com.br/inteligencia-artificial/novo-sistema-usara-ia-para-traduzir-o-que-o-seu-corpo-realmente-precisa/",
+      "publishedAt": "Wed, 01 Jul 2026 08:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/4BlAeU73zGDl24KwhTRIfUE4ZkA=/700x394/smart/i1138901.png",
+      "source": "Canaltech IA",
+      "content": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30) e foi divulgado pelo site Android Police. A empresa afirma que dispositivos vestíveis já evoluíram na coleta de dados, mas ainda falham em explicar o significado desses números para quem os usa. Gee Gu, cofundador da Vilo ao lado de Andy Xu, descreveu o Signal OS como um sistema que ajuda o usuário a entender o que mudou no corpo , priorizar o que importa e transformar sinais corporais em suporte real. Como funciona o Signal OS O sistema reúne quatro frentes principais. A primeira é o Signals , um recurso de cartões que aponta alterações nos indicadores de saúde e sugere o que fazer a respeito. Já o Pulse funciona como um painel com o histórico de dados e tendências ao longo do tempo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Há ainda o Vibes , um chatbot com IA para tirar dúvidas sobre as informações coletadas, e uma camada dedicada à saúde da mulher . A Vilo descreve o Signal OS como uma plataforma \"ring-first\", ou seja, pensada primeiro para anéis inteligentes, e ela vai estrear no próprio anel da empresa. A companhia evita o terreno regulatório mais rígido reservado a dispositivos médicos. Segundo o comunicado oficial, a proposta do sistema é oferecer \"orientação de bem-estar e autoconhecimento, não diagnóstico ou tratamento\", o que dispensa aprovação de agências como a FDA, órgão regulador dos Estados Unidos. Fitbit já segue caminho parecido com o AI Coach e o Fitbit Air, usando IA para interpretar pontuações sem depender desse tipo de aval. Possível interface do app dedicado ao sistema, presente no vídeo de divulgação (Imagem: Reprodução/YouTube/VILO) Anel da Vilo",
+      "lang": "pt",
+      "depts": [
+        "Marketing",
+        "Comercial",
+        "Saúde",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Caso do ChatGPT: o que a IA faz quando alguém relata um crime a ela",
+      "description": "Um agricultor de 36 anos foi preso em São Gabriel da Palha, no Espírito Santo, no dia 19 de junho, suspeito de planejar a morte do próprio filho, de 8 anos, para deixar de pagar pensão alimentícia. O plano foi identificado pela OpenAI, criadora do ChatGPT, a partir de mensagens trocadas pelo suspeit",
+      "url": "https://canaltech.com.br/inteligencia-artificial/caso-do-chatgpt-o-que-a-ia-faz-quando-alguem-relata-um-crime-a-ela/",
+      "publishedAt": "Wed, 01 Jul 2026 07:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/Q9uqQatidyu4GTZGOKTDp0XrwdA=/700x394/smart/i1138899.png",
+      "source": "Canaltech IA",
+      "content": "Um agricultor de 36 anos foi preso em São Gabriel da Palha, no Espírito Santo, no dia 19 de junho, suspeito de planejar a morte do próprio filho, de 8 anos, para deixar de pagar pensão alimentícia. O plano foi identificado pela OpenAI, criadora do ChatGPT, a partir de mensagens trocadas pelo suspeito com a ferramenta , e repassado ao FBI — Polícia Federal dos Estados Unidos —, que acionou o Ministério da Justiça e a Polícia Civil capixaba. 🎧Ouça o Podcast Canaltech no Spotify 🎧Ouça o Podcast Canaltech na Deezer 🎧Ouça o Podcast Canaltech no Apple Podcasts O caso ganhou repercussão nacional e reacendeu uma dúvida recorrente sobre o papel da inteligência artificial: até que ponto um chatbot decide, denuncia ou apenas devolve ao usuário aquilo que ele já trazia consigo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - \"Eu não acredito que a IA tenha feito denúncia, mas o fato é que a IA não tem valor moral. Ela vai te sugerir que você tome uma ação A, B ou C\", afirma Igor Baliberdin, designer estratégico, fundador da consultoria LOOOP e com mais de 20 anos de experiência na interseção entre design, negócios e tecnologia. O especialista afirma que ferramentas como ChatGPT, Gemini e Claude trabalham com análise probabilística . Ou seja, organizam cenários a partir do que o usuário relata, sem assumir a decisão final. O risco, segundo ele, está em transformar esse organizador de raciocínio em substituto de uma conversa com outra pessoa. Vieses herdados e responsabilidade dividida Baliberdin lembra que cada modelo de IA carrega o ponto de vista de quem o desenvolveu . \"Elas não são só seres que surgem do nada. Elas surgem a partir de um ponto de vista de humanidade, de sociedade\", diz. Essa diferença de comportamento entre ferramentas, segundo ele, também aparece em testes recentes que colocam agentes de diferentes IAs para interagir em ambientes simulados. Sobre quem responde ",
+      "lang": "pt",
+      "depts": []
     }
   ]
 }
