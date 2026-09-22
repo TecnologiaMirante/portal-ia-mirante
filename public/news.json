@@ -1,10 +1,71 @@
 {
-  "updatedAt": "2026-09-21T16:04:36.611Z",
+  "updatedAt": "2026-09-22T14:15:22.722Z",
   "count": 40,
   "articles": [
     {
-      "title": "Google s $899 Googlebook is a bet that you ll buy a new laptop for Gemini",
-      "description": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience.",
+      "title": "O IPO da Nscale testará mais uma vez o apetite de Wall Street por apostas concentradas em IA",
+      "description": "O desenvolvedor britânico de data centers de IA depende dos gigantes da tecnologia Microsoft e Anthropic para a maior parte de suas receitas.",
+      "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+      "publishedAt": "Tue, 22 Sep 2026 12:23:05 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "Financeiro"
+      ]
+    },
+    {
+      "title": "OpenAI forma grupo consultivo de matemática enquanto sua IA resolve mais de 100 problemas em aberto",
+      "description": "O grupo não terá margem de manobra para desacelerar ou redirecionar a pesquisa matemática em andamento da OpenAI.",
+      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "publishedAt": "Mon, 21 Sep 2026 20:15:58 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Meta s Muse está ultrapassando o lançamento móvel do ChatGPT",
+      "description": "O novo agente de IA da Meta, Muse, acumulou mais downloads e usuários ativos diariamente nos EUA e no Canadá do que o ChatGPT no mesmo período após sua estreia móvel, de acordo com novas estimativas da Appfigures.",
+      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "publishedAt": "Mon, 21 Sep 2026 19:19:21 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "O novo agente de IA da Meta, Muse, acumulou mais downloads e usuários ativos diariamente nos EUA e no Canadá do que o ChatGPT no mesmo período após sua estreia móvel, de acordo com novas estimativas da Appfigures.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "O agente de IA da Meta foi impedido de usar Amazon.com",
+      "description": "A Amazon tem seu próprio grupo de modelos básicos, juntamente com uma das plataformas de inferência mais populares da Internet. Contanto que eles não tenham obrigação legal de abrir as portas para o Muse, por que o fariam?",
+      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "publishedAt": "Mon, 21 Sep 2026 17:55:18 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "A Amazon tem seu próprio grupo de modelos básicos, juntamente com uma das plataformas de inferência mais populares da Internet. Contanto que eles não tenham obrigação legal de abrir as portas para o Muse, por que o fariam?",
+      "lang": "en",
+      "depts": [
+        "Jurídico"
+      ]
+    },
+    {
+      "title": "GPT-6 Astra decifra mensagem do exército alemão após 108 anos",
+      "description": "Modelo de IA pode ter decifrado mensagem que relatava chegada de navio britânico a Sebastopol, na Crimeia. GPT-6 Astra decifra mensagem do exército alemão após 108 anos",
+      "url": "https://tecnoblog.net/noticias/gpt-6-astra-decifra-mensagem-do-exercito-alemao-apos-108-anos/",
+      "publishedAt": "Mon, 21 Sep 2026 17:22:21 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/gpt-6-astra.png",
+      "source": "Tecnoblog",
+      "content": "GPT-6 Astra teria conseguido decifrar mensagem de 108 anos (imagem: divulgação/OpenAI) Resumo O GPT-6 Astra, modelo de IA da OpenAI, decifrou uma mensagem de rádio militar alemã transmitida há 108 anos, durante a Primeira Guerra Mundial. A mensagem, datada de 27 de novembro de 1918, informava sobre a chegada de um cruzador inglês a Sebastopol, na Crimeia, e a chegada de uma esquadra aliada dois dias depois. O GPT-6 Astra identificou a palavra-chave Truppenverschiebung para decifrar a mensagem, que foi confirmada por registros históricos da Marinha britânica. O modelo de IA GPT-6 Astra segue sendo testado em diferentes processos e trazendo resultados interessantes. Desta vez, a tecnologia mais recente da OpenAI teria conseguido decifrar uma mensagem de rádio militar alemã transmitida há cerca de 108 anos, durante a Primeira Guerra Mundial. A transmissão, datada de 27 de novembro de 1918, fazia parte de um conjunto de mensagens que ainda não haviam sido solucionadas mantida pelo portal alemão ScienceBlogs . O desenvolvedor identificado como Prinz afirma ter reconstruído o conteúdo com ajuda da IA . Segundo ele, o texto reconstruído traz informações sobre a movimentação de navios dos Aliados no Mar Negro. A hipótese é que a mensagem informava que um cruzador inglês havia chegado a Sebastopol, na Crimeia, e que uma esquadra aliada seguiria para o local dois dias depois. Prinz relata descoberta da mensagem no X (imagem: reprodução) Como a IA decifrou a mensagem? O radiograma utiliza a cifra ADFGVX, um sistema adotado pelo exército alemão em 1918 que transforma letras e números em combinações formadas por essas seis letras em uma tabela com o alfabeto e algarismos de 0 a 9. Para impedir a leitura, os alemães distribuíam mensagens sob as letras de uma palavra-chave, necessária para recuperar o texto original. Segundo o relato, o GPT-6 Astra identificou Truppenverschiebung como a chave que permitia reconstruir o texto. Termo-chave Truppenverschiebung rearranjado para solução da mensagem (imagem: reprodução/Prinz) O termo aparece nas páginas 214 e 215 do livro The History and Principles of German Military Ciphers, 1914-1918 , de J. Rives Childs, enquanto o radiograma está reproduzido na página 217. O trabalho do modelo foi relacionar a chave ao criptograma e executar as etapas para recuperar o texto, que segundo Prinz, seria: “EIN ENGLISCHER KREUZER EINLIEG X SEWASTOPOL X S4STEN X EIN GESCHWADER DER X ALLIIERTEN FOLGT 26STEN X” A interpretação seria algo como Um cruzador inglês chegou a Sebastopol no dia ?4; uma esquadra aliada segue no dia 26. Datas coincidem com registros britânicos Após reconstruir o texto, Prinz afirma que a IA comparou as informações com registros históricos sobre a movimentação naval em Sebastopol. Um conjunto de registros indica a chegada do cruzador britânico HMS Canterbury ao porto em 24 de novembro de 1918 e uma esquadra aliada em 26 de novembro, coincidindo as datas ao conteúdo da mensagem. Segundo uma análise do próprio GPT-6 Astra, o termo-chave teria sido registrado duas semanas antes da transmissão, o que pode ter levado pesquisadores a descartá-la. Apesar das datas semelhantes, não há confirmação independente de especialistas em criptografia de que a solução esteja correta. GPT-6 Astra vem sendo reconhecido pelas capacidades de resolução de problemas (imagem: reprodução/OpenAI) Ainda assim, o resultado entra na lista de testes que reforçam a alta capacidade do modelo da OpenAI em solucionar problemas complexos. Antes, neste mês, outro desenvolvedor usou o GPT-6 Astra para passar por todas as fases do jogo I am not a Robot , de Neal Agarwal, em que a IA teve que responder a 48 testes de Captcha — e conseguiu. Para a OpenAI e outras personalidades na indústria, como o CEO da Nvidia, Jensen Huang, os resultados do GPT-Astra são sinais de que a tecnologia possa ter entrado na era da AGI . Críticos, no entanto, não veem esses testes de capacidades agênticas como o único parâmetro para definir esse marco. GPT-6 Astra decifra mensagem do exército alemão após 108 anos",
+      "lang": "pt",
+      "depts": [
+        "Gestão"
+      ]
+    },
+    {
+      "title": "O Googlebook de US$ 899 do Google é uma aposta de que você comprará um novo laptop para Gemini",
+      "description": "O Googlebook nativo de IA do Google vincula o Gemini ao cursor, ditado, widgets e outras partes da experiência de desktop.",
       "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
       "publishedAt": "Mon, 21 Sep 2026 14:39:22 +0000",
       "image": null,
@@ -25,42 +86,6 @@
       "content": null,
       "lang": "pt",
       "depts": []
-    },
-    {
-      "title": "Google’s Gemini is the latest AI model to hack other companies",
-      "description": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
-      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "publishedAt": "Sat, 19 Sep 2026 17:30:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-      "description": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
-      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-      "publishedAt": "Sat, 19 Sep 2026 13:00:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Anthropic is operating a lab that conducts biology experiments",
-      "description": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
-      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-      "publishedAt": "Fri, 18 Sep 2026 23:13:31 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Comercial",
-        "Saúde"
-      ]
     },
     {
       "title": "IA da OpenAI tentou ensinar futuras versões a burlar regras",
@@ -85,17 +110,6 @@
       "depts": [
         "RH"
       ]
-    },
-    {
-      "title": "OpenAI vai avisar quando IAs agirem sem autorização",
-      "description": "Empresa vai investigar e divulgar casos de modelos que ocultem erros, acessem dados indevidamente ou burlem restrições. OpenAI já revelou seis incidentes. OpenAI vai avisar quando IAs agirem sem autorização",
-      "url": "https://tecnoblog.net/noticias/openai-vai-avisar-quando-ias-agirem-sem-autorizacao/",
-      "publishedAt": "Thu, 17 Sep 2026 19:26:15 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/sam-altman-3-capa.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
     },
     {
       "title": "8 prompts para conversar com voz no ChatGPT",
@@ -536,17 +550,6 @@
         "Saúde",
         "Educação"
       ]
-    },
-    {
-      "title": "Caso do ChatGPT: o que a IA faz quando alguém relata um crime a ela",
-      "description": "Um agricultor de 36 anos foi preso em São Gabriel da Palha, no Espírito Santo, no dia 19 de junho, suspeito de planejar a morte do próprio filho, de 8 anos, para deixar de pagar pensão alimentícia. O plano foi identificado pela OpenAI, criadora do ChatGPT, a partir de mensagens trocadas pelo suspeit",
-      "url": "https://canaltech.com.br/inteligencia-artificial/caso-do-chatgpt-o-que-a-ia-faz-quando-alguem-relata-um-crime-a-ela/",
-      "publishedAt": "Wed, 01 Jul 2026 07:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/Q9uqQatidyu4GTZGOKTDp0XrwdA=/700x394/smart/i1138899.png",
-      "source": "Canaltech IA",
-      "content": "Um agricultor de 36 anos foi preso em São Gabriel da Palha, no Espírito Santo, no dia 19 de junho, suspeito de planejar a morte do próprio filho, de 8 anos, para deixar de pagar pensão alimentícia. O plano foi identificado pela OpenAI, criadora do ChatGPT, a partir de mensagens trocadas pelo suspeito com a ferramenta , e repassado ao FBI — Polícia Federal dos Estados Unidos —, que acionou o Ministério da Justiça e a Polícia Civil capixaba. 🎧Ouça o Podcast Canaltech no Spotify 🎧Ouça o Podcast Canaltech na Deezer 🎧Ouça o Podcast Canaltech no Apple Podcasts O caso ganhou repercussão nacional e reacendeu uma dúvida recorrente sobre o papel da inteligência artificial: até que ponto um chatbot decide, denuncia ou apenas devolve ao usuário aquilo que ele já trazia consigo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - \"Eu não acredito que a IA tenha feito denúncia, mas o fato é que a IA não tem valor moral. Ela vai te sugerir que você tome uma ação A, B ou C\", afirma Igor Baliberdin, designer estratégico, fundador da consultoria LOOOP e com mais de 20 anos de experiência na interseção entre design, negócios e tecnologia. O especialista afirma que ferramentas como ChatGPT, Gemini e Claude trabalham com análise probabilística . Ou seja, organizam cenários a partir do que o usuário relata, sem assumir a decisão final. O risco, segundo ele, está em transformar esse organizador de raciocínio em substituto de uma conversa com outra pessoa. Vieses herdados e responsabilidade dividida Baliberdin lembra que cada modelo de IA carrega o ponto de vista de quem o desenvolveu . \"Elas não são só seres que surgem do nada. Elas surgem a partir de um ponto de vista de humanidade, de sociedade\", diz. Essa diferença de comportamento entre ferramentas, segundo ele, também aparece em testes recentes que colocam agentes de diferentes IAs para interagir em ambientes simulados. Sobre quem responde ",
-      "lang": "pt",
-      "depts": []
     }
   ]
 }
