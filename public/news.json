@@ -1,7 +1,97 @@
 {
-  "updatedAt": "2026-09-22T14:15:22.722Z",
+  "updatedAt": "2026-09-23T14:30:49.218Z",
   "count": 40,
   "articles": [
+    {
+      "title": "OpenAI expande GPT-6 com modelos Sol e Luna; vejas as diferenças",
+      "description": "OpenAI revelou os modelos GPT-6 Sol e GPT-6 Luna, que trazem menor custo e foco em diferentes níveis de complexidade em relação ao GPT-6 Astra. OpenAI expande GPT-6 com modelos Sol e Luna; vejas as diferenças",
+      "url": "https://tecnoblog.net/noticias/openai-expande-gpt-6-com-modelos-sol-e-luna-vejas-as-diferencas/",
+      "publishedAt": "Wed, 23 Sep 2026 13:26:37 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-3_capa.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Financeiro",
+        "Gestão"
+      ]
+    },
+    {
+      "title": "Anthropic anuncia novo Claude Opus 5.5, com capacidade ainda maior",
+      "description": "Modelo promete igualar desempenho do Mythos 5.1 para trabalhos de cibersegurança e biologia. Recursos de segurança também são reforçados. Anthropic anuncia novo Claude Opus 5.5, com capacidade ainda maior",
+      "url": "https://tecnoblog.net/noticias/anthropic-anuncia-novo-claude-opus-5-5-com-capacidade-ainda-maior/",
+      "publishedAt": "Wed, 23 Sep 2026 10:13:42 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-4.jpg",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "RH",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Meta admite que a semelhança do Muse com o OpenClaw não é uma coincidência",
+      "description": "Meta diz que o Muse foi construído do zero, mas reconhece que o assistente de IA foi “fortemente inspirado” pelo OpenClaw – até alguns de seus nomes de arquivos e conteúdo do espaço de trabalho.",
+      "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+      "publishedAt": "Tue, 22 Sep 2026 19:09:11 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Meta diz que o Muse foi construído do zero, mas reconhece que o assistente de IA foi “fortemente inspirado” pelo OpenClaw – até alguns de seus nomes de arquivos e conteúdo do espaço de trabalho.",
+      "lang": "en",
+      "depts": [
+        "Marketing",
+        "RH"
+      ]
+    },
+    {
+      "title": "OpenAI lança GPT-6 Sol e Luna, com menor custo e menos erros",
+      "description": "A OpenAI está lançando dois novos modelos, que afirma serem feitos do mesmo tecido do Astra.",
+      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "publishedAt": "Tue, 22 Sep 2026 18:00:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "Financeiro"
+      ]
+    },
+    {
+      "title": "Anthropic lança Opus 5.5 com preços mais baixos e desempenho de nível Fable",
+      "description": "A Anthropic o chamou de “o modelo de melhor desempenho que testamos até agora”.",
+      "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+      "publishedAt": "Tue, 22 Sep 2026 16:30:07 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "AstroForge está colocando IA no comando de sua próxima espaçonave",
+      "description": "O Autonomy-1 terá um pequeno modelo de IA baseado em transformador responsável por uma sonda espacial.",
+      "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+      "publishedAt": "Tue, 22 Sep 2026 15:00:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Cinco sessões de segurança de IA que todo fundador deveria ter em sua agenda TechCrunch Disrupt 2026",
+      "description": "No TechCrunch Disrupt 2026, cinco sessões no AI Stage e no Real World AI Stage cobrem a segurança da IA, apresentando líderes da Anthropic, Nvidia, AWS, Waabi e muito mais. Registre-se antes de 25 de setembro para economizar até US$ 200.",
+      "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+      "publishedAt": "Tue, 22 Sep 2026 15:00:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "No TechCrunch Disrupt 2026, cinco sessões no AI Stage e no Real World AI Stage cobrem a segurança da IA, apresentando líderes da Anthropic, Nvidia, AWS, Waabi e muito mais. Registre-se antes de 25 de setembro para economizar até US$ 200.",
+      "lang": "en",
+      "depts": [
+        "Gestão"
+      ]
+    },
     {
       "title": "O IPO da Nscale testará mais uma vez o apetite de Wall Street por apostas concentradas em IA",
       "description": "O desenvolvedor britânico de data centers de IA depende dos gigantes da tecnologia Microsoft e Anthropic para a maior parte de suas receitas.",
@@ -27,30 +117,6 @@
       "depts": []
     },
     {
-      "title": "Meta s Muse está ultrapassando o lançamento móvel do ChatGPT",
-      "description": "O novo agente de IA da Meta, Muse, acumulou mais downloads e usuários ativos diariamente nos EUA e no Canadá do que o ChatGPT no mesmo período após sua estreia móvel, de acordo com novas estimativas da Appfigures.",
-      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-      "publishedAt": "Mon, 21 Sep 2026 19:19:21 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "O novo agente de IA da Meta, Muse, acumulou mais downloads e usuários ativos diariamente nos EUA e no Canadá do que o ChatGPT no mesmo período após sua estreia móvel, de acordo com novas estimativas da Appfigures.",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "O agente de IA da Meta foi impedido de usar Amazon.com",
-      "description": "A Amazon tem seu próprio grupo de modelos básicos, juntamente com uma das plataformas de inferência mais populares da Internet. Contanto que eles não tenham obrigação legal de abrir as portas para o Muse, por que o fariam?",
-      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-      "publishedAt": "Mon, 21 Sep 2026 17:55:18 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "A Amazon tem seu próprio grupo de modelos básicos, juntamente com uma das plataformas de inferência mais populares da Internet. Contanto que eles não tenham obrigação legal de abrir as portas para o Muse, por que o fariam?",
-      "lang": "en",
-      "depts": [
-        "Jurídico"
-      ]
-    },
-    {
       "title": "GPT-6 Astra decifra mensagem do exército alemão após 108 anos",
       "description": "Modelo de IA pode ter decifrado mensagem que relatava chegada de navio britânico a Sebastopol, na Crimeia. GPT-6 Astra decifra mensagem do exército alemão após 108 anos",
       "url": "https://tecnoblog.net/noticias/gpt-6-astra-decifra-mensagem-do-exercito-alemao-apos-108-anos/",
@@ -64,19 +130,6 @@
       ]
     },
     {
-      "title": "O Googlebook de US$ 899 do Google é uma aposta de que você comprará um novo laptop para Gemini",
-      "description": "O Googlebook nativo de IA do Google vincula o Gemini ao cursor, ditado, widgets e outras partes da experiência de desktop.",
-      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-      "publishedAt": "Mon, 21 Sep 2026 14:39:22 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Educação"
-      ]
-    },
-    {
       "title": "Gemini invade três empresas durante teste de segurança",
       "description": "IA do Google acessou redes reais, descobriu senhas e encontrou credenciais vazadas durante um exercício de cibersegurança. Gemini invade três empresas durante teste de segurança",
       "url": "https://tecnoblog.net/noticias/gemini-invade-tres-empresas-durante-teste-de-seguranca/",
@@ -86,30 +139,6 @@
       "content": null,
       "lang": "pt",
       "depts": []
-    },
-    {
-      "title": "IA da OpenAI tentou ensinar futuras versões a burlar regras",
-      "description": "Empresa revela que modelos em fase de testes ocultaram erros, acessaram dados indevidamente e trocaram até mensagens secretas. IA da OpenAI tentou ensinar futuras versões a burlar regras",
-      "url": "https://tecnoblog.net/noticias/ia-da-openai-tentou-ensinar-futuras-versoes-a-burlar-regras/",
-      "publishedAt": "Fri, 18 Sep 2026 19:49:57 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/openai-2_capa.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "OpenAI fez maior roubo de trabalho da história , diz executivo da Microsoft",
-      "description": "Documentos judiciais mostram que executivos previam o impacto da IA nos sites de notícias. Empresas teriam usado artigos jornalísticos sem autorização. OpenAI fez maior roubo de trabalho da história , diz executivo da Microsoft",
-      "url": "https://tecnoblog.net/noticias/openai-fez-maior-roubo-de-trabalho-da-historia-diz-executivo-da-microsoft/",
-      "publishedAt": "Fri, 18 Sep 2026 19:05:56 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/08/openai-4_capa-edited.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "RH"
-      ]
     },
     {
       "title": "8 prompts para conversar com voz no ChatGPT",
@@ -521,35 +550,6 @@
       "content": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três semanas depois de o governo ter suspendido o acesso aos dois sistemas por risco à segurança nacional. Segundo a Reuters, o acesso ao Fable 5 será restaurado a partir desta quarta-feira (1º) , ficando disponível ao público em geral. Já o Mythos 5, direcionado à detecção de vulnerabilidades de cibersegurança, será liberado para um grupo maior de parceiros domésticos e internacionais do programa Glasswing, da Anthropic. Como começou a restrição Em 12 de junho, o governo americano incluiu os dois modelos em sua lista de tecnologias sob controle de exportação , impedindo o acesso de estrangeiros sem aprovação especial . Como a Anthropic não tinha como verificar a nacionalidade dos usuários em tempo real, a companhia optou por suspender o Fable 5 e o Mythos 5 para todo mundo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A decisão, segundo a Reuters, partiu de uma denúncia de pesquisadores da Amazon , que encontraram uma forma de contornar as proteções do Fable 5. Com essa brecha, o modelo passou a identificar falhas de software e, em um dos casos registrados, chegou a gerar código demonstrando como explorar uma vulnerabilidade. No último domingo (28), o governo abriu uma primeira exceção , permitindo o uso do Mythos 5 por organizações selecionadas e por funcionários da própria Anthropic, incluindo estrangeiros vinculados a esses grupos. O Fable 5 seguia fora do ar até esta terça. O Claude é, atualmente, a terceira IA mais utilizada no mundo (Imagem: Marcelo Fischer/Canaltech) Por que são modelos tão perigosos O Mythos 5 concentra as capacidades que mais preocupam o governo american",
       "lang": "pt",
       "depts": []
-    },
-    {
-      "title": "Português é o 3º idioma mais usado no ChatGPT",
-      "description": "O português é agora o terceiro idioma mais usado no ChatGPT , segundo dados da OpenAI divulgados no relatório OpenAI Signals. Ele fica atrás apenas do inglês e do espanhol. O levantamento também mostra que, pela primeira vez, mais da metade dos usuários ativos usa o ChatGPT principalmente em idiomas",
-      "url": "https://canaltech.com.br/inteligencia-artificial/portugues-e-o-3o-idioma-mais-usado-no-chatgpt/",
-      "publishedAt": "Wed, 01 Jul 2026 09:27:36 -0300",
-      "image": "https://t.ctcdn.com.br/elWRGd7DozFcUzbnLeKmr45Ecyw=/700x394/smart/i1137007.png",
-      "source": "Canaltech IA",
-      "content": "O português é agora o terceiro idioma mais usado no ChatGPT , segundo dados da OpenAI divulgados no relatório OpenAI Signals. Ele fica atrás apenas do inglês e do espanhol. O levantamento também mostra que, pela primeira vez, mais da metade dos usuários ativos usa o ChatGPT principalmente em idiomas diferentes do inglês. Em quarto, quinto e sexto lugar aparecem, respectivamente, o francês, o indonésio e o árabe. A análise mede as interações de usuários nos planos individuais do ChatGPT , incluindo as assinaturas Free (gratuito), Go, Plus e Pro. Além disso, os idiomas uzbeque, cazaque e birmanês foram os que mais cresceram em participação desde julho de 2023. O relatório também mostra que usuários mais antigos usam o ChatGPT com mais frequência. Após seis meses na plataforma, eles enviam, em média, 50% mais mensagens por dia e realizam o dobro de tarefas diferentes em relação ao início do uso. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Português é o terceiro idioma mais usado no ChatGPT. (Imagem: Divulgação/OpenAI) Adoção do ChatGPT cresceu em todas as regiões O relatório também mostra que o uso do ChatGPT cresceu em todos os continentes desde julho de 2023, deixando a base de usuários mais global e diversa. O crescimento foi mais rápido na África, seguida pela Ásia, América do Sul, Europa, América do Norte e Oceania. Segundo a OpenAI, o crescimento foi mais rápido em países com menor Índice de Desenvolvimento Humano (IDH) , que registraram o maior aumento no número de usuários ativos por semana. O levantamento também aponta mudanças no perfil dos usuários. Pessoas com nomes tipicamente femininos representam a maior parte do uso global do ChatGPT. O Brasil, Colômbia, Polônia e Namíbia estão entre os países onde esse grupo supera os usuários com nomes tipicamente masculinos. Já Paquistão, Bangladesh, Angola, República Democrática do Congo e Mali têm a maior presença de",
-      "lang": "pt",
-      "depts": [
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Novo sistema usará IA para \"traduzir\" o que o seu corpo realmente precisa",
-      "description": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30",
-      "url": "https://canaltech.com.br/inteligencia-artificial/novo-sistema-usara-ia-para-traduzir-o-que-o-seu-corpo-realmente-precisa/",
-      "publishedAt": "Wed, 01 Jul 2026 08:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/4BlAeU73zGDl24KwhTRIfUE4ZkA=/700x394/smart/i1138901.png",
-      "source": "Canaltech IA",
-      "content": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30) e foi divulgado pelo site Android Police. A empresa afirma que dispositivos vestíveis já evoluíram na coleta de dados, mas ainda falham em explicar o significado desses números para quem os usa. Gee Gu, cofundador da Vilo ao lado de Andy Xu, descreveu o Signal OS como um sistema que ajuda o usuário a entender o que mudou no corpo , priorizar o que importa e transformar sinais corporais em suporte real. Como funciona o Signal OS O sistema reúne quatro frentes principais. A primeira é o Signals , um recurso de cartões que aponta alterações nos indicadores de saúde e sugere o que fazer a respeito. Já o Pulse funciona como um painel com o histórico de dados e tendências ao longo do tempo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Há ainda o Vibes , um chatbot com IA para tirar dúvidas sobre as informações coletadas, e uma camada dedicada à saúde da mulher . A Vilo descreve o Signal OS como uma plataforma \"ring-first\", ou seja, pensada primeiro para anéis inteligentes, e ela vai estrear no próprio anel da empresa. A companhia evita o terreno regulatório mais rígido reservado a dispositivos médicos. Segundo o comunicado oficial, a proposta do sistema é oferecer \"orientação de bem-estar e autoconhecimento, não diagnóstico ou tratamento\", o que dispensa aprovação de agências como a FDA, órgão regulador dos Estados Unidos. Fitbit já segue caminho parecido com o AI Coach e o Fitbit Air, usando IA para interpretar pontuações sem depender desse tipo de aval. Possível interface do app dedicado ao sistema, presente no vídeo de divulgação (Imagem: Reprodução/YouTube/VILO) Anel da Vilo",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Comercial",
-        "Saúde",
-        "Educação"
-      ]
     }
   ]
 }
