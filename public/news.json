@@ -1,7 +1,86 @@
 {
-  "updatedAt": "2026-09-24T14:30:15.605Z",
+  "updatedAt": "2026-09-25T14:50:43.708Z",
   "count": 40,
   "articles": [
+    {
+      "title": "Smart TV OLED Samsung 55 sai 36% mais barata no Magalu",
+      "description": "Samsung Vision AI OLED S85H de 55\" tem tela 4K de 120 Hz e chatbots de IA; nova smart TV com recursos para gamers recebe desconto de 36% no Pix no Magazine Luiza Smart TV OLED Samsung 55 sai 36% mais barata no Magalu",
+      "url": "https://tecnoblog.net/achados/smart-tv-oled-samsung-55-sai-36-mais-barata-no-magalu/",
+      "publishedAt": "Fri, 25 Sep 2026 14:22:18 +0000",
+      "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2026/09/samsung-smart-tv-oled-s85h-achados-1060x596.jpg",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Educação"
+      ]
+    },
+    {
+      "title": "É o fim do Copilot+ PC: Microsoft abandona silenciosamente a marca",
+      "description": "Microsoft deixou de usar selo Copilot+ PC nos lançamentos mais recentes da linha Surface. Outros fabricantes devem seguir pelo mesmo caminho. É o fim do Copilot+ PC: Microsoft abandona silenciosamente a marca",
+      "url": "https://tecnoblog.net/noticias/e-o-fim-do-copilot-pc-microsoft-abandona-silenciosamente-a-marca/",
+      "publishedAt": "Fri, 25 Sep 2026 13:05:30 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/05/img_3812.jpg",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Marketing"
+      ]
+    },
+    {
+      "title": "Microsoft anuncia agente de IA que trabalha 24 horas por dia",
+      "description": "O Autopilot faz parte da reformulação do aplicativo Copilot, que também ganha novas abas. Microsoft anuncia agente de IA que trabalha 24 horas por dia",
+      "url": "https://tecnoblog.net/noticias/microsoft-anuncia-agente-24x7-chamado-autopilot/",
+      "publishedAt": "Fri, 25 Sep 2026 12:00:00 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/new-copilot-edited-1.png",
+      "source": "Tecnoblog",
+      "content": "Novas abas do Copilot (imagem: divulgação/Microsoft) Resumo A Microsoft reformulou o aplicativo Copilot, adicionando três abas: Home, Code e Autopilot. O Autopilot é um agente de IA que funciona 24 horas por dia, permitindo que os usuários definam tarefas e objetivos, e o agente acompanhará e retomará projetos sem a necessidade de comandos adicionais. O Copilot terá dois sistemas de cobrança: um por usuário, que cobre o uso do chat e aplicativos do Microsoft 365, e outro baseado em uso, para recursos mais avançados como o Autopilot. A Microsoft anunciou hoje (25/09) uma reformulação completa do aplicativo de inteligência artificial Copilot, que passa a contar com três abas: Home, Code e Autopilot. O anúncio foi feito por Jared Spataro, diretor de marketing de IA para o trabalho da Microsoft. De acordo com a empresa, os usuários terão mais facilidade para simplesmente começar a realizar suas tarefas. O destaque vai para a função de Autopilot, que conta com agentes de IA que rodam 24 7, numa pegada similar à do Gemini Spark, do Google , e do Muse, recentemente anunciado pela Meta . A divulgação foi feita nesta sexta-feira, mas a Microsoft não deu detalhes sobre quando as novidades chegam ao Brasil nem sobre os preços. Spataro aproveitou o lançamento para revelar que, atualmente, os clientes usam chats de IA com a mesma frequência com que mandam emails ou iniciam conversas no Microsoft Teams. Ele não apresentou números absolutos. O que muda no app Copilot? Aba Home da nova interface do Copilot (imagem: divulgação/Microsoft) O aplicativo do Copilot (seja no celular ou no computador) passa a contar com três áreas, conforme comentamos acima. O Home vira a tela inicial do Copilot e reúne o Chat, voltado a perguntas rápidas e rascunhos, e o Cowork, em que o usuário delega uma tarefa e recebe o resultado pronto (como um pacote de fechamento financeiro ou um briefing de cliente). Ele também mostra a atividade recente e sugere no que o Copilot pode ajudar. A empresa também prepara uma tela chamada Today para a aba Home, que estará em preview privado a partir de outubro. Será um painel proativo que reúne emails, agenda, conversas do Teams e tarefas, além de deixar rascunhos e propostas de mudança de agenda prontos. A aba Code permite descrever um app, uma automação, um painel ou um widget de desktop. A partir daí, o Copilot escolhe a abordagem e o constrói. Ele usa a mesma tecnologia do GitHub Copilot, roda em ambiente isolado e pode ser hospedado dentro do tenant da empresa. Segundo a Microsoft, os desenvolvedores poderão continuar usando o GitHub Copilot no dia a dia. Área de Code é dedicada às tarefas de programação (imagem: divulgação/Microsoft) Agentes funcionando 24 horas O Autopilot é descrito pela Microsoft como um agente persistente, que fica hospedado na nuvem. Trata-se da evolução do Scout, anunciado em junho. O usuário define nome, função e objetivo, e ele acompanha canais, cobra respostas em conversas e retoma projetos dias depois, sem esperar um comando. Ele tem identidade, memória, computador e espaço de trabalho próprios dentro do tenant e pode ser mencionado com @ no Teams, no Outlook e em documentos. De acordo com a companhia, o Autopilot será capaz de criar cronogramas e fazer follow-ups de tarefas e reuniões – ou seja, propor as atividades seguintes, com base no conhecimento adquirido. “A maioria das tarefas repetitivas vai vir para cá”, diz Spataro. O Autopilot é o principal destaque da atualização do Copilot (imagem: divulgação/Microsoft) Preços e datas A Microsoft decidiu usar dois sistemas de cobrança. A licença por usuário (USL) cobre o Copilot no Chat e nos aplicativos do Microsoft 365, com um recurso chamado Auto, que escolhe o modelo mais adequado a cada pedido, a custo fixo. Já o Cowork, o Code, o Autopilot e os modelos de fronteira Astra e Fable funcionam por cobrança baseada em uso. O Agent 365 ganha controles de gastos para o Code e o Managed Runtime, com suporte a agentes do Copilot Studio previsto para outubro. A Microsoft diz que, em breve, o usuário não precisará escolher o modo, pois o Copilot será capaz de encaminhar o pedido para Chat, Cowork ou Code de forma automática. O app também passa a criar e editar arquivos reais de Word, Excel e PowerPoint, que ficam sincronizados com os aplicativos do Office e podem ser editados por colegas ao mesmo tempo. O Home começa a ser liberado no programa Frontier, de acesso antecipado, nas próximas semanas, e o Code chega ao programa no fim do mês. O Autopilot, que até agora se chamava Scout, passa para preview privado também no fim do mês. As datas são globais: a Microsoft não deu informações sobre a chegada ao Brasil. Microsoft anuncia agente de IA que trabalha 24 horas por dia",
+      "lang": "pt",
+      "depts": [
+        "Marketing",
+        "RH",
+        "Gestão",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Agente da OpenAI “não aceitou não” e invadiu sistema de saúde",
+      "description": "Primeiro-ministro da Austrália criticou publicamente a dona do ChatGPT. Agente da OpenAI “não aceitou não” e invadiu sistema de saúde",
+      "url": "https://tecnoblog.net/noticias/agente-da-openai-nao-aceitou-nao-e-invadiu-sistema-de-saude/",
+      "publishedAt": "Fri, 25 Sep 2026 10:43:07 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/08/openai-4_capa-edited.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Saúde"
+      ]
+    },
+    {
+      "title": "PrismML traz seus pequenos LLMs para óculos inteligentes com tecnologia Qualcomm",
+      "description": "O objetivo maior do Prism é a IA de peso aberto que roda em dispositivos e faz melhor uso do poder de computação que eles já possuem.",
+      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+      "publishedAt": "Thu, 24 Sep 2026 19:00:42 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Google testa permitir que Gemini ligue para empresas para você",
+      "description": "O Google afirma que o recurso de chamada por IA estará disponível primeiro para proprietários do Pixel 11 nos EUA que pagam por uma assinatura do Gemini.",
+      "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+      "publishedAt": "Thu, 24 Sep 2026 16:00:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "Educação"
+      ]
+    },
     {
       "title": "Funcionários da Toyota treinam robôs para executar suas funções",
       "description": "Montadora japonesa afirma que ideia não é substituir os trabalhadores. Toyota planeja investir US$ 6,4 bilhões por ano em automação a partir de 2028. Funcionários da Toyota treinam robôs para executar suas funções",
@@ -39,82 +118,6 @@
       "depts": [
         "Jurídico",
         "Saúde"
-      ]
-    },
-    {
-      "title": "Anthropic diz que seu laboratório de biologia já encontrou algo grande",
-      "description": "Mas talvez a maior revelação seja que a Anthropic não deixou Claude solto em seu laboratório de biologia. Os humanos ainda estão, até agora, informados.",
-      "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
-      "publishedAt": "Wed, 23 Sep 2026 22:17:39 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "O aplicativo móvel ChatGPT obtém recursos de agente baseados em voz",
-      "description": "Os usuários Pro e Plus poderão usar a guia Trabalho em seus telefones para concluir tarefas de agente.",
-      "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
-      "publishedAt": "Wed, 23 Sep 2026 17:00:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "RH",
-        "Gestão",
-        "Educação"
-      ]
-    },
-    {
-      "title": "ChatGPT continua líder, mas perde espaço para Gemini e Claude",
-      "description": "ChatGPT teve sua fatia de mercado reduzida de 70% para 50%, enquanto Gemini e Claude avançaram. ChatGPT continua líder, mas perde espaço para Gemini e Claude",
-      "url": "https://tecnoblog.net/noticias/chatgpt-continua-lider-mas-perde-espaco-para-gemini-e-claude/",
-      "publishedAt": "Wed, 23 Sep 2026 16:39:19 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/openai-4_capa.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "O YouTube permitirá que você crie seu próprio algoritmo com IA",
-      "description": "Os novos feeds personalizados do YouTube permitem que os usuários descrevam os vídeos que desejam ver com suas próprias palavras e, em seguida, usem o Gemini para criar um feed personalizado de acordo com a solicitação.",
-      "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
-      "publishedAt": "Wed, 23 Sep 2026 14:30:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Os novos feeds personalizados do YouTube permitem que os usuários descrevam os vídeos que desejam ver com suas próprias palavras e, em seguida, usem o Gemini para criar um feed personalizado de acordo com a solicitação.",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "OpenAI expande GPT-6 com modelos Sol e Luna; vejas as diferenças",
-      "description": "OpenAI revelou os modelos GPT-6 Sol e GPT-6 Luna, que trazem menor custo e foco em diferentes níveis de complexidade em relação ao GPT-6 Astra. OpenAI expande GPT-6 com modelos Sol e Luna; vejas as diferenças",
-      "url": "https://tecnoblog.net/noticias/openai-expande-gpt-6-com-modelos-sol-e-luna-vejas-as-diferencas/",
-      "publishedAt": "Wed, 23 Sep 2026 13:26:37 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-3_capa.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Financeiro",
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Anthropic anuncia novo Claude Opus 5.5, com capacidade ainda maior",
-      "description": "Modelo promete igualar desempenho do Mythos 5.1 para trabalhos de cibersegurança e biologia. Recursos de segurança também são reforçados. Anthropic anuncia novo Claude Opus 5.5, com capacidade ainda maior",
-      "url": "https://tecnoblog.net/noticias/anthropic-anuncia-novo-claude-opus-5-5-com-capacidade-ainda-maior/",
-      "publishedAt": "Wed, 23 Sep 2026 10:13:42 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-4.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "RH",
-        "Educação"
       ]
     },
     {
