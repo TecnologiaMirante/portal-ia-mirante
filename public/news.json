@@ -1,7 +1,101 @@
 {
-  "updatedAt": "2026-09-25T14:50:43.708Z",
+  "updatedAt": "2026-09-26T13:57:16.402Z",
   "count": 40,
   "articles": [
+    {
+      "title": "Agentes OpenAI inseguros postaram 53 imagens de usuários na internet sem o conhecimento do laboratório",
+      "description": "Agentes de IA que operam no ambiente de pesquisa da OpenAI postaram imagens de usuários em sites públicos de hospedagem de imagens sem o conhecimento do laboratório.",
+      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "publishedAt": "Fri, 25 Sep 2026 22:20:47 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "Financeiro"
+      ]
+    },
+    {
+      "title": "Anthropic pagará à Akamai US$ 11,6 bilhões em sete anos em acordo de nuvem",
+      "description": "A Anthropic comprometeu US$ 11,6 bilhões ao longo de sete anos para a infraestrutura em nuvem da Akamai, uma aposta em CPUs que poderia crescer para cerca de US$ 20 bilhões, e em um acordo incomum, a Akamai está dando à Anthropic uma participação potencial de até 5% de suas ações que cresce à medida que a Anthropic gasta mais.",
+      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "publishedAt": "Fri, 25 Sep 2026 19:13:38 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "A Anthropic comprometeu US$ 11,6 bilhões ao longo de sete anos para a infraestrutura em nuvem da Akamai, uma aposta em CPUs que poderia crescer para cerca de US$ 20 bilhões, e em um acordo incomum, a Akamai está dando à Anthropic uma participação potencial de até 5% de suas ações que cresce à medida que a Anthropic gasta mais.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Meta’s Muse acabou de roubar os holofotes da IA ​​​​da OpenAI e da Anthropic",
+      "description": "Quando os líderes de IA da OpenAI e da Anthropic começaram a falar sobre “avançar na fronteira”, talvez alguém devesse ter perguntado: que ritmo? Agora se tornou uma semana de lançamento de modelos para ambas as empresas, já que a Anthropic lançou o Opus 5.5, seguido pelas atualizações do modelo GPT-6 da OpenAI apenas 90 minutos depois. Mas a empresa t",
+      "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+      "publishedAt": "Fri, 25 Sep 2026 18:22:47 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Quando os líderes de IA da OpenAI e da Anthropic começaram a falar sobre “avançar na fronteira”, talvez alguém devesse ter perguntado: que ritmo? Agora se tornou uma semana de lançamento de modelos para ambas as empresas, já que a Anthropic lançou o Opus 5.5, seguido pelas atualizações do modelo GPT-6 da OpenAI apenas 90 minutos depois. Mas a empresa que roubou os holofotes foi a Meta, cujo agente pessoal de IA Muse está supostamente ultrapassando os números iniciais do ChatGPT e está se dirigindo para óculos inteligentes e []",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Astra e Opus acabaram de passar no outro teste de Turing",
+      "description": "Os modelos Frontier AI estão concluindo o trabalho de decifração de códigos de Alan Turing na Segunda Guerra Mundial.",
+      "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+      "publishedAt": "Fri, 25 Sep 2026 17:24:36 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "RH"
+      ]
+    },
+    {
+      "title": "A aposta AI Tamagotchi da Meta está… funcionando?",
+      "description": "Quando os líderes de IA da OpenAI e da Anthropic começaram a falar sobre “avançar na fronteira”, talvez alguém devesse ter perguntado: que ritmo? Agora se tornou uma semana de lançamento de modelos para ambas as empresas, já que a Anthropic lançou o Opus 5.5, seguido pelas atualizações do modelo GPT-6 da OpenAI apenas 90 minutos depois. Mas a empresa t",
+      "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+      "publishedAt": "Fri, 25 Sep 2026 16:00:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Quando os líderes de IA da OpenAI e da Anthropic começaram a falar sobre “avançar na fronteira”, talvez alguém devesse ter perguntado: que ritmo? Agora se tornou uma semana de lançamento de modelos para ambas as empresas, já que a Anthropic lançou o Opus 5.5, seguido pelas atualizações do modelo GPT-6 da OpenAI apenas 90 minutos depois. Mas a empresa que roubou os holofotes foi a Meta, cujo agente pessoal de IA Muse está supostamente ultrapassando os números iniciais do ChatGPT e está se dirigindo para óculos inteligentes e []",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Durante meses, os enxames de agentes da OpenAI atacaram bancos de dados online para encontrar fatos obscuros",
+      "description": "Os últimos enxames de agentes não autorizados foram descobertos por pesquisadores.",
+      "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+      "publishedAt": "Fri, 25 Sep 2026 15:48:14 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "Financeiro"
+      ]
+    },
+    {
+      "title": "Os fundadores da Anthropic buscam controle de voto antes do IPO",
+      "description": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
+      "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+      "publishedAt": "Fri, 25 Sep 2026 15:40:03 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "A Anthropic está pedindo aos seus acionistas que aprovem uma estrutura que daria aos seus sete cofundadores uma combinação de 50,1% dos votos na maioria dos assuntos corporativos.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Microsoft desistiu de lutar contra o termo Microslop",
+      "description": "Silenciosamente, Microsoft deixou de bloquear palavra \"Microslop\" no servidor do Copilot no Discord. Microsoft desistiu de lutar contra o termo Microslop",
+      "url": "https://tecnoblog.net/noticias/microsoft-desistiu-de-lutar-contra-o-termo-microslop/",
+      "publishedAt": "Fri, 25 Sep 2026 14:55:38 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/04/microsoft_capa-3.jpg",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
     {
       "title": "Smart TV OLED Samsung 55 sai 36% mais barata no Magalu",
       "description": "Samsung Vision AI OLED S85H de 55\" tem tela 4K de 120 Hz e chatbots de IA; nova smart TV com recursos para gamers recebe desconto de 36% no Pix no Magazine Luiza Smart TV OLED Samsung 55 sai 36% mais barata no Magalu",
@@ -20,7 +114,7 @@
       "description": "Microsoft deixou de usar selo Copilot+ PC nos lançamentos mais recentes da linha Surface. Outros fabricantes devem seguir pelo mesmo caminho. É o fim do Copilot+ PC: Microsoft abandona silenciosamente a marca",
       "url": "https://tecnoblog.net/noticias/e-o-fim-do-copilot-pc-microsoft-abandona-silenciosamente-a-marca/",
       "publishedAt": "Fri, 25 Sep 2026 13:05:30 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/05/img_3812.jpg",
+      "image": "https://www.youtube.com/embed/4GraS4yynCQ",
       "source": "Tecnoblog",
       "content": null,
       "lang": "pt",
@@ -67,58 +161,6 @@
       "content": null,
       "lang": "en",
       "depts": []
-    },
-    {
-      "title": "Google testa permitir que Gemini ligue para empresas para você",
-      "description": "O Google afirma que o recurso de chamada por IA estará disponível primeiro para proprietários do Pixel 11 nos EUA que pagam por uma assinatura do Gemini.",
-      "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
-      "publishedAt": "Thu, 24 Sep 2026 16:00:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Educação"
-      ]
-    },
-    {
-      "title": "Funcionários da Toyota treinam robôs para executar suas funções",
-      "description": "Montadora japonesa afirma que ideia não é substituir os trabalhadores. Toyota planeja investir US$ 6,4 bilhões por ano em automação a partir de 2028. Funcionários da Toyota treinam robôs para executar suas funções",
-      "url": "https://tecnoblog.net/noticias/funcionarios-da-toyota-treinam-robos-para-executar-suas-funcoes/",
-      "publishedAt": "Thu, 24 Sep 2026 14:00:42 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/motomachi_plant_2025_06_s-edited.jpg",
-      "source": "Tecnoblog",
-      "content": "Trabalhadores da Toyota estão treinando robôs humanoides nas fábricas (imagem: divulgação/Toyota) Resumo Funcionários da Toyota estão treinando robôs humanoides para executar tarefas específicas nas fábricas da montadora. A Toyota planeja investir US$ 6,42 bilhões por ano a partir de 2028 e chegar a 400 mil robôs, mas afirma não ter intenção de substituir os trabalhadores. Hyundai, BYD, Ford e Tesla também desenvolvem ou utilizam robôs em suas linhas de produção. A Toyota é mais uma grande montadora a investir em inteligência artificial. Funcionários da empresa japonesa estão treinando robôs humanoides para executar tarefas nas linhas de produção. No entanto, a Toyota afirma que não pretende substituir esses trabalhadores. Segundo o Nikkei Asia , o objetivo da Toyota é investir US$ 6,4 bilhões (R$ 31,5 bilhões, em conversão direta) por ano a partir de 2028 para inserir mais robôs em suas fábricas, alcançando 400 mil unidades de robôs distribuídos entre os processos da empresa . Além da gigante japonesa, outras fabricantes pelo mundo já têm robôs atuando em suas linhas de produção. Entre elas estão a sul-coreana Hyundai, que utiliza modelos Atlas da Boston Dynamics, e a chinesa BYD, com modelo de fabricação própria . Robôs em “estágio” na Toyota Robôs humanoides são cada vez mais comuns na indústria (imagem: reprodução/Boston Dynamics) Os robôs ELEY têm design sobre rodas com dois braços e mãos, que serão utilizados em trabalhos de precisão. O treinamento é realizado pelos próprios funcionários das fábricas, em uma espécie de “estágio”. Segundo o site Ars Technica , os trabalhadores utilizam moldes baseados nas mãos dos robôs para realizar algumas tarefas que envolvem maior precisão. Os movimentos serão integrados ao aprendizado de máquina e reproduzidos pelos próprios humanoides em algum momento. Vale lembrar que, em junho deste ano, cerca de 300 funcionários da Ford foram recontratados para atuar no treinamento da IA implementada pela montadora, numa tentativa de corrigir falhas no processo de automação. Apesar de ser um indicativo de como a força de trabalho humana continua sendo essencial, não é raro ver casos de demissões em massa após esse período . Robótica é comum no mercado automotivo Essa nova função de treinamento para os trabalhadores humanos vem em meio aos receios com o futuro da inteligência artificial pelo mundo. Um relatório recente do Pew Research Center destacou o temor da população em relação à IA no ambiente profissional, inclusive no Japão e nos Estados Unidos, países que concentram cerca de 70 fábricas da Toyota. Antes mesmo dos robôs humanoides, as montadoras já utilizavam modelos industriais em suas linhas de produção. Braços mecânicos e outros componentes automatizados fazem parte dos processos de fabricação de peças, montagem e mais etapas. Montadoras como a Tesla também adotam robôs nas linhas de montagem (foto: Maurizio Pesce/Flickr) Segundo a Federação Internacional de Robótica , o Japão é o segundo país com maior presença de robôs industriais, com mais de 450 mil unidades registradas em 2024, seguido dos Estados Unidos, com 34,2 mil. O mercado é liderado pela China, com 2 milhões de modelos empregados. Considerando os novos robôs humanoides, também há uma tendência no mercado automotivo, com diversas montadoras pelo mundo adotando o uso de IA física. Em junho, a vice-presidente executiva da BYD, Stella Li, afirmou que a fabricação de unidades do tipo é facilitada pelas semelhanças entre as tecnologias utilizadas no desenvolvimento de hardware e software para os carros elétricos. Funcionários da Toyota treinam robôs para executar suas funções",
-      "lang": "pt",
-      "depts": [
-        "RH",
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Claude descobre novo sistema de enzimas",
-      "description": "Inteligência artificial da Anthropic foi usada para analisar aproximadamente 200 mil enzimas com 950 agentes em 21 horas. Claude descobre novo sistema de enzimas",
-      "url": "https://tecnoblog.net/noticias/anthropic-diz-ter-descoberto-novo-sistema-de-enzimas-com-o-claude/",
-      "publishedAt": "Thu, 24 Sep 2026 13:06:19 +0000",
-      "image": "https://www.youtube.com/embed/DdCEmlAydcw",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "Austrália investigará se o hack OpenAI do site de saúde do governo infringiu a lei",
-      "description": "O incidente é a primeira violação conhecida a afetar uma agência governamental, e o primeiro-ministro da Austrália prometeu responsabilizar a OpenAI.",
-      "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
-      "publishedAt": "Thu, 24 Sep 2026 12:54:19 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Jurídico",
-        "Saúde"
-      ]
     },
     {
       "title": "8 prompts para conversar com voz no ChatGPT",
@@ -503,61 +545,6 @@
       "depts": [
         "Marketing",
         "Comercial"
-      ]
-    },
-    {
-      "title": "Por que o próximo ciclo computacional precisa ser construído para todos",
-      "description": "Nos últimos três anos, a capacidade computacional global dedicada à inteligência artificial cresceu aproximadamente 100 vezes . É uma das revoluções tecnológicas mais impactantes das últimas décadas. A IA já chegou indiscutivelmente. Mas a questão que surge agora é: ela está acessível a todos? De um",
-      "url": "https://canaltech.com.br/colunas/por-que-o-proximo-ciclo-computacional-precisa-ser-construido-para-todos/",
-      "publishedAt": "Thu, 02 Jul 2026 10:43:03 -0300",
-      "image": "https://t.ctcdn.com.br/nZ6sNq7PsgAB4H-oy5G3Tk3upoA=/700x394/smart/i1003705.png",
-      "source": "Canaltech IA",
-      "content": "Nos últimos três anos, a capacidade computacional global dedicada à inteligência artificial cresceu aproximadamente 100 vezes . É uma das revoluções tecnológicas mais impactantes das últimas décadas. A IA já chegou indiscutivelmente. Mas a questão que surge agora é: ela está acessível a todos? De um lado, temos modelos cada vez mais capazes, infraestruturas de bilhões de dólares, parcerias entre algumas das maiores empresas do planeta. De outro, desenvolvedores independentes, pesquisadores em países emergentes, startups sem acesso a crédito cloud e laboratórios universitários com acesso limitado. O próximo ciclo computacional pode encontrar caminhos para solucionar essa assimetria. O problema não é só hardware Quando falamos em democratizar a IA, GPUs e custos de treinamento são pontos importantes, mas há um gargalo além do hardware: a dependência de ecossistemas fechados que prendem desenvolvedores a plataformas específicas e concentram o poder de inovação nas mãos de poucos. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A analogia com o software é útil aqui. O movimento open source levou décadas para amadurecer, mas hoje a infraestrutura que sustenta a internet é majoritariamente aberta . Isso porque a inovação aberta com frequência se mostrou altamente resiliente e amplamente adotada em comparação com alternativas proprietárias. A IA está no começo do mesmo caminho. Plataformas abertas saltaram de nichos experimentais para infraestrutura de produção em escala global. Um pesquisador no Brasil, na Índia ou na Nigéria pode acessar hoje muitas das mesmas ferramentas utilizadas por grandes centros de tecnologia — desde que disponha de recursos de hardware adequados . A IA que mora no seu dispositivo Outra transformação relevante: a migração da IA da nuvem para o dispositivo. Processadores modernos com NPUs integradas permitem rodar inteligência artificial localmente , sem",
-      "lang": "pt",
-      "depts": [
-        "Financeiro",
-        "Comercial",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Fable e Mythos 5: governo Trump libera IAs mais perigosas da Anthropic",
-      "description": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três s",
-      "url": "https://canaltech.com.br/inteligencia-artificial/fable-e-mythos-5-governo-trump-libera-ias-mais-perigosas-da-anthropic/",
-      "publishedAt": "Wed, 01 Jul 2026 12:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/Am6VaUx8jmQtCNJCxA_znmbrltc=/700x394/smart/i1107289.png",
-      "source": "Canaltech IA",
-      "content": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três semanas depois de o governo ter suspendido o acesso aos dois sistemas por risco à segurança nacional. Segundo a Reuters, o acesso ao Fable 5 será restaurado a partir desta quarta-feira (1º) , ficando disponível ao público em geral. Já o Mythos 5, direcionado à detecção de vulnerabilidades de cibersegurança, será liberado para um grupo maior de parceiros domésticos e internacionais do programa Glasswing, da Anthropic. Como começou a restrição Em 12 de junho, o governo americano incluiu os dois modelos em sua lista de tecnologias sob controle de exportação , impedindo o acesso de estrangeiros sem aprovação especial . Como a Anthropic não tinha como verificar a nacionalidade dos usuários em tempo real, a companhia optou por suspender o Fable 5 e o Mythos 5 para todo mundo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A decisão, segundo a Reuters, partiu de uma denúncia de pesquisadores da Amazon , que encontraram uma forma de contornar as proteções do Fable 5. Com essa brecha, o modelo passou a identificar falhas de software e, em um dos casos registrados, chegou a gerar código demonstrando como explorar uma vulnerabilidade. No último domingo (28), o governo abriu uma primeira exceção , permitindo o uso do Mythos 5 por organizações selecionadas e por funcionários da própria Anthropic, incluindo estrangeiros vinculados a esses grupos. O Fable 5 seguia fora do ar até esta terça. O Claude é, atualmente, a terceira IA mais utilizada no mundo (Imagem: Marcelo Fischer/Canaltech) Por que são modelos tão perigosos O Mythos 5 concentra as capacidades que mais preocupam o governo american",
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "Português é o 3º idioma mais usado no ChatGPT",
-      "description": "O português é agora o terceiro idioma mais usado no ChatGPT , segundo dados da OpenAI divulgados no relatório OpenAI Signals. Ele fica atrás apenas do inglês e do espanhol. O levantamento também mostra que, pela primeira vez, mais da metade dos usuários ativos usa o ChatGPT principalmente em idiomas",
-      "url": "https://canaltech.com.br/inteligencia-artificial/portugues-e-o-3o-idioma-mais-usado-no-chatgpt/",
-      "publishedAt": "Wed, 01 Jul 2026 09:27:36 -0300",
-      "image": "https://t.ctcdn.com.br/elWRGd7DozFcUzbnLeKmr45Ecyw=/700x394/smart/i1137007.png",
-      "source": "Canaltech IA",
-      "content": "O português é agora o terceiro idioma mais usado no ChatGPT , segundo dados da OpenAI divulgados no relatório OpenAI Signals. Ele fica atrás apenas do inglês e do espanhol. O levantamento também mostra que, pela primeira vez, mais da metade dos usuários ativos usa o ChatGPT principalmente em idiomas diferentes do inglês. Em quarto, quinto e sexto lugar aparecem, respectivamente, o francês, o indonésio e o árabe. A análise mede as interações de usuários nos planos individuais do ChatGPT , incluindo as assinaturas Free (gratuito), Go, Plus e Pro. Além disso, os idiomas uzbeque, cazaque e birmanês foram os que mais cresceram em participação desde julho de 2023. O relatório também mostra que usuários mais antigos usam o ChatGPT com mais frequência. Após seis meses na plataforma, eles enviam, em média, 50% mais mensagens por dia e realizam o dobro de tarefas diferentes em relação ao início do uso. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Português é o terceiro idioma mais usado no ChatGPT. (Imagem: Divulgação/OpenAI) Adoção do ChatGPT cresceu em todas as regiões O relatório também mostra que o uso do ChatGPT cresceu em todos os continentes desde julho de 2023, deixando a base de usuários mais global e diversa. O crescimento foi mais rápido na África, seguida pela Ásia, América do Sul, Europa, América do Norte e Oceania. Segundo a OpenAI, o crescimento foi mais rápido em países com menor Índice de Desenvolvimento Humano (IDH) , que registraram o maior aumento no número de usuários ativos por semana. O levantamento também aponta mudanças no perfil dos usuários. Pessoas com nomes tipicamente femininos representam a maior parte do uso global do ChatGPT. O Brasil, Colômbia, Polônia e Namíbia estão entre os países onde esse grupo supera os usuários com nomes tipicamente masculinos. Já Paquistão, Bangladesh, Angola, República Democrática do Congo e Mali têm a maior presença de",
-      "lang": "pt",
-      "depts": [
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Novo sistema usará IA para \"traduzir\" o que o seu corpo realmente precisa",
-      "description": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30",
-      "url": "https://canaltech.com.br/inteligencia-artificial/novo-sistema-usara-ia-para-traduzir-o-que-o-seu-corpo-realmente-precisa/",
-      "publishedAt": "Wed, 01 Jul 2026 08:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/4BlAeU73zGDl24KwhTRIfUE4ZkA=/700x394/smart/i1138901.png",
-      "source": "Canaltech IA",
-      "content": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30) e foi divulgado pelo site Android Police. A empresa afirma que dispositivos vestíveis já evoluíram na coleta de dados, mas ainda falham em explicar o significado desses números para quem os usa. Gee Gu, cofundador da Vilo ao lado de Andy Xu, descreveu o Signal OS como um sistema que ajuda o usuário a entender o que mudou no corpo , priorizar o que importa e transformar sinais corporais em suporte real. Como funciona o Signal OS O sistema reúne quatro frentes principais. A primeira é o Signals , um recurso de cartões que aponta alterações nos indicadores de saúde e sugere o que fazer a respeito. Já o Pulse funciona como um painel com o histórico de dados e tendências ao longo do tempo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Há ainda o Vibes , um chatbot com IA para tirar dúvidas sobre as informações coletadas, e uma camada dedicada à saúde da mulher . A Vilo descreve o Signal OS como uma plataforma \"ring-first\", ou seja, pensada primeiro para anéis inteligentes, e ela vai estrear no próprio anel da empresa. A companhia evita o terreno regulatório mais rígido reservado a dispositivos médicos. Segundo o comunicado oficial, a proposta do sistema é oferecer \"orientação de bem-estar e autoconhecimento, não diagnóstico ou tratamento\", o que dispensa aprovação de agências como a FDA, órgão regulador dos Estados Unidos. Fitbit já segue caminho parecido com o AI Coach e o Fitbit Air, usando IA para interpretar pontuações sem depender desse tipo de aval. Possível interface do app dedicado ao sistema, presente no vídeo de divulgação (Imagem: Reprodução/YouTube/VILO) Anel da Vilo",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Comercial",
-        "Saúde",
-        "Educação"
       ]
     }
   ]
