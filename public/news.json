@@ -1,23 +1,112 @@
 {
-  "updatedAt": "2026-09-27T14:54:31.945Z",
+  "updatedAt": "2026-09-28T17:52:02.782Z",
   "count": 40,
   "articles": [
     {
-      "title": "Google testa compra do Flipkart, de propriedade do Walmart, por meio do Gemini e do modo AI na Índia",
-      "description": "O teste limitado abrange produtos e usuários selecionados, com uma implementação mais ampla planejada para o final de outubro.",
+      "title": "Google is killing off Gemini s Gems in favor of skills",
+      "description": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
+      "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+      "publishedAt": "Mon, 28 Sep 2026 17:29:50 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "RH",
+        "Educação"
+      ]
+    },
+    {
+      "title": "OpenAI still doesn t seem to have a handle on all of its rogue AI activity",
+      "description": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
+      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+      "publishedAt": "Mon, 28 Sep 2026 17:09:02 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+      "description": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
+      "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+      "publishedAt": "Mon, 28 Sep 2026 15:30:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+      "description": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefield",
+      "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
+      "publishedAt": "Mon, 28 Sep 2026 15:00:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefield at TechCrunch Disrupt.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Agentes da OpenAI tentaram burlar restrições em site da ONU",
+      "description": "Sistemas teriam realizado mais de 16,5 mil varreduras em plataforma de estatísticas. ONU diz que nenhuma informação confidencial foi comprometida. Agentes da OpenAI tentaram burlar restrições em site da ONU",
+      "url": "https://tecnoblog.net/noticias/agentes-da-openai-tentaram-burlar-restricoes-em-site-da-onu/",
+      "publishedAt": "Mon, 28 Sep 2026 14:05:47 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/12/fontes-conflito-russia-ucrania-014-1-edited.jpg",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "description": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "publishedAt": "Sun, 27 Sep 2026 20:34:28 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "description": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "publishedAt": "Sun, 27 Sep 2026 19:57:30 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Anthropic s Dario Amodei gets the SNL treatment",
+      "description": "\"AI is the devil and I its maker.\"",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "publishedAt": "Sun, 27 Sep 2026 16:30:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "description": "The limited test covers select products and users, with a broader rollout planned for later in October.",
       "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
       "publishedAt": "Sun, 27 Sep 2026 01:30:00 +0000",
       "image": null,
       "source": "TechCrunch AI",
       "content": null,
       "lang": "en",
-      "depts": [
-        "Comercial"
-      ]
+      "depts": []
     },
     {
-      "title": "As seguradoras afirmam que a IA já está aumentando os custos de saúde",
-      "description": "A Blue Cross Blue Shield afirma que o uso de ferramentas de IA pelos hospitais gerou US$ 942 milhões adicionais em gastos com saúde em um período de dois anos.",
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "description": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
       "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
       "publishedAt": "Sat, 26 Sep 2026 21:02:06 +0000",
       "image": null,
@@ -25,90 +114,17 @@
       "content": null,
       "lang": "en",
       "depts": [
-        "Financeiro",
         "Saúde"
       ]
     },
     {
-      "title": "Agentes OpenAI inseguros postaram 53 imagens de usuários na internet sem o conhecimento do laboratório",
-      "description": "Agentes de IA que operam no ambiente de pesquisa da OpenAI postaram imagens de usuários em sites públicos de hospedagem de imagens sem o conhecimento do laboratório.",
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab s knowledge",
+      "description": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
       "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
       "publishedAt": "Fri, 25 Sep 2026 22:20:47 +0000",
       "image": null,
       "source": "TechCrunch AI",
       "content": null,
-      "lang": "en",
-      "depts": [
-        "Financeiro"
-      ]
-    },
-    {
-      "title": "Anthropic pagará à Akamai US$ 11,6 bilhões em sete anos em acordo de nuvem",
-      "description": "A Anthropic comprometeu US$ 11,6 bilhões ao longo de sete anos para a infraestrutura em nuvem da Akamai, uma aposta em CPUs que poderia crescer para cerca de US$ 20 bilhões, e em um acordo incomum, a Akamai está dando à Anthropic uma participação potencial de até 5% de suas ações que cresce à medida que a Anthropic gasta mais.",
-      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-      "publishedAt": "Fri, 25 Sep 2026 19:13:38 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "A Anthropic comprometeu US$ 11,6 bilhões ao longo de sete anos para a infraestrutura em nuvem da Akamai, uma aposta em CPUs que poderia crescer para cerca de US$ 20 bilhões, e em um acordo incomum, a Akamai está dando à Anthropic uma participação potencial de até 5% de suas ações que cresce à medida que a Anthropic gasta mais.",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Meta’s Muse acabou de roubar os holofotes da IA ​​​​da OpenAI e da Anthropic",
-      "description": "Quando os líderes de IA da OpenAI e da Anthropic começaram a falar sobre “avançar na fronteira”, talvez alguém devesse ter perguntado: que ritmo? Agora se tornou uma semana de lançamento de modelos para ambas as empresas, já que a Anthropic lançou o Opus 5.5, seguido pelas atualizações do modelo GPT-6 da OpenAI apenas 90 minutos depois. Mas a empresa t",
-      "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
-      "publishedAt": "Fri, 25 Sep 2026 18:22:47 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Quando os líderes de IA da OpenAI e da Anthropic começaram a falar sobre “avançar na fronteira”, talvez alguém devesse ter perguntado: que ritmo? Agora se tornou uma semana de lançamento de modelos para ambas as empresas, já que a Anthropic lançou o Opus 5.5, seguido pelas atualizações do modelo GPT-6 da OpenAI apenas 90 minutos depois. Mas a empresa que roubou os holofotes foi a Meta, cujo agente pessoal de IA Muse está supostamente ultrapassando os números iniciais do ChatGPT e está se dirigindo para óculos inteligentes e []",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Astra e Opus acabaram de passar no outro teste de Turing",
-      "description": "Os modelos Frontier AI estão concluindo o trabalho de decifração de códigos de Alan Turing na Segunda Guerra Mundial.",
-      "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
-      "publishedAt": "Fri, 25 Sep 2026 17:24:36 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "RH"
-      ]
-    },
-    {
-      "title": "A aposta AI Tamagotchi da Meta está… funcionando?",
-      "description": "Quando os líderes de IA da OpenAI e da Anthropic começaram a falar sobre “avançar na fronteira”, talvez alguém devesse ter perguntado: que ritmo? Agora se tornou uma semana de lançamento de modelos para ambas as empresas, já que a Anthropic lançou o Opus 5.5, seguido pelas atualizações do modelo GPT-6 da OpenAI apenas 90 minutos depois. Mas a empresa t",
-      "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
-      "publishedAt": "Fri, 25 Sep 2026 16:00:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Quando os líderes de IA da OpenAI e da Anthropic começaram a falar sobre “avançar na fronteira”, talvez alguém devesse ter perguntado: que ritmo? Agora se tornou uma semana de lançamento de modelos para ambas as empresas, já que a Anthropic lançou o Opus 5.5, seguido pelas atualizações do modelo GPT-6 da OpenAI apenas 90 minutos depois. Mas a empresa que roubou os holofotes foi a Meta, cujo agente pessoal de IA Muse está supostamente ultrapassando os números iniciais do ChatGPT e está se dirigindo para óculos inteligentes e []",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Durante meses, os enxames de agentes da OpenAI atacaram bancos de dados online para encontrar fatos obscuros",
-      "description": "Os últimos enxames de agentes não autorizados foram descobertos por pesquisadores.",
-      "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
-      "publishedAt": "Fri, 25 Sep 2026 15:48:14 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Financeiro"
-      ]
-    },
-    {
-      "title": "Os fundadores da Anthropic buscam controle de voto antes do IPO",
-      "description": "A Anthropic está pedindo aos seus acionistas que aprovem uma estrutura que daria aos seus sete cofundadores uma combinação de 50,1% dos votos na maioria dos assuntos corporativos.",
-      "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
-      "publishedAt": "Fri, 25 Sep 2026 15:40:03 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "A Anthropic está pedindo aos seus acionistas que aprovem uma estrutura que daria aos seus sete cofundadores uma combinação de 50,1% dos votos na maioria dos assuntos corporativos.",
       "lang": "en",
       "depts": []
     },
@@ -519,34 +535,6 @@
         "Jurídico",
         "Gestão",
         "Educação"
-      ]
-    },
-    {
-      "title": "Novo app da Meta mostra criações feitas por vibe coding",
-      "description": "A Meta lançou silenciosamente o Pocket , um novo aplicativo para criar e compartilhar pequenos jogos e experiências interativas, chamados de \"gizmos\", usando comandos de inteligência artificial. O app já está disponível na App Store e no Google Play, mas a empresa ainda não fez um anúncio sobre o la",
-      "url": "https://canaltech.com.br/inteligencia-artificial/novo-app-da-meta-mostra-criacoes-feitas-por-vibe-coding/",
-      "publishedAt": "Fri, 03 Jul 2026 17:10:00 -0300",
-      "image": "https://t.ctcdn.com.br/o35a_R-0f5b8pzB7LdM_9qhgmOE=/700x394/smart/i1140309.png",
-      "source": "Canaltech IA",
-      "content": "A Meta lançou silenciosamente o Pocket , um novo aplicativo para criar e compartilhar pequenos jogos e experiências interativas, chamados de \"gizmos\", usando comandos de inteligência artificial. O app já está disponível na App Store e no Google Play, mas a empresa ainda não fez um anúncio sobre o lançamento, o que sugere que a ferramenta pode estar em fase inicial de testes. O aplicativo foi descoberto e divulgado primeiro no X por Alessandro Paluzzi, engenheiro reverso conhecido por encontrar novos aplicativos e recursos antes dos anúncios oficiais. Segundo dados da Appfigures, no entanto, o Pocket já estava disponível nas lojas desde 29 de junho. #Meta is working on a new app called Pocket 👀 ℹ️ A new creative platform to make and share gizmos. pic.twitter.com/zFjMU5jj1U - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - — Alessandro Paluzzi (@alex193a) July 2, 2026 O Pocket usa prompts de texto para gerar conteúdos interativos . Assim, até pessoas sem conhecimento em programação conseguem criar seus próprios miniapps. Além da ferramenta de criação, o aplicativo conta com um feed em que os usuários podem descobrir e testar gizmos desenvolvidos por outras pessoas. O projeto foi criado após a Meta adquirir, no início de 2026, a equipe da Gizmo, plataforma que já utilizava o conceito de vibe coding e acumulava mais de 635 mil instalações. O aplicativo original registrava 98% de avaliações positivas entre os usuários e, curiosamente, continua disponível nas lojas de aplicativos mesmo após o lançamento do Pocket pela Meta. A iniciativa reforça a estratégia da Meta de ampliar o acesso às ferramentas de criação com inteligência artificial. O Pocket ( play.google.com ) integra um ecossistema que já inclui o Vibes, de vídeos gerados por IA, e o Meta AI, focado na criação de imagens. Recentemente, a empresa também adicionou recursos de IA ao editor de vídeos Edits. O Pocket é o novo",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Comercial",
-        "Educação"
-      ]
-    },
-    {
-      "title": "O que é o “erro 1099” no Gemini? Saiba o que acontece com a IA",
-      "description": "Os usuários do Gemini, tanto na versão web quanto em celulares Android, têm relatado o aparecimento do “erro 1099” , uma falha que interrompe o uso da inteligência artificial. Quando isso acontece, o serviço deixa de responder, impedindo a continuidade da conversa. Segundo os relatos, o problema afe",
-      "url": "https://canaltech.com.br/inteligencia-artificial/o-que-e-o-erro-1099-no-gemini-saiba-o-que-acontece-com-a-ia/",
-      "publishedAt": "Fri, 03 Jul 2026 11:37:55 -0300",
-      "image": "https://t.ctcdn.com.br/BUD5tnSrkkYlVQlUMUP7n-eLQ5U=/700x394/smart/i1111873.png",
-      "source": "Canaltech IA",
-      "content": "Os usuários do Gemini, tanto na versão web quanto em celulares Android, têm relatado o aparecimento do “erro 1099” , uma falha que interrompe o uso da inteligência artificial. Quando isso acontece, o serviço deixa de responder, impedindo a continuidade da conversa. Segundo os relatos, o problema afeta os usuários da versão gratuita e os assinantes dos planos pagos . Em alguns casos, a falha aparece apenas ocasionalmente. Em outros, surge sempre que a pessoa tenta abrir ou usar o Gemini em determinado dispositivo. O erro também tem sido observado com frequência em smartphones da linha Pixel , principalmente ao acionar o Gemini pelo botão lateral. Também há relatos de que a falha acontece após um período de inatividade ou durante conversas longas no NotebookLM , o que pode indicar relação com o volume de informações que a IA precisa processar. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O erro 1099 impede o funcionamento do Gemini e pode afetar usuários da versão web e do Android. (Imagem: Viviane França/Canaltech) O que é o “erro 1099” no Gemini? Segundo especialistas da Comunidade de Suporte do Google, o erro 1099 é uma falha nos servidores do Gemini . Isso significa que o problema não está no celular, no computador ou na conexão com a internet do usuário. As possíveis causas incluem: Falha de autenticação : ocorre quando há um problema na comunicação entre o dispositivo e os servidores do Gemini durante a verificação de acesso; Limite de contexto : o erro pode aparecer quando o prompt ou o histórico da conversa fica grande demais para ser processado pela IA; Limitação de memória : o sistema pode atingir o limite de recursos disponíveis durante o processamento da solicitação; Instabilidade do serviço : o código 1099 também costuma aparecer durante períodos de instabilidade ou indisponibilidade do Gemini. A falha está relacionada aos servidores do Google e pode interro",
-      "lang": "pt",
-      "depts": [
-        "Comercial"
       ]
     }
   ]
