@@ -1,7 +1,65 @@
 {
-  "updatedAt": "2026-10-01T16:46:47.995Z",
+  "updatedAt": "2026-10-02T16:01:14.068Z",
   "count": 40,
   "articles": [
+    {
+      "title": "Apple pode lançar câmera residencial com IA (mas que não grava vídeos)",
+      "description": "Dispositivo analisaria o ambiente e descreveria eventos em texto. Câmera faria parte do novo ecossistema de casa inteligente da Apple. Apple pode lançar câmera residencial com IA (mas que não grava vídeos)",
+      "url": "https://tecnoblog.net/noticias/apple-pode-lancar-camera-residencial-com-ia-mas-que-nao-grava-videos/",
+      "publishedAt": "Fri, 02 Oct 2026 14:47:03 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/02/camera-seguranca-monitoramento.jpg",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "O chatbot de IA de Musk, Grok, supostamente encorajou Trump a capturar o presidente da Venezuela",
+      "description": "O presidente Trump teria pedido a opinião de Grok antes de invadir a Venezuela e capturar Nicolás Maduro.",
+      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "publishedAt": "Thu, 01 Oct 2026 21:08:11 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "ChatGPT agora pode experimentar roupas virtualmente para você",
+      "description": "A OpenAI está lançando novos recursos de compras para ChatGPT que permitem aos usuários experimentar virtualmente roupas e acessórios usando suas próprias fotos e salvar os produtos que gostam em uma biblioteca de Favoritos.",
+      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "publishedAt": "Thu, 01 Oct 2026 19:21:53 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "A OpenAI está lançando novos recursos de compras para ChatGPT que permitem aos usuários experimentar virtualmente roupas e acessórios usando suas próprias fotos e salvar os produtos que gostam em uma biblioteca de Favoritos.",
+      "lang": "en",
+      "depts": [
+        "Comercial",
+        "Educação"
+      ]
+    },
+    {
+      "title": "OpenAI corta relações com três pesquisadores de segurança, relata WSJ",
+      "description": "A OpenAI se separou de três pesquisadores de segurança depois que uma investigação interna descobriu que eles manipularam informações confidenciais da empresa, diz o relatório.",
+      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "publishedAt": "Thu, 01 Oct 2026 18:14:42 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Sucessora da Oi retorna à telefonia móvel (com rede da TIM)",
+      "description": "Nio promete fibra de 700 Mb/s e franquia de 10 GB na internet móvel por R$ 140/mês. Sucessora da Oi retorna à telefonia móvel (com rede da TIM)",
+      "url": "https://tecnoblog.net/noticias/sucessora-da-oi-retorna-a-telefonia-movel/",
+      "publishedAt": "Thu, 01 Oct 2026 17:36:25 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capa-nio-fibra-1.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
     {
       "title": "Google anuncia Gemini 4 Argon, IA para tarefas complexas e segurança",
       "description": "Gemini 4 Argon superou concorrentes como Claude Opus 5.5 e GPT-6 Astra em benchmarks. Google anuncia Gemini 4 Argon, IA para tarefas complexas e segurança",
@@ -70,57 +128,6 @@
         "Gestão",
         "Saúde"
       ]
-    },
-    {
-      "title": "ChatGPT Dots: OpenAI lança assistente de IA para o dia a dia",
-      "description": "Agente autônomo acompanha projetos, monitora serviços e executa tarefas sem depender de novos pedidos do usuário. ChatGPT Dots: OpenAI lança assistente de IA para o dia a dia",
-      "url": "https://tecnoblog.net/noticias/chatgpt-dots-openai-lanca-agentes-de-ia-que-trabalham-sozinhos/",
-      "publishedAt": "Wed, 30 Sep 2026 13:11:53 +0000",
-      "image": "https://www.youtube.com/embed/uXspbC2srEQ",
-      "source": "Tecnoblog",
-      "content": "Dots são os novos assistentes personalizados do ChatGPT (GIF: reprodução/OpenAI) Resumo OpenAI lançou os Dots, agentes que trabalham em segundo plano para auxiliar usuários do ChatGPT. Os Dots podem realizar tarefas como consultar compromissos, monitorar canais e escrever código, com controle de permissão e aprovação do usuário. Os agentes de IA podem ser criados no computador e pelo celular, com integração a apps e opções de personalização. A OpenAI anunciou nesta terça-feira (29/09) mais uma solução para quem quer o ChatGPT como assistente em atividades diárias. São os Dots, agentes integrados à plataforma que continuam trabalhando em segundo plano, acompanhando projetos e realizando rotinas sem depender de pedidos. A novidade rivaliza com o Meta Muse e começa a ser liberada para assinantes de planos ChatGPT Pro, Business Premium e Enterprise, inclusive no Brasil . Futuramente, a OpenAI prevê uma cobrança separada por agentes adicionais ou por maior capacidade de processamento. Como funcionam os Dots? Na execução de tarefas em apps e na web, os agentes funcionam em um computador virtual próprio na nuvem. Eles usam as memórias já disponíveis no ChatGPT, mantendo informações sobre projetos e tarefas recorrentes sem exigir repetições frequentes, segundo a OpenAI. A empresa chama o processo de pesquisa proativa, em que, diferente dos agentes apresentados anteriormente pela empresa, os Dots podem verificar informações relacionadas às metas que recebeu sem aguardar uma solicitação do usuário. Seguindo as capacidades agênticas do GPT-6 Astra , eles devem assumir tarefas que normalmente exigiriam várias interações com diferentes serviços, incluindo: Consultar compromissos, acompanhar pendências e enviar lembretes Monitorar canais (como no Slack) em busca de problemas e iniciar diagnósticos Escrever e testar código e transformar projetos em aplicativos funcionais Identificar pendências, preparar documentos e executar ações após a aprovação do usuário O usuário também pode fazer solicitações por mensagem de texto. A função lembra assistentes de calendário como Toki (antigo Dola AI), com organização de agenda, mas tendo capacidade de efetivar pedidos em estabelecimentos para o usuário, como em restaurantes. Apesar disso, o agente não pode assumir operações de risco, como alterar senhas, por exemplo. Dots podem interagir com usuário por mensagem de texto (imagem: reprodução/OpenAI) Controle sobre as ações A empresa dá bastante atenção a aprovação do assinante antes que a IA execute certos processos. Em um dos exemplos dados pela companhia, a IA pede permissão repetidamente antes de seguir com ajustes na correção de um problema identificado por ela mesma. Os usuários também podem estabelecer níveis de permissão para os agentes, como agir sem perguntar, apenas quando a tarefa for pré-aprovada ou pedir autorização antes de cada ação, por exemplo. Em todo caso, os processos são visíveis pelo usuário, que pode interferir quando necessário. Para empresas, a OpenAI apresentou ainda os Dots Especialistas, agentes com identidade e credenciais próprias para sistemas corporativos. Será possível integrá-los com o Microsoft Agent 365 . As informações em contas corporativas não serão usadas para treinar os modelos da empresa. Como criar um Dot? Dots são criados dentro do ChatGPT (imagem: reprodução/OpenAI) A criação do agente precisa ser feita em um computador, pelo app ou versão web. Apenas após a configuração, o Dot pode ser acessado também pelo celular. O usuário escolhe um nome para o agente, conecta os aplicativos que deseja utilizar e define suas regras de funcionamento. A partir daí, pode atribuir projetos e tarefas, acompanhar o trabalho e interagir com o Dot pelos diferentes canais disponíveis. Vale pontuar que, ainda que não conte nos limites de uso normal do ChatGPT, tarefas iniciadas pelo agente no Codex ou no ChatGPT Work continuam consumindo as cotas correspondentes desses serviços. ChatGPT Dots: OpenAI lança assistente de IA para o dia a dia",
-      "lang": "pt",
-      "depts": [
-        "Comercial",
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Como ver quem não te segue de volta no Instagram",
-      "description": "Você pode saber quem não te segue no Instagram pelo aplicativo oficial, extensões para o Google Chrome ou cruzamento de dados do perfil via ChatGPT Como ver quem não te segue de volta no Instagram",
-      "url": "https://tecnoblog.net/responde/como-ver-quem-nao-me-segue-de-volta-no-instagram/",
-      "publishedAt": "Tue, 29 Sep 2026 20:13:29 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/08/capa-insta-fora-1_thumb_tb.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Marketing"
-      ]
-    },
-    {
-      "title": "Anthropic gasta mais dinheiro do que fatura para bancar IA",
-      "description": "Dona do Claude teve receita de US$ 4,6 bilhões no último ano, mas prejuízo operacional foi praticamente o dobro. Anthropic gasta mais dinheiro do que fatura para bancar IA",
-      "url": "https://tecnoblog.net/noticias/anthropic-gasta-mais-dinheiro-do-que-fatura-para-bancar-ia/",
-      "publishedAt": "Tue, 29 Sep 2026 18:53:37 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-2.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Financeiro"
-      ]
-    },
-    {
-      "title": "OpenAI desiste de lançar nova IA após problemas de segurança",
-      "description": "GPT-6.1 Astra apresentou comportamento enganoso e realizou ações sem autorização. Modelo chegaria ao ChatGPT e ao Codex em outubro. OpenAI desiste de lançar nova IA após problemas de segurança",
-      "url": "https://tecnoblog.net/noticias/openai-desiste-de-lancar-nova-ia-apos-problemas-de-seguranca/",
-      "publishedAt": "Tue, 29 Sep 2026 15:41:15 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/sam-altman-1-capa.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
     },
     {
       "title": "8 prompts para conversar com voz no ChatGPT",
@@ -544,22 +551,6 @@
       "lang": "pt",
       "depts": [
         "Gestão"
-      ]
-    },
-    {
-      "title": "Novo sistema usará IA para \"traduzir\" o que o seu corpo realmente precisa",
-      "description": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30",
-      "url": "https://canaltech.com.br/inteligencia-artificial/novo-sistema-usara-ia-para-traduzir-o-que-o-seu-corpo-realmente-precisa/",
-      "publishedAt": "Wed, 01 Jul 2026 08:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/4BlAeU73zGDl24KwhTRIfUE4ZkA=/700x394/smart/i1138901.png",
-      "source": "Canaltech IA",
-      "content": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30) e foi divulgado pelo site Android Police. A empresa afirma que dispositivos vestíveis já evoluíram na coleta de dados, mas ainda falham em explicar o significado desses números para quem os usa. Gee Gu, cofundador da Vilo ao lado de Andy Xu, descreveu o Signal OS como um sistema que ajuda o usuário a entender o que mudou no corpo , priorizar o que importa e transformar sinais corporais em suporte real. Como funciona o Signal OS O sistema reúne quatro frentes principais. A primeira é o Signals , um recurso de cartões que aponta alterações nos indicadores de saúde e sugere o que fazer a respeito. Já o Pulse funciona como um painel com o histórico de dados e tendências ao longo do tempo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Há ainda o Vibes , um chatbot com IA para tirar dúvidas sobre as informações coletadas, e uma camada dedicada à saúde da mulher . A Vilo descreve o Signal OS como uma plataforma \"ring-first\", ou seja, pensada primeiro para anéis inteligentes, e ela vai estrear no próprio anel da empresa. A companhia evita o terreno regulatório mais rígido reservado a dispositivos médicos. Segundo o comunicado oficial, a proposta do sistema é oferecer \"orientação de bem-estar e autoconhecimento, não diagnóstico ou tratamento\", o que dispensa aprovação de agências como a FDA, órgão regulador dos Estados Unidos. Fitbit já segue caminho parecido com o AI Coach e o Fitbit Air, usando IA para interpretar pontuações sem depender desse tipo de aval. Possível interface do app dedicado ao sistema, presente no vídeo de divulgação (Imagem: Reprodução/YouTube/VILO) Anel da Vilo",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Comercial",
-        "Saúde",
-        "Educação"
       ]
     }
   ]
