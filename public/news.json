@@ -1,7 +1,61 @@
 {
-  "updatedAt": "2026-10-02T16:01:14.068Z",
+  "updatedAt": "2026-10-03T14:27:48.965Z",
   "count": 40,
   "articles": [
+    {
+      "title": "OpenAI demite pesquisadores por suposto vazamento de dados",
+      "description": "Funcionários teriam compartilhado dados confidenciais com uma organização externa de segurança de IA. OpenAI demite pesquisadores por suposto vazamento de dados",
+      "url": "https://tecnoblog.net/noticias/openai-demite-pesquisadores-por-suposto-vazamento-de-dados/",
+      "publishedAt": "Fri, 02 Oct 2026 19:41:17 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/sam-altman-3-capa.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "RH",
+        "Gestão"
+      ]
+    },
+    {
+      "title": "YouTube vai complicar a vida de quem vive de cortes de outros canais",
+      "description": "YouTube atualizou algoritmos do Shorts para reduzir o alcance de vídeos que apenas republicam trechos do conteúdo de outros criadores. YouTube vai complicar a vida de quem vive de cortes de outros canais",
+      "url": "https://tecnoblog.net/noticias/youtube-vai-complicar-a-vida-de-quem-vive-de-cortes-de-outros-canais/",
+      "publishedAt": "Fri, 02 Oct 2026 18:46:53 +0000",
+      "image": "https://www.youtube.com/embed/XS2A6aExLaA",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Marketing"
+      ]
+    },
+    {
+      "title": "Chame isso de IA, chame de Super Inteligência, apenas 2% dos consumidores estão comprando",
+      "description": "Esta semana, a Casa Branca reuniu quase todos os principais CEOs de tecnologia em uma sala – Zuckerberg, Bezos, Musk e Dario Amodei da Anthropic entre eles – para assinar um compromisso de segurança de IA que o presidente Donald Trump chamou de “moralmente vinculativo”. Trump também assinou uma ordem executiva renomeando oficialmente a IA como “superinteligência”.",
+      "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+      "publishedAt": "Fri, 02 Oct 2026 17:56:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Esta semana, a Casa Branca reuniu quase todos os principais CEOs de tecnologia em uma sala – Zuckerberg, Bezos, Musk e Dario Amodei da Anthropic entre eles – para assinar um compromisso de segurança de IA que o presidente Donald Trump chamou de “moralmente vinculativo”. Trump também assinou uma ordem executiva renomeando oficialmente a IA como “superinteligência” e, enquanto isso, Meta e OpenAI estão colocando rostos mais amigáveis ​​em seus produtos de IA, mesmo sendo os que mais ganham dinheiro []",
+      "lang": "en",
+      "depts": [
+        "Marketing",
+        "Comercial"
+      ]
+    },
+    {
+      "title": "Não é mais IA, é ‘superinteligência’ (de acordo com a Casa Branca)",
+      "description": "Esta semana, a Casa Branca reuniu quase todos os principais CEOs de tecnologia em uma sala – Zuckerberg, Bezos, Musk e Dario Amodei da Anthropic entre eles – para assinar um compromisso de segurança de IA que o presidente Donald Trump chamou de “moralmente vinculativo”. Trump também assinou uma ordem executiva renomeando oficialmente a IA como “superinteligência”.",
+      "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+      "publishedAt": "Fri, 02 Oct 2026 17:48:16 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Esta semana, a Casa Branca reuniu quase todos os principais CEOs de tecnologia em uma sala – Zuckerberg, Bezos, Musk e Dario Amodei da Anthropic entre eles – para assinar um compromisso de segurança de IA que o presidente Donald Trump chamou de “moralmente vinculativo”. Trump também assinou uma ordem executiva renomeando oficialmente a IA como “superinteligência” e, enquanto isso, Meta e OpenAI estão colocando rostos mais amigáveis ​​em seus produtos de IA, mesmo sendo os que mais ganham dinheiro []",
+      "lang": "en",
+      "depts": [
+        "Comercial"
+      ]
+    },
     {
       "title": "Apple pode lançar câmera residencial com IA (mas que não grava vídeos)",
       "description": "Dispositivo analisaria o ambiente e descreveria eventos em texto. Câmera faria parte do novo ecossistema de casa inteligente da Apple. Apple pode lançar câmera residencial com IA (mas que não grava vídeos)",
@@ -73,60 +127,6 @@
         "Financeiro",
         "Comercial",
         "Gestão"
-      ]
-    },
-    {
-      "title": "Google lança Gemini 4 Argon, considerado seu modelo mais poderoso até agora",
-      "description": "O Google lançou seu mais recente modelo Gemini, comercializando-o como um carro-chefe para trabalho de codificação e segurança cibernética.",
-      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-      "publishedAt": "Wed, 30 Sep 2026 23:43:07 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "RH"
-      ]
-    },
-    {
-      "title": "Valor, Atreides e Sequoia apoiam a startup de IA Flow Engineering com avaliação de US$ 750 milhões",
-      "description": "A Flow Engineering, que está trazendo agentes de IA para o design de hardware, também contratou Roelof Botha como investidor anjo e membro do conselho.",
-      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-      "publishedAt": "Wed, 30 Sep 2026 21:07:40 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Comercial"
-      ]
-    },
-    {
-      "title": "O clone Jev da OpenAI pode ajudar o laboratório de fronteira a parar seus agentes de enxameação",
-      "description": "A \"API de decisões\" da OpenAI é um clone do Jev que confirma a importância da inteligência rápida e barata.",
-      "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
-      "publishedAt": "Wed, 30 Sep 2026 19:00:57 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Trump anuncia IA própria do governo dos Estados Unidos",
-      "description": "America.gov foi reformulado e agora usa chatbot de IA para acessar serviços públicos. Projeto foi liderado pelo cofudandor do Airbnb. Trump anuncia IA própria do governo dos Estados Unidos",
-      "url": "https://tecnoblog.net/noticias/trump-anuncia-nova-ia-propria-do-governo-dos-estados-unidos/",
-      "publishedAt": "Wed, 30 Sep 2026 14:16:44 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/design-sem-nome-2.png",
-      "source": "Tecnoblog",
-      "content": "Chatbot foi integrado ao novo site do governo dos EUA (imagem: reprodução) Resumo O presidente dos EUA, Donald Trump, anunciou uma nova ferramenta de inteligência artificial do governo para acessar serviços públicos. A IA foi integrada ao site reformulado America.gov e permitirá que as pessoas façam perguntas e obtenham respostas de um banco de dados próprio. Segundo o presidente, o objetivo é unificar o acesso aos serviços públicos, incluindo aplicações de passaporte e seleção de planos de saúde. O presidente dos Estados Unidos, Donald Trump, anunciou uma nova ferramenta de inteligência artificial do governo. A ferramenta integra o site reformulado America.gov e, segundo Trump, deve simplificar o acesso a informações e serviços públicos. A ordem assinada nesta terça-feira (29/09) também prevê que todas as agências governamentais integrem seus conteúdos públicos à IA. A assinatura do documento aconteceu horas antes do anúncio oficial, durante uma reunião entre o presidente e líderes de IA do mercado. O encontro foi promovido para discutir os riscos da tecnologia, tendo em vista as preocupações recentes sobre o ritmo do desenvolvimento em IA . O site reformulado do governo já está disponível em formato de chatbot . Por lá, é possível fazer perguntas como em qualquer outra ferramenta do tipo, mas as respostas partem de um banco de dados próprio do governo dos EUA. Em algumas respostas, a IA chegou a contradizer declarações do presidente Trump , como destaca a Forbes . Para que serve a nova IA do governo Trump ? Today we’re launching https://t.co/QjOkuYqtoE , a single front door to the federal government. Instead of opening a bunch of tabs across different agency sites and trying to figure out which information actually matters to you, you can ask America a question and get the relevant… pic.twitter.com/PAic2dSG0i &mdash; Tyler Kim (@tylertaewook) September 29, 2026 Durante o anúncio da inteligência artificial, o presidente Trump destacou alguns tipos de uso com a nova plataforma. Entre os exemplos estão dar entrada em aplicações de passaporte, selecionar planos de saúde e facilitar o acesso de veteranos aos benefícios oferecidos pelo governo. O site foi desenvolvido pelo cofundador do Airbnb, atualmente chefe de design do governo, Joe Gebbia. Segundo ele, o objetivo é que as pessoas pesquisem exatamente o que precisam e “nunca mais voltem para o labirinto”. O acesso, portanto, será unificado pela plataforma. Trump quer “superinteligência” Donald Trump quer ritmo acelerado no desenvolvimento das IAs (foto: Gage Skidmore/Flickr) Além de revelar a nova plataforma do governo, Trump aproveitou a situação para indicar que busca caminhar na outra direção das últimas declarações de desenvolvedores de IA. Ao invés de diminuir o ritmo da tecnologia, o presidente dos EUA quer acelerar seu desenvolvimento. Trump afirmou que pretende mudar a nomenclatura usada para se referir à tecnologia. A ideia é chamar as IAs de “superinteligências”, termo associado à Inteligência Artificial Geral (AGI) e frequentemente usado nas discussões sobre o futuro da inteligência artificial. Nesse novo estágio, em termos técnicos, a IA seria capaz de agir por conta própria e até mesmo corrigir seus erros – o chamado autoaperfeiçoamento recursivo. Segundo o presidente dos EUA, o movimento será maior que a Revolução Industrial, e “quem ‘ganhar’ a superinteligência, vence”. Trump anuncia IA própria do governo dos Estados Unidos",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Financeiro",
-        "Comercial",
-        "Gestão",
-        "Saúde"
       ]
     },
     {
