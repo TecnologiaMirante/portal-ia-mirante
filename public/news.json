@@ -1,7 +1,79 @@
 {
-  "updatedAt": "2026-10-04T15:02:18.119Z",
+  "updatedAt": "2026-10-05T18:56:56.938Z",
   "count": 40,
   "articles": [
+    {
+      "title": "ChatGPT começa a testar anúncios com imagens",
+      "description": "Novo formato será testado de início durante a geração de imagens; OpenAI afirma que publicidade continuará separada das respostas. ChatGPT começa a testar anúncios com imagens",
+      "url": "https://tecnoblog.net/noticias/chatgpt-comeca-a-testar-anuncios-com-imagens/",
+      "publishedAt": "Mon, 05 Oct 2026 18:20:05 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/sam-altman-3-capa.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Marketing"
+      ]
+    },
+    {
+      "title": "Gemini vai ficar mais limitado para usuários de contas gratuitas",
+      "description": "Gemini gratuito deixará de oferecer os modelos Flash e Pro, ficando limitado ao Flash Lite. Também haverá mudanças no Google AI Plus. Gemini vai ficar mais limitado para usuários de contas gratuitas",
+      "url": "https://tecnoblog.net/noticias/gemini-vai-ficar-mais-limitado-para-usuarios-de-contas-gratuitas/",
+      "publishedAt": "Mon, 05 Oct 2026 17:58:14 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capas-google-gemini-2026-1.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "O entrevistador de IA do HackerRank oferece uma ideia do que as entrevistas de emprego podem se tornar",
+      "description": "O entrevistador de IA do HackerRank já conduziu mais de 500.000 entrevistas, com Snowflake, Snorkel e Capgemini entre seus primeiros testadores.",
+      "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+      "publishedAt": "Mon, 05 Oct 2026 16:43:35 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "RH"
+      ]
+    },
+    {
+      "title": "Anthropic chama polícia após mulher ameaçar ataque em conversa",
+      "description": "Mulher foi presa na Flórida após supostas ameaças registradas no chatbot Claude. Anthropic chama polícia após mulher ameaçar ataque em conversa",
+      "url": "https://tecnoblog.net/noticias/anthropic-chama-policia-apos-mulher-ameacar-ataque-em-conversa-com-claude/",
+      "publishedAt": "Mon, 05 Oct 2026 16:04:04 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-2.jpg",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "OpenAI lança anúncios visuais que aparecem ao lado dos resultados de geração de imagens",
+      "description": "A OpenAI disse que os novos anúncios visuais aparecerão depois que os resultados da geração de imagens aparecerem nos EUA, apenas por enquanto.",
+      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+      "publishedAt": "Mon, 05 Oct 2026 15:14:24 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "Marketing"
+      ]
+    },
+    {
+      "title": "Apple vai dificultar acesso aos dados do Mac por causa da IA",
+      "description": "Mudança no Acesso Total ao Disco busca reforçar a segurança diante de agentes de inteligência artificial. Apple vai dificultar acesso aos dados do Mac por causa da IA",
+      "url": "https://tecnoblog.net/noticias/apple-vai-dificultar-controle-de-acesso-aos-dados-do-mac-por-causa-da-ia/",
+      "publishedAt": "Mon, 05 Oct 2026 13:15:37 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/04/Capa-TBR-MacOS.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
     {
       "title": "Funcionário de segurança da OpenAI pede demissão, alegando que a ‘cultura da empresa está quebrada’",
       "description": "Como ele mesmo admite, David Robinson é “uma espécie de clichê”: um funcionário de uma empresa líder de IA que emite um aviso terrível ao se demitir do emprego.",
@@ -43,33 +115,6 @@
       ]
     },
     {
-      "title": "Chame isso de IA, chame de Super Inteligência, apenas 2% dos consumidores estão comprando",
-      "description": "Esta semana, a Casa Branca reuniu quase todos os principais CEOs de tecnologia em uma sala – Zuckerberg, Bezos, Musk e Dario Amodei da Anthropic entre eles – para assinar um compromisso de segurança de IA que o presidente Donald Trump chamou de “moralmente vinculativo”. Trump também assinou uma ordem executiva renomeando oficialmente a IA como “superinteligência”.",
-      "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
-      "publishedAt": "Fri, 02 Oct 2026 17:56:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Esta semana, a Casa Branca reuniu quase todos os principais CEOs de tecnologia em uma sala – Zuckerberg, Bezos, Musk e Dario Amodei da Anthropic entre eles – para assinar um compromisso de segurança de IA que o presidente Donald Trump chamou de “moralmente vinculativo”. Trump também assinou uma ordem executiva renomeando oficialmente a IA como “superinteligência” e, enquanto isso, Meta e OpenAI estão colocando rostos mais amigáveis ​​em seus produtos de IA, mesmo sendo os que mais ganham dinheiro []",
-      "lang": "en",
-      "depts": [
-        "Marketing",
-        "Comercial"
-      ]
-    },
-    {
-      "title": "Não é mais IA, é ‘superinteligência’ (de acordo com a Casa Branca)",
-      "description": "Esta semana, a Casa Branca reuniu quase todos os principais CEOs de tecnologia em uma sala – Zuckerberg, Bezos, Musk e Dario Amodei da Anthropic entre eles – para assinar um compromisso de segurança de IA que o presidente Donald Trump chamou de “moralmente vinculativo”. Trump também assinou uma ordem executiva renomeando oficialmente a IA como “superinteligência”.",
-      "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-      "publishedAt": "Fri, 02 Oct 2026 17:48:16 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Esta semana, a Casa Branca reuniu quase todos os principais CEOs de tecnologia em uma sala – Zuckerberg, Bezos, Musk e Dario Amodei da Anthropic entre eles – para assinar um compromisso de segurança de IA que o presidente Donald Trump chamou de “moralmente vinculativo”. Trump também assinou uma ordem executiva renomeando oficialmente a IA como “superinteligência” e, enquanto isso, Meta e OpenAI estão colocando rostos mais amigáveis ​​em seus produtos de IA, mesmo sendo os que mais ganham dinheiro []",
-      "lang": "en",
-      "depts": [
-        "Comercial"
-      ]
-    },
-    {
       "title": "Apple pode lançar câmera residencial com IA (mas que não grava vídeos)",
       "description": "Dispositivo analisaria o ambiente e descreveria eventos em texto. Câmera faria parte do novo ecossistema de casa inteligente da Apple. Apple pode lançar câmera residencial com IA (mas que não grava vídeos)",
       "url": "https://tecnoblog.net/noticias/apple-pode-lancar-camera-residencial-com-ia-mas-que-nao-grava-videos/",
@@ -78,42 +123,6 @@
       "source": "Tecnoblog",
       "content": null,
       "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "O chatbot de IA de Musk, Grok, supostamente encorajou Trump a capturar o presidente da Venezuela",
-      "description": "O presidente Trump teria pedido a opinião de Grok antes de invadir a Venezuela e capturar Nicolás Maduro.",
-      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-      "publishedAt": "Thu, 01 Oct 2026 21:08:11 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "ChatGPT agora pode experimentar roupas virtualmente para você",
-      "description": "A OpenAI está lançando novos recursos de compras para ChatGPT que permitem aos usuários experimentar virtualmente roupas e acessórios usando suas próprias fotos e salvar os produtos que gostam em uma biblioteca de Favoritos.",
-      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-      "publishedAt": "Thu, 01 Oct 2026 19:21:53 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "A OpenAI está lançando novos recursos de compras para ChatGPT que permitem aos usuários experimentar virtualmente roupas e acessórios usando suas próprias fotos e salvar os produtos que gostam em uma biblioteca de Favoritos.",
-      "lang": "en",
-      "depts": [
-        "Comercial",
-        "Educação"
-      ]
-    },
-    {
-      "title": "OpenAI corta relações com três pesquisadores de segurança, relata WSJ",
-      "description": "A OpenAI se separou de três pesquisadores de segurança depois que uma investigação interna descobriu que eles manipularam informações confidenciais da empresa, diz o relatório.",
-      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-      "publishedAt": "Thu, 01 Oct 2026 18:14:42 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
       "depts": []
     },
     {
@@ -126,21 +135,6 @@
       "content": null,
       "lang": "pt",
       "depts": []
-    },
-    {
-      "title": "Google anuncia Gemini 4 Argon, IA para tarefas complexas e segurança",
-      "description": "Gemini 4 Argon superou concorrentes como Claude Opus 5.5 e GPT-6 Astra em benchmarks. Google anuncia Gemini 4 Argon, IA para tarefas complexas e segurança",
-      "url": "https://tecnoblog.net/noticias/google-anuncia-gemini-4-argon-ia-para-tarefas-complexas-e-seguranca/",
-      "publishedAt": "Thu, 01 Oct 2026 13:13:53 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/10/gemini-4-argon.jpg",
-      "source": "Tecnoblog",
-      "content": "Google anuncia Gemini 4 Argon, IA para tarefas complexas e segurança (imagem: reprodução/Google) Resumo O Google revelou o Gemini 4 Argon, um modelo de linguagem de IA para tarefas complexas e segurança. O Gemini 4 Argon obteve 77,9% no DeepSWE 1.1, superando o Claude Opus 5.5 e o GPT-6 Astra. O modelo será liberado aos poucos, inicialmente para testadores confiáveis e especialistas de segurança, e posteriormente para desenvolvedores e clientes corporativos. O Gemini 4 Argon é o mais novo modelo de linguagem para inteligência artificial do Google. A novidade é focada em raciocínio profundo, de modo a ser apta para lidar com tarefas complexas e de longa duração, de acordo com a própria companhia. Por conta disso, o Gemini 4 Argon pode ser usado em atividades de desenvolvimento de software, em pesquisas financeiras avançadas e na extração de informações de vídeos extensos, só para citar alguns exemplos. Para dar uma noção do que o novo modelo pode proporcionar, o Google afirma que o Gemini 4 Argon obteve uma pontuação de 77,9% no DeepSWE 1.1, enquanto, no mesmo benchmark, o Claude Opus 5.5 e o GPT-6 Astra alcançaram 74,2% e 74,1%, respectivamente (ver gráfico mais abaixo). Não por acaso, o Google também afirma que já vem empregando o Gemini 4 Argon em sua própria infraestrutura, usando agentes baseados no modelo para reescrever bases de código de C/C++ para Rust (uma linguagem mais moderna e segura) e na otimização do consumo de memória por aplicações de data center . Outro ponto forte do Gemini 4 Argon está no aspecto da segurança digital. O Google explica que o modelo foi treinado para identificar e corrigir vulnerabilidades críticas em softwares de modo autônomo, tendo desempenho superior ao do Flash Cyber 3.8. Para evitar que esses atributos sejam usados para fins maliciosos, o Google afirma ter estabelecido salvaguardas que inibem ações por prompt injection (ataques por meio de instruções maliciosas), bem como o uso do modelo em ataques virtuais ou em ameaças CBRN (química, biológica, radiológica e nuclear). Desempenho do Gemini 4 Argon no DeepSWE 1.1 (imagem: reprodução/Google) Quando o Gemini 4 Argon será lançado? O Gemini 4 Argon vai ser liberado aos poucos. Por ora, a novidade está disponível apenas para alguns testadores confiáveis e especialistas de segurança por meio do Fairwind, um novo programa do Google que dá acesso a modelos de IA a pessoas selecionadas, sem que elas estejam sujeitas a determinadas salvaguardas. Em breve, o Google liberará o Gemini 4 Argon para desenvolvedores, clientes corporativos do Google Cloud e assinantes do Google AI Ultra. Na fase inicial de liberação, os preços serão os seguintes: US$ 2 por milhão de tokens de entrada US$ 10 por milhão de tokens de saída desconto de 95% no preço para tokens de entrada em cache Depois do período promocional, esses valores dobrarão. Google anuncia Gemini 4 Argon, IA para tarefas complexas e segurança",
-      "lang": "pt",
-      "depts": [
-        "Financeiro",
-        "Comercial",
-        "Gestão"
-      ]
     },
     {
       "title": "8 prompts para conversar com voz no ChatGPT",
