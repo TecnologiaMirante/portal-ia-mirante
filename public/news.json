@@ -1,7 +1,61 @@
 {
-  "updatedAt": "2026-10-05T18:56:56.938Z",
+  "updatedAt": "2026-10-06T16:22:02.371Z",
   "count": 40,
   "articles": [
+    {
+      "title": "A Anthropic está dando às startups um ano grátis do Claude Team e US$ 1.000 em créditos",
+      "description": "“Criamos este programa porque acreditamos que os benefícios da IA ​​chegarão à maioria das pessoas através das empresas que constroem com base em modelos, e não apenas através dos modelos.”",
+      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "publishedAt": "Tue, 06 Oct 2026 16:00:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "“Criamos este programa porque acreditamos que os benefícios da IA ​​chegarão à maioria das pessoas através das empresas que constroem com base em modelos, e não apenas através dos modelos.”",
+      "lang": "en",
+      "depts": [
+        "Financeiro"
+      ]
+    },
+    {
+      "title": "OpenAI começará a colocar marca d'água no texto do ChatGPT na UE",
+      "description": "A OpenAI colocará uma marca d'água no texto do ChatGPT e do Codex na UE para cumprir a Lei de IA. A edição pode tornar as marcas invisíveis mais difíceis de detectar, diz.",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "publishedAt": "Mon, 05 Oct 2026 20:36:48 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "Marketing",
+        "Jurídico"
+      ]
+    },
+    {
+      "title": "OpenAI anuncia marca-d’água invisível para textos do ChatGPT",
+      "description": "Tecnologia textGrainm começará a funcionar no ChatGPT e Codex da União Europeia nesta fase inicial. OpenAI anuncia marca-d’água invisível para textos do ChatGPT",
+      "url": "https://tecnoblog.net/noticias/openai-anuncia-marca-dagua-invisivel-para-textos-do-chatgpt/",
+      "publishedAt": "Mon, 05 Oct 2026 19:44:32 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-1_capa.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Marketing"
+      ]
+    },
+    {
+      "title": "Reflection estreia Beam, um modelo de IA de peso aberto para rivalizar com os modelos chineses com menor custo de computação",
+      "description": "A reflexão visa o Beam e modelos futuros para empresas e nações soberanas. A proposta é construir “fábricas de IA”, um produto que permitiria às instituições construir seu próprio sistema de IA local e personalizado, treinando os modelos de IA da Reflection em seus próprios dados proprietários.",
+      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "publishedAt": "Mon, 05 Oct 2026 19:33:53 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "A reflexão visa o Beam e modelos futuros para empresas e nações soberanas. A proposta é construir “fábricas de IA”, um produto que permitiria às instituições construir seu próprio sistema de IA local e personalizado, treinando os modelos de IA da Reflection em seus próprios dados proprietários.",
+      "lang": "en",
+      "depts": [
+        "Financeiro",
+        "Comercial"
+      ]
+    },
     {
       "title": "ChatGPT começa a testar anúncios com imagens",
       "description": "Novo formato será testado de início durante a geração de imagens; OpenAI afirma que publicidade continuará separada das respostas. ChatGPT começa a testar anúncios com imagens",
@@ -52,15 +106,16 @@
     },
     {
       "title": "OpenAI lança anúncios visuais que aparecem ao lado dos resultados de geração de imagens",
-      "description": "A OpenAI disse que os novos anúncios visuais aparecerão depois que os resultados da geração de imagens aparecerem nos EUA, apenas por enquanto.",
+      "description": "Os novos anúncios começarão a aparecer no final deste mês nos EUA, por enquanto, e apresentarão produtos e serviços de um grupo de teste inicial de anunciantes.",
       "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
       "publishedAt": "Mon, 05 Oct 2026 15:14:24 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": null,
+      "content": "Os novos anúncios começarão a aparecer no final deste mês nos EUA, por enquanto, e apresentarão produtos e serviços de um grupo de teste inicial de anunciantes.",
       "lang": "en",
       "depts": [
-        "Marketing"
+        "Marketing",
+        "Comercial"
       ]
     },
     {
@@ -73,19 +128,6 @@
       "content": null,
       "lang": "pt",
       "depts": []
-    },
-    {
-      "title": "Funcionário de segurança da OpenAI pede demissão, alegando que a ‘cultura da empresa está quebrada’",
-      "description": "Como ele mesmo admite, David Robinson é “uma espécie de clichê”: um funcionário de uma empresa líder de IA que emite um aviso terrível ao se demitir do emprego.",
-      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "publishedAt": "Sat, 03 Oct 2026 16:30:01 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Como ele mesmo admite, David Robinson é “uma espécie de clichê”: um funcionário de uma empresa líder de IA que emite um aviso terrível ao se demitir do emprego.",
-      "lang": "en",
-      "depts": [
-        "RH"
-      ]
     },
     {
       "title": "OpenAI demite pesquisadores por suposto vazamento de dados",
@@ -120,17 +162,6 @@
       "url": "https://tecnoblog.net/noticias/apple-pode-lancar-camera-residencial-com-ia-mas-que-nao-grava-videos/",
       "publishedAt": "Fri, 02 Oct 2026 14:47:03 +0000",
       "image": "https://files.tecnoblog.net/wp-content/uploads/2024/02/camera-seguranca-monitoramento.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "Sucessora da Oi retorna à telefonia móvel (com rede da TIM)",
-      "description": "Nio promete fibra de 700 Mb/s e franquia de 10 GB na internet móvel por R$ 140/mês. Sucessora da Oi retorna à telefonia móvel (com rede da TIM)",
-      "url": "https://tecnoblog.net/noticias/sucessora-da-oi-retorna-a-telefonia-movel/",
-      "publishedAt": "Thu, 01 Oct 2026 17:36:25 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capa-nio-fibra-1.png",
       "source": "Tecnoblog",
       "content": null,
       "lang": "pt",
@@ -520,32 +551,6 @@
         "Marketing",
         "Comercial"
       ]
-    },
-    {
-      "title": "Por que o próximo ciclo computacional precisa ser construído para todos",
-      "description": "Nos últimos três anos, a capacidade computacional global dedicada à inteligência artificial cresceu aproximadamente 100 vezes . É uma das revoluções tecnológicas mais impactantes das últimas décadas. A IA já chegou indiscutivelmente. Mas a questão que surge agora é: ela está acessível a todos? De um",
-      "url": "https://canaltech.com.br/colunas/por-que-o-proximo-ciclo-computacional-precisa-ser-construido-para-todos/",
-      "publishedAt": "Thu, 02 Jul 2026 10:43:03 -0300",
-      "image": "https://t.ctcdn.com.br/nZ6sNq7PsgAB4H-oy5G3Tk3upoA=/700x394/smart/i1003705.png",
-      "source": "Canaltech IA",
-      "content": "Nos últimos três anos, a capacidade computacional global dedicada à inteligência artificial cresceu aproximadamente 100 vezes . É uma das revoluções tecnológicas mais impactantes das últimas décadas. A IA já chegou indiscutivelmente. Mas a questão que surge agora é: ela está acessível a todos? De um lado, temos modelos cada vez mais capazes, infraestruturas de bilhões de dólares, parcerias entre algumas das maiores empresas do planeta. De outro, desenvolvedores independentes, pesquisadores em países emergentes, startups sem acesso a crédito cloud e laboratórios universitários com acesso limitado. O próximo ciclo computacional pode encontrar caminhos para solucionar essa assimetria. O problema não é só hardware Quando falamos em democratizar a IA, GPUs e custos de treinamento são pontos importantes, mas há um gargalo além do hardware: a dependência de ecossistemas fechados que prendem desenvolvedores a plataformas específicas e concentram o poder de inovação nas mãos de poucos. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A analogia com o software é útil aqui. O movimento open source levou décadas para amadurecer, mas hoje a infraestrutura que sustenta a internet é majoritariamente aberta . Isso porque a inovação aberta com frequência se mostrou altamente resiliente e amplamente adotada em comparação com alternativas proprietárias. A IA está no começo do mesmo caminho. Plataformas abertas saltaram de nichos experimentais para infraestrutura de produção em escala global. Um pesquisador no Brasil, na Índia ou na Nigéria pode acessar hoje muitas das mesmas ferramentas utilizadas por grandes centros de tecnologia — desde que disponha de recursos de hardware adequados . A IA que mora no seu dispositivo Outra transformação relevante: a migração da IA da nuvem para o dispositivo. Processadores modernos com NPUs integradas permitem rodar inteligência artificial localmente , sem",
-      "lang": "pt",
-      "depts": [
-        "Financeiro",
-        "Comercial",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Fable e Mythos 5: governo Trump libera IAs mais perigosas da Anthropic",
-      "description": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três s",
-      "url": "https://canaltech.com.br/inteligencia-artificial/fable-e-mythos-5-governo-trump-libera-ias-mais-perigosas-da-anthropic/",
-      "publishedAt": "Wed, 01 Jul 2026 12:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/Am6VaUx8jmQtCNJCxA_znmbrltc=/700x394/smart/i1107289.png",
-      "source": "Canaltech IA",
-      "content": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três semanas depois de o governo ter suspendido o acesso aos dois sistemas por risco à segurança nacional. Segundo a Reuters, o acesso ao Fable 5 será restaurado a partir desta quarta-feira (1º) , ficando disponível ao público em geral. Já o Mythos 5, direcionado à detecção de vulnerabilidades de cibersegurança, será liberado para um grupo maior de parceiros domésticos e internacionais do programa Glasswing, da Anthropic. Como começou a restrição Em 12 de junho, o governo americano incluiu os dois modelos em sua lista de tecnologias sob controle de exportação , impedindo o acesso de estrangeiros sem aprovação especial . Como a Anthropic não tinha como verificar a nacionalidade dos usuários em tempo real, a companhia optou por suspender o Fable 5 e o Mythos 5 para todo mundo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A decisão, segundo a Reuters, partiu de uma denúncia de pesquisadores da Amazon , que encontraram uma forma de contornar as proteções do Fable 5. Com essa brecha, o modelo passou a identificar falhas de software e, em um dos casos registrados, chegou a gerar código demonstrando como explorar uma vulnerabilidade. No último domingo (28), o governo abriu uma primeira exceção , permitindo o uso do Mythos 5 por organizações selecionadas e por funcionários da própria Anthropic, incluindo estrangeiros vinculados a esses grupos. O Fable 5 seguia fora do ar até esta terça. O Claude é, atualmente, a terceira IA mais utilizada no mundo (Imagem: Marcelo Fischer/Canaltech) Por que são modelos tão perigosos O Mythos 5 concentra as capacidades que mais preocupam o governo american",
-      "lang": "pt",
-      "depts": []
     }
   ]
 }
