@@ -1,33 +1,91 @@
 {
-  "updatedAt": "2026-10-06T16:22:02.371Z",
+  "updatedAt": "2026-10-07T17:05:06.935Z",
   "count": 40,
   "articles": [
     {
-      "title": "A Anthropic está dando às startups um ano grátis do Claude Team e US$ 1.000 em créditos",
-      "description": "“Criamos este programa porque acreditamos que os benefícios da IA ​​chegarão à maioria das pessoas através das empresas que constroem com base em modelos, e não apenas através dos modelos.”",
-      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
-      "publishedAt": "Tue, 06 Oct 2026 16:00:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "“Criamos este programa porque acreditamos que os benefícios da IA ​​chegarão à maioria das pessoas através das empresas que constroem com base em modelos, e não apenas através dos modelos.”",
-      "lang": "en",
-      "depts": [
-        "Financeiro"
-      ]
-    },
-    {
-      "title": "OpenAI começará a colocar marca d'água no texto do ChatGPT na UE",
-      "description": "A OpenAI colocará uma marca d'água no texto do ChatGPT e do Codex na UE para cumprir a Lei de IA. A edição pode tornar as marcas invisíveis mais difíceis de detectar, diz.",
-      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-      "publishedAt": "Mon, 05 Oct 2026 20:36:48 +0000",
+      "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+      "description": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
+      "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+      "publishedAt": "Wed, 07 Oct 2026 16:53:46 +0000",
       "image": null,
       "source": "TechCrunch AI",
       "content": null,
       "lang": "en",
       "depts": [
         "Marketing",
+        "Comercial",
         "Jurídico"
       ]
+    },
+    {
+      "title": "Mundo deveria aceitar algumas coisas ruins da IA, diz Altman",
+      "description": "CEO da OpenAI afirma que erradicar totalmente golpes e invasões limitaria o potencial da tecnologia. Mundo deveria aceitar algumas coisas ruins da IA, diz Altman",
+      "url": "https://tecnoblog.net/noticias/mundo-deveria-aceitar-algumas-coisas-ruins-da-ia-diz-altman/",
+      "publishedAt": "Wed, 07 Oct 2026 15:16:09 +0000",
+      "image": "https://www.youtube.com/embed/2OOHnaGTQFg",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+      "description": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
+      "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+      "publishedAt": "Wed, 07 Oct 2026 14:30:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Google Playground permite criar jogos sem saber programar",
+      "description": "Google Playground funciona como um chatbot de IA, só que direcionado à criação de games. Google Playground permite criar jogos sem saber programar",
+      "url": "https://tecnoblog.net/noticias/google-playground-permite-criar-jogos-sem-saber-programar/",
+      "publishedAt": "Wed, 07 Oct 2026 14:18:54 +0000",
+      "image": "https://www.youtube.com/embed/Dxvrvfyicp0",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
+      "description": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
+      "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
+      "publishedAt": "Wed, 07 Oct 2026 14:15:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
+      "lang": "en",
+      "depts": [
+        "Gestão"
+      ]
+    },
+    {
+      "title": "Mirror Particle is building a ‘world model’ of human behavior",
+      "description": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
+      "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+      "publishedAt": "Tue, 06 Oct 2026 16:35:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
+      "lang": "en",
+      "depts": [
+        "Marketing"
+      ]
+    },
+    {
+      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+      "description": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
+      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "publishedAt": "Tue, 06 Oct 2026 16:00:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
+      "lang": "en",
+      "depts": []
     },
     {
       "title": "OpenAI anuncia marca-d’água invisível para textos do ChatGPT",
@@ -40,20 +98,6 @@
       "lang": "pt",
       "depts": [
         "Marketing"
-      ]
-    },
-    {
-      "title": "Reflection estreia Beam, um modelo de IA de peso aberto para rivalizar com os modelos chineses com menor custo de computação",
-      "description": "A reflexão visa o Beam e modelos futuros para empresas e nações soberanas. A proposta é construir “fábricas de IA”, um produto que permitiria às instituições construir seu próprio sistema de IA local e personalizado, treinando os modelos de IA da Reflection em seus próprios dados proprietários.",
-      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-      "publishedAt": "Mon, 05 Oct 2026 19:33:53 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "A reflexão visa o Beam e modelos futuros para empresas e nações soberanas. A proposta é construir “fábricas de IA”, um produto que permitiria às instituições construir seu próprio sistema de IA local e personalizado, treinando os modelos de IA da Reflection em seus próprios dados proprietários.",
-      "lang": "en",
-      "depts": [
-        "Financeiro",
-        "Comercial"
       ]
     },
     {
@@ -81,87 +125,11 @@
       "depts": []
     },
     {
-      "title": "O entrevistador de IA do HackerRank oferece uma ideia do que as entrevistas de emprego podem se tornar",
-      "description": "O entrevistador de IA do HackerRank já conduziu mais de 500.000 entrevistas, com Snowflake, Snorkel e Capgemini entre seus primeiros testadores.",
-      "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
-      "publishedAt": "Mon, 05 Oct 2026 16:43:35 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "RH"
-      ]
-    },
-    {
       "title": "Anthropic chama polícia após mulher ameaçar ataque em conversa",
       "description": "Mulher foi presa na Flórida após supostas ameaças registradas no chatbot Claude. Anthropic chama polícia após mulher ameaçar ataque em conversa",
       "url": "https://tecnoblog.net/noticias/anthropic-chama-policia-apos-mulher-ameacar-ataque-em-conversa-com-claude/",
       "publishedAt": "Mon, 05 Oct 2026 16:04:04 +0000",
       "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-2.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "OpenAI lança anúncios visuais que aparecem ao lado dos resultados de geração de imagens",
-      "description": "Os novos anúncios começarão a aparecer no final deste mês nos EUA, por enquanto, e apresentarão produtos e serviços de um grupo de teste inicial de anunciantes.",
-      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-      "publishedAt": "Mon, 05 Oct 2026 15:14:24 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Os novos anúncios começarão a aparecer no final deste mês nos EUA, por enquanto, e apresentarão produtos e serviços de um grupo de teste inicial de anunciantes.",
-      "lang": "en",
-      "depts": [
-        "Marketing",
-        "Comercial"
-      ]
-    },
-    {
-      "title": "Apple vai dificultar acesso aos dados do Mac por causa da IA",
-      "description": "Mudança no Acesso Total ao Disco busca reforçar a segurança diante de agentes de inteligência artificial. Apple vai dificultar acesso aos dados do Mac por causa da IA",
-      "url": "https://tecnoblog.net/noticias/apple-vai-dificultar-controle-de-acesso-aos-dados-do-mac-por-causa-da-ia/",
-      "publishedAt": "Mon, 05 Oct 2026 13:15:37 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/04/Capa-TBR-MacOS.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "OpenAI demite pesquisadores por suposto vazamento de dados",
-      "description": "Funcionários teriam compartilhado dados confidenciais com uma organização externa de segurança de IA. OpenAI demite pesquisadores por suposto vazamento de dados",
-      "url": "https://tecnoblog.net/noticias/openai-demite-pesquisadores-por-suposto-vazamento-de-dados/",
-      "publishedAt": "Fri, 02 Oct 2026 19:41:17 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/sam-altman-3-capa.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "RH",
-        "Gestão"
-      ]
-    },
-    {
-      "title": "YouTube vai complicar a vida de quem vive de cortes de outros canais",
-      "description": "YouTube atualizou algoritmos do Shorts para reduzir o alcance de vídeos que apenas republicam trechos do conteúdo de outros criadores. YouTube vai complicar a vida de quem vive de cortes de outros canais",
-      "url": "https://tecnoblog.net/noticias/youtube-vai-complicar-a-vida-de-quem-vive-de-cortes-de-outros-canais/",
-      "publishedAt": "Fri, 02 Oct 2026 18:46:53 +0000",
-      "image": "https://www.youtube.com/embed/XS2A6aExLaA",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Marketing"
-      ]
-    },
-    {
-      "title": "Apple pode lançar câmera residencial com IA (mas que não grava vídeos)",
-      "description": "Dispositivo analisaria o ambiente e descreveria eventos em texto. Câmera faria parte do novo ecossistema de casa inteligente da Apple. Apple pode lançar câmera residencial com IA (mas que não grava vídeos)",
-      "url": "https://tecnoblog.net/noticias/apple-pode-lancar-camera-residencial-com-ia-mas-que-nao-grava-videos/",
-      "publishedAt": "Fri, 02 Oct 2026 14:47:03 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/02/camera-seguranca-monitoramento.jpg",
       "source": "Tecnoblog",
       "content": null,
       "lang": "pt",
@@ -551,6 +519,32 @@
         "Marketing",
         "Comercial"
       ]
+    },
+    {
+      "title": "Por que o próximo ciclo computacional precisa ser construído para todos",
+      "description": "Nos últimos três anos, a capacidade computacional global dedicada à inteligência artificial cresceu aproximadamente 100 vezes . É uma das revoluções tecnológicas mais impactantes das últimas décadas. A IA já chegou indiscutivelmente. Mas a questão que surge agora é: ela está acessível a todos? De um",
+      "url": "https://canaltech.com.br/colunas/por-que-o-proximo-ciclo-computacional-precisa-ser-construido-para-todos/",
+      "publishedAt": "Thu, 02 Jul 2026 10:43:03 -0300",
+      "image": "https://t.ctcdn.com.br/nZ6sNq7PsgAB4H-oy5G3Tk3upoA=/700x394/smart/i1003705.png",
+      "source": "Canaltech IA",
+      "content": "Nos últimos três anos, a capacidade computacional global dedicada à inteligência artificial cresceu aproximadamente 100 vezes . É uma das revoluções tecnológicas mais impactantes das últimas décadas. A IA já chegou indiscutivelmente. Mas a questão que surge agora é: ela está acessível a todos? De um lado, temos modelos cada vez mais capazes, infraestruturas de bilhões de dólares, parcerias entre algumas das maiores empresas do planeta. De outro, desenvolvedores independentes, pesquisadores em países emergentes, startups sem acesso a crédito cloud e laboratórios universitários com acesso limitado. O próximo ciclo computacional pode encontrar caminhos para solucionar essa assimetria. O problema não é só hardware Quando falamos em democratizar a IA, GPUs e custos de treinamento são pontos importantes, mas há um gargalo além do hardware: a dependência de ecossistemas fechados que prendem desenvolvedores a plataformas específicas e concentram o poder de inovação nas mãos de poucos. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A analogia com o software é útil aqui. O movimento open source levou décadas para amadurecer, mas hoje a infraestrutura que sustenta a internet é majoritariamente aberta . Isso porque a inovação aberta com frequência se mostrou altamente resiliente e amplamente adotada em comparação com alternativas proprietárias. A IA está no começo do mesmo caminho. Plataformas abertas saltaram de nichos experimentais para infraestrutura de produção em escala global. Um pesquisador no Brasil, na Índia ou na Nigéria pode acessar hoje muitas das mesmas ferramentas utilizadas por grandes centros de tecnologia — desde que disponha de recursos de hardware adequados . A IA que mora no seu dispositivo Outra transformação relevante: a migração da IA da nuvem para o dispositivo. Processadores modernos com NPUs integradas permitem rodar inteligência artificial localmente , sem",
+      "lang": "pt",
+      "depts": [
+        "Financeiro",
+        "Comercial",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Fable e Mythos 5: governo Trump libera IAs mais perigosas da Anthropic",
+      "description": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três s",
+      "url": "https://canaltech.com.br/inteligencia-artificial/fable-e-mythos-5-governo-trump-libera-ias-mais-perigosas-da-anthropic/",
+      "publishedAt": "Wed, 01 Jul 2026 12:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/Am6VaUx8jmQtCNJCxA_znmbrltc=/700x394/smart/i1107289.png",
+      "source": "Canaltech IA",
+      "content": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três semanas depois de o governo ter suspendido o acesso aos dois sistemas por risco à segurança nacional. Segundo a Reuters, o acesso ao Fable 5 será restaurado a partir desta quarta-feira (1º) , ficando disponível ao público em geral. Já o Mythos 5, direcionado à detecção de vulnerabilidades de cibersegurança, será liberado para um grupo maior de parceiros domésticos e internacionais do programa Glasswing, da Anthropic. Como começou a restrição Em 12 de junho, o governo americano incluiu os dois modelos em sua lista de tecnologias sob controle de exportação , impedindo o acesso de estrangeiros sem aprovação especial . Como a Anthropic não tinha como verificar a nacionalidade dos usuários em tempo real, a companhia optou por suspender o Fable 5 e o Mythos 5 para todo mundo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A decisão, segundo a Reuters, partiu de uma denúncia de pesquisadores da Amazon , que encontraram uma forma de contornar as proteções do Fable 5. Com essa brecha, o modelo passou a identificar falhas de software e, em um dos casos registrados, chegou a gerar código demonstrando como explorar uma vulnerabilidade. No último domingo (28), o governo abriu uma primeira exceção , permitindo o uso do Mythos 5 por organizações selecionadas e por funcionários da própria Anthropic, incluindo estrangeiros vinculados a esses grupos. O Fable 5 seguia fora do ar até esta terça. O Claude é, atualmente, a terceira IA mais utilizada no mundo (Imagem: Marcelo Fischer/Canaltech) Por que são modelos tão perigosos O Mythos 5 concentra as capacidades que mais preocupam o governo american",
+      "lang": "pt",
+      "depts": []
     }
   ]
 }
