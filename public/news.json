@@ -1,7 +1,95 @@
 {
-  "updatedAt": "2026-10-07T17:05:06.935Z",
+  "updatedAt": "2026-10-08T17:04:30.248Z",
   "count": 40,
   "articles": [
+    {
+      "title": "Gemini fora do ar? Serviço exibe mensagens de erro nesta quinta-feira",
+      "description": "Falha faz Gemini mostrar mensagem \"algo deu errado, tende de novo (1155)\" ou responder que não pode realizar a tarefa. Gemini fora do ar? Serviço exibe mensagens de erro nesta quinta-feira",
+      "url": "https://tecnoblog.net/noticias/gemini-fora-do-ar-servico-exibe-mensagens-de-erro-nesta-quinta-feira/",
+      "publishedAt": "Thu, 08 Oct 2026 16:44:36 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capas-google-gemini-2026-1.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Comercial",
+        "Gestão"
+      ]
+    },
+    {
+      "title": "Cal AI s 19-year-old founder just raised $10M for his new AI startup",
+      "description": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
+      "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+      "publishedAt": "Thu, 08 Oct 2026 14:00:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Windows coloca IA até na barra de busca",
+      "description": "Nova interface da Microsoft permite alterar configurações, enviar mensagens e conversar com o Copilot sem abrir outros aplicativos. Windows coloca IA até na barra de busca",
+      "url": "https://tecnoblog.net/noticias/microsoft-coloca-copilot-e-ia-ate-na-barra-de-busca-do-windows/",
+      "publishedAt": "Wed, 07 Oct 2026 22:25:40 +0000",
+      "image": "https://www.youtube.com/embed/Nj5KL9yDlwE",
+      "source": "Tecnoblog",
+      "content": "Nova atualização permitirá interações em língua natural com a barra de busca (imagem: reprodução/Microsoft) Resumo A Microsoft atualizou a barra de busca do Windows 11 com uma nova interface que permite buscas em linguagem natural, alteração de configurações e envio de mensagens sem precisar abrir outros aplicativos. A nova experiência de busca permite controlar recursos do PC e conversar com o Copilot, que agora possui um aplicativo dedicado no Windows. O Hybrid Intelligence, sistema que combina modelos de IA locais e em nuvem, será liberado gradualmente para PCs compatíveis ao longo dos próximos meses. A Microsoft apresentou uma nova experiência para a barra de busca do Windows 11. A novidade permitirá buscas com texto em linguagem natural e execução de ações no próprio campo de pesquisa, possibilitando, além da localização de arquivos, controlar recursos do PC e conversar com o Copilot . A empresa anunciou a atualização durante o evento da linha Surface, em São Francisco, nos Estados Unidos. A Microsoft também apresentou o Hybrid Intelligence, que combina modelos de IA locais com processamento na nuvem, conforme cada necessidade. De acordo com o Engadget , a nova experiência de busca do Windows 11 começará a ser distribuída durante o outono do Hemisfério Norte, período que termina em dezembro. Já os recursos do Copilot baseados no Hybrid Intelligence serão liberados gradualmente para PCs compatíveis ao longo dos próximos meses. Como é a busca compatível com linguagem natural? O vice-presidente executivo de Windows e Dispositivos da Microsoft, Pavan Davuluri, demonstrou a nova interface durante o evento. Ele explicou que os usuários poderão encontrar conteúdos e executar ações a partir do mesmo campo de pesquisa. Existe a possibilidade de controlar o volume do microfone e ligar o modo escuro, por exemplo. Esses ajustes normalmente são manuais, nas configurações do sistema. Um outro exemplo, mais simples, mostra como a barra de pesquisa consegue entender o pedido do usuário sem fazer uma pesquisa exata. No vídeo, o Windows ativa o modo Não Perturbe com um simples comando de dnd on ( do not disturb on). Barra deve integrar funcionalidades com celulares conectados ao Windows (imagem: reprodução/Microsoft) A busca também poderá acessar funções de dispositivos conectados ao computador. Caso um celular esteja sincronizado, por exemplo, será possível pedir o envio de uma mensagem sem abrir outro app. O Copilot também estará presente de forma nativa na barra de busca, mesmo tendo um aplicativo dedicado no Windows. “Para tornar a IA parte da vida cotidiana, precisamos levá-la aos locais que as pessoas mais utilizam, no fluxo da ambição humana”, afirmou Davuluri durante o evento. Hybrid Intelligence combina IA local e nuvem Hybrid Intelligence deve otimizar consumo de tokens de IAs locais (imagem: reprodução/Microsoft) Durante o evento, a Microsoft apresentou o Hybrid Intelligence, um sistema que determinará se uma tarefa de IA deve ser executada por modelos locais, rodando diretamente no computador, ou por modelos em nuvem. A ideia é otimizar o consumo de tokens, destinando tarefas mais complexas para ferramentas online. Com o recurso ativado, o app do Copilot ganha permissão para consultar arquivos e interagir com configurações e outros aplicativos da máquina. Tarefas mais complexas devem continuar sendo direcionadas para a nuvem, mas aquelas com maior custo de processamento ou que envolvam arquivos privados serão executadas no próprio PC. A empresa afirma que a arquitetura também estará disponível para desenvolvedores que criarem aplicativos para o Windows. A execução de agentes locais será isolada por meio dos Microsoft Execution Containers (MXC). A tecnologia cria ambientes separados para limitar o acesso desses sistemas a outras partes do computador durante a execução de tarefas. A Microsoft demonstrou, também, o uso da funcionalidade com o Autopilot, capaz de executar tarefas a partir de arquivos armazenados no computador. Segundo o Engadget, todo o processamento do exemplo realizado foi local, sem o envio dos documentos para a internet. Windows coloca IA até na barra de busca",
+      "lang": "pt",
+      "depts": [
+        "Educação"
+      ]
+    },
+    {
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "description": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "publishedAt": "Wed, 07 Oct 2026 20:22:37 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Pais usam ChatGPT para criar fotos escolares dos filhos",
+      "description": "Famílias recorrem à inteligência artificial para fugir dos preços praticados por fotógrafos profissionais. Pais usam ChatGPT para criar fotos escolares dos filhos",
+      "url": "https://tecnoblog.net/noticias/pais-usam-chatgpt-para-criar-fotos-escolares-dos-filhos/",
+      "publishedAt": "Wed, 07 Oct 2026 19:34:26 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/10/pexels-mikhail-nilov-6973111-edited.jpg",
+      "source": "Tecnoblog",
+      "content": "Imagens repetem estilo de fotos clássicas tiradas em escolas nos EUA (imagem: Pexels/Mikhail Nilov) Resumo Pais nos EUA têm usado o ChatGPT para criar fotos escolares dos filhos com IA, fugindo dos preços altos dos fotógrafos profissionais. As fotos escolares tradicionais são caras, com pacotes podendo ultrapassar US$ 100 para famílias com mais de uma criança. A prática também envolve remover marcas d\\ água de prévias fornecidas por fotógrafos, mas isso pode violar direitos autorais. Pais nos Estados Unidos estão usando ferramentas de inteligência artificial para criar, em casa, retratos semelhantes às tradicionais fotos escolares dos filhos. A prática busca reduzir os gastos com os pacotes vendidos por fotógrafos profissionais, que podem ultrapassar US$ 100 (cerca de R$ 500) para famílias com mais de uma criança. Segundo o site Futurism , alguns responsáveis estão fotografrando os filhos em casa para pedir que a IA reproduza o enquadramento e os fundos usados nas sessões feitas nas escolas. Os resultados são publicados em redes sociais como o TikTok. Familiares recriam fotos escolares com IA As fotos escolares são uma tradição comum nos Estados Unidos, em que fotógrafos contratados pelas próprias instituições fazem retratos dos estudantes e oferecem os álbuns às famílias. Entre os casos divulgados nas redes está o da criadora Carlie Bond , que fotografou os três filhos contra uma parede lisa e enviou as imagens ao ChatGPT. No prompt, ela pede que a ferramenta matenha a aparência das crianças e adicione o fundo azul em degradê comum nesse tipo de retrato. Fotos escolares para três crianças? Nesta economia? , escreveu na publicação. @carlieb0nd School pictures x3 kids?? In this economy? So we took our own and let my good friend Chat help us out And honestly… I’m not mad about how they turned out #SchoolPictures #MomHack #MomOfFour #ChatGPT #MomLife ♬ Bow Bow Bow Zeddy Will Os comentários da postagem de Bond se dividem entre pais que relatam os mesmos gastos elevados e que outros pontuam os riscos de usar imagens das crianças no chatbot. Para os últimos, usar as mesmas imagens em fundo branco e edita-las em ferramentas de edição, como o Canva (que permite gerar uma imagem de fundo, por exemplo), seria uma opção melhor. No Brasil, a tendência chegou para momentos mais tardios, como fotos de formatura da universidade, pelo mesmo motivo: o preço. Para alguns usuários, a ferramenta virou uma oportunidade para recriar o momento e enviar para familiares que não puderam estar presentes. IA também é usada para remover marcas d’água Além de produzir novas imagens, alguns usuários estão recorrendo às ferramentas para retirar marcas d água das prévias fornecidas pelos fotógrafos. Segundo o site Dexerto , há casos de pais usando IAs para apagar as marcas e obter as fotografias sem pagar. Aqui, é importante pontuar que a prática pode configurar violação de direitos autorais. Os próprios modelos de IA, no entanto, costumam barrar a geração desse tipo de imagem: o ChatGPT geralmente avisa que não pode remover a marca d água poir apagaria uma identificação de direitos autorais , e sugere a geração de uma imagem parecida, seguindo a mesma proposta. Em todo caso, alguns dos vídeos também mostram limitações no uso da IA para recriar os retratos. Alguns pais relatam que os modelos modificam características do rosto das crianças mesmo após receberam comandos para preservar a aparência — algo comum em modelos de imagem desde que se tornaram populares. Pais usam ChatGPT para criar fotos escolares dos filhos",
+      "lang": "pt",
+      "depts": [
+        "Marketing",
+        "Jurídico",
+        "Educação"
+      ]
+    },
+    {
+      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+      "description": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+      "publishedAt": "Wed, 07 Oct 2026 18:15:28 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+      "lang": "en",
+      "depts": [
+        "Saúde"
+      ]
+    },
+    {
+      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+      "description": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+      "publishedAt": "Wed, 07 Oct 2026 18:00:19 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
     {
       "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
       "description": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
@@ -62,78 +150,6 @@
       "depts": [
         "Gestão"
       ]
-    },
-    {
-      "title": "Mirror Particle is building a ‘world model’ of human behavior",
-      "description": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
-      "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
-      "publishedAt": "Tue, 06 Oct 2026 16:35:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
-      "lang": "en",
-      "depts": [
-        "Marketing"
-      ]
-    },
-    {
-      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-      "description": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
-      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
-      "publishedAt": "Tue, 06 Oct 2026 16:00:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "OpenAI anuncia marca-d’água invisível para textos do ChatGPT",
-      "description": "Tecnologia textGrainm começará a funcionar no ChatGPT e Codex da União Europeia nesta fase inicial. OpenAI anuncia marca-d’água invisível para textos do ChatGPT",
-      "url": "https://tecnoblog.net/noticias/openai-anuncia-marca-dagua-invisivel-para-textos-do-chatgpt/",
-      "publishedAt": "Mon, 05 Oct 2026 19:44:32 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-1_capa.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Marketing"
-      ]
-    },
-    {
-      "title": "ChatGPT começa a testar anúncios com imagens",
-      "description": "Novo formato será testado de início durante a geração de imagens; OpenAI afirma que publicidade continuará separada das respostas. ChatGPT começa a testar anúncios com imagens",
-      "url": "https://tecnoblog.net/noticias/chatgpt-comeca-a-testar-anuncios-com-imagens/",
-      "publishedAt": "Mon, 05 Oct 2026 18:20:05 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/sam-altman-3-capa.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Marketing"
-      ]
-    },
-    {
-      "title": "Gemini vai ficar mais limitado para usuários de contas gratuitas",
-      "description": "Gemini gratuito deixará de oferecer os modelos Flash e Pro, ficando limitado ao Flash Lite. Também haverá mudanças no Google AI Plus. Gemini vai ficar mais limitado para usuários de contas gratuitas",
-      "url": "https://tecnoblog.net/noticias/gemini-vai-ficar-mais-limitado-para-usuarios-de-contas-gratuitas/",
-      "publishedAt": "Mon, 05 Oct 2026 17:58:14 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capas-google-gemini-2026-1.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "Anthropic chama polícia após mulher ameaçar ataque em conversa",
-      "description": "Mulher foi presa na Flórida após supostas ameaças registradas no chatbot Claude. Anthropic chama polícia após mulher ameaçar ataque em conversa",
-      "url": "https://tecnoblog.net/noticias/anthropic-chama-policia-apos-mulher-ameacar-ataque-em-conversa-com-claude/",
-      "publishedAt": "Mon, 05 Oct 2026 16:04:04 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-2.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
     },
     {
       "title": "8 prompts para conversar com voz no ChatGPT",
@@ -534,17 +550,6 @@
         "Comercial",
         "Educação"
       ]
-    },
-    {
-      "title": "Fable e Mythos 5: governo Trump libera IAs mais perigosas da Anthropic",
-      "description": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três s",
-      "url": "https://canaltech.com.br/inteligencia-artificial/fable-e-mythos-5-governo-trump-libera-ias-mais-perigosas-da-anthropic/",
-      "publishedAt": "Wed, 01 Jul 2026 12:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/Am6VaUx8jmQtCNJCxA_znmbrltc=/700x394/smart/i1107289.png",
-      "source": "Canaltech IA",
-      "content": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três semanas depois de o governo ter suspendido o acesso aos dois sistemas por risco à segurança nacional. Segundo a Reuters, o acesso ao Fable 5 será restaurado a partir desta quarta-feira (1º) , ficando disponível ao público em geral. Já o Mythos 5, direcionado à detecção de vulnerabilidades de cibersegurança, será liberado para um grupo maior de parceiros domésticos e internacionais do programa Glasswing, da Anthropic. Como começou a restrição Em 12 de junho, o governo americano incluiu os dois modelos em sua lista de tecnologias sob controle de exportação , impedindo o acesso de estrangeiros sem aprovação especial . Como a Anthropic não tinha como verificar a nacionalidade dos usuários em tempo real, a companhia optou por suspender o Fable 5 e o Mythos 5 para todo mundo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A decisão, segundo a Reuters, partiu de uma denúncia de pesquisadores da Amazon , que encontraram uma forma de contornar as proteções do Fable 5. Com essa brecha, o modelo passou a identificar falhas de software e, em um dos casos registrados, chegou a gerar código demonstrando como explorar uma vulnerabilidade. No último domingo (28), o governo abriu uma primeira exceção , permitindo o uso do Mythos 5 por organizações selecionadas e por funcionários da própria Anthropic, incluindo estrangeiros vinculados a esses grupos. O Fable 5 seguia fora do ar até esta terça. O Claude é, atualmente, a terceira IA mais utilizada no mundo (Imagem: Marcelo Fischer/Canaltech) Por que são modelos tão perigosos O Mythos 5 concentra as capacidades que mais preocupam o governo american",
-      "lang": "pt",
-      "depts": []
     }
   ]
 }
