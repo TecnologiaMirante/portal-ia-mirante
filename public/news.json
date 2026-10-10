@@ -1,7 +1,53 @@
 {
-  "updatedAt": "2026-10-09T16:42:28.588Z",
+  "updatedAt": "2026-10-10T15:38:13.846Z",
   "count": 40,
   "articles": [
+    {
+      "title": "Anthropic can t reliably control its AI agents. It s cutting off its internal evals from the live internet instead",
+      "description": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "publishedAt": "Sat, 10 Oct 2026 00:18:32 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "TV TCL C7L 65” registra o menor preço desde lançamento em oferta no Magalu",
+      "description": "Smart TV 4K TCL C7L 65\" traz painel com Mini LED bom para jogos e tem Gemini integrado; preço baixa 24% com o cupom RESSACA200 TV TCL C7L 65” registra o menor preço desde lançamento em oferta no Magalu",
+      "url": "https://tecnoblog.net/achados/tv-tcl-c7l-65-registra-o-menor-preco-desde-lancamento-em-oferta-no-magalu/",
+      "publishedAt": "Fri, 09 Oct 2026 22:21:45 +0000",
+      "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2026/10/smart-tv-tcl-c7k-imagem-divulgacao-2-1060x596.png",
+      "source": "Tecnoblog",
+      "content": "RESSACA200 29% OFF Ver preço Smart TV TCL SQD-Mini LED 65C7L R$ 5.490,67 R$ 7.699,00 29% OFF Prós Tecnologia Mini LED avançada Baixo input lag para jogos Gemini integrado Menor risco de burn-in Contras Exige salas maiores pelo tamanho Preço superior ao de TVs LCD comuns PIX Cupom RESSACA200 29% OFF Ver preço Participe dos canais de ofertas do Achados do TB WhatsApp Telegram A smart TV TCL SQD-Mini LED 65C7L está em promoção no Magazine Luiza por R$ 5.490 no Pix, usando o cupom RESSACA200 . Essa é uma excelente oportunidade para adquirir um televisor premium de tela gigante com 29% de desconto sobre o preço original de R$ 7.699. O modelo se destaca pelo excelente custo-benefício entre as TVs avançadas. A tecnologia Mini LED oferece qualidade de imagem superior ao dos painéis LCD comuns, mas com brilho superior e menor risco de burn-in em relação ao OLED. TCL C7L traz painel com Mini LED bom para jogos Smart TV TCL C7L (imagem: Divulgação) Sucessora da TCL C7K , a C7L conta com resolução 4K para reproduzir imagens em alta qualidade e tecnologia SQD- Mini LED para garantir pretos profundos com ótimo contraste. Seu processador AIPQ Pro Quad Core fica responsável pela otimização de cores em tempo real, com base no conteúdo em tela. Para os gamers, a taxa de atualização de 144 Hz e o baixo input lag de 6,5 ms asseguram uma jogabilidade fluida e sem atrasos nos jogos quando a TV é conectada a consoles como Nintendo Switch e PlayStation 5. As quatro portas HDMI facilitam a conexão de múltiplos aparelhos sem perda de qualidade de sinal. Outras possibilidades de conectividade com o televisor incluem Bluetooth 5.4, que garante conexões estáveis com fones de ouvido, Wi-Fi 5 e Google Cast integrado. No áudio, as tecnologia do Dolby Atmos e de calibração deixam o áudio mais imersivo e tridimensional. Smart TV TCL C7L (imagem: Divulgação) Por fim, seu software do Google TV disponível permite que você navegue por sistemas de streaming e canais de conteúdo usando comandos de voz. Além disso, o sistema tem acesso ao Google Gemini, podendo fazer recomendações de conteúdo e responder perguntas do usuário. Aproveite a promoção para comprar a smart TV 4K TCL C7L por apenas R$ 5.490 no Pix com o cupom RESSACA200 . Lembrando que o desconto é de 29%, e o melhor desde o lançamento deste modelo. Aviso de ética: ao clicar em um link de afiliado, o preço não muda para você e recebemos uma comissão. TV TCL C7L 65” registra o menor preço desde lançamento em oferta no Magalu",
+      "lang": "pt",
+      "depts": [
+        "Financeiro"
+      ]
+    },
+    {
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "description": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "publishedAt": "Fri, 09 Oct 2026 21:41:29 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "description": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "publishedAt": "Fri, 09 Oct 2026 19:36:56 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
     {
       "title": "Claude Haiku 5.5: Anthropic lança modelo de IA mais rápido e barato",
       "description": "Nova inteligência pode custar 95% menos que o Sonnet 5.5 e empresa fala em desempenho superior ao GPT-6 Luna. Claude Haiku 5.5: Anthropic lança modelo de IA mais rápido e barato",
@@ -135,17 +181,6 @@
       ]
     },
     {
-      "title": "Cal AI s 19-year-old founder just raised $10M for his new AI startup",
-      "description": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
-      "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
-      "publishedAt": "Thu, 08 Oct 2026 14:00:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
-      "lang": "en",
-      "depts": []
-    },
-    {
       "title": "Windows coloca IA até na barra de busca",
       "description": "Nova interface da Microsoft permite alterar configurações, enviar mensagens e conversar com o Copilot sem abrir outros aplicativos. Windows coloca IA até na barra de busca",
       "url": "https://tecnoblog.net/noticias/microsoft-coloca-copilot-e-ia-ate-na-barra-de-busca-do-windows/",
@@ -157,17 +192,6 @@
       "depts": [
         "Educação"
       ]
-    },
-    {
-      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-      "description": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
-      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-      "publishedAt": "Wed, 07 Oct 2026 20:22:37 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
     },
     {
       "title": "Pais usam ChatGPT para criar fotos escolares dos filhos",
@@ -508,37 +532,6 @@
       "depts": [
         "Financeiro",
         "Gestão",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Governo Federal lança matriz de competências para uso de IA",
-      "description": "O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) divulgou, na última semana, a Matriz de Competências em Inteligência Artificial do Governo do Brasil . O documento vai orientar os cursos e treinamentos oferecidos a servidores federais sobre o uso da tecnologia, com eixos voltados à ét",
-      "url": "https://canaltech.com.br/inteligencia-artificial/governo-federal-lanca-matriz-de-competencias-para-uso-de-ia/",
-      "publishedAt": "Fri, 03 Jul 2026 19:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/kzQDM-16SY2FIYKPRKkiU42iGYs=/700x394/smart/i1140307.png",
-      "source": "Canaltech IA",
-      "content": "O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) divulgou, na última semana, a Matriz de Competências em Inteligência Artificial do Governo do Brasil . O documento vai orientar os cursos e treinamentos oferecidos a servidores federais sobre o uso da tecnologia, com eixos voltados à ética, segurança, privacidade e soberania digital. A publicação é do Núcleo de Inteligência Artificial (NIA), iniciativa da Secretaria de Governo Digital (SGD) para apoiar a adoção de IA no Poder Executivo Federal. A matriz passa a nortear todas as capacitações conduzidas pelo núcleo. Mais de 167 mil servidores já foram capacitados Segundo o secretário de Governo Digital, Rogério Mascarenhas, ao menos 167 mil servidores já concluíram alguma capacitação dos programas do ministério. Para ele, o número demonstra interesse crescente pelo uso da tecnologia no serviço público. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Mascarenhas afirma que a matriz foi criada para orientar o desenvolvimento de novos cursos e identificar lacunas de competência em cada perfil de servidor. O secretário também classificou o documento como inovador e disse que ele pode servir de referência para outros países e para empresas privadas. Seis perfis de servidores e onze programas de formação O MGI dividiu o público-alvo das capacitações em seis perfis: agente público, gestor de TIC, gestor público, executivo de dados, curador de dados e altas lideranças. Cada perfil tem competências específicas a desenvolver, conforme a rotina de trabalho ou o nível de decisão sobre o uso da tecnologia no órgão. As formações somam 11 programas, oferecidos pela Escola Virtual de Governo (EV.G), vinculada à Escola Nacional de Administração Pública (Enap), em parceria com o Serpro. Os cursos são gratuitos, a distância e abertos a qualquer servidor, e abrangem temas como IA generativa, ética em IA, proteção de dados pessoais",
-      "lang": "pt",
-      "depts": [
-        "Comercial",
-        "Jurídico",
-        "Gestão",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Novo app da Meta mostra criações feitas por vibe coding",
-      "description": "A Meta lançou silenciosamente o Pocket , um novo aplicativo para criar e compartilhar pequenos jogos e experiências interativas, chamados de \"gizmos\", usando comandos de inteligência artificial. O app já está disponível na App Store e no Google Play, mas a empresa ainda não fez um anúncio sobre o la",
-      "url": "https://canaltech.com.br/inteligencia-artificial/novo-app-da-meta-mostra-criacoes-feitas-por-vibe-coding/",
-      "publishedAt": "Fri, 03 Jul 2026 17:10:00 -0300",
-      "image": "https://t.ctcdn.com.br/o35a_R-0f5b8pzB7LdM_9qhgmOE=/700x394/smart/i1140309.png",
-      "source": "Canaltech IA",
-      "content": "A Meta lançou silenciosamente o Pocket , um novo aplicativo para criar e compartilhar pequenos jogos e experiências interativas, chamados de \"gizmos\", usando comandos de inteligência artificial. O app já está disponível na App Store e no Google Play, mas a empresa ainda não fez um anúncio sobre o lançamento, o que sugere que a ferramenta pode estar em fase inicial de testes. O aplicativo foi descoberto e divulgado primeiro no X por Alessandro Paluzzi, engenheiro reverso conhecido por encontrar novos aplicativos e recursos antes dos anúncios oficiais. Segundo dados da Appfigures, no entanto, o Pocket já estava disponível nas lojas desde 29 de junho. #Meta is working on a new app called Pocket 👀 ℹ️ A new creative platform to make and share gizmos. pic.twitter.com/zFjMU5jj1U - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - — Alessandro Paluzzi (@alex193a) July 2, 2026 O Pocket usa prompts de texto para gerar conteúdos interativos . Assim, até pessoas sem conhecimento em programação conseguem criar seus próprios miniapps. Além da ferramenta de criação, o aplicativo conta com um feed em que os usuários podem descobrir e testar gizmos desenvolvidos por outras pessoas. O projeto foi criado após a Meta adquirir, no início de 2026, a equipe da Gizmo, plataforma que já utilizava o conceito de vibe coding e acumulava mais de 635 mil instalações. O aplicativo original registrava 98% de avaliações positivas entre os usuários e, curiosamente, continua disponível nas lojas de aplicativos mesmo após o lançamento do Pocket pela Meta. A iniciativa reforça a estratégia da Meta de ampliar o acesso às ferramentas de criação com inteligência artificial. O Pocket ( play.google.com ) integra um ecossistema que já inclui o Vibes, de vídeos gerados por IA, e o Meta AI, focado na criação de imagens. Recentemente, a empresa também adicionou recursos de IA ao editor de vídeos Edits. O Pocket é o novo",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Comercial",
         "Educação"
       ]
     }
