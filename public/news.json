@@ -1,10 +1,32 @@
 {
-  "updatedAt": "2026-10-10T15:38:13.846Z",
+  "updatedAt": "2026-10-11T16:02:12.647Z",
   "count": 40,
   "articles": [
     {
-      "title": "Anthropic can t reliably control its AI agents. It s cutting off its internal evals from the live internet instead",
-      "description": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "title": "Esses executivos acham que a IA de voz ainda não atingiu seu momento ChatGPT",
+      "description": "A IA de voz muitas vezes perde pontos importantes para sua camada de contexto e faz com que todo o pipeline seja interrompido",
+      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "publishedAt": "Sun, 11 Oct 2026 14:00:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Satya Nadella, da Microsoft, diz que os modelos de IA precisam de um ‘freio de emergência’",
+      "description": "Em uma postagem na manhã de sábado, o CEO da Microsoft escreveu que é hora de “dar um passo atrás e avaliar a arquitetura de confiança” da IA.",
+      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "publishedAt": "Sat, 10 Oct 2026 21:47:51 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "A Antthropic não consegue controlar de forma confiável seus agentes de IA. Em vez disso, está cortando suas avaliações internas da Internet ao vivo",
+      "description": "A Anthropic disse que “desativou o acesso ao vivo à Internet” para “todas as nossas avaliações internas” até novo aviso.",
       "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
       "publishedAt": "Sat, 10 Oct 2026 00:18:32 +0000",
       "image": null,
@@ -27,8 +49,8 @@
       ]
     },
     {
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "description": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+      "title": "O fabricante do modelo de IA sem texto Jev foi avaliado em US$ 7,5 bilhões apenas algumas semanas após o lançamento",
+      "description": "O que deixou os usuários e as grandes corporações tão entusiasmados com o Jev é a afirmação do TypeSafe de que ele funciona significativamente mais rápido e usa muito menos tokens do que os LLMs.",
       "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
       "publishedAt": "Fri, 09 Oct 2026 21:41:29 +0000",
       "image": null,
@@ -38,8 +60,8 @@
       "depts": []
     },
     {
-      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "description": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+      "title": "Um modelo de IA antrópica enviou uma falsa denúncia de homicídio à polícia da Filadélfia",
+      "description": "A Anthropic só descobriu esse comportamento mais de dois meses depois que sua IA apresentou a dica falsa.",
       "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
       "publishedAt": "Fri, 09 Oct 2026 19:36:56 +0000",
       "image": null,
@@ -71,13 +93,13 @@
       "depts": []
     },
     {
-      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-      "description": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+      "title": "Pesquisadores de segurança demitidos da OpenAI contestam alegações de má conduta e alertam sobre efeito inibidor",
+      "description": "Três pesquisadores de segurança demitidos da OpenAI contestam as alegações de manuseio incorreto de informações confidenciais, alertando em uma carta aberta que suas demissões estão criando um efeito inibidor na cultura de segurança de IA da empresa.",
       "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
       "publishedAt": "Thu, 08 Oct 2026 20:04:26 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+      "content": "Três pesquisadores de segurança demitidos da OpenAI contestam as alegações de manuseio incorreto de informações confidenciais, alertando em uma carta aberta que suas demissões estão criando um efeito inibidor na cultura de segurança de IA da empresa.",
       "lang": "en",
       "depts": []
     },
@@ -95,32 +117,30 @@
       ]
     },
     {
-      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-      "description": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
+      "title": "Ben Affleck é um nerd de IA e a internet está impressionada",
+      "description": "Ben Affleck está se tornando viral por seu profundo conhecimento de IA, desde redes neurais e transformadores até pesos abertos. O ator, que vendeu sua startup de cinema de IA para a Netflix no início deste ano, está provando que é mais do que apenas uma estrela de Hollywood.",
       "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
       "publishedAt": "Thu, 08 Oct 2026 18:20:32 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
+      "content": "Ben Affleck está se tornando viral por seu profundo conhecimento de IA, desde redes neurais e transformadores até pesos abertos. O ator, que vendeu sua startup de cinema de IA para a Netflix no início deste ano, está provando que é mais do que apenas uma estrela de Hollywood.",
       "lang": "en",
       "depts": []
     },
     {
-      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-      "description": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+      "title": "A popular tabela de classificação de IA Arena quase dobra a avaliação para US$ 3,1 bilhões em 10 meses",
+      "description": "A empresa por trás da popular tabela de classificação LMArena arrecadou US$ 200 milhões liderada por Lightspeed e Khosla e agora está medindo modelos de IA em questões de alinhamento, como mentir.",
       "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
       "publishedAt": "Thu, 08 Oct 2026 18:19:45 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+      "content": "A empresa por trás da popular tabela de classificação LMArena arrecadou US$ 200 milhões liderada por Lightspeed e Khosla e agora está medindo modelos de IA em questões de alinhamento, como mentir.",
       "lang": "en",
-      "depts": [
-        "Comercial"
-      ]
+      "depts": []
     },
     {
-      "title": "OpenAI s revenue is reportedly $20 billion less than previously projected",
-      "description": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+      "title": "A receita da OpenAI é supostamente US$ 20 bilhões menor do que o projetado anteriormente",
+      "description": "Já havia sido relatado que a receita anual do laboratório de IA era de cerca de US$ 70 bilhões, mas um novo relatório afirma que é muito menos do que isso.",
       "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
       "publishedAt": "Thu, 08 Oct 2026 18:19:42 +0000",
       "image": null,
@@ -132,39 +152,18 @@
       ]
     },
     {
-      "title": "Google brings agentic AI to Gemini, starting with businesses",
-      "description": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
+      "title": "Google traz IA de agência para Gemini, começando pelas empresas",
+      "description": "O Google está transformando o Gemini em um agente de IA que pode planejar, executar tarefas e trabalhar em aplicativos e sistemas empresariais. O agente pode delegar trabalho a subagentes, usar vários modelos de IA e até obter sua própria identidade de local de trabalho, completa com um endereço de e-mail.",
       "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
       "publishedAt": "Thu, 08 Oct 2026 18:18:00 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Anthropic changes usage policy to ban model abuse and election interference",
-      "description": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
-      "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-      "publishedAt": "Thu, 08 Oct 2026 18:16:24 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
+      "content": "O Google está transformando o Gemini em um agente de IA que pode planejar, executar tarefas e trabalhar em aplicativos e sistemas empresariais. O agente pode delegar trabalho a subagentes, usar vários modelos de IA e até obter sua própria identidade de local de trabalho, completa com um endereço de e-mail.",
       "lang": "en",
       "depts": [
-        "Jurídico"
+        "RH",
+        "Gestão"
       ]
-    },
-    {
-      "title": "OpenAI s math solutions aren t meeting the field s standards yet",
-      "description": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
-      "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
-      "publishedAt": "Thu, 08 Oct 2026 18:10:55 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
     },
     {
       "title": "Gemini fora do ar? Serviço exibe mensagens de erro nesta quinta-feira",
