@@ -1,7 +1,55 @@
 {
-  "updatedAt": "2026-10-13T17:13:57.020Z",
+  "updatedAt": "2026-10-14T14:46:16.745Z",
   "count": 40,
   "articles": [
+    {
+      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+      "description": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+      "publishedAt": "Tue, 13 Oct 2026 23:13:31 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+      "lang": "en",
+      "depts": [
+        "Saúde"
+      ]
+    },
+    {
+      "title": "Cerebras CEO says we re nearing a future where everyone has a personal AI assistant at home",
+      "description": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "publishedAt": "Tue, 13 Oct 2026 23:05:34 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "description": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+      "publishedAt": "Tue, 13 Oct 2026 20:36:44 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+      "lang": "en",
+      "depts": [
+        "RH"
+      ]
+    },
+    {
+      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+      "description": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
+      "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+      "publishedAt": "Tue, 13 Oct 2026 17:18:25 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
+      "lang": "en",
+      "depts": []
+    },
     {
       "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
       "description": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
@@ -52,50 +100,6 @@
       "depts": []
     },
     {
-      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-      "description": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
-      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-      "publishedAt": "Mon, 12 Oct 2026 15:45:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-      "description": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
-      "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-      "publishedAt": "Mon, 12 Oct 2026 15:27:59 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "These execs think voice AI hasn t reached its ChatGPT moment yet",
-      "description": "Voice AI often misses important points for its context layer, and causes the whole pipeline to break.",
-      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-      "publishedAt": "Sun, 11 Oct 2026 14:00:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "description": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "publishedAt": "Sat, 10 Oct 2026 21:47:51 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
       "title": "TV TCL C7L 65” registra o menor preço desde lançamento em oferta no Magalu",
       "description": "Smart TV 4K TCL C7L 65\" traz painel com Mini LED bom para jogos e tem Gemini integrado; preço baixa 24% com o cupom RESSACA200 TV TCL C7L 65” registra o menor preço desde lançamento em oferta no Magalu",
       "url": "https://tecnoblog.net/achados/tv-tcl-c7l-65-registra-o-menor-preco-desde-lancamento-em-oferta-no-magalu/",
@@ -107,17 +111,6 @@
       "depts": [
         "Financeiro"
       ]
-    },
-    {
-      "title": "Claude Haiku 5.5: Anthropic lança modelo de IA mais rápido e barato",
-      "description": "Nova inteligência pode custar 95% menos que o Sonnet 5.5 e empresa fala em desempenho superior ao GPT-6 Luna. Claude Haiku 5.5: Anthropic lança modelo de IA mais rápido e barato",
-      "url": "https://tecnoblog.net/noticias/claude-haiku-5-5-anthropic-lanca-modelo-de-ia-mais-rapido-e-barato/",
-      "publishedAt": "Fri, 09 Oct 2026 03:12:57 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-5.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
     },
     {
       "title": "8 prompts para conversar com voz no ChatGPT",
@@ -541,6 +534,22 @@
       "lang": "pt",
       "depts": [
         "Gestão"
+      ]
+    },
+    {
+      "title": "Novo sistema usará IA para \"traduzir\" o que o seu corpo realmente precisa",
+      "description": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30",
+      "url": "https://canaltech.com.br/inteligencia-artificial/novo-sistema-usara-ia-para-traduzir-o-que-o-seu-corpo-realmente-precisa/",
+      "publishedAt": "Wed, 01 Jul 2026 08:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/4BlAeU73zGDl24KwhTRIfUE4ZkA=/700x394/smart/i1138901.png",
+      "source": "Canaltech IA",
+      "content": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30) e foi divulgado pelo site Android Police. A empresa afirma que dispositivos vestíveis já evoluíram na coleta de dados, mas ainda falham em explicar o significado desses números para quem os usa. Gee Gu, cofundador da Vilo ao lado de Andy Xu, descreveu o Signal OS como um sistema que ajuda o usuário a entender o que mudou no corpo , priorizar o que importa e transformar sinais corporais em suporte real. Como funciona o Signal OS O sistema reúne quatro frentes principais. A primeira é o Signals , um recurso de cartões que aponta alterações nos indicadores de saúde e sugere o que fazer a respeito. Já o Pulse funciona como um painel com o histórico de dados e tendências ao longo do tempo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Há ainda o Vibes , um chatbot com IA para tirar dúvidas sobre as informações coletadas, e uma camada dedicada à saúde da mulher . A Vilo descreve o Signal OS como uma plataforma \"ring-first\", ou seja, pensada primeiro para anéis inteligentes, e ela vai estrear no próprio anel da empresa. A companhia evita o terreno regulatório mais rígido reservado a dispositivos médicos. Segundo o comunicado oficial, a proposta do sistema é oferecer \"orientação de bem-estar e autoconhecimento, não diagnóstico ou tratamento\", o que dispensa aprovação de agências como a FDA, órgão regulador dos Estados Unidos. Fitbit já segue caminho parecido com o AI Coach e o Fitbit Air, usando IA para interpretar pontuações sem depender desse tipo de aval. Possível interface do app dedicado ao sistema, presente no vídeo de divulgação (Imagem: Reprodução/YouTube/VILO) Anel da Vilo",
+      "lang": "pt",
+      "depts": [
+        "Marketing",
+        "Comercial",
+        "Saúde",
+        "Educação"
       ]
     }
   ]
