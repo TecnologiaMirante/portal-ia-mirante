@@ -1,7 +1,70 @@
 {
-  "updatedAt": "2026-10-15T14:31:37.429Z",
+  "updatedAt": "2026-10-16T14:24:00.747Z",
   "count": 40,
   "articles": [
+    {
+      "title": "Google vai dar mais destaque aos links nos resumos de IA",
+      "description": "Inteligência artificial no buscador vem prejudicando publicadores. Empresa promete nova exibição dos links e novo carrossel com principais notícias. Google vai dar mais destaque aos links nos resumos de IA",
+      "url": "https://tecnoblog.net/noticias/google-vai-dar-mais-destaque-aos-links-nos-resumos-de-ia/",
+      "publishedAt": "Thu, 15 Oct 2026 22:00:13 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/08/google-ia-capa-1-edited-2.jpg",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "description": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "publishedAt": "Thu, 15 Oct 2026 20:04:53 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "Marketing"
+      ]
+    },
+    {
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "description": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "publishedAt": "Thu, 15 Oct 2026 19:14:26 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+      "lang": "en",
+      "depts": [
+        "RH"
+      ]
+    },
+    {
+      "title": "Galaxy Watch 8 LTE (44 mm) com Gemini atinge preço histórico",
+      "description": "Galaxy Watch 8 LTE permite iniciar exercícios por comandos de voz e traz sensor BioActive; smartwatch da Samsung despenca 64% em oferta na Amazon Galaxy Watch 8 LTE (44 mm) com Gemini atinge preço histórico",
+      "url": "https://tecnoblog.net/achados/galaxy-watch-8-lte-44-mm-com-gemini-atinge-preco-historico/",
+      "publishedAt": "Thu, 15 Oct 2026 17:03:46 +0000",
+      "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2026/04/galaxy-watch-8-foto-thassius-velosotecnoblog-1060x596.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "ChatGPT nega relação de post com eleição no Brasil",
+      "description": "Inteligência artificial ganhou função que ensina conceitos por meio de imagens. ChatGPT nega relação de post com eleição no Brasil",
+      "url": "https://tecnoblog.net/noticias/fez-o-l-chatgpt-nega-relacao-de-post-com-eleicao-no-brasil/",
+      "publishedAt": "Thu, 15 Oct 2026 15:17:58 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/10/post-chatgpt-global-l.png",
+      "source": "Tecnoblog",
+      "content": "Postagem do ChatGPT no Instagram (imagem: reprodução) Resumo OpenAI negou que um post na conta do ChatGPT no Instagram tenha viés eleitoral. A empresa afirma que a postagem ocorreu em uma conta global do ChatGPT para apresentar uma novidade. A Meta também foi critida nas redes sociais por permitir a geração de imagens no Meta AI para a campanha de candidatos. Uma postagem no perfil oficial do ChatGPT chamou a atenção dos brasileiros: em inglês, ela ensinava como diferenciar esquerda e direita. O timing obviamente incendiou os comentários, já que estamos a duas semanas do segundo turno. Agora, a empresa de IA se pronuncia pela primeira vez em resposta exclusiva ao Tecnoblog negando qualquer relação com a campanha política no país. De acordo com a OpenAI, a publicação do sábado (10/10) ocorreu numa conta global do ChatGPT para “apresentar uma das nossas novidades mais recentes e mostrar como funcionam as respostas com mais recursos visuais na plataforma”. De fato, este foi um dos recursos mais recentes do aplicativo de inteligência artificial. Na sequência, a OpenAI diz que a publicação “não tem qualquer relação com as eleições ou campanhas políticas no Brasil”. No post, muitos brasileiros comentaram que o ChatGPT “fez o L”, em referência ao gesto usado pelos apoiadores do presidente Luiz Inácio Lula da Silva, que tenta a reeleição na disputa com Flávio Bolsonaro. Meta AI também foi critida por permitir a criação de imagens com viés eleitoral (imagem: Tecnoblog) Aliás, as big tech têm entrado com frequência no noticiário eleitoral. Desde ontem, a Meta é criticada por permitir a geração de imagens com viés eleitoral do candidato Flávio Bolsonaro, mas não de Lula. O Tecnoblog apurou que o caso é tratado internamente como um erro nas configurações dos limites da IA , e não como algo proposital. A Meta explicou que a restrição cumpre as regras eleitorais do Brasil e, após o caso viralizar, disse que tomou medidas adicionais para barrar comandos usando apenas o primeiro nome dos candidatos. ChatGPT nega relação de post com eleição no Brasil",
+      "lang": "pt",
+      "depts": [
+        "Marketing",
+        "Jurídico",
+        "Educação"
+      ]
+    },
     {
       "title": "Google’s Universal Cart shopping tool launches in the US",
       "description": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
@@ -37,57 +100,6 @@
       "lang": "pt",
       "depts": [
         "RH"
-      ]
-    },
-    {
-      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-      "description": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
-      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-      "publishedAt": "Tue, 13 Oct 2026 23:13:31 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
-      "lang": "en",
-      "depts": [
-        "Saúde"
-      ]
-    },
-    {
-      "title": "Cerebras CEO says we re nearing a future where everyone has a personal AI assistant at home",
-      "description": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
-      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-      "publishedAt": "Tue, 13 Oct 2026 23:05:34 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-      "description": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
-      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-      "publishedAt": "Tue, 13 Oct 2026 20:36:44 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
-      "lang": "en",
-      "depts": [
-        "RH"
-      ]
-    },
-    {
-      "title": "Apple lança HomeView, tela inteligente para controlar a casa",
-      "description": "Dispositivo de 7 polegadas reúne FaceTime, música e automação residencial. Empresa também apresentou acessórios para casa conectada em parceria com a LG. Apple lança HomeView, tela inteligente para controlar a casa",
-      "url": "https://tecnoblog.net/noticias/apple-lanca-homeview-tela-inteligente-para-controlar-a-casa/",
-      "publishedAt": "Tue, 13 Oct 2026 13:40:17 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/10/apple-homeview-lifestyle-living-room-261013_big-jpg-large_2x-edited.jpg",
-      "source": "Tecnoblog",
-      "content": "Apple HomeView será vendido em quatro cores (imagem: divulgação) Resumo Apple lançou o HomeView, uma tela inteligente de 7 polegadas que reúne FaceTime, música e automação residencial. O dispositivo reconhece até seis pessoas pelo rosto e se integra à Siri para comandos de voz, permitindo controlar a casa conectada. A Apple também apresentou acessórios para casa conectada em parceria com a LG, incluindo câmeras de segurança e uma fechadura inteligente. A Apple apresentou nesta terça-feira (13/10) uma nova linha de produtos para a casa , com destaque para o HomeView, dispositivo com tela Liquid Retina de 7 polegadas que deve rivalizar com o Echo Show com Alexa , da Amazon. O dispositivo reúne funções que hoje dependem de diferentes aparelhos e aplicativos e começa a ser vendido em 13 de novembro, pelo preço de US$ 299 (cerca de R$ 1.500, em conversão direta). O valor no Brasil ainda não foi divulgado. O HomeView reconhece até seis pessoas pelo rosto e adapta a interface a cada usuário. A integração com a Siri também permite acessar funções da casa conectada por comandos de voz. Ele será comercializado nas cores prata, azul, rosa e cinza espacial, e pode ficar sobre uma mesa ou ser instalado na parede com suportes específicos. Segundo a Apple, o Apple HomeView permite acessar chamadas pelo FaceTime, reproduzir músicas, conferir informações pessoais e controlar acessórios inteligentes. Welcome HomeView https://t.co/mXYPyXOZ1U &mdash; John Ternus (@johnternus) October 13, 2026 Câmera de segurança feita com a LG A Apple também apresentou a Home Collection, uma linha de acessórios para casas inteligentes desenvolvida com a LG Electronics e a Schneider Electric. O conjunto inclui câmeras internas e externas, campainha com vídeo, fechadura inteligente, termostato e sensores de temperatura. Câmeras oferecem visão noturna (imagem: divulgação) As câmeras gravam vídeos em resolução de até 2,5K e identificam pessoas, animais, veículos e encomendas. A fechadura da LG, por sua vez, usa tecnologia Ultra Wideband para destrancar a porta automaticamente quando uma pessoa com um iPhone ou Apple Watch compatível se aproxima. Os dispositivos podem ser gerenciados pelo aplicativo Casa, e a configuração de alguns deles pode ser feita por aproximação do iPhone. Os primeiros acessórios chegam ao mercado em dezembro, enquanto alguns modelos estão previstos para o início de 2027. Apple TV 4K ganha Siri inteligente Apple TV 4K tem desempenho 50% superior (imagem: divulgação) O Apple TV 4K também foi renovado. O aparelho passa a usar o chip A19 e recebe uma versão atualizada da Siri com inteligência artificial . A assistente permite procurar filmes e séries por meio de conversas, responder a perguntas sobre o conteúdo em reprodução e usar informações pessoais para oferecer recomendações. O controle remoto Siri Remote também ganhou integração com o Buscar, recurso que ajuda a localizar o acessório quando ele desaparece entre as almofadas do sofá. De acordo com a Apple, o novo modelo oferece desempenho até 50% superior na CPU e duas vezes mais rápido na GPU em comparação com a geração anterior. O produto também deve chegar ao mercado em 13 de novembro, por R$ 3.599. Além disso, a empresa renovou a linha HomePod mini, que não recebia uma nova geração há seis anos . Apple lança HomeView, tela inteligente para controlar a casa",
-      "lang": "pt",
-      "depts": [
-        "Comercial",
-        "Gestão"
       ]
     },
     {
@@ -540,20 +552,6 @@
       "content": "Um agricultor de 36 anos foi preso em São Gabriel da Palha, no Espírito Santo, no dia 19 de junho, suspeito de planejar a morte do próprio filho, de 8 anos, para deixar de pagar pensão alimentícia. O plano foi identificado pela OpenAI, criadora do ChatGPT, a partir de mensagens trocadas pelo suspeito com a ferramenta , e repassado ao FBI — Polícia Federal dos Estados Unidos —, que acionou o Ministério da Justiça e a Polícia Civil capixaba. 🎧Ouça o Podcast Canaltech no Spotify 🎧Ouça o Podcast Canaltech na Deezer 🎧Ouça o Podcast Canaltech no Apple Podcasts O caso ganhou repercussão nacional e reacendeu uma dúvida recorrente sobre o papel da inteligência artificial: até que ponto um chatbot decide, denuncia ou apenas devolve ao usuário aquilo que ele já trazia consigo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - \"Eu não acredito que a IA tenha feito denúncia, mas o fato é que a IA não tem valor moral. Ela vai te sugerir que você tome uma ação A, B ou C\", afirma Igor Baliberdin, designer estratégico, fundador da consultoria LOOOP e com mais de 20 anos de experiência na interseção entre design, negócios e tecnologia. O especialista afirma que ferramentas como ChatGPT, Gemini e Claude trabalham com análise probabilística . Ou seja, organizam cenários a partir do que o usuário relata, sem assumir a decisão final. O risco, segundo ele, está em transformar esse organizador de raciocínio em substituto de uma conversa com outra pessoa. Vieses herdados e responsabilidade dividida Baliberdin lembra que cada modelo de IA carrega o ponto de vista de quem o desenvolveu . \"Elas não são só seres que surgem do nada. Elas surgem a partir de um ponto de vista de humanidade, de sociedade\", diz. Essa diferença de comportamento entre ferramentas, segundo ele, também aparece em testes recentes que colocam agentes de diferentes IAs para interagir em ambientes simulados. Sobre quem responde ",
       "lang": "pt",
       "depts": []
-    },
-    {
-      "title": "Google lança IA que cria imagens em 4 segundos e edita vídeos por voz",
-      "description": "O Google anunciou dois novos modelos de inteligência artificial capazes de acelerar a criação de imagens e vídeos: o Nano Banana 2 Lite , que gera imagens em até 4 segundos, e o Gemini Omni Flash , que permite criar e editar vídeos usando comandos de voz ou texto. Segundo a empresa, o Nano Banana 2 ",
-      "url": "https://canaltech.com.br/inteligencia-artificial/google-lanca-ia-que-cria-imagens-em-4-segundos-e-edita-videos-por-voz/",
-      "publishedAt": "Tue, 30 Jun 2026 21:05:00 -0300",
-      "image": "https://t.ctcdn.com.br/EjoC2BgBPs0m6x8imu4sGDkEYDk=/700x394/smart/i1138889.png",
-      "source": "Canaltech IA",
-      "content": "O Google anunciou dois novos modelos de inteligência artificial capazes de acelerar a criação de imagens e vídeos: o Nano Banana 2 Lite , que gera imagens em até 4 segundos, e o Gemini Omni Flash , que permite criar e editar vídeos usando comandos de voz ou texto. Segundo a empresa, o Nano Banana 2 Lite foi feito para ser rápido e eficiente em grande escala. Ele cria imagens a partir de comandos de texto em poucos segundos, com foco em respostas rápidas, imagens consistentes e textos mais legíveis dentro das imagens. Além disso, o modelo de imagem tem um custo menor que suas versões anteriores. Por exemplo, o Nano Banana 2 Lite custa cerca de US$ 0,034 por imagem de resolução 1K comparado ao Nano Banana 2 que custa US$ 0,067. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Já o Gemini Omni Flash leva a IA para a criação de vídeos . O modelo permite gerar vídeos curtos e editar cenas usando comandos de texto ou voz. Também combina texto, imagens e vídeos para manter a consistência do conteúdo e facilitar mudanças de cena ou estilo. Além disso, ele usa o conhecimento de mundo do Gemini , incluindo lógica narrativa e conceitos de áreas, como história e biologia, para criar vídeos coerentes e realistas. Novos modelos de IA do Google criam imagens em segundos e permitem editar vídeos por voz. (Imagem: Viviane França/Canaltech) Os dois sistemas usam a marca d’água SynthID para identificar conteúdos feitos por IA e funcionam de forma integrada . O usuário pode criar uma imagem no Nano Banana 2 Lite e usá-la como base no Gemini Omni Flash para transformá-la em um vídeo curto. Nesse fluxo, desenvolvedores podem utilizar a Interactions API , que mantém o histórico e o contexto da sessão, permitindo até três edições sequenciais sem perda do conteúdo gerado. Apesar dos avanços, o Gemini Omni Flash ainda tem limitações . Ele gera vídeos de até 10 segundos, com versões mais longas prev",
-      "lang": "pt",
-      "depts": [
-        "Financeiro",
-        "Gestão"
-      ]
     }
   ]
 }
