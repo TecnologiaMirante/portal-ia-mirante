@@ -1,7 +1,89 @@
 {
-  "updatedAt": "2026-10-16T14:24:00.747Z",
+  "updatedAt": "2026-10-17T13:21:14.865Z",
   "count": 40,
   "articles": [
+    {
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "description": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "publishedAt": "Fri, 16 Oct 2026 21:22:28 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Meta admite que seus óculos gravaram conversas mesmo sem comando",
+      "description": "Óculos Ray-Ban Meta registraram áudios e transcrições no aplicativo Meta AI. Meta admite que seus óculos gravaram conversas mesmo sem comando",
+      "url": "https://tecnoblog.net/noticias/meta-admite-que-seus-oculos-gravaram-conversas-sem-comando/",
+      "publishedAt": "Fri, 16 Oct 2026 20:22:42 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/10/ray-ban-meta-2-wayfarer-edited.webp",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "description": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who beli",
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "publishedAt": "Fri, 16 Oct 2026 16:30:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have [ ]",
+      "lang": "en",
+      "depts": [
+        "Marketing",
+        "Comercial"
+      ]
+    },
+    {
+      "title": "Agente de IA apagou programa de TV? Emissora esclarece",
+      "description": "Emissora TV4 nega envolvimento de agente de IA; edição será refeita e estreia passou para 2027. Agente de IA apagou programa de TV? Emissora esclarece",
+      "url": "https://tecnoblog.net/noticias/agente-de-ia-apagou-programa-de-tv-emissora-esclarece/",
+      "publishedAt": "Fri, 16 Oct 2026 16:25:18 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/capas-iasartboard-2.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "description": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "publishedAt": "Fri, 16 Oct 2026 16:01:37 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Jev is Vercel s fastest-adopted AI model ever",
+      "description": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "publishedAt": "Fri, 16 Oct 2026 15:33:49 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Novo streaming gratuito oferece filmes, séries e canais de TV ao vivo",
+      "description": "Innova TV combina canais lineares, emissoras de rádio e conteúdo sob demanda em formato financiado por anúncios. Novo streaming gratuito oferece filmes, séries e canais de TV ao vivo",
+      "url": "https://tecnoblog.net/noticias/novo-streaming-gratuito-oferece-filmes-series-e-canais-de-tv-ao-vivo/",
+      "publishedAt": "Fri, 16 Oct 2026 14:35:18 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/10/image-14.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Marketing"
+      ]
+    },
     {
       "title": "Google vai dar mais destaque aos links nos resumos de IA",
       "description": "Inteligência artificial no buscador vem prejudicando publicadores. Empresa promete nova exibição dos links e novo carrossel com principais notícias. Google vai dar mais destaque aos links nos resumos de IA",
@@ -83,23 +165,10 @@
       "publishedAt": "Wed, 14 Oct 2026 17:55:16 +0000",
       "image": "https://files.tecnoblog.net/wp-content/uploads/2026/10/lula-e-flavio-bolsonaro.png",
       "source": "Tecnoblog",
-      "content": "Lula e Flávio Bolsonaro são candidatos à Presidência da República (imagem: reprodução/Ricardo Stuckert/Agência Brasil) Resumo A Meta AI liberou imagens associadas ao candidato Flávio Bolsonaro ( Flávio 22 ), mas bloqueou comandos relativos a Lula ( Lula 13 ). A Meta informou ao Tecnoblog que o problema decorreu de um erro de configuração nos filtros de nomes simples dos candidatos e que já adotou medidas corretivas. A assimetria nas respostas do chatbot repercutiu nas redes sociais devido às regras do TSE, que proíbem IAs de emitir opiniões ou favorecer e desfavorecer candidaturas. A ferramenta de inteligência artificial Meta AI, que está presente no WhatsApp, recusa os comandos para gerar imagens com alusão à campanha de Lula ao Palácio do Planalto. Ao mesmo tempo, aceita criar imagens com referências a outros candidatos, inclusive Flávio Bolsonaro, que levou vantagem sobre o presidente no primeiro turno. O caso viralizou nas redes sociais nas últimas horas. Nos nossos testes, comandos com “Flávio 22” geraram as imagens, enquanto pedidos com o nome completo de Flávio Bolsonaro foram barrados. Já as solicitações com “Lula 13” foram recusadas, mesmo quando ocorreram na mesma sessão com o chatbot. A ferramenta produziu normalmente imagens ao receber um prompt com “Luiz 13”. Meta AI não gera imagens com alusão a Lula 13 (imagem: Tecnoblog) O Tecnoblog apurou que o assunto é tratado internamente na Meta como um erro de configuração. Enquanto os nomes completos dos candidatos são bloqueados, os primeiros nomes não são impactados pelo filtro. Por isso a Meta AI gera figuras com “Flávio” e “Luiz”. A empresa disse ao Tecnoblog ter adotado medidas adicionais para impedir a geração de imagens a partir de comandos que usem apenas o primeiro nome dos candidatos e o número de urna. A expectativa é de que os usuários percebam a diferença num futuro breve, mas não é possível precisar quanto tempo isso deve levar. Meta AI diz que imagens têm filtro automático (imagem: Tecnoblog) As diferenças nas respostas do chatbot repercutiram nas redes sociais em meio às regras eleitorais brasileiras para ferramentas automatizadas. No início do ano, o Tribunal Superior Eleitoral (TSE) publicou a Resolução nº 23.755/2026 , que proíbe sistemas automatizados de emitir opiniões, recomendar votos ou favorecer ou desfavorecer candidaturas, inclusive por meio de respostas geradas automaticamente. Em agosto, mostramos aqui no Tecnoblog que os principais chatbots do mercado estavam descumprindo essas regras . ChatGPT, Grok e Gemini criaram listas de presidenciáveis após comandos simples, prática proibida pelo TSE. Meta AI barra Lula, mas gera imagens com referência a Flávio",
+      "content": "Lula e Flávio Bolsonaro são candidatos à Presidência da República (imagem: reprodução/Ricardo Stuckert/Agência Brasil) Resumo A Meta AI liberou imagens associadas ao candidato Flávio Bolsonaro ( Flávio 22 ), mas bloqueou comandos relativos a Lula ( Lula 13 ). A Meta informou ao Tecnoblog que o problema decorreu de um erro de configuração nos filtros de nomes simples dos candidatos e que já adotou medidas corretivas. A assimetria nas respostas do chatbot repercutiu nas redes sociais devido às regras do TSE, que proíbem IAs de emitir opiniões ou favorecer e desfavorecer candidaturas. A ferramenta de inteligência artificial Meta AI, que está presente no WhatsApp, recusa os comandos para gerar imagens com alusão à campanha de Lula ao Palácio do Planalto. Ao mesmo tempo, aceita criar imagens com referências a outros candidatos, inclusive Flávio Bolsonaro, que levou vantagem sobre o presidente no primeiro turno. O caso viralizou nas redes sociais nas últimas horas. Nos nossos testes, comandos com “Flávio 22” geraram as imagens, enquanto pedidos com o nome completo de Flávio Bolsonaro foram barrados. Já as solicitações com “Lula 13” foram recusadas, mesmo quando ocorreram na mesma sessão com o chatbot. A ferramenta produziu normalmente imagens ao receber um prompt com “Luiz 13”. Meta AI não gera imagens com alusão a Lula 13 (imagem: Tecnoblog) O Tecnoblog apurou que o assunto é tratado internamente na Meta como um erro de configuração. Enquanto os nomes completos dos candidatos são bloqueados, os primeiros nomes não são impactados pelo filtro. Por isso a Meta AI gera figuras com “Flávio” e “Luiz”. A empresa disse ao Tecnoblog ter adotado medidas adicionais para impedir a geração de imagens a partir de comandos que usem apenas o primeiro nome dos candidatos e o número de urna. A expectativa é de que os usuários percebam a diferença num futuro breve, mas não é possível precisar quanto tempo isso deve levar. Meta AI diz que imagens têm filtro automático (imagem: Tecnoblog) As diferenças nas respostas do chatbot repercutiram nas redes sociais em meio às regras eleitorais brasileiras para ferramentas automatizadas. No início do ano, o Tribunal Superior Eleitoral (TSE) publicou a Resolução nº 23.755/2026 , que proíbe sistemas automatizados de emitir opiniões, recomendar votos ou favorecer ou desfavorecer candidaturas, inclusive por meio de respostas geradas automaticamente. Em agosto, mostramos aqui no Tecnoblog que os principais chatbots do mercado estavam descumprindo essas regras . ChatGPT, Grok e Gemini criaram listas de presidenciáveis após comandos simples, prática proibida pelo TSE. Meta nega interferência nas eleições brasileiras Em comunicado publicado nesta sexta-feira (16/10), a Meta confirmou que falhas técnicas nas proteções da Meta AI permitiram gerar algumas imagens relacionadas a candidatos, mas que o erro foi corrigido no mesmo dia. A Meta negou favorecer qualquer candidatura e citou uma decisão do TSE segundo a qual, naquela fase do processo, não havia indícios suficientes de privilégio partidário deliberado na distribuição de conteúdo. Meta AI barra Lula, mas gera imagens com referência a Flávio",
       "lang": "pt",
       "depts": [
         "Marketing"
-      ]
-    },
-    {
-      "title": "Funcionário da OpenAI é preso após suspeita de espionagem",
-      "description": "Gravador foi encontrado escondido atrás de uma televisão e envolto em papel higiênico. Acusado pode pegar até cinco anos de prisão. Funcionário da OpenAI é preso após suspeita de espionagem",
-      "url": "https://tecnoblog.net/noticias/funcionario-da-openai-e-preso-apos-suspeita-de-espionagem/",
-      "publishedAt": "Wed, 14 Oct 2026 16:41:19 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/openai-4_capa.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "RH"
       ]
     },
     {
@@ -472,86 +541,6 @@
       "depts": [
         "Comercial"
       ]
-    },
-    {
-      "title": "Virginia Fonseca tem “clone de IA” para conversar com fãs por até R$ 89",
-      "description": "A plataforma Versio funciona como um chatbot de IA na qual é possível conversar com versões inspiradas em especialistas e celebridades, como a influenciadora Virginia Fonseca . O serviço cobra até R$ 89 por mês para liberar conversas com os clones de IA inspirados em pessoas famosas, mas há uma vers",
-      "url": "https://canaltech.com.br/inteligencia-artificial/virginia-fonseca-tem-clone-de-ia-para-conversar-com-fas-por-ate-r-89/",
-      "publishedAt": "Thu, 02 Jul 2026 18:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/k8MEe2l3PH5iKwUNiwyAeaBzMwA=/700x394/smart/i1139979.png",
-      "source": "Canaltech IA",
-      "content": "A plataforma Versio funciona como um chatbot de IA na qual é possível conversar com versões inspiradas em especialistas e celebridades, como a influenciadora Virginia Fonseca . O serviço cobra até R$ 89 por mês para liberar conversas com os clones de IA inspirados em pessoas famosas, mas há uma versão gratuita “escondida” . A ferramenta foi divulgada pela influenciadora nesta quarta-feira (1º) em post no Instagram. No caso, Fonseca simula uma situação em que uam seguidora pede sugestões de como se vestir para um jantar. De acordo com o site oficial, a Versio se difere de outros chatbots por ter sido treinada diretamente pelos especialistas mencionados . Algumas das personalidades disponíveis são o empresário e fisiculturista Renato Cariani, o empresário Carlos Wizard e a economista Nathalia Arcuri. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O app funciona como um chatbot convencional e permite enviar arquivos nas conversas ao assinar os planos mais caros. Ver essa foto no Instagram Um post compartilhado por Virginia (@virginia) Versão gratuita fica escondida Um detalhe sobre o Versio chamou a atenção: o site oficial (inserido no perfil da marca vinculado ao post de Virgínia) exige uma assinatura paga para usar a plataforma, mas é possível usar uma versão gratuita por outro caminho . Os planos pagos partem de R$ 29 por mês a R$ 89 por mês. A página com os Termos de Uso não carrega no site oficial, mas pode ser acessada ao iniciar um pagamento. Lá, a empresa informa que existe uma versão gratuita com versões limitadas e tem um link para o serviç o, também disponível em aplicativo para Android e iOS (as versões não são divulgadas no site principal , vinculado ao perfil da marca no post de Virginia). O CT testou a IA que conversa como a influenciadora, mas há um limite diário de conversas na versão gratuita. Os planos pagos aumentam as taxas de uso diárias e permitem env",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Comercial"
-      ]
-    },
-    {
-      "title": "Por que o próximo ciclo computacional precisa ser construído para todos",
-      "description": "Nos últimos três anos, a capacidade computacional global dedicada à inteligência artificial cresceu aproximadamente 100 vezes . É uma das revoluções tecnológicas mais impactantes das últimas décadas. A IA já chegou indiscutivelmente. Mas a questão que surge agora é: ela está acessível a todos? De um",
-      "url": "https://canaltech.com.br/colunas/por-que-o-proximo-ciclo-computacional-precisa-ser-construido-para-todos/",
-      "publishedAt": "Thu, 02 Jul 2026 10:43:03 -0300",
-      "image": "https://t.ctcdn.com.br/nZ6sNq7PsgAB4H-oy5G3Tk3upoA=/700x394/smart/i1003705.png",
-      "source": "Canaltech IA",
-      "content": "Nos últimos três anos, a capacidade computacional global dedicada à inteligência artificial cresceu aproximadamente 100 vezes . É uma das revoluções tecnológicas mais impactantes das últimas décadas. A IA já chegou indiscutivelmente. Mas a questão que surge agora é: ela está acessível a todos? De um lado, temos modelos cada vez mais capazes, infraestruturas de bilhões de dólares, parcerias entre algumas das maiores empresas do planeta. De outro, desenvolvedores independentes, pesquisadores em países emergentes, startups sem acesso a crédito cloud e laboratórios universitários com acesso limitado. O próximo ciclo computacional pode encontrar caminhos para solucionar essa assimetria. O problema não é só hardware Quando falamos em democratizar a IA, GPUs e custos de treinamento são pontos importantes, mas há um gargalo além do hardware: a dependência de ecossistemas fechados que prendem desenvolvedores a plataformas específicas e concentram o poder de inovação nas mãos de poucos. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A analogia com o software é útil aqui. O movimento open source levou décadas para amadurecer, mas hoje a infraestrutura que sustenta a internet é majoritariamente aberta . Isso porque a inovação aberta com frequência se mostrou altamente resiliente e amplamente adotada em comparação com alternativas proprietárias. A IA está no começo do mesmo caminho. Plataformas abertas saltaram de nichos experimentais para infraestrutura de produção em escala global. Um pesquisador no Brasil, na Índia ou na Nigéria pode acessar hoje muitas das mesmas ferramentas utilizadas por grandes centros de tecnologia — desde que disponha de recursos de hardware adequados . A IA que mora no seu dispositivo Outra transformação relevante: a migração da IA da nuvem para o dispositivo. Processadores modernos com NPUs integradas permitem rodar inteligência artificial localmente , sem",
-      "lang": "pt",
-      "depts": [
-        "Financeiro",
-        "Comercial",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Fable e Mythos 5: governo Trump libera IAs mais perigosas da Anthropic",
-      "description": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três s",
-      "url": "https://canaltech.com.br/inteligencia-artificial/fable-e-mythos-5-governo-trump-libera-ias-mais-perigosas-da-anthropic/",
-      "publishedAt": "Wed, 01 Jul 2026 12:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/Am6VaUx8jmQtCNJCxA_znmbrltc=/700x394/smart/i1107289.png",
-      "source": "Canaltech IA",
-      "content": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três semanas depois de o governo ter suspendido o acesso aos dois sistemas por risco à segurança nacional. Segundo a Reuters, o acesso ao Fable 5 será restaurado a partir desta quarta-feira (1º) , ficando disponível ao público em geral. Já o Mythos 5, direcionado à detecção de vulnerabilidades de cibersegurança, será liberado para um grupo maior de parceiros domésticos e internacionais do programa Glasswing, da Anthropic. Como começou a restrição Em 12 de junho, o governo americano incluiu os dois modelos em sua lista de tecnologias sob controle de exportação , impedindo o acesso de estrangeiros sem aprovação especial . Como a Anthropic não tinha como verificar a nacionalidade dos usuários em tempo real, a companhia optou por suspender o Fable 5 e o Mythos 5 para todo mundo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A decisão, segundo a Reuters, partiu de uma denúncia de pesquisadores da Amazon , que encontraram uma forma de contornar as proteções do Fable 5. Com essa brecha, o modelo passou a identificar falhas de software e, em um dos casos registrados, chegou a gerar código demonstrando como explorar uma vulnerabilidade. No último domingo (28), o governo abriu uma primeira exceção , permitindo o uso do Mythos 5 por organizações selecionadas e por funcionários da própria Anthropic, incluindo estrangeiros vinculados a esses grupos. O Fable 5 seguia fora do ar até esta terça. O Claude é, atualmente, a terceira IA mais utilizada no mundo (Imagem: Marcelo Fischer/Canaltech) Por que são modelos tão perigosos O Mythos 5 concentra as capacidades que mais preocupam o governo american",
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "Português é o 3º idioma mais usado no ChatGPT",
-      "description": "O português é agora o terceiro idioma mais usado no ChatGPT , segundo dados da OpenAI divulgados no relatório OpenAI Signals. Ele fica atrás apenas do inglês e do espanhol. O levantamento também mostra que, pela primeira vez, mais da metade dos usuários ativos usa o ChatGPT principalmente em idiomas",
-      "url": "https://canaltech.com.br/inteligencia-artificial/portugues-e-o-3o-idioma-mais-usado-no-chatgpt/",
-      "publishedAt": "Wed, 01 Jul 2026 09:27:36 -0300",
-      "image": "https://t.ctcdn.com.br/elWRGd7DozFcUzbnLeKmr45Ecyw=/700x394/smart/i1137007.png",
-      "source": "Canaltech IA",
-      "content": "O português é agora o terceiro idioma mais usado no ChatGPT , segundo dados da OpenAI divulgados no relatório OpenAI Signals. Ele fica atrás apenas do inglês e do espanhol. O levantamento também mostra que, pela primeira vez, mais da metade dos usuários ativos usa o ChatGPT principalmente em idiomas diferentes do inglês. Em quarto, quinto e sexto lugar aparecem, respectivamente, o francês, o indonésio e o árabe. A análise mede as interações de usuários nos planos individuais do ChatGPT , incluindo as assinaturas Free (gratuito), Go, Plus e Pro. Além disso, os idiomas uzbeque, cazaque e birmanês foram os que mais cresceram em participação desde julho de 2023. O relatório também mostra que usuários mais antigos usam o ChatGPT com mais frequência. Após seis meses na plataforma, eles enviam, em média, 50% mais mensagens por dia e realizam o dobro de tarefas diferentes em relação ao início do uso. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Português é o terceiro idioma mais usado no ChatGPT. (Imagem: Divulgação/OpenAI) Adoção do ChatGPT cresceu em todas as regiões O relatório também mostra que o uso do ChatGPT cresceu em todos os continentes desde julho de 2023, deixando a base de usuários mais global e diversa. O crescimento foi mais rápido na África, seguida pela Ásia, América do Sul, Europa, América do Norte e Oceania. Segundo a OpenAI, o crescimento foi mais rápido em países com menor Índice de Desenvolvimento Humano (IDH) , que registraram o maior aumento no número de usuários ativos por semana. O levantamento também aponta mudanças no perfil dos usuários. Pessoas com nomes tipicamente femininos representam a maior parte do uso global do ChatGPT. O Brasil, Colômbia, Polônia e Namíbia estão entre os países onde esse grupo supera os usuários com nomes tipicamente masculinos. Já Paquistão, Bangladesh, Angola, República Democrática do Congo e Mali têm a maior presença de",
-      "lang": "pt",
-      "depts": [
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Novo sistema usará IA para \"traduzir\" o que o seu corpo realmente precisa",
-      "description": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30",
-      "url": "https://canaltech.com.br/inteligencia-artificial/novo-sistema-usara-ia-para-traduzir-o-que-o-seu-corpo-realmente-precisa/",
-      "publishedAt": "Wed, 01 Jul 2026 08:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/4BlAeU73zGDl24KwhTRIfUE4ZkA=/700x394/smart/i1138901.png",
-      "source": "Canaltech IA",
-      "content": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30) e foi divulgado pelo site Android Police. A empresa afirma que dispositivos vestíveis já evoluíram na coleta de dados, mas ainda falham em explicar o significado desses números para quem os usa. Gee Gu, cofundador da Vilo ao lado de Andy Xu, descreveu o Signal OS como um sistema que ajuda o usuário a entender o que mudou no corpo , priorizar o que importa e transformar sinais corporais em suporte real. Como funciona o Signal OS O sistema reúne quatro frentes principais. A primeira é o Signals , um recurso de cartões que aponta alterações nos indicadores de saúde e sugere o que fazer a respeito. Já o Pulse funciona como um painel com o histórico de dados e tendências ao longo do tempo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Há ainda o Vibes , um chatbot com IA para tirar dúvidas sobre as informações coletadas, e uma camada dedicada à saúde da mulher . A Vilo descreve o Signal OS como uma plataforma \"ring-first\", ou seja, pensada primeiro para anéis inteligentes, e ela vai estrear no próprio anel da empresa. A companhia evita o terreno regulatório mais rígido reservado a dispositivos médicos. Segundo o comunicado oficial, a proposta do sistema é oferecer \"orientação de bem-estar e autoconhecimento, não diagnóstico ou tratamento\", o que dispensa aprovação de agências como a FDA, órgão regulador dos Estados Unidos. Fitbit já segue caminho parecido com o AI Coach e o Fitbit Air, usando IA para interpretar pontuações sem depender desse tipo de aval. Possível interface do app dedicado ao sistema, presente no vídeo de divulgação (Imagem: Reprodução/YouTube/VILO) Anel da Vilo",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Comercial",
-        "Saúde",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Caso do ChatGPT: o que a IA faz quando alguém relata um crime a ela",
-      "description": "Um agricultor de 36 anos foi preso em São Gabriel da Palha, no Espírito Santo, no dia 19 de junho, suspeito de planejar a morte do próprio filho, de 8 anos, para deixar de pagar pensão alimentícia. O plano foi identificado pela OpenAI, criadora do ChatGPT, a partir de mensagens trocadas pelo suspeit",
-      "url": "https://canaltech.com.br/inteligencia-artificial/caso-do-chatgpt-o-que-a-ia-faz-quando-alguem-relata-um-crime-a-ela/",
-      "publishedAt": "Wed, 01 Jul 2026 07:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/Q9uqQatidyu4GTZGOKTDp0XrwdA=/700x394/smart/i1138899.png",
-      "source": "Canaltech IA",
-      "content": "Um agricultor de 36 anos foi preso em São Gabriel da Palha, no Espírito Santo, no dia 19 de junho, suspeito de planejar a morte do próprio filho, de 8 anos, para deixar de pagar pensão alimentícia. O plano foi identificado pela OpenAI, criadora do ChatGPT, a partir de mensagens trocadas pelo suspeito com a ferramenta , e repassado ao FBI — Polícia Federal dos Estados Unidos —, que acionou o Ministério da Justiça e a Polícia Civil capixaba. 🎧Ouça o Podcast Canaltech no Spotify 🎧Ouça o Podcast Canaltech na Deezer 🎧Ouça o Podcast Canaltech no Apple Podcasts O caso ganhou repercussão nacional e reacendeu uma dúvida recorrente sobre o papel da inteligência artificial: até que ponto um chatbot decide, denuncia ou apenas devolve ao usuário aquilo que ele já trazia consigo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - \"Eu não acredito que a IA tenha feito denúncia, mas o fato é que a IA não tem valor moral. Ela vai te sugerir que você tome uma ação A, B ou C\", afirma Igor Baliberdin, designer estratégico, fundador da consultoria LOOOP e com mais de 20 anos de experiência na interseção entre design, negócios e tecnologia. O especialista afirma que ferramentas como ChatGPT, Gemini e Claude trabalham com análise probabilística . Ou seja, organizam cenários a partir do que o usuário relata, sem assumir a decisão final. O risco, segundo ele, está em transformar esse organizador de raciocínio em substituto de uma conversa com outra pessoa. Vieses herdados e responsabilidade dividida Baliberdin lembra que cada modelo de IA carrega o ponto de vista de quem o desenvolveu . \"Elas não são só seres que surgem do nada. Elas surgem a partir de um ponto de vista de humanidade, de sociedade\", diz. Essa diferença de comportamento entre ferramentas, segundo ele, também aparece em testes recentes que colocam agentes de diferentes IAs para interagir em ambientes simulados. Sobre quem responde ",
-      "lang": "pt",
-      "depts": []
     }
   ]
 }
