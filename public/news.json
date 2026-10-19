@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-10-18T13:39:42.563Z",
+  "updatedAt": "2026-10-19T16:41:38.700Z",
   "count": 40,
   "articles": [
+    {
+      "title": "Usuários usam IA para remover anúncios e mudar interfaces de TVs",
+      "description": "Projetos usam ferramentas como Claude Code para criar launchers personalizados. Usuários usam IA para remover anúncios e mudar interfaces de TVs",
+      "url": "https://tecnoblog.net/noticias/usuarios-usam-ia-para-remover-anuncios-e-mudar-interfaces-de-tvs/",
+      "publishedAt": "Mon, 19 Oct 2026 15:41:42 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/10/smart-tv-tcl-c7l-imagem-divulgacao.jpg",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Marketing"
+      ]
+    },
+    {
+      "title": "Anthropic quer barrar IAs apenas diante de riscos extremos",
+      "description": "Projeto prevê bloqueio de modelos que ameacem causar mais de 50 mortes ou ferimentos graves, ou prejuízos acima de US$ 1 bilhão. Anthropic quer barrar IAs apenas diante de riscos extremos",
+      "url": "https://tecnoblog.net/noticias/anthropic-quer-barrar-ias-apenas-diante-de-riscos-extremos/",
+      "publishedAt": "Mon, 19 Oct 2026 15:31:29 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-3.jpg",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "description": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "publishedAt": "Sun, 18 Oct 2026 20:37:40 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
     {
       "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
       "description": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
@@ -161,30 +196,6 @@
         "Marketing",
         "Jurídico",
         "Educação"
-      ]
-    },
-    {
-      "title": "Google’s Universal Cart shopping tool launches in the US",
-      "description": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
-      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-      "publishedAt": "Thu, 15 Oct 2026 14:29:33 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Meta AI barra Lula, mas gera imagens com referência a Flávio",
-      "description": "Empresa trabalha para implementar novos filtros em sistema de inteligência artificial. Meta AI barra Lula, mas gera imagens com referência a Flávio",
-      "url": "https://tecnoblog.net/noticias/meta-ai-barra-lula-mas-gera-imagens-com-referencia-a-flavio/",
-      "publishedAt": "Wed, 14 Oct 2026 17:55:16 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/10/lula-e-flavio-bolsonaro.png",
-      "source": "Tecnoblog",
-      "content": "Lula e Flávio Bolsonaro são candidatos à Presidência da República (imagem: reprodução/Ricardo Stuckert/Agência Brasil) Resumo A Meta AI liberou imagens associadas ao candidato Flávio Bolsonaro ( Flávio 22 ), mas bloqueou comandos relativos a Lula ( Lula 13 ). A Meta informou ao Tecnoblog que o problema decorreu de um erro de configuração nos filtros de nomes simples dos candidatos e que já adotou medidas corretivas. A assimetria nas respostas do chatbot repercutiu nas redes sociais devido às regras do TSE, que proíbem IAs de emitir opiniões ou favorecer e desfavorecer candidaturas. A ferramenta de inteligência artificial Meta AI, que está presente no WhatsApp, recusa os comandos para gerar imagens com alusão à campanha de Lula ao Palácio do Planalto. Ao mesmo tempo, aceita criar imagens com referências a outros candidatos, inclusive Flávio Bolsonaro, que levou vantagem sobre o presidente no primeiro turno. O caso viralizou nas redes sociais nas últimas horas. Nos nossos testes, comandos com “Flávio 22” geraram as imagens, enquanto pedidos com o nome completo de Flávio Bolsonaro foram barrados. Já as solicitações com “Lula 13” foram recusadas, mesmo quando ocorreram na mesma sessão com o chatbot. A ferramenta produziu normalmente imagens ao receber um prompt com “Luiz 13”. Meta AI não gera imagens com alusão a Lula 13 (imagem: Tecnoblog) O Tecnoblog apurou que o assunto é tratado internamente na Meta como um erro de configuração. Enquanto os nomes completos dos candidatos são bloqueados, os primeiros nomes não são impactados pelo filtro. Por isso a Meta AI gera figuras com “Flávio” e “Luiz”. A empresa disse ao Tecnoblog ter adotado medidas adicionais para impedir a geração de imagens a partir de comandos que usem apenas o primeiro nome dos candidatos e o número de urna. A expectativa é de que os usuários percebam a diferença num futuro breve, mas não é possível precisar quanto tempo isso deve levar. Meta AI diz que imagens têm filtro automático (imagem: Tecnoblog) As diferenças nas respostas do chatbot repercutiram nas redes sociais em meio às regras eleitorais brasileiras para ferramentas automatizadas. No início do ano, o Tribunal Superior Eleitoral (TSE) publicou a Resolução nº 23.755/2026 , que proíbe sistemas automatizados de emitir opiniões, recomendar votos ou favorecer ou desfavorecer candidaturas, inclusive por meio de respostas geradas automaticamente. Em agosto, mostramos aqui no Tecnoblog que os principais chatbots do mercado estavam descumprindo essas regras . ChatGPT, Grok e Gemini criaram listas de presidenciáveis após comandos simples, prática proibida pelo TSE. Meta nega interferência nas eleições brasileiras Em comunicado publicado nesta sexta-feira (16/10), a Meta confirmou que falhas técnicas nas proteções da Meta AI permitiram gerar algumas imagens relacionadas a candidatos, mas que o erro foi corrigido no mesmo dia. A Meta negou favorecer qualquer candidatura e citou uma decisão do TSE segundo a qual, naquela fase do processo, não havia indícios suficientes de privilégio partidário deliberado na distribuição de conteúdo. Meta AI barra Lula, mas gera imagens com referência a Flávio",
-      "lang": "pt",
-      "depts": [
-        "Marketing"
       ]
     },
     {
@@ -527,21 +538,6 @@
         "Comercial",
         "Jurídico",
         "Gestão",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Novo app da Meta mostra criações feitas por vibe coding",
-      "description": "A Meta lançou silenciosamente o Pocket , um novo aplicativo para criar e compartilhar pequenos jogos e experiências interativas, chamados de \"gizmos\", usando comandos de inteligência artificial. O app já está disponível na App Store e no Google Play, mas a empresa ainda não fez um anúncio sobre o la",
-      "url": "https://canaltech.com.br/inteligencia-artificial/novo-app-da-meta-mostra-criacoes-feitas-por-vibe-coding/",
-      "publishedAt": "Fri, 03 Jul 2026 17:10:00 -0300",
-      "image": "https://t.ctcdn.com.br/o35a_R-0f5b8pzB7LdM_9qhgmOE=/700x394/smart/i1140309.png",
-      "source": "Canaltech IA",
-      "content": "A Meta lançou silenciosamente o Pocket , um novo aplicativo para criar e compartilhar pequenos jogos e experiências interativas, chamados de \"gizmos\", usando comandos de inteligência artificial. O app já está disponível na App Store e no Google Play, mas a empresa ainda não fez um anúncio sobre o lançamento, o que sugere que a ferramenta pode estar em fase inicial de testes. O aplicativo foi descoberto e divulgado primeiro no X por Alessandro Paluzzi, engenheiro reverso conhecido por encontrar novos aplicativos e recursos antes dos anúncios oficiais. Segundo dados da Appfigures, no entanto, o Pocket já estava disponível nas lojas desde 29 de junho. #Meta is working on a new app called Pocket 👀 ℹ️ A new creative platform to make and share gizmos. pic.twitter.com/zFjMU5jj1U - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - — Alessandro Paluzzi (@alex193a) July 2, 2026 O Pocket usa prompts de texto para gerar conteúdos interativos . Assim, até pessoas sem conhecimento em programação conseguem criar seus próprios miniapps. Além da ferramenta de criação, o aplicativo conta com um feed em que os usuários podem descobrir e testar gizmos desenvolvidos por outras pessoas. O projeto foi criado após a Meta adquirir, no início de 2026, a equipe da Gizmo, plataforma que já utilizava o conceito de vibe coding e acumulava mais de 635 mil instalações. O aplicativo original registrava 98% de avaliações positivas entre os usuários e, curiosamente, continua disponível nas lojas de aplicativos mesmo após o lançamento do Pocket pela Meta. A iniciativa reforça a estratégia da Meta de ampliar o acesso às ferramentas de criação com inteligência artificial. O Pocket ( play.google.com ) integra um ecossistema que já inclui o Vibes, de vídeos gerados por IA, e o Meta AI, focado na criação de imagens. Recentemente, a empresa também adicionou recursos de IA ao editor de vídeos Edits. O Pocket é o novo",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Comercial",
         "Educação"
       ]
     }
