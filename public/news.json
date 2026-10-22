@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2026-10-21T14:45:10.607Z",
+  "updatedAt": "2026-10-22T14:45:09.889Z",
   "count": 40,
   "articles": [
+    {
+      "title": "Aplicativo Claude Duet é aposta da Anthropic nos agentes",
+      "description": "Claude Duet está disponível em lista de espera para usuários dos planos Pro e Max",
+      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "publishedAt": "Thu, 22 Oct 2026 13:53:26 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Claude ganha agente 24 7 para brigar com ChatGPT, Google e Meta",
+      "description": "Claude Duet tem navegador próprio para acessar a internet. Novidade está em fase de teste. Claude ganha agente 24 7 para brigar com ChatGPT, Google e Meta",
+      "url": "https://tecnoblog.net/noticias/claude-ganha-agente-24x7-para-brigar-com-chatgpt-google-e-meta/",
+      "publishedAt": "Thu, 22 Oct 2026 10:38:29 +0000",
+      "image": "https://www.youtube.com/embed/Fb-68zqcSVs",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Recursive lança Flint, um modelo de codificação de laptop que diz ter sido em grande parte construído por IA",
+      "description": "A Startup Recursive lançou o Flint, um modelo de codificação gratuito do tamanho de um laptop, construído em grande parte por seu próprio sistema de pesquisa de IA, como um teste inicial de IA que se aprimora.",
+      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "publishedAt": "Wed, 21 Oct 2026 20:27:41 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "A Startup Recursive lançou o Flint, um modelo de codificação gratuito do tamanho de um laptop, construído em grande parte por seu próprio sistema de pesquisa de IA, como um teste inicial de IA que se aprimora.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Chefe do Google DeepMind diz que AGI chegará em até 3 anos",
+      "description": "Demis Hassabis encurtou previsão anterior e afirma que a inteligência artificial geral vai acelerar descobertas científicas. Chefe do Google DeepMind diz que AGI chegará em até 3 anos",
+      "url": "https://tecnoblog.net/noticias/chefe-do-google-deepmind-diz-que-agi-chegara-em-ate-3-anos/",
+      "publishedAt": "Wed, 21 Oct 2026 18:20:55 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/demis_hassabis_2024_nobel_prize_laureate_in_chemistry_7-edited.jpg",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "PHP Armageddon: OpenAI, Wiz do Google encontram buracos antigos, deixando a internet em pânico",
+      "description": "Este é o tipo de problema de segurança que foi encontrado e evitado pela IA, mas que também representa um alto risco por causa da IA.",
+      "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+      "publishedAt": "Wed, 21 Oct 2026 17:59:12 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
     {
       "title": "ChatGPT ganha função que protege as conversas dos olhares fofoqueiros",
       "description": "Recurso “esconde” interações selecionadas pelo usuário do histórico. ChatGPT ganha função que protege as conversas dos olhares fofoqueiros",
@@ -16,50 +71,55 @@
       ]
     },
     {
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "description": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "title": "Anthropic apresenta projeto de lei de segurança de IA que pode bloquear um modelo se mais de 50 pessoas puderem ser mortas",
+      "description": "A política proposta parece oferecer proteções contra a descontrole da IA, mas na verdade proíbe as agências federais de bloquear a liberação de um modelo sem a permissão de um juiz.",
       "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
       "publishedAt": "Tue, 20 Oct 2026 23:01:23 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "content": "A política proposta parece oferecer proteções contra a descontrole da IA, mas na verdade proíbe as agências federais de bloquear a liberação de um modelo sem a permissão de um juiz.",
       "lang": "en",
       "depts": [
+        "Comercial",
         "Jurídico"
       ]
     },
     {
-      "title": "Hugging Face CEO warns that Netflix s OpenAI hack documentary isn t accurate",
-      "description": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "title": "O CEO da Hugging Face alerta que o documentário sobre hack OpenAI da Netflix não é preciso",
+      "description": "Antes de compartilhar o documentário da Netflix “AI Gone Rogue”, tome nota. Clem Delangue, cofundador do Hugging Face que aparece no filme, diz que entrou no “modo doomer total” e não é preciso.",
       "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
       "publishedAt": "Tue, 20 Oct 2026 22:24:02 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "content": "Antes de compartilhar o documentário da Netflix “AI Gone Rogue”, tome nota. Clem Delangue, cofundador do Hugging Face que aparece no filme, diz que entrou no “modo doomer total” e não é preciso.",
       "lang": "en",
       "depts": []
     },
     {
-      "title": "Anthropic’s cloud partnerships are getting messy",
-      "description": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+      "title": "As parcerias de nuvem da Anthropic estão ficando complicadas",
+      "description": "A Anthropic está supostamente lutando para garantir computação suficiente de provedores de nuvem que a veem cada vez mais como um concorrente, mesmo que seus gastos com infraestrutura aumentem antes de um IPO planejado para novembro.",
       "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
       "publishedAt": "Tue, 20 Oct 2026 21:25:22 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+      "content": "A Anthropic está supostamente lutando para garantir computação suficiente de provedores de nuvem que a veem cada vez mais como um concorrente, mesmo que seus gastos com infraestrutura aumentem antes de um IPO planejado para novembro.",
       "lang": "en",
-      "depts": []
+      "depts": [
+        "Comercial"
+      ]
     },
     {
-      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-      "description": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+      "title": "OpenAI adquire a startup Orchestra Bio⁠ para fortalecer seu negócio de biotecnologia",
+      "description": "A OpenAI afirma que está adicionando a equipe e a tecnologia da Orchestra para trabalhar no Rosalind, seu modelo de IA para pesquisa em ciências biológicas, e em sua ferramenta Rosalind Workbench, um equipamento que visa ajudar os pesquisadores a planejar experimentos e analisar resultados.",
       "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
       "publishedAt": "Tue, 20 Oct 2026 20:35:10 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+      "content": "A OpenAI afirma que está adicionando a equipe e a tecnologia da Orchestra para trabalhar no Rosalind, seu modelo de IA para pesquisa em ciências biológicas, e em sua ferramenta Rosalind Workbench, um equipamento que visa ajudar os pesquisadores a planejar experimentos e analisar resultados.",
       "lang": "en",
-      "depts": []
+      "depts": [
+        "Comercial"
+      ]
     },
     {
       "title": "Google Chrome vai exibir novo alerta para sites suspeitos",
@@ -73,19 +133,21 @@
       "depts": []
     },
     {
-      "title": "ChatGPT now lets you lock your chats",
-      "description": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
+      "title": "ChatGPT agora permite bloquear seus chats",
+      "description": "A empresa afirma que o recurso foi projetado para situações em que os usuários podem estar discutindo algo pessoal ou planejando uma surpresa e desejam manter essas conversas privadas ao entregar seu dispositivo a amigos ou familiares para mostrar algo em outro bate-papo.",
       "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
       "publishedAt": "Tue, 20 Oct 2026 18:36:53 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
+      "content": "A empresa afirma que o recurso foi projetado para situações em que os usuários podem estar discutindo algo pessoal ou planejando uma surpresa e desejam manter essas conversas privadas ao entregar seu dispositivo a amigos ou familiares para mostrar algo em outro bate-papo.",
       "lang": "en",
-      "depts": []
+      "depts": [
+        "Educação"
+      ]
     },
     {
-      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-      "description": "Eric Schmidt’s fortune is about to get even bigger.",
+      "title": "Eric Schmidt supostamente possui cerca de metade da Anthropic que o CEO Dario Amodei",
+      "description": "A fortuna de Eric Schmidt está prestes a ficar ainda maior.",
       "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
       "publishedAt": "Tue, 20 Oct 2026 17:55:12 +0000",
       "image": null,
@@ -106,103 +168,11 @@
       "depts": []
     },
     {
-      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: Physical AI is in its LEGO era",
-      "description": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
-      "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
-      "publishedAt": "Tue, 20 Oct 2026 16:20:06 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-      "description": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
-      "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-      "publishedAt": "Tue, 20 Oct 2026 16:00:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-      "description": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry.",
-      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-      "publishedAt": "Tue, 20 Oct 2026 13:00:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry.",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-      "description": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
-      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-      "publishedAt": "Mon, 19 Oct 2026 23:39:38 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
       "title": "TV LG QNED 55 com Mini LED atinge 31% OFF em oferta no Mercado Livre",
       "description": "Modelo 55QNED70BSA, lançado em 2026, conta com Mini LED para melhor iluminação e inteligência artificial integrada para diversas áreas do sistema WebOS 26 TV LG QNED 55 com Mini LED atinge 31% OFF em oferta no Mercado Livre",
       "url": "https://tecnoblog.net/achados/tv-lg-qned-55-com-mini-led-atinge-32-off-em-oferta-no-mercado-livre/",
       "publishedAt": "Mon, 19 Oct 2026 21:18:03 +0000",
       "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/ml.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "Chefe do Instagram admite que ainda não sabe como combater deep fakes",
-      "description": "Perfis usam avatares gerados por inteligência artificial para reproduzir conteúdo original. Chefe do Instagram admite que ainda não sabe como combater deep fakes",
-      "url": "https://tecnoblog.net/noticias/chefe-do-instagram-admite-que-ainda-nao-sabe-como-combater-deep-fakes/",
-      "publishedAt": "Mon, 19 Oct 2026 16:39:33 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/10/adam-mosseri.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Marketing"
-      ]
-    },
-    {
-      "title": "Usuários recorrem à IA para remover anúncios e mudar interfaces de TVs",
-      "description": "Projetos usam ferramentas como Claude Code para criar launchers personalizados. Usuários recorrem à IA para remover anúncios e mudar interfaces de TVs",
-      "url": "https://tecnoblog.net/noticias/usuarios-usam-ia-para-remover-anuncios-e-mudar-interfaces-de-tvs/",
-      "publishedAt": "Mon, 19 Oct 2026 15:41:42 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/10/smart-tv-tcl-c7l-imagem-divulgacao.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Marketing"
-      ]
-    },
-    {
-      "title": "Anthropic quer barrar IAs apenas diante de riscos extremos",
-      "description": "Projeto prevê bloqueio de modelos que ameacem causar mais de 50 mortes ou ferimentos graves, ou prejuízos acima de US$ 1 bilhão. Anthropic quer barrar IAs apenas diante de riscos extremos",
-      "url": "https://tecnoblog.net/noticias/anthropic-quer-barrar-ias-apenas-diante-de-riscos-extremos/",
-      "publishedAt": "Mon, 19 Oct 2026 15:31:29 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-3.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "Meta admite que seus óculos gravaram conversas mesmo sem comando",
-      "description": "Óculos Ray-Ban Meta registraram áudios e transcrições no aplicativo Meta AI. Meta admite que seus óculos gravaram conversas mesmo sem comando",
-      "url": "https://tecnoblog.net/noticias/meta-admite-que-seus-oculos-gravaram-conversas-sem-comando/",
-      "publishedAt": "Fri, 16 Oct 2026 20:22:42 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/10/ray-ban-meta-2-wayfarer-edited.webp",
       "source": "Tecnoblog",
       "content": null,
       "lang": "pt",
@@ -518,6 +488,52 @@
       "lang": "pt",
       "depts": [
         "Comercial"
+      ]
+    },
+    {
+      "title": "IA pode destruir a bateria do seu celular; veja como resolver",
+      "description": "A inteligência artificial está cada vez mais presente nos smartphones, sendo integrada ao sistema e a diversos aplicativos para executar tarefas, como resumos de notificações, edição de fotos, sugestões personalizadas, além de atuar como assistentes de voz avançados. 15 recursos secretos do Apple In",
+      "url": "https://canaltech.com.br/inteligencia-artificial/ia-pode-destruir-a-bateria-do-seu-celular-veja-como-resolver/",
+      "publishedAt": "Sat, 04 Jul 2026 12:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/ZHTeRLBEvZ9V6ryjoDtw8E9DI2E=/700x394/smart/i1086691.jpeg",
+      "source": "Canaltech IA",
+      "content": "A inteligência artificial está cada vez mais presente nos smartphones, sendo integrada ao sistema e a diversos aplicativos para executar tarefas, como resumos de notificações, edição de fotos, sugestões personalizadas, além de atuar como assistentes de voz avançados. 15 recursos secretos do Apple Intelligence que a Apple \"escondeu\" Qual celular tem a melhor IA para tirar pessoas indesejadas das suas fotos? Apesar de trazer mais praticidade no dia a dia, isso tem um custo invisível: a necessidade de processamento constante . No próprio aparelho ou na nuvem, essas ferramentas permanecem ativas em segundo plano e podem consumir energia de forma contínua, o que acaba com a bateria sem que o usuário perceba. A seguir, tire suas dúvidas sobre: - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Por que a IA consome tanta energia? Como ajustar a IA no iPhone para economizar bateria? Como reduzir o consumo de IA no Android? Como ter certeza que a IA é realmente o problema? Por que a IA consome tanta energia? A IA nos celulares funciona de forma diferente dos aplicativos tradicionais. Ela não é ativada apenas quando o usuário abre um app, ela permanece parcialmente ativa o tempo todo para realizar tarefas, como a análise de fotos, interpretação de comandos de voz e geração de sugestões em tempo real. O custo oculto aparece justamente nessa ideia de IA “sempre disponível”. Para que ela responda imediatamente, são executados processos contínuos em segundo plano , com previsão de ações e análise de padrões de uso. Quanto maior o nível de personalização, maior o volume de dados processados de forma constante, o que aumenta o consumo de energia ao longo do dia. Como ajustar a IA no iPhone para economizar bateria? No iPhone, alguns recursos ligados à Apple Intelligence e à Siri podem impactar a autonomia da bateria. O ideal é revisar quais funções realmente são necessárias no uso diário. Po",
+      "lang": "pt",
+      "depts": [
+        "Financeiro",
+        "Gestão",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Governo Federal lança matriz de competências para uso de IA",
+      "description": "O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) divulgou, na última semana, a Matriz de Competências em Inteligência Artificial do Governo do Brasil . O documento vai orientar os cursos e treinamentos oferecidos a servidores federais sobre o uso da tecnologia, com eixos voltados à ét",
+      "url": "https://canaltech.com.br/inteligencia-artificial/governo-federal-lanca-matriz-de-competencias-para-uso-de-ia/",
+      "publishedAt": "Fri, 03 Jul 2026 19:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/kzQDM-16SY2FIYKPRKkiU42iGYs=/700x394/smart/i1140307.png",
+      "source": "Canaltech IA",
+      "content": "O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) divulgou, na última semana, a Matriz de Competências em Inteligência Artificial do Governo do Brasil . O documento vai orientar os cursos e treinamentos oferecidos a servidores federais sobre o uso da tecnologia, com eixos voltados à ética, segurança, privacidade e soberania digital. A publicação é do Núcleo de Inteligência Artificial (NIA), iniciativa da Secretaria de Governo Digital (SGD) para apoiar a adoção de IA no Poder Executivo Federal. A matriz passa a nortear todas as capacitações conduzidas pelo núcleo. Mais de 167 mil servidores já foram capacitados Segundo o secretário de Governo Digital, Rogério Mascarenhas, ao menos 167 mil servidores já concluíram alguma capacitação dos programas do ministério. Para ele, o número demonstra interesse crescente pelo uso da tecnologia no serviço público. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Mascarenhas afirma que a matriz foi criada para orientar o desenvolvimento de novos cursos e identificar lacunas de competência em cada perfil de servidor. O secretário também classificou o documento como inovador e disse que ele pode servir de referência para outros países e para empresas privadas. Seis perfis de servidores e onze programas de formação O MGI dividiu o público-alvo das capacitações em seis perfis: agente público, gestor de TIC, gestor público, executivo de dados, curador de dados e altas lideranças. Cada perfil tem competências específicas a desenvolver, conforme a rotina de trabalho ou o nível de decisão sobre o uso da tecnologia no órgão. As formações somam 11 programas, oferecidos pela Escola Virtual de Governo (EV.G), vinculada à Escola Nacional de Administração Pública (Enap), em parceria com o Serpro. Os cursos são gratuitos, a distância e abertos a qualquer servidor, e abrangem temas como IA generativa, ética em IA, proteção de dados pessoais",
+      "lang": "pt",
+      "depts": [
+        "Comercial",
+        "Jurídico",
+        "Gestão",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Novo app da Meta mostra criações feitas por vibe coding",
+      "description": "A Meta lançou silenciosamente o Pocket , um novo aplicativo para criar e compartilhar pequenos jogos e experiências interativas, chamados de \"gizmos\", usando comandos de inteligência artificial. O app já está disponível na App Store e no Google Play, mas a empresa ainda não fez um anúncio sobre o la",
+      "url": "https://canaltech.com.br/inteligencia-artificial/novo-app-da-meta-mostra-criacoes-feitas-por-vibe-coding/",
+      "publishedAt": "Fri, 03 Jul 2026 17:10:00 -0300",
+      "image": "https://t.ctcdn.com.br/o35a_R-0f5b8pzB7LdM_9qhgmOE=/700x394/smart/i1140309.png",
+      "source": "Canaltech IA",
+      "content": "A Meta lançou silenciosamente o Pocket , um novo aplicativo para criar e compartilhar pequenos jogos e experiências interativas, chamados de \"gizmos\", usando comandos de inteligência artificial. O app já está disponível na App Store e no Google Play, mas a empresa ainda não fez um anúncio sobre o lançamento, o que sugere que a ferramenta pode estar em fase inicial de testes. O aplicativo foi descoberto e divulgado primeiro no X por Alessandro Paluzzi, engenheiro reverso conhecido por encontrar novos aplicativos e recursos antes dos anúncios oficiais. Segundo dados da Appfigures, no entanto, o Pocket já estava disponível nas lojas desde 29 de junho. #Meta is working on a new app called Pocket 👀 ℹ️ A new creative platform to make and share gizmos. pic.twitter.com/zFjMU5jj1U - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - — Alessandro Paluzzi (@alex193a) July 2, 2026 O Pocket usa prompts de texto para gerar conteúdos interativos . Assim, até pessoas sem conhecimento em programação conseguem criar seus próprios miniapps. Além da ferramenta de criação, o aplicativo conta com um feed em que os usuários podem descobrir e testar gizmos desenvolvidos por outras pessoas. O projeto foi criado após a Meta adquirir, no início de 2026, a equipe da Gizmo, plataforma que já utilizava o conceito de vibe coding e acumulava mais de 635 mil instalações. O aplicativo original registrava 98% de avaliações positivas entre os usuários e, curiosamente, continua disponível nas lojas de aplicativos mesmo após o lançamento do Pocket pela Meta. A iniciativa reforça a estratégia da Meta de ampliar o acesso às ferramentas de criação com inteligência artificial. O Pocket ( play.google.com ) integra um ecossistema que já inclui o Vibes, de vídeos gerados por IA, e o Meta AI, focado na criação de imagens. Recentemente, a empresa também adicionou recursos de IA ao editor de vídeos Edits. O Pocket é o novo",
+      "lang": "pt",
+      "depts": [
+        "Marketing",
+        "Comercial",
+        "Educação"
       ]
     }
   ]
