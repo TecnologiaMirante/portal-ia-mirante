@@ -1,7 +1,56 @@
 {
-  "updatedAt": "2026-10-25T14:00:35.368Z",
+  "updatedAt": "2026-10-26T16:22:29.917Z",
   "count": 40,
   "articles": [
+    {
+      "title": "OpenAI desiste de treinar modelos de IA com acesso à internet",
+      "description": "Restrição ocorre após modelos encontrarem formas de ultrapassar barreiras durante testes de segurança. OpenAI desiste de treinar modelos de IA com acesso à internet",
+      "url": "https://tecnoblog.net/noticias/openai-desiste-de-treinar-modelos-de-ia-com-acesso-a-internet/",
+      "publishedAt": "Mon, 26 Oct 2026 15:08:00 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/openai-2_capa.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Anthropic officially files for its public debut",
+      "description": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "publishedAt": "Mon, 26 Oct 2026 14:35:22 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+      "lang": "en",
+      "depts": [
+        "Financeiro"
+      ]
+    },
+    {
+      "title": "Google quer usar seus dados no Gmail e Fotos para anúncios; veja como evitar",
+      "description": "Nova política permite que informações compartilhadas com recursos de Inteligência Personalizada influenciem anúncios. Google quer usar seus dados no Gmail e Fotos para anúncios; veja como evitar",
+      "url": "https://tecnoblog.net/noticias/google-quer-usar-seus-dados-no-gmail-e-fotos-para-anuncios-veja-como-evitar/",
+      "publishedAt": "Mon, 26 Oct 2026 10:05:17 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capas-novos-icones-google-2026-12.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Marketing",
+        "Educação"
+      ]
+    },
+    {
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "description": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "publishedAt": "Sun, 25 Oct 2026 16:57:32 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "lang": "en",
+      "depts": []
+    },
     {
       "title": "The AI graveyard: a running list of projects and startups that didn t make it",
       "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
@@ -25,7 +74,7 @@
       "depts": []
     },
     {
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing significant risks",
       "description": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
       "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
       "publishedAt": "Fri, 23 Oct 2026 23:05:49 +0000",
@@ -95,33 +144,11 @@
       ]
     },
     {
-      "title": "Claude Duet app is Anthropic s bet on agents",
-      "description": "Claude Duet is available through waitlist for Pro and Max plan users.",
-      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-      "publishedAt": "Thu, 22 Oct 2026 13:53:26 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
       "title": "Claude ganha agente 24 7 para brigar com ChatGPT, Google e Meta",
       "description": "Claude Duet tem navegador próprio para acessar a internet. Novidade está em fase de teste. Claude ganha agente 24 7 para brigar com ChatGPT, Google e Meta",
       "url": "https://tecnoblog.net/noticias/claude-ganha-agente-24x7-para-brigar-com-chatgpt-google-e-meta/",
       "publishedAt": "Thu, 22 Oct 2026 10:38:29 +0000",
       "image": "https://www.youtube.com/embed/Fb-68zqcSVs",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "Chefe do Google DeepMind diz que AGI chegará em até 3 anos",
-      "description": "Demis Hassabis encurtou previsão anterior e afirma que a inteligência artificial geral vai acelerar descobertas científicas. Chefe do Google DeepMind diz que AGI chegará em até 3 anos",
-      "url": "https://tecnoblog.net/noticias/chefe-do-google-deepmind-diz-que-agi-chegara-em-ate-3-anos/",
-      "publishedAt": "Wed, 21 Oct 2026 18:20:55 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/demis_hassabis_2024_nobel_prize_laureate_in_chemistry_7-edited.jpg",
       "source": "Tecnoblog",
       "content": null,
       "lang": "pt",
@@ -511,32 +538,6 @@
         "Marketing",
         "Comercial"
       ]
-    },
-    {
-      "title": "Por que o próximo ciclo computacional precisa ser construído para todos",
-      "description": "Nos últimos três anos, a capacidade computacional global dedicada à inteligência artificial cresceu aproximadamente 100 vezes . É uma das revoluções tecnológicas mais impactantes das últimas décadas. A IA já chegou indiscutivelmente. Mas a questão que surge agora é: ela está acessível a todos? De um",
-      "url": "https://canaltech.com.br/colunas/por-que-o-proximo-ciclo-computacional-precisa-ser-construido-para-todos/",
-      "publishedAt": "Thu, 02 Jul 2026 10:43:03 -0300",
-      "image": "https://t.ctcdn.com.br/nZ6sNq7PsgAB4H-oy5G3Tk3upoA=/700x394/smart/i1003705.png",
-      "source": "Canaltech IA",
-      "content": "Nos últimos três anos, a capacidade computacional global dedicada à inteligência artificial cresceu aproximadamente 100 vezes . É uma das revoluções tecnológicas mais impactantes das últimas décadas. A IA já chegou indiscutivelmente. Mas a questão que surge agora é: ela está acessível a todos? De um lado, temos modelos cada vez mais capazes, infraestruturas de bilhões de dólares, parcerias entre algumas das maiores empresas do planeta. De outro, desenvolvedores independentes, pesquisadores em países emergentes, startups sem acesso a crédito cloud e laboratórios universitários com acesso limitado. O próximo ciclo computacional pode encontrar caminhos para solucionar essa assimetria. O problema não é só hardware Quando falamos em democratizar a IA, GPUs e custos de treinamento são pontos importantes, mas há um gargalo além do hardware: a dependência de ecossistemas fechados que prendem desenvolvedores a plataformas específicas e concentram o poder de inovação nas mãos de poucos. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A analogia com o software é útil aqui. O movimento open source levou décadas para amadurecer, mas hoje a infraestrutura que sustenta a internet é majoritariamente aberta . Isso porque a inovação aberta com frequência se mostrou altamente resiliente e amplamente adotada em comparação com alternativas proprietárias. A IA está no começo do mesmo caminho. Plataformas abertas saltaram de nichos experimentais para infraestrutura de produção em escala global. Um pesquisador no Brasil, na Índia ou na Nigéria pode acessar hoje muitas das mesmas ferramentas utilizadas por grandes centros de tecnologia — desde que disponha de recursos de hardware adequados . A IA que mora no seu dispositivo Outra transformação relevante: a migração da IA da nuvem para o dispositivo. Processadores modernos com NPUs integradas permitem rodar inteligência artificial localmente , sem",
-      "lang": "pt",
-      "depts": [
-        "Financeiro",
-        "Comercial",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Fable e Mythos 5: governo Trump libera IAs mais perigosas da Anthropic",
-      "description": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três s",
-      "url": "https://canaltech.com.br/inteligencia-artificial/fable-e-mythos-5-governo-trump-libera-ias-mais-perigosas-da-anthropic/",
-      "publishedAt": "Wed, 01 Jul 2026 12:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/Am6VaUx8jmQtCNJCxA_znmbrltc=/700x394/smart/i1107289.png",
-      "source": "Canaltech IA",
-      "content": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três semanas depois de o governo ter suspendido o acesso aos dois sistemas por risco à segurança nacional. Segundo a Reuters, o acesso ao Fable 5 será restaurado a partir desta quarta-feira (1º) , ficando disponível ao público em geral. Já o Mythos 5, direcionado à detecção de vulnerabilidades de cibersegurança, será liberado para um grupo maior de parceiros domésticos e internacionais do programa Glasswing, da Anthropic. Como começou a restrição Em 12 de junho, o governo americano incluiu os dois modelos em sua lista de tecnologias sob controle de exportação , impedindo o acesso de estrangeiros sem aprovação especial . Como a Anthropic não tinha como verificar a nacionalidade dos usuários em tempo real, a companhia optou por suspender o Fable 5 e o Mythos 5 para todo mundo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A decisão, segundo a Reuters, partiu de uma denúncia de pesquisadores da Amazon , que encontraram uma forma de contornar as proteções do Fable 5. Com essa brecha, o modelo passou a identificar falhas de software e, em um dos casos registrados, chegou a gerar código demonstrando como explorar uma vulnerabilidade. No último domingo (28), o governo abriu uma primeira exceção , permitindo o uso do Mythos 5 por organizações selecionadas e por funcionários da própria Anthropic, incluindo estrangeiros vinculados a esses grupos. O Fable 5 seguia fora do ar até esta terça. O Claude é, atualmente, a terceira IA mais utilizada no mundo (Imagem: Marcelo Fischer/Canaltech) Por que são modelos tão perigosos O Mythos 5 concentra as capacidades que mais preocupam o governo american",
-      "lang": "pt",
-      "depts": []
     }
   ]
 }
