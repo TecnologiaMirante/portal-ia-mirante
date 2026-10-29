@@ -2,7 +2,7 @@
 
 Portal interno da **Mirante Tecnologia** para centralizar e divulgar o uso de Inteligência Artificial na empresa — ferramentas homologadas, criações feitas com IA, cases de uso, recursos educativos e notícias diárias de IA.
 
-> **Stack:** React 19 · Vite 8 · Tailwind CSS v4 · Firebase 12 (Auth + Firestore + Storage) · EmailJS · Google Apps Script · GitHub Actions · Gemini AI
+> **Stack:** React 19 · Vite 8 · Tailwind CSS v4 · Firebase 12 (Auth + Firestore + Storage) · Express 4 · EmailJS · Google Apps Script · GitHub Actions · Gemini AI
 
 ---
 
@@ -19,6 +19,7 @@ Portal interno da **Mirante Tecnologia** para centralizar e divulgar o uso de In
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Área Admin](#área-admin)
 - [Tipos de Mídia Suportados](#tipos-de-mídia-suportados)
+- [Health Check](#health-check)
 - [Deploy](#deploy)
 - [Variáveis de Ambiente em Produção](#variáveis-de-ambiente-em-produção)
 
@@ -344,7 +345,8 @@ Isso garante que o Render **não acione um novo deploy** apenas por causa da atu
 |---------|-----------|
 | `npm run dev` | Servidor de desenvolvimento com HMR (porta 5173) |
 | `npm run build` | Build de produção em `dist/` |
-| `npm run preview` | Serve o build de produção localmente |
+| `npm start` | Inicia o servidor Express em produção (serve `dist/` + `/health`) |
+| `npm run preview` | Serve o build de produção localmente via Vite |
 | `npm run lint` | Executa o ESLint no código-fonte |
 | `node scripts/fetch-news.mjs` | Roda o scraper localmente (requer `GEMINI_API_KEY` no ambiente) |
 
@@ -433,8 +435,9 @@ portal-ia-mirante/
 ├── .env.example                  # Template público de variáveis
 ├── .gitignore
 ├── index.html
-├── package.json                  # Inclui @mozilla/readability e jsdom (usados pelo script)
+├── package.json                  # Inclui express, @mozilla/readability e jsdom
 ├── README.md
+├── server.js                     # Servidor Express: serve dist/ + expõe GET /health
 └── vite.config.js
 ```
 
@@ -476,13 +479,57 @@ Navegue até `/admin/login` e autentique com e-mail e senha cadastrados no Fireb
 
 ---
 
+## Health Check
+
+O `server.js` expõe um endpoint de monitoramento em `GET /health`, usado pelo **MiraTech Monitor**.
+
+### Resposta
+
+```json
+{
+  "status": "healthy",
+  "version": "1.0.0",
+  "timestamp": "2026-10-29T10:00:00.000Z",
+  "checks": {
+    "firestore":        { "status": "healthy", "responseTimeMs": 142 },
+    "firebase_storage": { "status": "healthy", "responseTimeMs":  98 },
+    "github_news":      { "status": "healthy", "responseTimeMs": 210 }
+  }
+}
+```
+
+| Campo `status` | HTTP | Significado |
+|----------------|------|-------------|
+| `healthy` | 200 | Todos os checks passaram |
+| `degraded` | 200 | Algum check não-crítico falhou (ex: GitHub news) |
+| `unhealthy` | 503 | Firestore ou Storage inacessível |
+
+### Checks realizados
+
+| Check | URL verificada | Critério de saúde |
+|-------|---------------|-------------------|
+| `firestore` | `firestore.googleapis.com/.../creations?pageSize=1` | Resposta HTTP < 500 |
+| `firebase_storage` | `firebasestorage.googleapis.com/v0/b/{bucket}/o` | Resposta HTTP < 500 |
+| `github_news` | `raw.githubusercontent.com/.../public/news.json` | HTTP 200 |
+
+Os três checks rodam em paralelo com timeout individual de 5 s. CORS liberado para `https://portalia-mirante.onrender.com` e ports de dev.
+
+---
+
 ## Deploy
 
-O projeto é uma SPA com React Router — o servidor precisa redirecionar todas as rotas para `index.html`.
+O projeto roda como um **Web Service** no Render (Express serve o `dist/` e o `/health`).
 
 ### Render (configuração atual)
 
 O projeto está hospedado no **Render**. A cada push na branch `main`, o Render detecta as mudanças e faz deploy automático.
+
+**Tipo de serviço:** Web Service (não Static Site)
+
+| Campo Render | Valor |
+|---|---|
+| **Build Command** | `npm install && npm run build` |
+| **Start Command** | `npm start` |
 
 > O commit diário do `news.json` usa `[skip ci]` na mensagem. Além disso, o frontend em produção lê o `news.json` direto do GitHub raw — sem precisar de rebuild para ver as notícias atualizadas.
 
