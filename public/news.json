@@ -1,15 +1,91 @@
 {
-  "updatedAt": "2026-11-02T19:52:56.739Z",
+  "updatedAt": "2026-11-03T17:25:52.309Z",
   "count": 40,
   "articles": [
     {
+      "title": "Anthropic is still grappling with the economics of compute",
+      "description": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+      "publishedAt": "Tue, 03 Nov 2026 17:07:01 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Navegador Brave é processado por coleta de dados para IA e ferramentas anti-paywall",
+      "description": "Ferramenta de busca com inteligência artificial também é alvo da ação. Navegador Brave é processado por coleta de dados para IA e ferramentas anti-paywall",
+      "url": "https://tecnoblog.net/noticias/navegador-brave-e-processado-por-coleta-de-dados-para-ia-e-ferramentas-anti-paywall/",
+      "publishedAt": "Tue, 03 Nov 2026 16:42:08 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/01/brave-navegador.jpg",
+      "source": "Tecnoblog",
+      "content": "Empresas de IA estariam entre clientes de dados coletados pelo navegador (imagem: reprodução/Brave) Resumo O jornal New York Times processou a Brave, dona do navegador e do buscador, por coleta de dados sem autorização para uso em ferramentas de IA e para contornar paywalls. A ação alega que a Brave possui um acervo de mais de 30 bilhões de páginas da web, incluindo cópias de reportagens do Times, e comercializa acesso a esses dados via API. O processo também questiona recursos de bloqueio de anúncios do Brave, que permitem acessar conteúdo exclusivo para assinantes sem gerar receita para os jornais. O jornal The New York Times está processando a dona do navegador e buscador Brave, sob a acusação de copiar reportagens e transformá-las em matéria-prima para produtos próprios. A ação, apresentada nesta segunda-feira (02/11), também questiona recursos de bloqueio de anúncios que permitem contornar paywalls. Segundo a ação , a empresa mantém um acervo com mais de 30 bilhões de páginas da web e continua adicionando milhões de endereços diariamente. Entre esse material estariam cópias de reportagens do Times obtidas sem autorização. O jornal afirma ainda que a Brave não identifica publicamente o robô usado para fazer a coleta desses dados, dificultando o bloqueio do rastreador. O conteúdo é utilizado em produtos como o Ask Brave, que responde perguntas com IA (semelhante ao Modo IA, do Google), reduzindo a necessidade de o usuário acessar a publicação original. Em um processo separado, os jornais New York Daily News, Chicago Tribune e Orlando Sentinel fazem acusações semelhantes contra a companhia. Navegador estaria comercializando dados via API New York Times processa Brave por raspagem de dados irregular (Imagem: Joe ShlabotnikSeguir/Flickr) Segundo a ação, a Brave estaria comercializando acesso ao seu índice por meio da Brave Search API, utilizada por terceiros para recuperar informações da web. Entre os clientes citados na ação estão empresas de IA como Anthropic, Perplexity, Mistral, xAI e Cohere. Um dos produtos oferecidos pela API , segundo o Times , é o LLM Context, criado especificamente para fornecer a modelos de linguagem textos, tabelas e outros dados provenientes de raspagens na internet. O jornal tem sido extremamente duro em relação ao acesso não autorizado aos seus conteúdos por ferramentas e empresas de IA . Ele aguarda o julgamento de um processo contra a OpenAI e a Microsoft, aberto em 2023. Bloqueador de paywalls entra na mira dos jornais O navegador Brave, conhecido pelos recursos de privacidade e bloqueio de rastreadores de terceiros, também está no centro da disputa. Segundo o Times , essas ferramentas também interferem nas receitas com anúncios e assinaturas dos jornais. A ação menciona filtros que podem ser adicionados ao bloqueador de conteúdo do Brave para contornar barreiras de acesso, por exemplo, como o Paywall blocker, que permite acessar textos exclusivos para assinantes. O jornal afirma que, sem recursos para financiar o trabalho jornalístico, haverá um vácuo na produção de notícias que nenhum computador ou inteligência artificial será capaz de preencher , e sustenta que o Brave se beneficia do acesso ao conteúdo enquanto reduz oportunidades de monetização do veículo que o produziu. Brave teria ignorado pedidos para interromper a prática O processo afirma que a disputa começou antes da chegada do caso aos tribunais. O jornal diz ter enviado duas notificações extrajudiciais ao CEO da Brave em 2025 e 2026. A nova ação foi apresentada depois que a empresa não atendeu aos pedidos. Em declaração sobre o processo, o porta-voz do jornal Graham James afirmou que o veículo apoia o desenvolvimento responsável de inteligência artificial, mas acusa a Brave de ignorar a legislação de direitos autorais e pedidos anteriores para interromper a prática. A Perplexity, mencionada como um dos clientes da raspagem de dados feita pelo Brave, criticou a acusação e disse que o New York Times estaria gastando demais com advogados e pouco com jornalistas . Navegador Brave é processado por coleta de dados para IA e ferramentas anti-paywall",
+      "lang": "pt",
+      "depts": [
+        "Marketing",
+        "Financeiro",
+        "Comercial",
+        "Gestão",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+      "description": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
+      "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+      "publishedAt": "Tue, 03 Nov 2026 16:30:34 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Robô de entregas ignora sinal vermelho e é “atropelado” por ônibus",
+      "description": "Pelo menos nove passageiros se feriram em acidente na capital da Estônia. Robô de entregas ignora sinal vermelho e é “atropelado” por ônibus",
+      "url": "https://tecnoblog.net/noticias/robo-de-entregas-ignora-sinal-vermelho-e-e-atropelado-por-onibus/",
+      "publishedAt": "Tue, 03 Nov 2026 14:42:14 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/11/robo-na-estonia.png",
+      "source": "Tecnoblog",
+      "content": "Robô na Estônia foi “atropelado” por ônibus (imagem: divulgação) Resumo Um robô de entregas da Bolt ignorou um sinal vermelho e foi atingido por um ônibus na cidade de Talin, capital da Estônia. O acidente deixou pelo menos 9 passageiros feridos e levantou questões sobre a segurança e a responsabilidade dos robôs autônomos nas vias públicas. A empresa afirmou que o robô pode ter lido erroneamente a sinalização devido à iluminação intensa no local e que irá analisar o ocorrido para evitar futuros incidentes. Um robô de entregas ganhou as manchetes na Europa por ignorar completamente um sinal vermelho e decidir atravessar a rua na cidade de Talin, capital da Estônia. Um ônibus atingiu o equipamento em cheio, e ainda deixou pelo menos nove passageiros feridos, de acordo com os primeiros relatos da imprensa local. O motorista do ônibus disse que deu uma freada brusca para tentar evitar o acidente, mas mesmo assim não foi possível evitar o impacto. Após a colisão, o robô ainda é arrastado por alguns metros. O caso ocorreu no centro da cidade, por volta das 18h. Depois disso, o robô da empresa de mobilidade Bolt simplesmente seguiu o percurso, como se nada tivesse acontecido. A empresa municipal de transporte declarou quer “se o participante de um acidente de trânsito deixa a cena sem cumprir todas as obrigações estabelecidas em lei, isso pode constituir um ilícito . Já um dos diretores da mesma empresa disse que “o robô fugiu, se é que podemos colocar desta forma”. Andrei Novikov também disse que a polícia iria investigar o caso. Por que o robô ignorou o sinal? Robô usado pela Bolt foi projetado pela Starship Technologies (imagem: divulgação) O chefe de operações da Starship Technologies, que é responsável pelos robôs de entrega, disse que a decisão equivocada do equipamento tem a ver com a maneira como ele enxerga o ambiente. Segundo Pepe Aaviksoo, havia muita luz das propagandas no entorno e os semáforos tanto para pessoas quanto para carros estavam na mesma linha de visão. Por isso, o robô teria lido errado a sinalização. “Há muitas lições a serem aprendidas, mas situações excepcionais acontecem”, disse o representante da empresa. Ele ainda afirmou que o robô ficou no local por aproximadamente 10 minutos, ou seja, não teria fugido. Após a colisão, o robô entrou em contato com os funcionários no escritório, que teriam assumido a direção para colocá-lo num local seguro da via. “Do nosso ponto de vista, a situação estava resolvida”, diz o representante da empresa, já que o ônibus seguiu a viagem e nenhum veículo de resgate ou policial estava na cena. O caso ocorreu na semana passada. Robô de entregas ignora sinal vermelho e é “atropelado” por ônibus",
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "description": "The one-year-old startup is now valued at $300 million.",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "publishedAt": "Mon, 02 Nov 2026 23:13:53 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "Educação"
+      ]
+    },
+    {
+      "title": "Anthropic warns that it s very close to RSI capability, aka self-building AI",
+      "description": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "publishedAt": "Mon, 02 Nov 2026 22:14:50 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "lang": "en",
+      "depts": [
+        "Educação"
+      ]
+    },
+    {
       "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-      "description": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+      "description": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
       "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
       "publishedAt": "Mon, 02 Nov 2026 19:19:17 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+      "content": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
       "lang": "en",
       "depts": [
         "Marketing",
@@ -56,39 +132,6 @@
       ]
     },
     {
-      "title": "OpenAI reportedly lowers funding target for new round",
-      "description": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "publishedAt": "Sat, 31 Oct 2026 16:12:55 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-      "description": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
-      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-      "publishedAt": "Fri, 30 Oct 2026 22:56:13 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Anthropic expected to receive high junk rating from credit agencies following IPO, FT report says",
-      "description": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
-      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-      "publishedAt": "Fri, 30 Oct 2026 21:52:03 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
-      "lang": "en",
-      "depts": []
-    },
-    {
       "title": "Cursor diz que extensão falsa do Claude Code afetou até 5 mil usuários",
       "description": "Versão maliciosa tentava roubar dados do computador e abrir acesso remoto por SSH. Cursor diz que extensão falsa do Claude Code afetou até 5 mil usuários",
       "url": "https://tecnoblog.net/noticias/cursor-diz-que-extensao-falsa-do-claude-code-afetou-ate-5-mil-usuarios/",
@@ -115,32 +158,6 @@
         "RH",
         "Gestão",
         "Educação"
-      ]
-    },
-    {
-      "title": "Gemini agora permite editar PDFs e documentos em sua própria interface",
-      "description": "O Google atualizou o Gemini para permitir a edição direta de arquivos na interface. O recurso abrange PDFs, documentos, planilhas e códigos de programação. Gemini agora permite editar PDFs e documentos em sua própria interface",
-      "url": "https://tecnoblog.net/noticias/gemini-agora-permite-editar-pdfs-e-documentos-em-sua-propria-interface/",
-      "publishedAt": "Thu, 29 Oct 2026 20:05:51 +0000",
-      "image": "https://www.youtube.com/embed/dJ-SIBF1nJQ",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Educação"
-      ]
-    },
-    {
-      "title": "Novo processo liga ChatGPT à morte de mulher de 31 anos",
-      "description": "Chatbot da OpenAI minimizou os sintomas relatados antes da morte de Bowen Wan, em fevereiro de 2026. Novo processo liga ChatGPT à morte de mulher de 31 anos",
-      "url": "https://tecnoblog.net/noticias/novo-processo-liga-chatgpt-a-morte-de-mulher-de-31-anos/",
-      "publishedAt": "Thu, 29 Oct 2026 15:09:28 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/10/wan-epilepsia-chatgpt.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Gestão"
       ]
     },
     {
@@ -542,17 +559,6 @@
         "Comercial",
         "Educação"
       ]
-    },
-    {
-      "title": "Fable e Mythos 5: governo Trump libera IAs mais perigosas da Anthropic",
-      "description": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três s",
-      "url": "https://canaltech.com.br/inteligencia-artificial/fable-e-mythos-5-governo-trump-libera-ias-mais-perigosas-da-anthropic/",
-      "publishedAt": "Wed, 01 Jul 2026 12:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/Am6VaUx8jmQtCNJCxA_znmbrltc=/700x394/smart/i1107289.png",
-      "source": "Canaltech IA",
-      "content": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três semanas depois de o governo ter suspendido o acesso aos dois sistemas por risco à segurança nacional. Segundo a Reuters, o acesso ao Fable 5 será restaurado a partir desta quarta-feira (1º) , ficando disponível ao público em geral. Já o Mythos 5, direcionado à detecção de vulnerabilidades de cibersegurança, será liberado para um grupo maior de parceiros domésticos e internacionais do programa Glasswing, da Anthropic. Como começou a restrição Em 12 de junho, o governo americano incluiu os dois modelos em sua lista de tecnologias sob controle de exportação , impedindo o acesso de estrangeiros sem aprovação especial . Como a Anthropic não tinha como verificar a nacionalidade dos usuários em tempo real, a companhia optou por suspender o Fable 5 e o Mythos 5 para todo mundo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A decisão, segundo a Reuters, partiu de uma denúncia de pesquisadores da Amazon , que encontraram uma forma de contornar as proteções do Fable 5. Com essa brecha, o modelo passou a identificar falhas de software e, em um dos casos registrados, chegou a gerar código demonstrando como explorar uma vulnerabilidade. No último domingo (28), o governo abriu uma primeira exceção , permitindo o uso do Mythos 5 por organizações selecionadas e por funcionários da própria Anthropic, incluindo estrangeiros vinculados a esses grupos. O Fable 5 seguia fora do ar até esta terça. O Claude é, atualmente, a terceira IA mais utilizada no mundo (Imagem: Marcelo Fischer/Canaltech) Por que são modelos tão perigosos O Mythos 5 concentra as capacidades que mais preocupam o governo american",
-      "lang": "pt",
-      "depts": []
     }
   ]
 }
