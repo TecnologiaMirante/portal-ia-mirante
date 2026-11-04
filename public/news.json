@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-11-03T17:25:52.309Z",
+  "updatedAt": "2026-11-04T17:38:55.876Z",
   "count": 40,
   "articles": [
+    {
+      "title": "ChatGPT já equivale a 20% das buscas do Google, mas calma",
+      "description": "Com 1,2 bilhão de usuários ativos, ChatGPT já é o maior rival do buscador, mas \"império do Google\" está longe do fim. ChatGPT já equivale a 20% das buscas do Google, mas calma",
+      "url": "https://tecnoblog.net/noticias/chatgpt-ja-equivale-a-20-das-buscas-do-google-mas-calma/",
+      "publishedAt": "Wed, 04 Nov 2026 13:57:44 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/04/chatgpt-celular.jpg",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Anthropic is working on a system to prove AI models identity",
+      "description": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "publishedAt": "Tue, 03 Nov 2026 22:41:03 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Apps de namoro e chatbots com romance se tornam 18+ no iPhone",
+      "description": "No Brasil, esses recursos terão classificação mínima A16 ou A18. Apps de namoro e chatbots com romance se tornam 18+ no iPhone",
+      "url": "https://tecnoblog.net/noticias/apps-de-namoro-e-chatbots-com-romance-se-tornam-18-no-iphone/",
+      "publishedAt": "Tue, 03 Nov 2026 21:05:36 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/12/tinder-edited.jpg",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Educação"
+      ]
+    },
     {
       "title": "Anthropic is still grappling with the economics of compute",
       "description": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
@@ -14,13 +49,13 @@
       "depts": []
     },
     {
-      "title": "Navegador Brave é processado por coleta de dados para IA e ferramentas anti-paywall",
-      "description": "Ferramenta de busca com inteligência artificial também é alvo da ação. Navegador Brave é processado por coleta de dados para IA e ferramentas anti-paywall",
+      "title": "Brave é processado por coleta de dados para IA e funções contra paywall",
+      "description": "Ferramenta de busca com inteligência artificial também é alvo da ação. Brave é processado por coleta de dados para IA e funções contra paywall",
       "url": "https://tecnoblog.net/noticias/navegador-brave-e-processado-por-coleta-de-dados-para-ia-e-ferramentas-anti-paywall/",
       "publishedAt": "Tue, 03 Nov 2026 16:42:08 +0000",
       "image": "https://files.tecnoblog.net/wp-content/uploads/2026/01/brave-navegador.jpg",
       "source": "Tecnoblog",
-      "content": "Empresas de IA estariam entre clientes de dados coletados pelo navegador (imagem: reprodução/Brave) Resumo O jornal New York Times processou a Brave, dona do navegador e do buscador, por coleta de dados sem autorização para uso em ferramentas de IA e para contornar paywalls. A ação alega que a Brave possui um acervo de mais de 30 bilhões de páginas da web, incluindo cópias de reportagens do Times, e comercializa acesso a esses dados via API. O processo também questiona recursos de bloqueio de anúncios do Brave, que permitem acessar conteúdo exclusivo para assinantes sem gerar receita para os jornais. O jornal The New York Times está processando a dona do navegador e buscador Brave, sob a acusação de copiar reportagens e transformá-las em matéria-prima para produtos próprios. A ação, apresentada nesta segunda-feira (02/11), também questiona recursos de bloqueio de anúncios que permitem contornar paywalls. Segundo a ação , a empresa mantém um acervo com mais de 30 bilhões de páginas da web e continua adicionando milhões de endereços diariamente. Entre esse material estariam cópias de reportagens do Times obtidas sem autorização. O jornal afirma ainda que a Brave não identifica publicamente o robô usado para fazer a coleta desses dados, dificultando o bloqueio do rastreador. O conteúdo é utilizado em produtos como o Ask Brave, que responde perguntas com IA (semelhante ao Modo IA, do Google), reduzindo a necessidade de o usuário acessar a publicação original. Em um processo separado, os jornais New York Daily News, Chicago Tribune e Orlando Sentinel fazem acusações semelhantes contra a companhia. Navegador estaria comercializando dados via API New York Times processa Brave por raspagem de dados irregular (Imagem: Joe ShlabotnikSeguir/Flickr) Segundo a ação, a Brave estaria comercializando acesso ao seu índice por meio da Brave Search API, utilizada por terceiros para recuperar informações da web. Entre os clientes citados na ação estão empresas de IA como Anthropic, Perplexity, Mistral, xAI e Cohere. Um dos produtos oferecidos pela API , segundo o Times , é o LLM Context, criado especificamente para fornecer a modelos de linguagem textos, tabelas e outros dados provenientes de raspagens na internet. O jornal tem sido extremamente duro em relação ao acesso não autorizado aos seus conteúdos por ferramentas e empresas de IA . Ele aguarda o julgamento de um processo contra a OpenAI e a Microsoft, aberto em 2023. Bloqueador de paywalls entra na mira dos jornais O navegador Brave, conhecido pelos recursos de privacidade e bloqueio de rastreadores de terceiros, também está no centro da disputa. Segundo o Times , essas ferramentas também interferem nas receitas com anúncios e assinaturas dos jornais. A ação menciona filtros que podem ser adicionados ao bloqueador de conteúdo do Brave para contornar barreiras de acesso, por exemplo, como o Paywall blocker, que permite acessar textos exclusivos para assinantes. O jornal afirma que, sem recursos para financiar o trabalho jornalístico, haverá um vácuo na produção de notícias que nenhum computador ou inteligência artificial será capaz de preencher , e sustenta que o Brave se beneficia do acesso ao conteúdo enquanto reduz oportunidades de monetização do veículo que o produziu. Brave teria ignorado pedidos para interromper a prática O processo afirma que a disputa começou antes da chegada do caso aos tribunais. O jornal diz ter enviado duas notificações extrajudiciais ao CEO da Brave em 2025 e 2026. A nova ação foi apresentada depois que a empresa não atendeu aos pedidos. Em declaração sobre o processo, o porta-voz do jornal Graham James afirmou que o veículo apoia o desenvolvimento responsável de inteligência artificial, mas acusa a Brave de ignorar a legislação de direitos autorais e pedidos anteriores para interromper a prática. A Perplexity, mencionada como um dos clientes da raspagem de dados feita pelo Brave, criticou a acusação e disse que o New York Times estaria gastando demais com advogados e pouco com jornalistas . Navegador Brave é processado por coleta de dados para IA e ferramentas anti-paywall",
+      "content": "Empresas de IA estariam entre clientes de dados coletados pelo navegador (imagem: reprodução/Brave) Resumo O jornal New York Times processou a Brave, dona do navegador e do buscador, por coleta de dados sem autorização para uso em ferramentas de IA e para contornar paywalls. A ação alega que a Brave possui um acervo de mais de 30 bilhões de páginas da web, incluindo cópias de reportagens do Times, e comercializa acesso a esses dados via API. O processo também questiona recursos de bloqueio de anúncios do Brave, que permitem acessar conteúdo exclusivo para assinantes sem gerar receita para os jornais. O jornal The New York Times está processando a dona do navegador e buscador Brave, sob a acusação de copiar reportagens e transformá-las em matéria-prima para produtos próprios. A ação, apresentada nesta segunda-feira (02/11), também questiona recursos de bloqueio de anúncios que permitem contornar paywalls. Segundo a ação , a empresa mantém um acervo com mais de 30 bilhões de páginas da web e continua adicionando milhões de endereços diariamente. Entre esse material estariam cópias de reportagens do Times obtidas sem autorização. O jornal afirma ainda que a Brave não identifica publicamente o robô usado para fazer a coleta desses dados, dificultando o bloqueio do rastreador. O conteúdo é utilizado em produtos como o Ask Brave, que responde perguntas com IA (semelhante ao Modo IA, do Google), reduzindo a necessidade de o usuário acessar a publicação original. Em um processo separado, os jornais New York Daily News , Chicago Tribune e Orlando Sentinel fazem acusações semelhantes. Navegador estaria comercializando dados via API New York Times processa Brave por raspagem de dados irregular (Imagem: Joe ShlabotnikSeguir/Flickr) Segundo a ação, a Brave estaria comercializando acesso ao seu índice por meio da Brave Search API, utilizada por terceiros para recuperar informações da web. Entre os clientes citados na ação estão empresas de IA como Anthropic, Perplexity, Mistral, xAI e Cohere. Um dos produtos oferecidos pela API , segundo o Times , é o LLM Context, criado especificamente para fornecer a modelos de linguagem textos, tabelas e outros dados provenientes de raspagens na internet. O jornal tem sido extremamente duro em relação ao acesso não autorizado aos seus conteúdos por ferramentas e empresas de IA . Ele aguarda o julgamento de um processo contra a OpenAI e a Microsoft, aberto em 2023. Bloqueador de paywalls entra na mira dos jornais O navegador Brave, conhecido pelos recursos de privacidade e bloqueio de rastreadores, também está no centro da disputa. Segundo o Times , essas ferramentas também interferem nas receitas com anúncios e assinaturas dos jornais. A ação menciona filtros que podem ser adicionados ao bloqueador e contornam barreiras de acesso, como o Paywall Blocker, que permite acessar textos exclusivos para assinantes. O jornal afirma que, sem recursos para financiar o trabalho jornalístico, haverá um vácuo na produção de notícias que nenhum computador ou inteligência artificial será capaz de preencher , e sustenta que o Brave se beneficia do acesso ao conteúdo enquanto reduz oportunidades de monetização do veículo que o produziu. Brave teria ignorado pedidos para interromper a prática O processo afirma que a disputa começou antes da chegada do caso aos tribunais. O Times diz ter enviado duas notificações extrajudiciais ao Brave em 2025 e 2026. A nova ação foi apresentada depois que a empresa não atendeu aos pedidos. O porta-voz do jornal, Graham James, afirmou que o veículo apoia o desenvolvimento responsável de inteligência artificial, mas acusa a Brave de ignorar a legislação de direitos autorais e os pedidos anteriores para interromper a prática. A Perplexity, mencionada como um dos clientes da raspagem de dados feita pelo Brave, criticou a acusação e disse que o New York Times estaria gastando demais com advogados e pouco com jornalistas . Brave é processado por coleta de dados para IA e funções contra paywall",
       "lang": "pt",
       "depts": [
         "Marketing",
@@ -79,22 +114,6 @@
       ]
     },
     {
-      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-      "description": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
-      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-      "publishedAt": "Mon, 02 Nov 2026 19:19:17 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
-      "lang": "en",
-      "depts": [
-        "Marketing",
-        "Financeiro",
-        "Comercial",
-        "Jurídico"
-      ]
-    },
-    {
       "title": "A Meta quer entrar na sua casa, agora com um robô humanoide",
       "description": "Criado em parceria com a chinesa Fourier, robô humanoide da Meta teria 1,5 de altura e tela na cabeça que mostra expressões faciais. A Meta quer entrar na sua casa, agora com um robô humanoide",
       "url": "https://tecnoblog.net/noticias/a-meta-quer-entrar-na-sua-casa-agora-com-um-robo-humanoide/",
@@ -108,30 +127,6 @@
       ]
     },
     {
-      "title": "OpenAI is finally merging ChatGPT s Chat and Work tabs",
-      "description": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
-      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-      "publishedAt": "Mon, 02 Nov 2026 13:57:53 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "description": "Data centers are deeply unpopular. But what if we called them something else?",
-      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-      "publishedAt": "Sun, 01 Nov 2026 21:55:23 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Marketing"
-      ]
-    },
-    {
       "title": "Cursor diz que extensão falsa do Claude Code afetou até 5 mil usuários",
       "description": "Versão maliciosa tentava roubar dados do computador e abrir acesso remoto por SSH. Cursor diz que extensão falsa do Claude Code afetou até 5 mil usuários",
       "url": "https://tecnoblog.net/noticias/cursor-diz-que-extensao-falsa-do-claude-code-afetou-ate-5-mil-usuarios/",
@@ -141,22 +136,6 @@
       "content": null,
       "lang": "pt",
       "depts": [
-        "Educação"
-      ]
-    },
-    {
-      "title": "Android 17: Jovi começa a liberar OriginOS 7 no Brasil",
-      "description": "Sistema baseado no Android 17 estreia na linha X300 e traz mais integração com outros aparelhos e assistente de IA próprio. Android 17: Jovi começa a liberar OriginOS 7 no Brasil",
-      "url": "https://tecnoblog.net/noticias/android-17-jovi-comeca-a-liberar-originos-7-no-brasil/",
-      "publishedAt": "Thu, 29 Oct 2026 20:17:34 +0000",
-      "image": "https://www.youtube.com/embed/FAlYeoXdR40",
-      "source": "Tecnoblog",
-      "content": "OriginOS 7 chega ao Brasil nos aparelhos mais caros da marca (imagem: reprodução/Vivo Mobile) Resumo A Jovi começou a liberar o OriginOS 7 no Brasil, inicialmente para os aparelhos da linha X300, com mudanças em multitarefa, integração com outros dispositivos e recursos de inteligência artificial. O OriginOS 7 é baseado no Android 17 e traz a Plataforma de Trabalho Origin, que permite usar até cinco aplicativos simultaneamente, além de melhorar a comunicação com aparelhos de outros ecossistemas. O sistema também inclui um assistente de IA chamado Jovi, que funciona entre smartphones e computadores, permitindo que os usuários façam pedidos e recebam resultados em diferentes dispositivos. A fabricante de celulares Jovi, parte do conglomerado chinês Vivo Mobile , começou a disponibilizar o OriginOS 7 no Brasil nesta quinta-feira (29/10). A nova versão do sistema estreia nos aparelhos da linha X300 e traz mudanças em multitarefa, integração com outros dispositivos, personalização e recursos de inteligência artificial. A atualização chega primeiro ao Jovi X300 Ultra e ao X300 FE. Ela será expandida para outros celulares da marca nas próximas semanas, mas ainda não há um cronograma. O OriginOS 7 foi apresentado globalmente em setembro e é baseado no Android 17 . A empresa não informa quais aparelhos, além da linha X300, receberão a novidade. Aqui, o Jovi X300 FE tem preço sugerido de R$ 7.999 e o Jovi X300 Ultra de R$ 19.999. No Brasil, a Jovi divide os lançamentos nas linhas T, X, V e Y. Essa última pode ganhar um novo aparelho com uma superbateria em breve. Plataforma de Trabalho Origin e integração com PCs Uma das principais mudanças do sistema é a chamada Plataforma de Trabalho Origin. O recurso permite usar até cinco aplicativos simultaneamente: enquanto um ocupa maior parte da tela, os outros ficam dispostos ao lado ou na parte de cima, facilitando a troca. A função estará disponível apenas nos modelos com pelo menos 12 GB de RAM e depende da compatibilidade dos aplicativos usados. O sistema também melhora a comunicação com aparelhos de outros ecossistemas por meio do Jovi Office Kit, facilitando a troca de arquivos e informações com computadores Windows, Mac e iPads. Na interface dos smartphones, que repete muito das características visuais popularizadas pelo Liquid Glass do iOS, há novas animações e opções de personalização para as telas inicial, de bloqueio e o Always-On Display. Entre os recursos estão temas que reagem ao toque ou movimento, colagens, personagens interativos e outros. OriginOS 7 traz novidades em integração com outros dispositivos (imagem: divulgação/Jovi) Assistente de IA Jovi A inteligência artificial ganhou mais espaço no SO através de um assistente que funciona entre smartphones e computadores. Ele se chama Jovi – sim, o mesmo nome da marca. A proposta é que os usuários possam fazer pedidos no celular, mesmo que a tarefa envolva arquivos armazenados no PC. Segundo a fabricante, um usuário pode, por exemplo, solicitar uma planilha no computador, pedir um resumo das principais informações e receber o resultado no smartphone. Sistema também melhora funcionalidades de IA (imagem: divulgação/Jovi) Também deve ser possível programar tarefas recorrentes, como organizar arquivos ou produzir relatórios em determinados horários. Outro recurso é o Snap Note, que reconhece fotos de quadros, anotações e apresentações e transforma o conteúdo em documentos editáveis. O OriginOS 7 também promete melhorias no desempenho. Testes internos mostraram redução de 10% no tempo de abertura de apps e 11% na alternância entre páginas e apps. A empresa também afirma ter melhorado em 14% a eficiência de renderização. Android 17: Jovi começa a liberar OriginOS 7 no Brasil",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "RH",
-        "Gestão",
         "Educação"
       ]
     },
@@ -559,6 +538,17 @@
         "Comercial",
         "Educação"
       ]
+    },
+    {
+      "title": "Fable e Mythos 5: governo Trump libera IAs mais perigosas da Anthropic",
+      "description": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três s",
+      "url": "https://canaltech.com.br/inteligencia-artificial/fable-e-mythos-5-governo-trump-libera-ias-mais-perigosas-da-anthropic/",
+      "publishedAt": "Wed, 01 Jul 2026 12:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/Am6VaUx8jmQtCNJCxA_znmbrltc=/700x394/smart/i1107289.png",
+      "source": "Canaltech IA",
+      "content": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três semanas depois de o governo ter suspendido o acesso aos dois sistemas por risco à segurança nacional. Segundo a Reuters, o acesso ao Fable 5 será restaurado a partir desta quarta-feira (1º) , ficando disponível ao público em geral. Já o Mythos 5, direcionado à detecção de vulnerabilidades de cibersegurança, será liberado para um grupo maior de parceiros domésticos e internacionais do programa Glasswing, da Anthropic. Como começou a restrição Em 12 de junho, o governo americano incluiu os dois modelos em sua lista de tecnologias sob controle de exportação , impedindo o acesso de estrangeiros sem aprovação especial . Como a Anthropic não tinha como verificar a nacionalidade dos usuários em tempo real, a companhia optou por suspender o Fable 5 e o Mythos 5 para todo mundo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A decisão, segundo a Reuters, partiu de uma denúncia de pesquisadores da Amazon , que encontraram uma forma de contornar as proteções do Fable 5. Com essa brecha, o modelo passou a identificar falhas de software e, em um dos casos registrados, chegou a gerar código demonstrando como explorar uma vulnerabilidade. No último domingo (28), o governo abriu uma primeira exceção , permitindo o uso do Mythos 5 por organizações selecionadas e por funcionários da própria Anthropic, incluindo estrangeiros vinculados a esses grupos. O Fable 5 seguia fora do ar até esta terça. O Claude é, atualmente, a terceira IA mais utilizada no mundo (Imagem: Marcelo Fischer/Canaltech) Por que são modelos tão perigosos O Mythos 5 concentra as capacidades que mais preocupam o governo american",
+      "lang": "pt",
+      "depts": []
     }
   ]
 }
