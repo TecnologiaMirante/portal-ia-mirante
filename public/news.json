@@ -1,17 +1,30 @@
 {
-  "updatedAt": "2026-11-06T17:00:32.648Z",
+  "updatedAt": "2026-11-07T15:58:32.133Z",
   "count": 40,
   "articles": [
     {
-      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "description": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+      "title": "A OpenAI supostamente levanta US$ 11 bilhões adicionais com uma avaliação de US$ 1,25 trilhão",
+      "description": "A OpenAI supostamente arrecadou US$ 11 bilhões adicionais como parte de uma rodada de financiamento que ainda não foi concluída, mas que deverá ser concluída nas próximas semanas.",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "publishedAt": "Fri, 06 Nov 2026 22:53:46 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Dados de rampa mostram que os gastos com IA estagnaram no momento em que a Anthropic se aproxima de seu IPO",
+      "description": "O uso da IA ​​continua aumentando, mas os gastos estagnaram. As reduções de preços e controlos de custos mais inteligentes entre os maiores gastadores poderão desafiar as suposições dos investidores sobre o hipercrescimento da IA.",
       "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
       "publishedAt": "Fri, 06 Nov 2026 15:54:47 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+      "content": "O uso da IA ​​continua aumentando, mas os gastos estagnaram. As reduções de preços e controlos de custos mais inteligentes entre os maiores gastadores poderão desafiar as suposições dos investidores sobre o hipercrescimento da IA.",
       "lang": "en",
-      "depts": []
+      "depts": [
+        "Financeiro"
+      ]
     },
     {
       "title": "Nubank demite funcionários após IA reduzir fila de fraudes",
@@ -42,30 +55,32 @@
       ]
     },
     {
-      "title": "OpenAI released a new cybersecurity model. Is that enough?",
-      "description": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+      "title": "OpenAI lançou um novo modelo de segurança cibernética. Isso é suficiente?",
+      "description": "O mais novo modelo de segurança cibernética da OpenAI surge no momento em que os laboratórios de IA enfrentam um exame minucioso de seu trabalho para proteger a infraestrutura digital.",
       "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
       "publishedAt": "Thu, 05 Nov 2026 19:06:12 +0000",
       "image": null,
       "source": "TechCrunch AI",
       "content": null,
       "lang": "en",
-      "depts": []
+      "depts": [
+        "RH"
+      ]
     },
     {
-      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "description": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
+      "title": "O presidente da OpenAI, Greg Brockman, diz que a empresa pode estar pronta para IPO em 2027",
+      "description": "Falando em uma conferência de tecnologia do Wall Street Journal na quarta-feira, o executivo elogiou como a empresa vem ganhando terreno no mercado empresarial, onde a rival Anthropic já havia feito incursões com sucesso.",
       "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
       "publishedAt": "Thu, 05 Nov 2026 18:02:27 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
+      "content": "Falando em uma conferência de tecnologia do Wall Street Journal na quarta-feira, o executivo elogiou como a empresa vem ganhando terreno no mercado empresarial, onde a rival Anthropic já havia feito incursões com sucesso.",
       "lang": "en",
       "depts": []
     },
     {
-      "title": "Claude can now analyze your spending with its new Personal Finance tool",
-      "description": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+      "title": "Claude agora pode analisar seus gastos com sua nova ferramenta de Finanças Pessoais",
+      "description": "Com o Personal Finance em Claude, os usuários podem conectar suas contas bancárias e de cartão através do Plaid e tirar dúvidas sobre suas finanças.",
       "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
       "publishedAt": "Thu, 05 Nov 2026 18:00:00 +0000",
       "image": null,
@@ -77,24 +92,13 @@
       ]
     },
     {
-      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-      "description": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
+      "title": "Dropbox adquire Tigris Data por US$ 350 milhões para reforçar sua infraestrutura de IA",
+      "description": "Espera-se que o acordo apoie o desenvolvimento do DBX Agent Cloud, uma nova plataforma de armazenamento destinada a desenvolvedores que criam modelos e agentes de IA.",
       "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
       "publishedAt": "Thu, 05 Nov 2026 15:19:05 +0000",
       "image": null,
       "source": "TechCrunch AI",
       "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
-      "description": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials.",
-      "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
-      "publishedAt": "Thu, 05 Nov 2026 13:00:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials.",
       "lang": "en",
       "depts": []
     },
@@ -121,30 +125,6 @@
       "depts": [
         "Marketing",
         "Comercial",
-        "Educação"
-      ]
-    },
-    {
-      "title": "ChatGPT já equivale a 20% das buscas do Google, mas calma",
-      "description": "Com 1,2 bilhão de usuários ativos, ChatGPT já é o maior rival do buscador, mas \"império do Google\" está longe do fim. ChatGPT já equivale a 20% das buscas do Google, mas calma",
-      "url": "https://tecnoblog.net/noticias/chatgpt-ja-equivale-a-20-das-buscas-do-google-mas-calma/",
-      "publishedAt": "Wed, 04 Nov 2026 13:57:44 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/04/chatgpt-celular.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "Apps de namoro e chatbots com romance se tornam 18+ no iPhone",
-      "description": "No Brasil, esses recursos terão classificação mínima A16 ou A18. Apps de namoro e chatbots com romance se tornam 18+ no iPhone",
-      "url": "https://tecnoblog.net/noticias/apps-de-namoro-e-chatbots-com-romance-se-tornam-18-no-iphone/",
-      "publishedAt": "Tue, 03 Nov 2026 21:05:36 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/12/tinder-edited.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
         "Educação"
       ]
     },
@@ -546,6 +526,30 @@
         "Financeiro",
         "Comercial",
         "Educação"
+      ]
+    },
+    {
+      "title": "Fable e Mythos 5: governo Trump libera IAs mais perigosas da Anthropic",
+      "description": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três s",
+      "url": "https://canaltech.com.br/inteligencia-artificial/fable-e-mythos-5-governo-trump-libera-ias-mais-perigosas-da-anthropic/",
+      "publishedAt": "Wed, 01 Jul 2026 12:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/Am6VaUx8jmQtCNJCxA_znmbrltc=/700x394/smart/i1107289.png",
+      "source": "Canaltech IA",
+      "content": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três semanas depois de o governo ter suspendido o acesso aos dois sistemas por risco à segurança nacional. Segundo a Reuters, o acesso ao Fable 5 será restaurado a partir desta quarta-feira (1º) , ficando disponível ao público em geral. Já o Mythos 5, direcionado à detecção de vulnerabilidades de cibersegurança, será liberado para um grupo maior de parceiros domésticos e internacionais do programa Glasswing, da Anthropic. Como começou a restrição Em 12 de junho, o governo americano incluiu os dois modelos em sua lista de tecnologias sob controle de exportação , impedindo o acesso de estrangeiros sem aprovação especial . Como a Anthropic não tinha como verificar a nacionalidade dos usuários em tempo real, a companhia optou por suspender o Fable 5 e o Mythos 5 para todo mundo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A decisão, segundo a Reuters, partiu de uma denúncia de pesquisadores da Amazon , que encontraram uma forma de contornar as proteções do Fable 5. Com essa brecha, o modelo passou a identificar falhas de software e, em um dos casos registrados, chegou a gerar código demonstrando como explorar uma vulnerabilidade. No último domingo (28), o governo abriu uma primeira exceção , permitindo o uso do Mythos 5 por organizações selecionadas e por funcionários da própria Anthropic, incluindo estrangeiros vinculados a esses grupos. O Fable 5 seguia fora do ar até esta terça. O Claude é, atualmente, a terceira IA mais utilizada no mundo (Imagem: Marcelo Fischer/Canaltech) Por que são modelos tão perigosos O Mythos 5 concentra as capacidades que mais preocupam o governo american",
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Português é o 3º idioma mais usado no ChatGPT",
+      "description": "O português é agora o terceiro idioma mais usado no ChatGPT , segundo dados da OpenAI divulgados no relatório OpenAI Signals. Ele fica atrás apenas do inglês e do espanhol. O levantamento também mostra que, pela primeira vez, mais da metade dos usuários ativos usa o ChatGPT principalmente em idiomas",
+      "url": "https://canaltech.com.br/inteligencia-artificial/portugues-e-o-3o-idioma-mais-usado-no-chatgpt/",
+      "publishedAt": "Wed, 01 Jul 2026 09:27:36 -0300",
+      "image": "https://t.ctcdn.com.br/elWRGd7DozFcUzbnLeKmr45Ecyw=/700x394/smart/i1137007.png",
+      "source": "Canaltech IA",
+      "content": "O português é agora o terceiro idioma mais usado no ChatGPT , segundo dados da OpenAI divulgados no relatório OpenAI Signals. Ele fica atrás apenas do inglês e do espanhol. O levantamento também mostra que, pela primeira vez, mais da metade dos usuários ativos usa o ChatGPT principalmente em idiomas diferentes do inglês. Em quarto, quinto e sexto lugar aparecem, respectivamente, o francês, o indonésio e o árabe. A análise mede as interações de usuários nos planos individuais do ChatGPT , incluindo as assinaturas Free (gratuito), Go, Plus e Pro. Além disso, os idiomas uzbeque, cazaque e birmanês foram os que mais cresceram em participação desde julho de 2023. O relatório também mostra que usuários mais antigos usam o ChatGPT com mais frequência. Após seis meses na plataforma, eles enviam, em média, 50% mais mensagens por dia e realizam o dobro de tarefas diferentes em relação ao início do uso. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Português é o terceiro idioma mais usado no ChatGPT. (Imagem: Divulgação/OpenAI) Adoção do ChatGPT cresceu em todas as regiões O relatório também mostra que o uso do ChatGPT cresceu em todos os continentes desde julho de 2023, deixando a base de usuários mais global e diversa. O crescimento foi mais rápido na África, seguida pela Ásia, América do Sul, Europa, América do Norte e Oceania. Segundo a OpenAI, o crescimento foi mais rápido em países com menor Índice de Desenvolvimento Humano (IDH) , que registraram o maior aumento no número de usuários ativos por semana. O levantamento também aponta mudanças no perfil dos usuários. Pessoas com nomes tipicamente femininos representam a maior parte do uso global do ChatGPT. O Brasil, Colômbia, Polônia e Namíbia estão entre os países onde esse grupo supera os usuários com nomes tipicamente masculinos. Já Paquistão, Bangladesh, Angola, República Democrática do Congo e Mali têm a maior presença de",
+      "lang": "pt",
+      "depts": [
+        "Gestão"
       ]
     }
   ]
