@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-07T15:58:32.133Z",
+  "updatedAt": "2026-11-08T16:26:54.362Z",
   "count": 40,
   "articles": [
     {
-      "title": "A OpenAI supostamente levanta US$ 11 bilhões adicionais com uma avaliação de US$ 1,25 trilhão",
-      "description": "A OpenAI supostamente arrecadou US$ 11 bilhões adicionais como parte de uma rodada de financiamento que ainda não foi concluída, mas que deverá ser concluída nas próximas semanas.",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "description": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
       "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
       "publishedAt": "Fri, 06 Nov 2026 22:53:46 +0000",
       "image": null,
@@ -14,17 +14,15 @@
       "depts": []
     },
     {
-      "title": "Dados de rampa mostram que os gastos com IA estagnaram no momento em que a Anthropic se aproxima de seu IPO",
-      "description": "O uso da IA ​​continua aumentando, mas os gastos estagnaram. As reduções de preços e controlos de custos mais inteligentes entre os maiores gastadores poderão desafiar as suposições dos investidores sobre o hipercrescimento da IA.",
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "description": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
       "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
       "publishedAt": "Fri, 06 Nov 2026 15:54:47 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "O uso da IA ​​continua aumentando, mas os gastos estagnaram. As reduções de preços e controlos de custos mais inteligentes entre os maiores gastadores poderão desafiar as suposições dos investidores sobre o hipercrescimento da IA.",
+      "content": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
       "lang": "en",
-      "depts": [
-        "Financeiro"
-      ]
+      "depts": []
     },
     {
       "title": "Nubank demite funcionários após IA reduzir fila de fraudes",
@@ -55,32 +53,30 @@
       ]
     },
     {
-      "title": "OpenAI lançou um novo modelo de segurança cibernética. Isso é suficiente?",
-      "description": "O mais novo modelo de segurança cibernética da OpenAI surge no momento em que os laboratórios de IA enfrentam um exame minucioso de seu trabalho para proteger a infraestrutura digital.",
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "description": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
       "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
       "publishedAt": "Thu, 05 Nov 2026 19:06:12 +0000",
       "image": null,
       "source": "TechCrunch AI",
       "content": null,
       "lang": "en",
-      "depts": [
-        "RH"
-      ]
+      "depts": []
     },
     {
-      "title": "O presidente da OpenAI, Greg Brockman, diz que a empresa pode estar pronta para IPO em 2027",
-      "description": "Falando em uma conferência de tecnologia do Wall Street Journal na quarta-feira, o executivo elogiou como a empresa vem ganhando terreno no mercado empresarial, onde a rival Anthropic já havia feito incursões com sucesso.",
+      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "description": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
       "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
       "publishedAt": "Thu, 05 Nov 2026 18:02:27 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "Falando em uma conferência de tecnologia do Wall Street Journal na quarta-feira, o executivo elogiou como a empresa vem ganhando terreno no mercado empresarial, onde a rival Anthropic já havia feito incursões com sucesso.",
+      "content": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
       "lang": "en",
       "depts": []
     },
     {
-      "title": "Claude agora pode analisar seus gastos com sua nova ferramenta de Finanças Pessoais",
-      "description": "Com o Personal Finance em Claude, os usuários podem conectar suas contas bancárias e de cartão através do Plaid e tirar dúvidas sobre suas finanças.",
+      "title": "Claude can now analyze your spending with its new Personal Finance tool",
+      "description": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
       "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
       "publishedAt": "Thu, 05 Nov 2026 18:00:00 +0000",
       "image": null,
@@ -90,17 +86,6 @@
       "depts": [
         "Financeiro"
       ]
-    },
-    {
-      "title": "Dropbox adquire Tigris Data por US$ 350 milhões para reforçar sua infraestrutura de IA",
-      "description": "Espera-se que o acordo apoie o desenvolvimento do DBX Agent Cloud, uma nova plataforma de armazenamento destinada a desenvolvedores que criam modelos e agentes de IA.",
-      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-      "publishedAt": "Thu, 05 Nov 2026 15:19:05 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
     },
     {
       "title": "Proton se desculpa após polêmica sobre uso de IA",
@@ -550,6 +535,22 @@
       "lang": "pt",
       "depts": [
         "Gestão"
+      ]
+    },
+    {
+      "title": "Novo sistema usará IA para \"traduzir\" o que o seu corpo realmente precisa",
+      "description": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30",
+      "url": "https://canaltech.com.br/inteligencia-artificial/novo-sistema-usara-ia-para-traduzir-o-que-o-seu-corpo-realmente-precisa/",
+      "publishedAt": "Wed, 01 Jul 2026 08:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/4BlAeU73zGDl24KwhTRIfUE4ZkA=/700x394/smart/i1138901.png",
+      "source": "Canaltech IA",
+      "content": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30) e foi divulgado pelo site Android Police. A empresa afirma que dispositivos vestíveis já evoluíram na coleta de dados, mas ainda falham em explicar o significado desses números para quem os usa. Gee Gu, cofundador da Vilo ao lado de Andy Xu, descreveu o Signal OS como um sistema que ajuda o usuário a entender o que mudou no corpo , priorizar o que importa e transformar sinais corporais em suporte real. Como funciona o Signal OS O sistema reúne quatro frentes principais. A primeira é o Signals , um recurso de cartões que aponta alterações nos indicadores de saúde e sugere o que fazer a respeito. Já o Pulse funciona como um painel com o histórico de dados e tendências ao longo do tempo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Há ainda o Vibes , um chatbot com IA para tirar dúvidas sobre as informações coletadas, e uma camada dedicada à saúde da mulher . A Vilo descreve o Signal OS como uma plataforma \"ring-first\", ou seja, pensada primeiro para anéis inteligentes, e ela vai estrear no próprio anel da empresa. A companhia evita o terreno regulatório mais rígido reservado a dispositivos médicos. Segundo o comunicado oficial, a proposta do sistema é oferecer \"orientação de bem-estar e autoconhecimento, não diagnóstico ou tratamento\", o que dispensa aprovação de agências como a FDA, órgão regulador dos Estados Unidos. Fitbit já segue caminho parecido com o AI Coach e o Fitbit Air, usando IA para interpretar pontuações sem depender desse tipo de aval. Possível interface do app dedicado ao sistema, presente no vídeo de divulgação (Imagem: Reprodução/YouTube/VILO) Anel da Vilo",
+      "lang": "pt",
+      "depts": [
+        "Marketing",
+        "Comercial",
+        "Saúde",
+        "Educação"
       ]
     }
   ]
