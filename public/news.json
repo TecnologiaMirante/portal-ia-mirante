@@ -1,10 +1,56 @@
 {
-  "updatedAt": "2026-11-08T16:26:54.362Z",
+  "updatedAt": "2026-11-09T20:16:09.755Z",
   "count": 40,
   "articles": [
     {
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "description": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "title": "Jensen Huang desiste do ElevenLabs Summit em meio à polêmica da Nvidia",
+      "description": "O CEO da Nvidia também desistiu de um evento Antrópico anteriormente.",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "publishedAt": "Mon, 09 Nov 2026 20:09:06 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Anthropic lança novos modelos Mythos e Fable em meio a preocupações com RSI",
+      "description": "A Anthropic afirma que os novos modelos “mostra melhorias em áreas como codificação, raciocínio e visão”, bem como na comunicação mais clara com os usuários.",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "publishedAt": "Mon, 09 Nov 2026 19:24:51 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Desenvolvedor cria script que manda dados de RAM para Sam Altman",
+      "description": "Ferramenta para Linux transforma dados de memória disponível em mensagens irônicas ao CEO da OpenAI, em resposta a declarações sobre o uso de RAM em PCs. Desenvolvedor cria script que manda dados de RAM para Sam Altman",
+      "url": "https://tecnoblog.net/noticias/desenvolvedor-cria-script-que-manda-dados-de-memoria-ram-para-sam-altman/",
+      "publishedAt": "Mon, 09 Nov 2026 17:19:21 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/sam-altman-1-capa.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Anthropic junta-se ao frenesi do gás natural da AI e compra US$ 3,4 bilhões em turbinas",
+      "description": "A Anthropic comprou turbinas a gás natural no valor de bilhões de dólares, em um negócio que poderia causar remorso ao comprador.",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "publishedAt": "Mon, 09 Nov 2026 16:56:54 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "Comercial"
+      ]
+    },
+    {
+      "title": "A OpenAI supostamente levanta US$ 11 bilhões adicionais com uma avaliação de US$ 1,25 trilhão",
+      "description": "A OpenAI supostamente arrecadou US$ 11 bilhões adicionais como parte de uma rodada de financiamento que ainda não foi concluída, mas que deverá ser concluída nas próximas semanas.",
       "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
       "publishedAt": "Fri, 06 Nov 2026 22:53:46 +0000",
       "image": null,
@@ -14,15 +60,17 @@
       "depts": []
     },
     {
-      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "description": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+      "title": "Dados de rampa mostram que os gastos com IA estagnaram no momento em que a Anthropic se aproxima de seu IPO",
+      "description": "O uso da IA ​​continua aumentando, mas os gastos estagnaram. As reduções de preços e controlos de custos mais inteligentes entre os maiores gastadores poderão desafiar as suposições dos investidores sobre o hipercrescimento da IA.",
       "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
       "publishedAt": "Fri, 06 Nov 2026 15:54:47 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+      "content": "O uso da IA ​​continua aumentando, mas os gastos estagnaram. As reduções de preços e controlos de custos mais inteligentes entre os maiores gastadores poderão desafiar as suposições dos investidores sobre o hipercrescimento da IA.",
       "lang": "en",
-      "depts": []
+      "depts": [
+        "Financeiro"
+      ]
     },
     {
       "title": "Nubank demite funcionários após IA reduzir fila de fraudes",
@@ -53,41 +101,6 @@
       ]
     },
     {
-      "title": "OpenAI released a new cybersecurity model. Is that enough?",
-      "description": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-      "publishedAt": "Thu, 05 Nov 2026 19:06:12 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "description": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
-      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-      "publishedAt": "Thu, 05 Nov 2026 18:02:27 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Claude can now analyze your spending with its new Personal Finance tool",
-      "description": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
-      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-      "publishedAt": "Thu, 05 Nov 2026 18:00:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Financeiro"
-      ]
-    },
-    {
       "title": "Proton se desculpa após polêmica sobre uso de IA",
       "description": "Empresa prometeu mais transparência depois de relatos sobre pressão interna para usar inteligência artificial. Proton se desculpa após polêmica sobre uso de IA",
       "url": "https://tecnoblog.net/noticias/proton-se-desculpa-apos-polemica-sobre-uso-de-ia/",
@@ -97,21 +110,6 @@
       "content": null,
       "lang": "pt",
       "depts": []
-    },
-    {
-      "title": "Xiaomi começa a liberar HyperOS 4; veja quais celulares recebem",
-      "description": "Update traz novo visual, recursos de inteligência artificial e integração com iPhone. Xiaomi começa a liberar HyperOS 4; veja quais celulares recebem",
-      "url": "https://tecnoblog.net/noticias/xiaomi-comeca-a-liberar-hyperos-4-veja-quais-celulares-recebem/",
-      "publishedAt": "Wed, 04 Nov 2026 20:14:31 +0000",
-      "image": "https://www.youtube.com/embed/OIpiv85R5ho",
-      "source": "Tecnoblog",
-      "content": "HyperOS 4 começa a liberação global em novembro (imagem: reprodução/Xiaomi) Resumo A Xiaomi começou a liberar o HyperOS 4 hoje; a atualização será distribuída em etapas para as marcas Xiaomi, Redmi e Poco. O HyperOS 4 traz novo visual, recursos de IA e integração com iPhone; a atualização será liberada em três etapas entre novembro e dezembro. A lista de celulares que receberão o HyperOS 4 inclui modelos recentes como Xiaomi 17T, Poco F8 e X8 e Redmi Note 17, além de aparelhos de gerações anteriores. Clientes da Xiaomi começaram a receber o HyperOS 4 em celulares e tablets hoje (04/11). A atualização, que estreou de fábrica na família Xiaomi 18, será distribuída globalmente em etapas ao longo de novembro e dezembro para as marcas Xiaomi, Redmi e Poco . A primeira leva contempla modelos recentes como Xiaomi 17T, Poco F8 e X8 e Redmi Note 17. Uma segunda rodada começa na segunda metade de novembro, enquanto aparelhos de gerações anteriores entram no mês seguinte . Apresentado em 13 de agosto, o HyperOS 4 segue a tendência de marcas chinesas em trazer os elementos translúcidos que ficaram famosos no iOS 26 , da Apple, mas aprimora o gerenciamento de memória e processamento. Quais celulares receberão o HyperOS 4? Redmi Note 17 Pro foi último grande lançamento da marca no Brasil (imagem: divulgação) A Xiaomi dividiu a distribuição em três etapas. Como de costume, a disponibilidade pode variar conforme país, modelo e região, mas deve ser liberado para os aparelhos na seguinte ordem: Primeira quinzena de novembro Xiaomi : Xiaomi 17 Ultra, Leica Leitzphone powered by Xiaomi, Xiaomi 17, Xiaomi 17T Pro, Xiaomi 17T, Xiaomi 15 Ultra e Xiaomi 15. Poco : Poco F8 Ultra, Poco F8 Pro, Poco X8 Pro Max, Poco X8 Pro, Poco X8 Pro Iron Man Edition, Poco X8, Poco M8 Pro, Poco M8, Poco C95 Pro e Poco C85. Redmi : Redmi Note 17 Pro Max 5G, Redmi Note 17 Pro 5G, Redmi Note 17 5G, Redmi Note 17, Redmi Note 15 Pro+ 5G, Redmi Note 15 Pro 5G, Redmi Note 15 Pro, Redmi Note 15 5G, Redmi Note 15, Redmi 17 5G, Redmi 17, Redmi 17C 5G, Redmi 15C 5G e Redmi 15C. Segunda quinzena de novembro Xiaomi : Xiaomi 15T Pro e Xiaomi 15T. Poco : Poco F9 Ultra, Poco F9 Pro, Poco F7 Ultra, Poco F7 Pro, Poco F7, Poco X7 Pro e Poco X7 Pro Iron Man Edition. Dezembro Xiaomi : Xiaomi MIX Flip, Xiaomi 14 Ultra, Xiaomi 14, Xiaomi 13 Ultra, Xiaomi 13 Pro, Xiaomi 13, Xiaomi 14T Pro, Xiaomi 14T, Xiaomi 13T Pro e Xiaomi 13T. Poco : Poco F6 Pro, Poco F6, Poco X8s, Poco X7, Poco X6 Pro, Poco M8s 5G, Poco M7 e Poco C81 Pro. Redmi : Redmi Note 14 Pro+ 5G, Redmi Note 14 Pro 5G, Redmi Note 14 Pro, Redmi Note 14 5G, Redmi Note 14, Redmi Note 14S, Redmi 15 5G, Redmi 15 e Redmi A7 Pro. Tablets das marcas também atualizam Nos tablets, a lista é mais curta, incluindo modelos das linhas Xiaomi Pad, Poco Pad e Redmi Pad: Xiaomi: Pad 8 Pro, Pad 8, Pad 7 Pro, Pad 7, Pad Mini e Pad 6S Pro 12.4. Poco: Pad C1, Pad X1 e Pad M1. Redmi: Pad 2 9.7, Pad 2 9.7 4G, Pad 2, Pad 2 4G, Pad 2 Pro 5G e Pad 2 Pro. Vale reforçar que nem todos os aparelhos incluídos no calendário global são vendidos oficialmente pela Xiaomi no Brasil, como a principal linha Xiaomi 17. Ainda assim, unidades importadas que utilizem a ROM global oficial devem receber a atualização. O que muda no HyperOS 4? Uma das principais mudanças do HyperOS 4 é a interface, que adota o chamado Soft Light Glass com efeitos de vidro em botões, widgets e campos de texto. Ao mesmo tempo, a personalização foi ampliada, com mais opções de fonte, tamanho e cores de relógio na tela de bloqueio e opções diferentes de organização de widgets e pastas na tela inicial. Outra mudança está na integração com aparelhos da Apple. O HyperOS 4 amplia o compartilhamento de fotos, arquivos, contatos e links entre dispositivos Xiaomi e iPhones. A empresa diz que a atualização também traz uma redução de uso do processador e memória RAM, além de melhora na eficiência energética. O sistema utiliza modelos preditivos para decidir quais dados devem permaneer pré-carregador na memória. Como em outros dos principais sistemas concorrentes, o HyperOS foca na integração com a IA. O assistente Super XiaoAI 2.0 consegue resumir conteúdos, interpretar informações na tela e, em aparelhos compatíveis, executar sequências de tarefas pelo Modo Especialista. Xiaomi começa a liberar HyperOS 4; veja quais celulares recebem",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Comercial",
-        "Educação"
-      ]
     },
     {
       "title": "8 prompts para conversar com voz no ChatGPT",
