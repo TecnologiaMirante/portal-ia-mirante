@@ -1,7 +1,116 @@
 {
-  "updatedAt": "2026-11-10T17:21:53.641Z",
+  "updatedAt": "2026-11-11T17:32:45.543Z",
   "count": 40,
   "articles": [
+    {
+      "title": "OpenAI s quarterly revenue reportedly crosses $10B for the first time",
+      "description": "Sales of $10B represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "publishedAt": "Wed, 11 Nov 2026 16:14:44 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "Financeiro",
+        "Comercial"
+      ]
+    },
+    {
+      "title": "Além de programação: Claude ganha ferramentas para reuniões, planilhas e ideias",
+      "description": "As novidades são o Claude Meetings, o Claude Sheets e o Claude Whiteboards, que estão em fase beta. Além de programação: Claude ganha ferramentas para reuniões, planilhas e ideias",
+      "url": "https://tecnoblog.net/noticias/alem-de-programacao-claude-ganha-ferramentas-para-reunioes-planilhas-e-e-ideias/",
+      "publishedAt": "Wed, 11 Nov 2026 14:31:42 +0000",
+      "image": "https://www.youtube.com/embed/YewAJPawE7I",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Gestão"
+      ]
+    },
+    {
+      "title": "Google libera Gemini 4 Carbon ao público com recurso para equipes de agentes de IA",
+      "description": "Modelo chega a assinantes do Google AI Ultra e desenvolvedores, com foco em tarefas complexas de programação. Google libera Gemini 4 Carbon ao público com recurso para equipes de agentes de IA",
+      "url": "https://tecnoblog.net/noticias/google-libera-gemini-4-carbon-ao-publico-com-recurso-para-equipes-de-agentes-de-ia/",
+      "publishedAt": "Wed, 11 Nov 2026 01:20:24 +0000",
+      "image": "https://www.youtube.com/embed/dNbkThtNzS8",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Gestão",
+        "Educação"
+      ]
+    },
+    {
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "description": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "publishedAt": "Tue, 10 Nov 2026 21:08:52 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "description": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "publishedAt": "Tue, 10 Nov 2026 20:52:13 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "description": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
+      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "publishedAt": "Tue, 10 Nov 2026 19:57:52 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "description": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "publishedAt": "Tue, 10 Nov 2026 19:03:52 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "Saúde"
+      ]
+    },
+    {
+      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "description": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+      "publishedAt": "Tue, 10 Nov 2026 18:49:52 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "description": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+      "publishedAt": "Tue, 10 Nov 2026 17:30:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+      "lang": "en",
+      "depts": []
+    },
     {
       "title": "Meta s AI agent Muse lands on Apple Watch and Android Wear OS",
       "description": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
@@ -49,39 +158,6 @@
       ]
     },
     {
-      "title": "Anthropic reportedly plans to move forward with IPO plans",
-      "description": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-      "publishedAt": "Tue, 10 Nov 2026 01:27:12 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-      "description": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-      "publishedAt": "Mon, 09 Nov 2026 20:09:06 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-      "description": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-      "publishedAt": "Mon, 09 Nov 2026 19:24:51 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
       "title": "Desenvolvedor cria script que manda dados de RAM para Sam Altman",
       "description": "Ferramenta para Linux transforma dados de memória disponível em mensagens irônicas ao CEO da OpenAI, em resposta a declarações sobre o uso de RAM em PCs. Desenvolvedor cria script que manda dados de RAM para Sam Altman",
       "url": "https://tecnoblog.net/noticias/desenvolvedor-cria-script-que-manda-dados-de-memoria-ram-para-sam-altman/",
@@ -91,45 +167,6 @@
       "content": null,
       "lang": "pt",
       "depts": []
-    },
-    {
-      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-      "description": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
-      "publishedAt": "Mon, 09 Nov 2026 16:56:54 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Nubank demite funcionários após IA reduzir fila de fraudes",
-      "description": "Automação teria diminuído em 80% as reclamações sobre golpes financeiros. Instituição atribui cortes a uma reestruturação interna. Nubank demite funcionários após IA reduzir fila de fraudes",
-      "url": "https://tecnoblog.net/noticias/nubank-demite-funcionarios-apos-ia-reduzir-fila-de-fraudes/",
-      "publishedAt": "Fri, 06 Nov 2026 13:09:13 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2021/11/nubank-fachada-planta.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "RH",
-        "Financeiro",
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Google anuncia Gemini Omni 1.2 Flash para criar vídeos de até 15 segundos",
-      "description": "Novo modelo gera vídeos de até 15 segundos com mais qualidade. Novidade também traz maior controle de tempo e ajustes por comandos de voz ou texto. Google anuncia Gemini Omni 1.2 Flash para criar vídeos de até 15 segundos",
-      "url": "https://tecnoblog.net/noticias/google-anuncia-gemini-omni-1-2-flash-para-criar-videos-de-ate-15-segundos/",
-      "publishedAt": "Thu, 05 Nov 2026 22:06:01 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/11/gemini-omni-1-2-flash.jpg",
-      "source": "Tecnoblog",
-      "content": "Google anuncia Gemini Omni 1.2 Flash para criar vídeos de até 15 segundos (imagem original: reprodução/Google) Resumo O Google lançou o Gemini Omni 1.2 Flash, modelo de IA para geração e edição de vídeos, permitindo a criação de vídeos de até 15 segundos com mais qualidade e consistência. O modelo permite definir a duração do vídeo em incrementos de 1 segundo, gera resultados mais consistentes, preservando características de pessoas, objetos ou cenas, e oferece diálogos mais naturais. O Gemini Omni 1.2 Flash está disponível em vários serviços de IA do Google, incluindo Gemini API, Google AI Studio, Google Vids e Google Cloud, com opções de uso para desenvolvedores, empresas e usuários finais. O Google acaba de revelar o Gemini Omni 1.2 Flash, a nova versão de seu modelo de inteligência artificial para geração ou edição de vídeo. A novidade chama a atenção por permitir a criação de vídeos com até 15 segundos, com mais qualidade e consistência. 15 segundos podem parecer um limite de tempo curto, mas considere que o Gemini Omni 1.2 Flash é direcionado à produção de vídeos curtos. Seja como for, houve um avanço na comparação com a versão 1.1, que permitia criar vídeos com até 10 segundos de duração. Ainda de acordo com o Google , a novidade também permite ao usuário definir a duração do vídeo em incrementos de um segundo. Isso significa que, em vez de ter que criar vídeos com intervalos predefinidos de 5, 10 ou 15 segundos, por exemplo, agora é possível escolher durações como 4, 7 ou 8 segundos. Porém, a duração mínima é de 3 segundos. O Google também explica que o Gemini Omni 1.2 Flash gera resultados mais consistentes, que preservam características de pessoas, objetos ou cenas, reduzindo o risco de o vídeo conter aberrações . Para completar, o novo modelo de IA pode gerar diálogos mais naturais, com sincronização labial aprimorada ou melhor diferenciação entre vozes. Os movimentos de câmera também foram aperfeiçoados, com recursos para aproximações, afastamentos e movimentos ao redor de objetos, por exemplo. Tem mais. O modelo permite que instruções sejam dadas por voz ou texto para que vários aspectos do vídeo sejam alterados com facilidade, como o fundo da imagem, efeitos de iluminação ou o formato da tela, sem que o trabalho tenha que ser totalmente refeito em cada mudança. Para facilitar o acompanhamento dos resultados, bem como diminuir os custos, o Gemini Omni 1.2 Flash permite ainda que rascunhos de vídeos sejam criados em resolução 360p ou 720p. Quando o resultado estiver satisfatório, o vídeo final poderá ser salvo em resolução 1080p ou 4K, se necessário. Sobre o aspecto dos custos, o Google destaca que um vídeo de 720p teve redução de 30% no preço, o que corresponde, agora, a US$ 0,07 por segundo. Meet Gemini Omni 1.2 Flash, our updated video generation model from @GoogleDeepMind Get stronger consistency, more creative control, and faster, more cost-effective video creation at scale: Fast & 30% lower cost: Draft at 360p or 720p ($0.07/s) and upscale to 1080p or 4K… pic.twitter.com/vBoyjdKHlg &mdash; Google (@Google) November 5, 2026 Onde o Gemini Omni 1.2 Flash está disponível? O Gemini Omni 1.2 Flash é um modelo e, como tal, está sendo liberado em vários serviços de IA do Google. Em linhas gerais, a disponibilidade ficou assim: Serviço Disponível para Gemini API / Google AI Studio desenvolvedores, mediante acesso à API e cobrança por uso Gemini assinantes do Google AI Ultra (liberação gradativa) Google Cloud empresas e desenvolvedores Google Vids usuários com Conta Google ou assinatura Google Workspace, sem custo adicional para vídeos de até 15 segundos Google Ads Anunciantes, conforme integração disponível Google anuncia Gemini Omni 1.2 Flash para criar vídeos de até 15 segundos",
-      "lang": "pt",
-      "depts": [
-        "Comercial"
-      ]
     },
     {
       "title": "8 prompts para conversar com voz no ChatGPT",
@@ -501,46 +538,6 @@
       "depts": [
         "Comercial"
       ]
-    },
-    {
-      "title": "Virginia Fonseca tem “clone de IA” para conversar com fãs por até R$ 89",
-      "description": "A plataforma Versio funciona como um chatbot de IA na qual é possível conversar com versões inspiradas em especialistas e celebridades, como a influenciadora Virginia Fonseca . O serviço cobra até R$ 89 por mês para liberar conversas com os clones de IA inspirados em pessoas famosas, mas há uma vers",
-      "url": "https://canaltech.com.br/inteligencia-artificial/virginia-fonseca-tem-clone-de-ia-para-conversar-com-fas-por-ate-r-89/",
-      "publishedAt": "Thu, 02 Jul 2026 18:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/k8MEe2l3PH5iKwUNiwyAeaBzMwA=/700x394/smart/i1139979.png",
-      "source": "Canaltech IA",
-      "content": "A plataforma Versio funciona como um chatbot de IA na qual é possível conversar com versões inspiradas em especialistas e celebridades, como a influenciadora Virginia Fonseca . O serviço cobra até R$ 89 por mês para liberar conversas com os clones de IA inspirados em pessoas famosas, mas há uma versão gratuita “escondida” . A ferramenta foi divulgada pela influenciadora nesta quarta-feira (1º) em post no Instagram. No caso, Fonseca simula uma situação em que uam seguidora pede sugestões de como se vestir para um jantar. De acordo com o site oficial, a Versio se difere de outros chatbots por ter sido treinada diretamente pelos especialistas mencionados . Algumas das personalidades disponíveis são o empresário e fisiculturista Renato Cariani, o empresário Carlos Wizard e a economista Nathalia Arcuri. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O app funciona como um chatbot convencional e permite enviar arquivos nas conversas ao assinar os planos mais caros. Ver essa foto no Instagram Um post compartilhado por Virginia (@virginia) Versão gratuita fica escondida Um detalhe sobre o Versio chamou a atenção: o site oficial (inserido no perfil da marca vinculado ao post de Virgínia) exige uma assinatura paga para usar a plataforma, mas é possível usar uma versão gratuita por outro caminho . Os planos pagos partem de R$ 29 por mês a R$ 89 por mês. A página com os Termos de Uso não carrega no site oficial, mas pode ser acessada ao iniciar um pagamento. Lá, a empresa informa que existe uma versão gratuita com versões limitadas e tem um link para o serviç o, também disponível em aplicativo para Android e iOS (as versões não são divulgadas no site principal , vinculado ao perfil da marca no post de Virginia). O CT testou a IA que conversa como a influenciadora, mas há um limite diário de conversas na versão gratuita. Os planos pagos aumentam as taxas de uso diárias e permitem env",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Comercial"
-      ]
-    },
-    {
-      "title": "Por que o próximo ciclo computacional precisa ser construído para todos",
-      "description": "Nos últimos três anos, a capacidade computacional global dedicada à inteligência artificial cresceu aproximadamente 100 vezes . É uma das revoluções tecnológicas mais impactantes das últimas décadas. A IA já chegou indiscutivelmente. Mas a questão que surge agora é: ela está acessível a todos? De um",
-      "url": "https://canaltech.com.br/colunas/por-que-o-proximo-ciclo-computacional-precisa-ser-construido-para-todos/",
-      "publishedAt": "Thu, 02 Jul 2026 10:43:03 -0300",
-      "image": "https://t.ctcdn.com.br/nZ6sNq7PsgAB4H-oy5G3Tk3upoA=/700x394/smart/i1003705.png",
-      "source": "Canaltech IA",
-      "content": "Nos últimos três anos, a capacidade computacional global dedicada à inteligência artificial cresceu aproximadamente 100 vezes . É uma das revoluções tecnológicas mais impactantes das últimas décadas. A IA já chegou indiscutivelmente. Mas a questão que surge agora é: ela está acessível a todos? De um lado, temos modelos cada vez mais capazes, infraestruturas de bilhões de dólares, parcerias entre algumas das maiores empresas do planeta. De outro, desenvolvedores independentes, pesquisadores em países emergentes, startups sem acesso a crédito cloud e laboratórios universitários com acesso limitado. O próximo ciclo computacional pode encontrar caminhos para solucionar essa assimetria. O problema não é só hardware Quando falamos em democratizar a IA, GPUs e custos de treinamento são pontos importantes, mas há um gargalo além do hardware: a dependência de ecossistemas fechados que prendem desenvolvedores a plataformas específicas e concentram o poder de inovação nas mãos de poucos. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A analogia com o software é útil aqui. O movimento open source levou décadas para amadurecer, mas hoje a infraestrutura que sustenta a internet é majoritariamente aberta . Isso porque a inovação aberta com frequência se mostrou altamente resiliente e amplamente adotada em comparação com alternativas proprietárias. A IA está no começo do mesmo caminho. Plataformas abertas saltaram de nichos experimentais para infraestrutura de produção em escala global. Um pesquisador no Brasil, na Índia ou na Nigéria pode acessar hoje muitas das mesmas ferramentas utilizadas por grandes centros de tecnologia — desde que disponha de recursos de hardware adequados . A IA que mora no seu dispositivo Outra transformação relevante: a migração da IA da nuvem para o dispositivo. Processadores modernos com NPUs integradas permitem rodar inteligência artificial localmente , sem",
-      "lang": "pt",
-      "depts": [
-        "Financeiro",
-        "Comercial",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Fable e Mythos 5: governo Trump libera IAs mais perigosas da Anthropic",
-      "description": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três s",
-      "url": "https://canaltech.com.br/inteligencia-artificial/fable-e-mythos-5-governo-trump-libera-ias-mais-perigosas-da-anthropic/",
-      "publishedAt": "Wed, 01 Jul 2026 12:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/Am6VaUx8jmQtCNJCxA_znmbrltc=/700x394/smart/i1107289.png",
-      "source": "Canaltech IA",
-      "content": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três semanas depois de o governo ter suspendido o acesso aos dois sistemas por risco à segurança nacional. Segundo a Reuters, o acesso ao Fable 5 será restaurado a partir desta quarta-feira (1º) , ficando disponível ao público em geral. Já o Mythos 5, direcionado à detecção de vulnerabilidades de cibersegurança, será liberado para um grupo maior de parceiros domésticos e internacionais do programa Glasswing, da Anthropic. Como começou a restrição Em 12 de junho, o governo americano incluiu os dois modelos em sua lista de tecnologias sob controle de exportação , impedindo o acesso de estrangeiros sem aprovação especial . Como a Anthropic não tinha como verificar a nacionalidade dos usuários em tempo real, a companhia optou por suspender o Fable 5 e o Mythos 5 para todo mundo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A decisão, segundo a Reuters, partiu de uma denúncia de pesquisadores da Amazon , que encontraram uma forma de contornar as proteções do Fable 5. Com essa brecha, o modelo passou a identificar falhas de software e, em um dos casos registrados, chegou a gerar código demonstrando como explorar uma vulnerabilidade. No último domingo (28), o governo abriu uma primeira exceção , permitindo o uso do Mythos 5 por organizações selecionadas e por funcionários da própria Anthropic, incluindo estrangeiros vinculados a esses grupos. O Fable 5 seguia fora do ar até esta terça. O Claude é, atualmente, a terceira IA mais utilizada no mundo (Imagem: Marcelo Fischer/Canaltech) Por que são modelos tão perigosos O Mythos 5 concentra as capacidades que mais preocupam o governo american",
-      "lang": "pt",
-      "depts": []
     }
   ]
 }
