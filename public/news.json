@@ -1,7 +1,94 @@
 {
-  "updatedAt": "2026-11-12T17:47:30.477Z",
+  "updatedAt": "2026-11-13T17:25:44.131Z",
   "count": 40,
   "articles": [
+    {
+      "title": "A nova carteira do ChatGPT permite que agentes de IA comprem e finalizem compras para você",
+      "description": "A Carteira ChatGPT permite que os agentes de IA comprem e finalizem compras em nome dos usuários, começando com uma implementação limitada para assinantes Pro dos EUA.",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "publishedAt": "Fri, 13 Nov 2026 16:00:12 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Um em cada três usuários xinga ChatGPT, Gemini ou Claude",
+      "description": "Levantamento analisou mais de 8 milhões de mensagens. Respostas erradas, instruções ignoradas e pedidos mal compreendidos são principais causas de frustração. Um em cada três usuários xinga ChatGPT, Gemini ou Claude",
+      "url": "https://tecnoblog.net/noticias/um-em-cada-tres-usuarios-xinga-chatgpt-gemini-ou-claude/",
+      "publishedAt": "Fri, 13 Nov 2026 13:42:16 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2021/12/tipos-de-inteligencia-artificial.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Microsoft diz que serviços estão quase todos normalizados após pane",
+      "description": "Usuários ainda podem enfrentar falhas de acesso e atrasos na entrega de mensagens no Outlook, Teams e Copilot. Microsoft diz que serviços estão quase todos normalizados após pane",
+      "url": "https://tecnoblog.net/noticias/microsoft-enfrenta-dificuldades-para-religar-outlook-teams-e-outros-servicos/",
+      "publishedAt": "Fri, 13 Nov 2026 12:00:27 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/01/microsoft-365-capa-1.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Comercial",
+        "Jurídico"
+      ]
+    },
+    {
+      "title": "ChatGPT e Gemini indicam lojas falsas para compras, aponta estudo",
+      "description": "Pior resultado foi o da Perplexity, que recomendou sites problemáticos em 15% das respostas. ChatGPT e Gemini indicam lojas falsas para compras, aponta estudo",
+      "url": "https://tecnoblog.net/noticias/chatgpt-e-gemini-indicam-lojas-falsas-para-compras-aponta-estudo/",
+      "publishedAt": "Thu, 12 Nov 2026 20:38:47 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/11/chatgpt-gemini.jpg",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Comercial",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Gemini 4 Hydrogen é o novo modelo do Google para tarefas do dia a dia",
+      "description": "Novo modelo substitui o Gemini 3.8 Flash e chega gratuitamente ao aplicativo Gemini e à Busca do Google. Gemini 4 Hydrogen é o novo modelo do Google para tarefas do dia a dia",
+      "url": "https://tecnoblog.net/noticias/gemini-4-hydrogen-e-o-novo-modelo-do-google-para-tarefas-do-dia-a-dia/",
+      "publishedAt": "Thu, 12 Nov 2026 20:05:40 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capas-google-gemini-2026-4.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Gestão"
+      ]
+    },
+    {
+      "title": "A última atualização da Pesquisa do Google promete melhores respostas para suas perguntas mais complicadas",
+      "description": "Alimentado pelo Gemini 4 Hydrogen, o Modo IA do Google está cada vez melhor na compreensão de consultas complexas, na exibição de links relevantes e no fornecimento de respostas visuais mais ricas.",
+      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+      "publishedAt": "Thu, 12 Nov 2026 19:27:45 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Alimentado pelo Gemini 4 Hydrogen, o Modo IA do Google está cada vez melhor na compreensão de consultas complexas, na exibição de links relevantes e no fornecimento de respostas visuais mais ricas.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Outlook fora do ar: e-mails começam a voltar após horas de pane",
+      "description": "Microsoft ainda investiga falhas no Exchange Online, que afetaram a conexão ao serviço Microsoft 365. Outlook fora do ar: e-mails começam a voltar após horas de pane",
+      "url": "https://tecnoblog.net/noticias/outlook-fica-fora-do-ar-e-dificulta-acesso-a-e-mails/",
+      "publishedAt": "Thu, 12 Nov 2026 18:41:27 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/03/capa-outlook_tb.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Comercial"
+      ]
+    },
     {
       "title": "ByteDance estaria trabalhando em IA rival do Muse",
       "description": "Agente pessoal pode chegar “nas próximas semanas” com proposta bastante semelhante à nova inteligência artificial da empresa estadunidense. ByteDance estaria trabalhando em IA rival do Muse",
@@ -9,7 +96,7 @@
       "publishedAt": "Thu, 12 Nov 2026 09:04:53 +0000",
       "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/meta-muse-charm.jpeg",
       "source": "Tecnoblog",
-      "content": "Muse Charm é próxima aposta da Meta com o agente de IA (imagem: reprodução/Meta) Resumo A ByteDance, dona do TikTok, está trabalhando em um agente pessoal de IA rival do Meta Muse, com lançamento previsto para as próximas semanas. O agente pessoal da ByteDance deve oferecer serviços como acesso a e-mail, agendas e contas de bancos, além de responder mensagens e realizar transações. A entrada da ByteDance no mercado de agentes de IA levanta dúvidas sobre privacidade, especialmente nos EUA, onde há preocupações com o acesso a dados de cidadãos. A empresa chinesa ByteDance, criadora do TikTok, estaria trabalhando no lançamento de um novo agente pessoal de IA nos moldes do Muse, da Meta. A ideia seria alcançar as principais companhias estadunidenses do setor em termos de tecnologia. A expectativa é pelo lançamento “nas próximas semanas”, mas ainda não há informações sobre seu funcionamento. Em uma reunião fechada, o co-fundador da empresa, Zhang Yiming conversou com o time responsável sobre prioridades no desenvolvimento da nova inteligência artificial. Segundo ele, a dona do TikTok teria potencial de competir diretamente com nomes como Anthropic, OpenAI e a própria Meta por volta de 2029 ou 2030. As informações foram divulgadas pela Bloomberg . Entrada no mercado de agentes de IA ByteDance pode lançar o próximo rival do Meta Muse nas próximas semanas (imagem: reprodução/GettyImages) A ideia da empresa seria bater de frente com os principais nomes do mercado nos próximos três anos, sobretudo as companhias estadunidenses. Ainda não há informações sobre a aplicação da IA em si. A expectativa é por um modelo bem parecido com o Muse, agente pessoal da Meta anunciado por Mark Zuckerberg&nbsp; no início de setembro. Isso significa acesso a serviços de e-mail, agendas e até contas de bancos. Agentes como o Muse podem responder mensagens, fazer pedidos online, realizar transações, entre outras atividades automatizadas. Outro uso está relacionado a hardware como os Meta Glasses e até o “tamagochi” Charm. Ainda não está claro se a ideia da ByteDance também passa por oferecer os serviços em dispositivos. Privacidade é desafio para a Meta Meta Muse já se envolveu em polêmicas relacionadas à privacidade dos usuários (imagem: divulgação/Meta) Vale lembrar que o Muse está disponível apenas nos Estados Unidos e já apareceu envolvido em diferentes polêmicas. Nas primeiras semanas de funcionamento, a Meta contou com atendentes humanos terceirizados para realizar as tarefas de chamadas telefônicas, o que levou à suspensão dos testes da recurso. Já em outubro, uma pesquisa da empresa de segurança Claroc identificou cerca de 7 mil conversas do agente expostas para qualquer um ler online. Segundo o site Engadget , a entrada da ByteDance no mercado de agentes pessoais de IA levantaria dúvidas relacionadas à privacidade. O governo dos Estados Unidos, por exemplo, tem combatido a entrada de tecnologias chinesas no país para evitar o acesso a dados de cidadãos. As políticas vão desde a proibição de chips até o bloqueio de chamadas telefônicas a partir de telefonias chinesas. ByteDance estaria trabalhando em IA rival do Muse",
+      "content": "Muse Charm é próxima aposta da Meta com o agente de IA (imagem: reprodução/Meta) Resumo IA A ByteDance, dona do TikTok, está trabalhando em um agente pessoal de IA rival do Meta Muse, com lançamento previsto para as próximas semanas. O agente pessoal da ByteDance deve oferecer serviços como acesso a e-mail, agendas e contas de bancos, além de responder mensagens e realizar transações. A entrada da ByteDance no mercado de agentes de IA levanta dúvidas sobre privacidade, especialmente nos EUA, onde há preocupações com o acesso a dados de cidadãos. Gerado com IA e revisado pela redação A empresa chinesa ByteDance, criadora do TikTok, estaria trabalhando no lançamento de um novo agente pessoal de IA nos moldes do Muse, da Meta. A ideia seria alcançar as principais companhias estadunidenses do setor em termos de tecnologia. A expectativa é pelo lançamento “nas próximas semanas”, mas ainda não há informações sobre seu funcionamento. Em uma reunião fechada, o co-fundador da empresa, Zhang Yiming conversou com o time responsável sobre prioridades no desenvolvimento da nova inteligência artificial. Segundo ele, a dona do TikTok teria potencial de competir diretamente com nomes como Anthropic, OpenAI e a própria Meta por volta de 2029 ou 2030. As informações foram divulgadas pela Bloomberg . Entrada no mercado de agentes de IA ByteDance pode lançar o próximo rival do Meta Muse nas próximas semanas (imagem: reprodução/GettyImages) A ideia da empresa seria bater de frente com os principais nomes do mercado nos próximos três anos, sobretudo as companhias estadunidenses. Ainda não há informações sobre a aplicação da IA em si. A expectativa é por um modelo bem parecido com o Muse, agente pessoal da Meta anunciado por Mark Zuckerberg&nbsp; no início de setembro. Isso significa acesso a serviços de e-mail, agendas e até contas de bancos. Agentes como o Muse podem responder mensagens, fazer pedidos online, realizar transações, entre outras atividades automatizadas. Outro uso está relacionado a hardware como os Meta Glasses e até o “tamagochi” Charm. Ainda não está claro se a ideia da ByteDance também passa por oferecer os serviços em dispositivos. Privacidade é desafio para a Meta Meta Muse já se envolveu em polêmicas relacionadas à privacidade dos usuários (imagem: divulgação/Meta) Vale lembrar que o Muse está disponível apenas nos Estados Unidos e já apareceu envolvido em diferentes polêmicas. Nas primeiras semanas de funcionamento, a Meta contou com atendentes humanos terceirizados para realizar as tarefas de chamadas telefônicas, o que levou à suspensão dos testes da recurso. Já em outubro, uma pesquisa da empresa de segurança Claroc identificou cerca de 7 mil conversas do agente expostas para qualquer um ler online. Segundo o site Engadget , a entrada da ByteDance no mercado de agentes pessoais de IA levantaria dúvidas relacionadas à privacidade. O governo dos Estados Unidos, por exemplo, tem combatido a entrada de tecnologias chinesas no país para evitar o acesso a dados de cidadãos. As políticas vão desde a proibição de chips até o bloqueio de chamadas telefônicas a partir de telefonias chinesas. ByteDance estaria trabalhando em IA rival do Muse",
       "lang": "pt",
       "depts": [
         "Marketing",
@@ -30,33 +117,6 @@
       "lang": "pt",
       "depts": [
         "Saúde"
-      ]
-    },
-    {
-      "title": "Além de programação: Claude ganha ferramentas para reuniões, planilhas e ideias",
-      "description": "As novidades são o Claude Meetings, o Claude Sheets e o Claude Whiteboards, que estão em fase beta. Além de programação: Claude ganha ferramentas para reuniões, planilhas e ideias",
-      "url": "https://tecnoblog.net/noticias/alem-de-programacao-claude-ganha-ferramentas-para-reunioes-planilhas-e-e-ideias/",
-      "publishedAt": "Wed, 11 Nov 2026 14:31:42 +0000",
-      "image": "https://www.youtube.com/embed/YewAJPawE7I",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Google libera Gemini 4 Carbon ao público com recurso para equipes de agentes de IA",
-      "description": "Modelo chega a assinantes do Google AI Ultra e desenvolvedores, com foco em tarefas complexas de programação. Google libera Gemini 4 Carbon ao público com recurso para equipes de agentes de IA",
-      "url": "https://tecnoblog.net/noticias/google-libera-gemini-4-carbon-ao-publico-com-recurso-para-equipes-de-agentes-de-ia/",
-      "publishedAt": "Wed, 11 Nov 2026 01:20:24 +0000",
-      "image": "https://www.youtube.com/embed/dNbkThtNzS8",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Gestão",
-        "Educação"
       ]
     },
     {
@@ -496,72 +556,6 @@
         "Marketing",
         "Comercial",
         "Saúde",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Caso do ChatGPT: o que a IA faz quando alguém relata um crime a ela",
-      "description": "Um agricultor de 36 anos foi preso em São Gabriel da Palha, no Espírito Santo, no dia 19 de junho, suspeito de planejar a morte do próprio filho, de 8 anos, para deixar de pagar pensão alimentícia. O plano foi identificado pela OpenAI, criadora do ChatGPT, a partir de mensagens trocadas pelo suspeit",
-      "url": "https://canaltech.com.br/inteligencia-artificial/caso-do-chatgpt-o-que-a-ia-faz-quando-alguem-relata-um-crime-a-ela/",
-      "publishedAt": "Wed, 01 Jul 2026 07:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/Q9uqQatidyu4GTZGOKTDp0XrwdA=/700x394/smart/i1138899.png",
-      "source": "Canaltech IA",
-      "content": "Um agricultor de 36 anos foi preso em São Gabriel da Palha, no Espírito Santo, no dia 19 de junho, suspeito de planejar a morte do próprio filho, de 8 anos, para deixar de pagar pensão alimentícia. O plano foi identificado pela OpenAI, criadora do ChatGPT, a partir de mensagens trocadas pelo suspeito com a ferramenta , e repassado ao FBI — Polícia Federal dos Estados Unidos —, que acionou o Ministério da Justiça e a Polícia Civil capixaba. 🎧Ouça o Podcast Canaltech no Spotify 🎧Ouça o Podcast Canaltech na Deezer 🎧Ouça o Podcast Canaltech no Apple Podcasts O caso ganhou repercussão nacional e reacendeu uma dúvida recorrente sobre o papel da inteligência artificial: até que ponto um chatbot decide, denuncia ou apenas devolve ao usuário aquilo que ele já trazia consigo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - \"Eu não acredito que a IA tenha feito denúncia, mas o fato é que a IA não tem valor moral. Ela vai te sugerir que você tome uma ação A, B ou C\", afirma Igor Baliberdin, designer estratégico, fundador da consultoria LOOOP e com mais de 20 anos de experiência na interseção entre design, negócios e tecnologia. O especialista afirma que ferramentas como ChatGPT, Gemini e Claude trabalham com análise probabilística . Ou seja, organizam cenários a partir do que o usuário relata, sem assumir a decisão final. O risco, segundo ele, está em transformar esse organizador de raciocínio em substituto de uma conversa com outra pessoa. Vieses herdados e responsabilidade dividida Baliberdin lembra que cada modelo de IA carrega o ponto de vista de quem o desenvolveu . \"Elas não são só seres que surgem do nada. Elas surgem a partir de um ponto de vista de humanidade, de sociedade\", diz. Essa diferença de comportamento entre ferramentas, segundo ele, também aparece em testes recentes que colocam agentes de diferentes IAs para interagir em ambientes simulados. Sobre quem responde ",
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "Google lança IA que cria imagens em 4 segundos e edita vídeos por voz",
-      "description": "O Google anunciou dois novos modelos de inteligência artificial capazes de acelerar a criação de imagens e vídeos: o Nano Banana 2 Lite , que gera imagens em até 4 segundos, e o Gemini Omni Flash , que permite criar e editar vídeos usando comandos de voz ou texto. Segundo a empresa, o Nano Banana 2 ",
-      "url": "https://canaltech.com.br/inteligencia-artificial/google-lanca-ia-que-cria-imagens-em-4-segundos-e-edita-videos-por-voz/",
-      "publishedAt": "Tue, 30 Jun 2026 21:05:00 -0300",
-      "image": "https://t.ctcdn.com.br/EjoC2BgBPs0m6x8imu4sGDkEYDk=/700x394/smart/i1138889.png",
-      "source": "Canaltech IA",
-      "content": "O Google anunciou dois novos modelos de inteligência artificial capazes de acelerar a criação de imagens e vídeos: o Nano Banana 2 Lite , que gera imagens em até 4 segundos, e o Gemini Omni Flash , que permite criar e editar vídeos usando comandos de voz ou texto. Segundo a empresa, o Nano Banana 2 Lite foi feito para ser rápido e eficiente em grande escala. Ele cria imagens a partir de comandos de texto em poucos segundos, com foco em respostas rápidas, imagens consistentes e textos mais legíveis dentro das imagens. Além disso, o modelo de imagem tem um custo menor que suas versões anteriores. Por exemplo, o Nano Banana 2 Lite custa cerca de US$ 0,034 por imagem de resolução 1K comparado ao Nano Banana 2 que custa US$ 0,067. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Já o Gemini Omni Flash leva a IA para a criação de vídeos . O modelo permite gerar vídeos curtos e editar cenas usando comandos de texto ou voz. Também combina texto, imagens e vídeos para manter a consistência do conteúdo e facilitar mudanças de cena ou estilo. Além disso, ele usa o conhecimento de mundo do Gemini , incluindo lógica narrativa e conceitos de áreas, como história e biologia, para criar vídeos coerentes e realistas. Novos modelos de IA do Google criam imagens em segundos e permitem editar vídeos por voz. (Imagem: Viviane França/Canaltech) Os dois sistemas usam a marca d’água SynthID para identificar conteúdos feitos por IA e funcionam de forma integrada . O usuário pode criar uma imagem no Nano Banana 2 Lite e usá-la como base no Gemini Omni Flash para transformá-la em um vídeo curto. Nesse fluxo, desenvolvedores podem utilizar a Interactions API , que mantém o histórico e o contexto da sessão, permitindo até três edições sequenciais sem perda do conteúdo gerado. Apesar dos avanços, o Gemini Omni Flash ainda tem limitações . Ele gera vídeos de até 10 segundos, com versões mais longas prev",
-      "lang": "pt",
-      "depts": [
-        "Financeiro",
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Claude lança Sonnet 5, modelo gratuito quase tão bom quanto o pago",
-      "description": "A Anthropic lançou nesta terça-feira (30) o Claude Sonnet 5 , novo modelo de inteligência artificial que passa a ser a opção padrão tanto no plano gratuito quanto no Pro do chatbot Claude. A empresa descreve a versão como a mais \"agente\" da linha Sonnet, com desempenho próximo ao do Opus 4.8 , model",
-      "url": "https://canaltech.com.br/inteligencia-artificial/claude-lanca-sonnet-5-modelo-gratuito-quase-tao-bom-quanto-o-pago/",
-      "publishedAt": "Tue, 30 Jun 2026 17:43:51 -0300",
-      "image": "https://t.ctcdn.com.br/4lB-ex4rSGJFX2i-Krfo1u0aESM=/700x394/smart/i1138883.png",
-      "source": "Canaltech IA",
-      "content": "A Anthropic lançou nesta terça-feira (30) o Claude Sonnet 5 , novo modelo de inteligência artificial que passa a ser a opção padrão tanto no plano gratuito quanto no Pro do chatbot Claude. A empresa descreve a versão como a mais \"agente\" da linha Sonnet, com desempenho próximo ao do Opus 4.8 , modelo mais caro reservado aos planos pagos superiores. O lançamento segue uma tendência também adotada por OpenAI e Google, que recentemente atualizaram os modelos padrão de seus planos gratuitos para versões mais avançadas. O que muda em relação ao Sonnet 4.6 Segundo a Anthropic, o Sonnet 5 representa uma melhoria expressiva sobre o Sonnet 4.6 em tarefas de raciocínio, uso de ferramentas, programação e trabalho de conhecimento. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - No teste de codificação SWE-bench Pro, o novo modelo atingiu 63,2% de acerto, ante 58,1% do antecessor. No Terminal-Bench 2.1, o salto foi de 67% para 80,4%. O ganho aparece também em avaliações de raciocínio multidisciplinar. No Humanity's Last Exam, com uso de ferramentas, o Sonnet 5 chegou a 57,4%, contra 46,8% do Sonnet 4.6. Em uso de computador, medido pelo OSWorld-Verified, a pontuação subiu de 78,5% para 81,2%. Apesar da evolução, o Sonnet 5 ainda fica atrás do Opus 4.8 na maioria dos testes divulgados pela empresa. A distância, porém, diminuiu bastante em relação às gerações anteriores, o que sustenta o discurso da Anthropic de que o novo modelo reduz o hiato entre as duas famílias. Testadores também relataram mudanças de comportamento. De acordo com a Anthropic, o Sonnet 5 costuma concluir tarefas complexas até o fim, algo que versões anteriores da linha Sonnet interrompiam antes do previsto. O modelo também passou a revisar o próprio resultado sem que isso seja solicitado. Nos testes divulgados, o Sonnet 5 está muito próximo do Opus 4.8, que é pago (Imagem: Divulgação/Anthropic) Preço e disponibilida",
-      "lang": "pt",
-      "depts": [
-        "RH",
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Google testa recurso para você conversar por voz com seus e-mails do Gmail",
-      "description": "O Google anunciou o Gmail Live , um novo recurso para conversar por voz com a caixa de entrada do Gmail usando o Gemini. Apresentada durante o Google I/O 2026, a novidade entrou em fase de testes para Android e iPhone e promete facilitar a busca por informações nos e-mails por meio de perguntas feit",
-      "url": "https://canaltech.com.br/inteligencia-artificial/google-testa-recurso-para-voce-conversar-por-voz-com-seus-e-mails-do-gmail/",
-      "publishedAt": "Tue, 30 Jun 2026 16:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/8C_0geXovl0iMMGcbsCgZDGz5Qk=/700x394/smart/i1137523.png",
-      "source": "Canaltech IA",
-      "content": "O Google anunciou o Gmail Live , um novo recurso para conversar por voz com a caixa de entrada do Gmail usando o Gemini. Apresentada durante o Google I/O 2026, a novidade entrou em fase de testes para Android e iPhone e promete facilitar a busca por informações nos e-mails por meio de perguntas feitas por comandos de voz. O funcionamento é semelhante ao do Gemini Live . Ao tocar no ícone de ondas sonoras na barra de pesquisa do Gmail, o usuário poderá iniciar uma conversa com a IA e fazer perguntas, como “Quais são as datas da minha próxima viagem?” ou “Quais foram as atualizações dos meus últimos pedidos?”. A interface também terá botões na parte inferior para que o usuário possa silenciar o microfone ou sair rapidamente da ferramenta. O sistema vai poder analisar os e-mails da conta, responder por voz e texto, exibir uma transcrição da conversa em tempo real e destacar as mensagens usadas para gerar a resposta. O Gmail Live também vai conseguir responder perguntas de acompanhamento e mudar de assunto durante a conversa. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Gmail Live usa IA para responder perguntas sobre seus e-mails por meio de comandos de voz. (Imagem: Viviane França/Canaltech) Paralelamente, o Google também está implementando o Ask Gmail , recurso focado em buscas por texto. Em vez de usar palavras-chave, o usuário pode digitar perguntas em linguagem natural na barra de pesquisa do Gmail. A IA então analisa os e-mails e apresenta um resumo com as principais informações encontradas, em um formato semelhante aos AI Overviews da Busca do Google. O anúncio faz parte de uma série de novidades do Google para produtividade com IA, que também inclui o Docs Live , para criar e editar documentos por voz no Google Docs e notas no Google Keep, e a expansão do AI Inbox , recurso que organiza a caixa de entrada por tarefas e assuntos importantes, para assinantes do Goog",
-      "lang": "pt",
-      "depts": [
-        "Educação"
-      ]
-    },
-    {
-      "title": "Novidade do Gemini deixará você controlar seu computador à distância",
-      "description": "O Google está desenvolvendo um novo recurso para controlar e acompanhar um computador pelo aplicativo do Gemini no celular. A novidade foi descoberta pelo Android Authority em uma análise da versão mais recente do app para Android e, por enquanto, ainda não está disponível para os usuários. Os indíc",
-      "url": "https://canaltech.com.br/inteligencia-artificial/novidade-do-gemini-deixara-voce-controlar-seu-computador-a-distancia/",
-      "publishedAt": "Tue, 30 Jun 2026 14:05:00 -0300",
-      "image": "https://t.ctcdn.com.br/xJsYmUSfVb47gNGY9_wAC1H0BII=/700x394/smart/i1135135.png",
-      "source": "Canaltech IA",
-      "content": "O Google está desenvolvendo um novo recurso para controlar e acompanhar um computador pelo aplicativo do Gemini no celular. A novidade foi descoberta pelo Android Authority em uma análise da versão mais recente do app para Android e, por enquanto, ainda não está disponível para os usuários. Os indícios apontam que a funcionalidade será lançada inicialmente para computadores com macOS . As linhas de código também mostram que, para usar o recurso, será preciso instalar um programa no Mac. O Gemini exibirá um aviso orientando o usuário a fazer esse download antes de conectar o computador ao celular. O Gemini poderá mostrar o status de computadores conectados à mesma conta para que os usuários possam alternar entre diferentes dispositivos e acompanhar a execução de tarefas remotamente . O código analisado também indica que será possível ver informações de disponibilidade da máquina e o horário da última atividade registrada, facilitando o monitoramento de automações mesmo quando estiver longe do computador. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - O Google prepara um recurso para controlar e acompanhar tarefas do Mac pelo aplicativo do Gemini no celular. (Imagem: Viviane França/Canaltech / Editada por IA/Gemini) O recurso faz parte da estratégia do Google para expandir as capacidades do Gemini Spark , seu agente de IA , anunciado durante o Google I/O 2026 e focado na execução de tarefas complexas. Com a integração com o macOS, o assistente vai interagir com arquivos locais e executar fluxos de trabalho no computador. Já o aplicativo móvel servirá para acompanhar o andamento dessas atividades. As referências encontradas no código também mencionam futuros recursos, como um \"Agent Dashboard\" e um \"Personal Snapshot\". A novidade acompanha uma tendência do mercado de inteligência artificial. No mês passado, a OpenAI lançou um recurso parecido no aplicativo do ChatGPT, que p",
-      "lang": "pt",
-      "depts": [
-        "Gestão",
         "Educação"
       ]
     }
