@@ -1,10 +1,43 @@
 {
-  "updatedAt": "2026-11-13T17:25:44.131Z",
+  "updatedAt": "2026-11-14T16:13:15.450Z",
   "count": 40,
   "articles": [
     {
-      "title": "A nova carteira do ChatGPT permite que agentes de IA comprem e finalizem compras para você",
-      "description": "A Carteira ChatGPT permite que os agentes de IA comprem e finalizem compras em nome dos usuários, começando com uma implementação limitada para assinantes Pro dos EUA.",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "description": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "publishedAt": "Fri, 13 Nov 2026 22:43:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Export-banned Nvidia chips are behind China s most powerful AI models — uh-oh, Jensen!",
+      "description": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "publishedAt": "Fri, 13 Nov 2026 18:40:30 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "ChatGPT Wallet permite que um agente de IA compre e pague por você",
+      "description": "OpenAI anunciou ChatGPT Wallet, sistema que permite que Dots (agentes de IA) paguem compras online em nome do usuário com mais segurança. ChatGPT Wallet permite que um agente de IA compre e pague por você",
+      "url": "https://tecnoblog.net/noticias/chatgpt-wallet-permite-que-um-agente-de-ia-compre-e-pague-por-voce/",
+      "publishedAt": "Fri, 13 Nov 2026 17:19:32 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-1_capa.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "ChatGPT s new Wallet lets AI agents shop and check out for you",
+      "description": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
       "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
       "publishedAt": "Fri, 13 Nov 2026 16:00:12 +0000",
       "image": null,
@@ -25,8 +58,8 @@
       "depts": []
     },
     {
-      "title": "Microsoft diz que serviços estão quase todos normalizados após pane",
-      "description": "Usuários ainda podem enfrentar falhas de acesso e atrasos na entrega de mensagens no Outlook, Teams e Copilot. Microsoft diz que serviços estão quase todos normalizados após pane",
+      "title": "Microsoft diz que serviços estão quase todos normalizados; empresa pediu desculpas",
+      "description": "Usuários ainda podem enfrentar falhas de acesso e atrasos na entrega de mensagens no Outlook, Teams e Copilot após pane global. Microsoft diz que serviços estão quase todos normalizados; empresa pediu desculpas",
       "url": "https://tecnoblog.net/noticias/microsoft-enfrenta-dificuldades-para-religar-outlook-teams-e-outros-servicos/",
       "publishedAt": "Fri, 13 Nov 2026 12:00:27 +0000",
       "image": "https://files.tecnoblog.net/wp-content/uploads/2023/01/microsoft-365-capa-1.png",
@@ -66,28 +99,15 @@
       ]
     },
     {
-      "title": "A última atualização da Pesquisa do Google promete melhores respostas para suas perguntas mais complicadas",
-      "description": "Alimentado pelo Gemini 4 Hydrogen, o Modo IA do Google está cada vez melhor na compreensão de consultas complexas, na exibição de links relevantes e no fornecimento de respostas visuais mais ricas.",
+      "title": "Google s latest Search upgrade promises better answers to your most complicated questions",
+      "description": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
       "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
       "publishedAt": "Thu, 12 Nov 2026 19:27:45 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "Alimentado pelo Gemini 4 Hydrogen, o Modo IA do Google está cada vez melhor na compreensão de consultas complexas, na exibição de links relevantes e no fornecimento de respostas visuais mais ricas.",
+      "content": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
       "lang": "en",
       "depts": []
-    },
-    {
-      "title": "Outlook fora do ar: e-mails começam a voltar após horas de pane",
-      "description": "Microsoft ainda investiga falhas no Exchange Online, que afetaram a conexão ao serviço Microsoft 365. Outlook fora do ar: e-mails começam a voltar após horas de pane",
-      "url": "https://tecnoblog.net/noticias/outlook-fica-fora-do-ar-e-dificulta-acesso-a-e-mails/",
-      "publishedAt": "Thu, 12 Nov 2026 18:41:27 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/03/capa-outlook_tb.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Comercial"
-      ]
     },
     {
       "title": "ByteDance estaria trabalhando em IA rival do Muse",
@@ -104,19 +124,6 @@
         "Comercial",
         "Jurídico",
         "Gestão"
-      ]
-    },
-    {
-      "title": "Galaxy Watch 9 tem promoção histórica com 50% OFF no 11.11 do Mercado Livre",
-      "description": "Galaxy Watch 9 BT (40 mm) sai pela metade do preço com cupom relâmpago; relógio inteligente da Samsung tem processador Snapdragon e monitora treinos e saúde Galaxy Watch 9 tem promoção histórica com 50% OFF no 11.11 do Mercado Livre",
-      "url": "https://tecnoblog.net/achados/galaxy-watch-9-tem-promocao-historica-com-50-off-no-11-11-do-mercado-livre/",
-      "publishedAt": "Wed, 11 Nov 2026 20:17:50 +0000",
-      "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2026/11/galaxy-watch-9-imagem-thassius-velosotecnoblog-1060x596.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Saúde"
       ]
     },
     {
@@ -541,22 +548,6 @@
       "lang": "pt",
       "depts": [
         "Gestão"
-      ]
-    },
-    {
-      "title": "Novo sistema usará IA para \"traduzir\" o que o seu corpo realmente precisa",
-      "description": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30",
-      "url": "https://canaltech.com.br/inteligencia-artificial/novo-sistema-usara-ia-para-traduzir-o-que-o-seu-corpo-realmente-precisa/",
-      "publishedAt": "Wed, 01 Jul 2026 08:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/4BlAeU73zGDl24KwhTRIfUE4ZkA=/700x394/smart/i1138901.png",
-      "source": "Canaltech IA",
-      "content": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30) e foi divulgado pelo site Android Police. A empresa afirma que dispositivos vestíveis já evoluíram na coleta de dados, mas ainda falham em explicar o significado desses números para quem os usa. Gee Gu, cofundador da Vilo ao lado de Andy Xu, descreveu o Signal OS como um sistema que ajuda o usuário a entender o que mudou no corpo , priorizar o que importa e transformar sinais corporais em suporte real. Como funciona o Signal OS O sistema reúne quatro frentes principais. A primeira é o Signals , um recurso de cartões que aponta alterações nos indicadores de saúde e sugere o que fazer a respeito. Já o Pulse funciona como um painel com o histórico de dados e tendências ao longo do tempo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Há ainda o Vibes , um chatbot com IA para tirar dúvidas sobre as informações coletadas, e uma camada dedicada à saúde da mulher . A Vilo descreve o Signal OS como uma plataforma \"ring-first\", ou seja, pensada primeiro para anéis inteligentes, e ela vai estrear no próprio anel da empresa. A companhia evita o terreno regulatório mais rígido reservado a dispositivos médicos. Segundo o comunicado oficial, a proposta do sistema é oferecer \"orientação de bem-estar e autoconhecimento, não diagnóstico ou tratamento\", o que dispensa aprovação de agências como a FDA, órgão regulador dos Estados Unidos. Fitbit já segue caminho parecido com o AI Coach e o Fitbit Air, usando IA para interpretar pontuações sem depender desse tipo de aval. Possível interface do app dedicado ao sistema, presente no vídeo de divulgação (Imagem: Reprodução/YouTube/VILO) Anel da Vilo",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Comercial",
-        "Saúde",
-        "Educação"
       ]
     }
   ]
