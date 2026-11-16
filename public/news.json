@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-11-15T16:41:46.064Z",
+  "updatedAt": "2026-11-16T19:55:41.415Z",
   "count": 40,
   "articles": [
+    {
+      "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be fine’",
+      "description": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+      "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+      "publishedAt": "Mon, 16 Nov 2026 18:11:10 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "OpenAI will embed safety researchers to investigate AI subversion",
+      "description": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+      "publishedAt": "Mon, 16 Nov 2026 17:02:43 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "description": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning",
+      "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+      "publishedAt": "Mon, 16 Nov 2026 17:00:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "Marketing"
+      ]
+    },
     {
       "title": "The AI graveyard: a running list of projects and startups that didn t make it",
       "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
@@ -25,17 +60,6 @@
       "depts": []
     },
     {
-      "title": "Export-banned Nvidia chips are behind China s most powerful AI models — uh-oh, Jensen!",
-      "description": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "publishedAt": "Fri, 13 Nov 2026 18:40:30 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
       "title": "ChatGPT Wallet permite que um agente de IA compre e pague por você",
       "description": "OpenAI anunciou ChatGPT Wallet, sistema que permite que Dots (agentes de IA) paguem compras online em nome do usuário com mais segurança. ChatGPT Wallet permite que um agente de IA compre e pague por você",
       "url": "https://tecnoblog.net/noticias/chatgpt-wallet-permite-que-um-agente-de-ia-compre-e-pague-por-voce/",
@@ -44,17 +68,6 @@
       "source": "Tecnoblog",
       "content": null,
       "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "ChatGPT s new Wallet lets AI agents shop and check out for you",
-      "description": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-      "publishedAt": "Fri, 13 Nov 2026 16:00:12 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
       "depts": []
     },
     {
@@ -106,34 +119,6 @@
       "content": null,
       "lang": "pt",
       "depts": [
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Google s latest Search upgrade promises better answers to your most complicated questions",
-      "description": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
-      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-      "publishedAt": "Thu, 12 Nov 2026 19:27:45 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "ByteDance estaria trabalhando em IA rival do Muse",
-      "description": "Agente pessoal pode chegar “nas próximas semanas” com proposta bastante semelhante à nova inteligência artificial da empresa estadunidense. ByteDance estaria trabalhando em IA rival do Muse",
-      "url": "https://tecnoblog.net/noticias/bytedance-estaria-trabalhando-em-ia-rival-do-muse-meta/",
-      "publishedAt": "Thu, 12 Nov 2026 09:04:53 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/meta-muse-charm.jpeg",
-      "source": "Tecnoblog",
-      "content": "Muse Charm é próxima aposta da Meta com o agente de IA (imagem: reprodução/Meta) Resumo IA A ByteDance, dona do TikTok, está trabalhando em um agente pessoal de IA rival do Meta Muse, com lançamento previsto para as próximas semanas. O agente pessoal da ByteDance deve oferecer serviços como acesso a e-mail, agendas e contas de bancos, além de responder mensagens e realizar transações. A entrada da ByteDance no mercado de agentes de IA levanta dúvidas sobre privacidade, especialmente nos EUA, onde há preocupações com o acesso a dados de cidadãos. Gerado com IA e revisado pela redação A empresa chinesa ByteDance, criadora do TikTok, estaria trabalhando no lançamento de um novo agente pessoal de IA nos moldes do Muse, da Meta. A ideia seria alcançar as principais companhias estadunidenses do setor em termos de tecnologia. A expectativa é pelo lançamento “nas próximas semanas”, mas ainda não há informações sobre seu funcionamento. Em uma reunião fechada, o co-fundador da empresa, Zhang Yiming conversou com o time responsável sobre prioridades no desenvolvimento da nova inteligência artificial. Segundo ele, a dona do TikTok teria potencial de competir diretamente com nomes como Anthropic, OpenAI e a própria Meta por volta de 2029 ou 2030. As informações foram divulgadas pela Bloomberg . Entrada no mercado de agentes de IA ByteDance pode lançar o próximo rival do Meta Muse nas próximas semanas (imagem: reprodução/GettyImages) A ideia da empresa seria bater de frente com os principais nomes do mercado nos próximos três anos, sobretudo as companhias estadunidenses. Ainda não há informações sobre a aplicação da IA em si. A expectativa é por um modelo bem parecido com o Muse, agente pessoal da Meta anunciado por Mark Zuckerberg&nbsp; no início de setembro. Isso significa acesso a serviços de e-mail, agendas e até contas de bancos. Agentes como o Muse podem responder mensagens, fazer pedidos online, realizar transações, entre outras atividades automatizadas. Outro uso está relacionado a hardware como os Meta Glasses e até o “tamagochi” Charm. Ainda não está claro se a ideia da ByteDance também passa por oferecer os serviços em dispositivos. Privacidade é desafio para a Meta Meta Muse já se envolveu em polêmicas relacionadas à privacidade dos usuários (imagem: divulgação/Meta) Vale lembrar que o Muse está disponível apenas nos Estados Unidos e já apareceu envolvido em diferentes polêmicas. Nas primeiras semanas de funcionamento, a Meta contou com atendentes humanos terceirizados para realizar as tarefas de chamadas telefônicas, o que levou à suspensão dos testes da recurso. Já em outubro, uma pesquisa da empresa de segurança Claroc identificou cerca de 7 mil conversas do agente expostas para qualquer um ler online. Segundo o site Engadget , a entrada da ByteDance no mercado de agentes pessoais de IA levantaria dúvidas relacionadas à privacidade. O governo dos Estados Unidos, por exemplo, tem combatido a entrada de tecnologias chinesas no país para evitar o acesso a dados de cidadãos. As políticas vão desde a proibição de chips até o bloqueio de chamadas telefônicas a partir de telefonias chinesas. ByteDance estaria trabalhando em IA rival do Muse",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Financeiro",
-        "Comercial",
-        "Jurídico",
         "Gestão"
       ]
     },
@@ -547,6 +532,19 @@
       "content": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três semanas depois de o governo ter suspendido o acesso aos dois sistemas por risco à segurança nacional. Segundo a Reuters, o acesso ao Fable 5 será restaurado a partir desta quarta-feira (1º) , ficando disponível ao público em geral. Já o Mythos 5, direcionado à detecção de vulnerabilidades de cibersegurança, será liberado para um grupo maior de parceiros domésticos e internacionais do programa Glasswing, da Anthropic. Como começou a restrição Em 12 de junho, o governo americano incluiu os dois modelos em sua lista de tecnologias sob controle de exportação , impedindo o acesso de estrangeiros sem aprovação especial . Como a Anthropic não tinha como verificar a nacionalidade dos usuários em tempo real, a companhia optou por suspender o Fable 5 e o Mythos 5 para todo mundo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A decisão, segundo a Reuters, partiu de uma denúncia de pesquisadores da Amazon , que encontraram uma forma de contornar as proteções do Fable 5. Com essa brecha, o modelo passou a identificar falhas de software e, em um dos casos registrados, chegou a gerar código demonstrando como explorar uma vulnerabilidade. No último domingo (28), o governo abriu uma primeira exceção , permitindo o uso do Mythos 5 por organizações selecionadas e por funcionários da própria Anthropic, incluindo estrangeiros vinculados a esses grupos. O Fable 5 seguia fora do ar até esta terça. O Claude é, atualmente, a terceira IA mais utilizada no mundo (Imagem: Marcelo Fischer/Canaltech) Por que são modelos tão perigosos O Mythos 5 concentra as capacidades que mais preocupam o governo american",
       "lang": "pt",
       "depts": []
+    },
+    {
+      "title": "Português é o 3º idioma mais usado no ChatGPT",
+      "description": "O português é agora o terceiro idioma mais usado no ChatGPT , segundo dados da OpenAI divulgados no relatório OpenAI Signals. Ele fica atrás apenas do inglês e do espanhol. O levantamento também mostra que, pela primeira vez, mais da metade dos usuários ativos usa o ChatGPT principalmente em idiomas",
+      "url": "https://canaltech.com.br/inteligencia-artificial/portugues-e-o-3o-idioma-mais-usado-no-chatgpt/",
+      "publishedAt": "Wed, 01 Jul 2026 09:27:36 -0300",
+      "image": "https://t.ctcdn.com.br/elWRGd7DozFcUzbnLeKmr45Ecyw=/700x394/smart/i1137007.png",
+      "source": "Canaltech IA",
+      "content": "O português é agora o terceiro idioma mais usado no ChatGPT , segundo dados da OpenAI divulgados no relatório OpenAI Signals. Ele fica atrás apenas do inglês e do espanhol. O levantamento também mostra que, pela primeira vez, mais da metade dos usuários ativos usa o ChatGPT principalmente em idiomas diferentes do inglês. Em quarto, quinto e sexto lugar aparecem, respectivamente, o francês, o indonésio e o árabe. A análise mede as interações de usuários nos planos individuais do ChatGPT , incluindo as assinaturas Free (gratuito), Go, Plus e Pro. Além disso, os idiomas uzbeque, cazaque e birmanês foram os que mais cresceram em participação desde julho de 2023. O relatório também mostra que usuários mais antigos usam o ChatGPT com mais frequência. Após seis meses na plataforma, eles enviam, em média, 50% mais mensagens por dia e realizam o dobro de tarefas diferentes em relação ao início do uso. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Português é o terceiro idioma mais usado no ChatGPT. (Imagem: Divulgação/OpenAI) Adoção do ChatGPT cresceu em todas as regiões O relatório também mostra que o uso do ChatGPT cresceu em todos os continentes desde julho de 2023, deixando a base de usuários mais global e diversa. O crescimento foi mais rápido na África, seguida pela Ásia, América do Sul, Europa, América do Norte e Oceania. Segundo a OpenAI, o crescimento foi mais rápido em países com menor Índice de Desenvolvimento Humano (IDH) , que registraram o maior aumento no número de usuários ativos por semana. O levantamento também aponta mudanças no perfil dos usuários. Pessoas com nomes tipicamente femininos representam a maior parte do uso global do ChatGPT. O Brasil, Colômbia, Polônia e Namíbia estão entre os países onde esse grupo supera os usuários com nomes tipicamente masculinos. Já Paquistão, Bangladesh, Angola, República Democrática do Congo e Mali têm a maior presença de",
+      "lang": "pt",
+      "depts": [
+        "Gestão"
+      ]
     }
   ]
 }
