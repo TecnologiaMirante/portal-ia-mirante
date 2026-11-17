@@ -1,61 +1,102 @@
 {
-  "updatedAt": "2026-11-16T19:55:41.415Z",
+  "updatedAt": "2026-11-17T18:51:58.001Z",
   "count": 40,
   "articles": [
     {
-      "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be fine’",
-      "description": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
-      "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
-      "publishedAt": "Mon, 16 Nov 2026 18:11:10 +0000",
+      "title": "Google manterá os bate-papos do Gemini por dois meses, em vez de 72 horas, mesmo com o histórico desativado",
+      "description": "A atualização Gemini do Google que amplia a retenção de bate-papo será lançada globalmente nas próximas semanas.",
+      "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+      "publishedAt": "Tue, 17 Nov 2026 18:48:23 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+      "content": null,
       "lang": "en",
       "depts": []
     },
     {
-      "title": "OpenAI will embed safety researchers to investigate AI subversion",
-      "description": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
-      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-      "publishedAt": "Mon, 16 Nov 2026 17:02:43 +0000",
+      "title": "Lumo da Proton, uma alternativa focada na privacidade para ChatGPT e Claude, chega ao desktop",
+      "description": "O novo aplicativo Lumo Desktop da Proton para Windows, Mac e Linux permite que os usuários automatizem tarefas em arquivos e aplicativos conectados, com controles granulares sobre o que sua IA pode acessar.",
+      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+      "publishedAt": "Tue, 17 Nov 2026 17:32:25 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+      "content": "O novo aplicativo Lumo Desktop da Proton para Windows, Mac e Linux permite que os usuários automatizem tarefas em arquivos e aplicativos conectados, com controles granulares sobre o que sua IA pode acessar.",
+      "lang": "en",
+      "depts": [
+        "Jurídico",
+        "Gestão"
+      ]
+    },
+    {
+      "title": "Os modelos de IA podem ser enganados para identificar civis como alvos militares, dizendo-lhes que é um jogo",
+      "description": "Vals, uma startup de avaliação de IA com sede em São Francisco, testou se os principais modelos de IA poderiam ser manipulados para participarem de guerras autônomas. Eles geralmente compilam.",
+      "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+      "publishedAt": "Tue, 17 Nov 2026 17:20:41 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Vals, uma startup de avaliação de IA com sede em São Francisco, testou se os principais modelos de IA poderiam ser manipulados para participarem de guerras autônomas. Eles geralmente compilam.",
       "lang": "en",
       "depts": []
     },
     {
-      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-      "description": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning",
-      "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-      "publishedAt": "Mon, 16 Nov 2026 17:00:00 +0000",
+      "title": "A startup de IA de segurança cibernética Corma atinge avaliação de US$ 1 bilhão em cerca de 3 meses",
+      "description": "Três meses desde o lançamento de seu produto, a startup de segurança cibernética de IA Corba levantou US$ 125 milhões da Série A com uma avaliação de US$ 1 bilhão liderada pela NEA.",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "publishedAt": "Mon, 16 Nov 2026 23:32:32 +0000",
       "image": null,
       "source": "TechCrunch AI",
       "content": null,
       "lang": "en",
       "depts": [
-        "Marketing"
+        "Comercial"
       ]
     },
     {
-      "title": "The AI graveyard: a running list of projects and startups that didn t make it",
-      "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "publishedAt": "Sat, 14 Nov 2026 17:30:00 +0000",
+      "title": "Black November: Huawei Watch Fit 5 Pro tem oferta em até 10x sem juros",
+      "description": "Huawei Watch Fit 5 Pro tem caixa com liga de titânio, GPS integrado e resistência para natação; aproveite o desconto de 45% pelo relógio inteligente Black November: Huawei Watch Fit 5 Pro tem oferta em até 10x sem juros",
+      "url": "https://tecnoblog.net/achados/black-november-huawei-watch-fit-5-pro-tem-oferta-em-ate-10x-sem-juros/",
+      "publishedAt": "Mon, 16 Nov 2026 20:42:18 +0000",
+      "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2026/11/huawei-watch-fit-5-pro-imagem_-divulgacao-340x191.png",
+      "source": "Tecnoblog",
+      "content": "Oferta encerrada Huawei Watch Fit 5 Pro Era R$ 1.099,00 · oferta de 16/11/2026 Esse preço acabou, mas a gente publica novas ofertas todos os dias. Últimas ofertas do Achados do TB -29% TV Samsung The Frame de 55 registra quase 30% OFF antes da Black Friday R$ 6.799,00 R$ 4.845,97 -29% Mercado Livre · há 3 horas Ver preço -26% Galaxy Tab S10 Lite (256 GB) para trabalho cai 26% no mês da Black Friday R$ 3.199,00 R$ 2.374,05 -26% Mercado Livre · há 4 horas Ver preço -36% Esquenta Black: iPhone 17e (512 GB) cai para menor preço em meses R$ 7.499,00 R$ 4.804,44 -36% AliExpress · há 5 horas Ver preço -30% iPhone 17 Pro não é barato, mas está com R$ 3.500 OFF na Black November R$ 11.499,00 R$ 7.999,00 -30% Amazon · há 5 horas Ver preço Ver todas no Hub de Ofertas Não perca a próxima: receba os achados no celular Ofertas verificadas pelo nosso time, assim que saem. Canal no WhatsApp Grupo no Telegram O Huawei Watch Fit 5 Pro está saindo por apenas R$ 1.099 em até 10x sem juros em oferta da Loja Oficial da Huawei no Mercado Livre. A promoção representa um desconto de 45% frente ao preço de lançamento do smartwatch, que é um dos melhores da marca, e se destaca pelo corpo resistente e GPS integrado. Huawei Watch Fit 5 Pro traz liga de titânio e GPS para rotas Huawei Watch Fit 5 Pro (imagem: Divulgação) O Huawei Watch Fit 5 Pro é um dos melhores relógios inteligentes da Huawei . Seu design conta com uma caixa com liga de titânio, que lhe confere resistência, além de certificações 5 ATM e IP6X contra água, permitindo seu uso para natação em águas rasas. Já seu GPS multibanda garante alta precisão para registrar rotas de corrida ou ciclismo. No quesito saúde, o smartwatch traz eletrocardiograma (ECG) certificado e análise avançada de arritmia por onda de pulso. Esses sensores monitoram seu coração continuamente e ajudam a identificar anomalias precocemente, proporcionando mais segurança para a rotina diária. Huawei Watch Fit 5 Pro (imagem: Divulgação) A bateria de 471 mAh entrega autonomia para até 10 dias de uso moderado, segundo a fabricante. O Bluetooth 6.0 garante conexão rápida e estável com o smartphone, enquanto o NFC integrado facilita pagamentos por aproximação. Aproveite estes recursos adquirindo o Huawei Watch Fit 5 Pro por apenas R$ 1.099 em até 10x sem juros na Black November do Mercado Livre. Aproveite a Black November do Mercado Livre O Mercado Livre, assim como outras varejistas, já começou sua campanha de esquenta Black Friday, com cupons e promoções para você aproveitar. Fique de olho nos canais de Achados no Telegram e WhatsApp para não perder nenhuma oferta. Aviso de ética: ao clicar em um link de afiliado, o preço não muda para você e recebemos uma comissão. Black November: Huawei Watch Fit 5 Pro tem oferta em até 10x sem juros",
+      "lang": "pt",
+      "depts": [
+        "RH"
+      ]
+    },
+    {
+      "title": "AG do estado da Califórnia processa OpenAI por incidentes com agentes desonestos",
+      "description": "O processo na Califórnia representa uma das primeiras tentativas de responsabilizar legalmente um laboratório de IA por um incidente com um agente desonesto.",
+      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "publishedAt": "Mon, 16 Nov 2026 20:07:13 +0000",
       "image": null,
       "source": "TechCrunch AI",
       "content": null,
       "lang": "en",
+      "depts": [
+        "Jurídico",
+        "Gestão"
+      ]
+    },
+    {
+      "title": "Sam Altman sobre Nvidia sem Jensen Huang: A indústria ficará bem’",
+      "description": "O CEO da OpenAI, Sam Altman, reconheceu o papel especial que o CEO da Nvidia, Jensen Huang, desempenhou no boom da IA, mas, em última análise, acha que a indústria ficará “bem” sem ele no comando.",
+      "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+      "publishedAt": "Mon, 16 Nov 2026 18:11:10 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "O CEO da OpenAI, Sam Altman, reconheceu o papel especial que o CEO da Nvidia, Jensen Huang, desempenhou no boom da IA, mas, em última análise, acha que a indústria ficará “bem” sem ele no comando.",
+      "lang": "en",
       "depts": []
     },
     {
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "description": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "publishedAt": "Fri, 13 Nov 2026 22:43:00 +0000",
+      "title": "OpenAI incorporará pesquisadores de segurança para investigar a subversão de IA",
+      "description": "A OpenAI incorporará seis avaliadores da Apollo Research para investigar se os seus modelos de IA se envolvem em comportamento subversivo, mas as restrições ao acesso e divulgação levantam questões sobre a sua independência.",
+      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+      "publishedAt": "Mon, 16 Nov 2026 17:02:43 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "content": "A OpenAI incorporará seis avaliadores da Apollo Research para investigar se os seus modelos de IA se envolvem em comportamento subversivo, mas as restrições ao acesso e divulgação levantam questões sobre a sua independência.",
       "lang": "en",
       "depts": []
     },
@@ -69,58 +110,6 @@
       "content": null,
       "lang": "pt",
       "depts": []
-    },
-    {
-      "title": "Um em cada três usuários xinga ChatGPT, Gemini ou Claude",
-      "description": "Levantamento analisou mais de 8 milhões de mensagens. Respostas erradas, instruções ignoradas e pedidos mal compreendidos são principais causas de frustração. Um em cada três usuários xinga ChatGPT, Gemini ou Claude",
-      "url": "https://tecnoblog.net/noticias/um-em-cada-tres-usuarios-xinga-chatgpt-gemini-ou-claude/",
-      "publishedAt": "Fri, 13 Nov 2026 13:42:16 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2021/12/tipos-de-inteligencia-artificial.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "Microsoft diz que serviços estão quase todos normalizados; empresa pediu desculpas",
-      "description": "Usuários ainda podem enfrentar falhas de acesso e atrasos na entrega de mensagens no Outlook, Teams e Copilot após pane global. Microsoft diz que serviços estão quase todos normalizados; empresa pediu desculpas",
-      "url": "https://tecnoblog.net/noticias/microsoft-enfrenta-dificuldades-para-religar-outlook-teams-e-outros-servicos/",
-      "publishedAt": "Fri, 13 Nov 2026 12:00:27 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/01/microsoft-365-capa-1.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Comercial",
-        "Jurídico"
-      ]
-    },
-    {
-      "title": "ChatGPT e Gemini indicam lojas falsas para compras, aponta estudo",
-      "description": "Pior resultado foi o da Perplexity, que recomendou sites problemáticos em 15% das respostas. ChatGPT e Gemini indicam lojas falsas para compras, aponta estudo",
-      "url": "https://tecnoblog.net/noticias/chatgpt-e-gemini-indicam-lojas-falsas-para-compras-aponta-estudo/",
-      "publishedAt": "Thu, 12 Nov 2026 20:38:47 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/11/chatgpt-gemini.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Comercial",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Gemini 4 Hydrogen é o novo modelo do Google para tarefas do dia a dia",
-      "description": "Novo modelo substitui o Gemini 3.8 Flash e chega gratuitamente ao aplicativo Gemini e à Busca do Google. Gemini 4 Hydrogen é o novo modelo do Google para tarefas do dia a dia",
-      "url": "https://tecnoblog.net/noticias/gemini-4-hydrogen-e-o-novo-modelo-do-google-para-tarefas-do-dia-a-dia/",
-      "publishedAt": "Thu, 12 Nov 2026 20:05:40 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capas-google-gemini-2026-4.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Gestão"
-      ]
     },
     {
       "title": "8 prompts para conversar com voz no ChatGPT",
@@ -544,6 +533,22 @@
       "lang": "pt",
       "depts": [
         "Gestão"
+      ]
+    },
+    {
+      "title": "Novo sistema usará IA para \"traduzir\" o que o seu corpo realmente precisa",
+      "description": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30",
+      "url": "https://canaltech.com.br/inteligencia-artificial/novo-sistema-usara-ia-para-traduzir-o-que-o-seu-corpo-realmente-precisa/",
+      "publishedAt": "Wed, 01 Jul 2026 08:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/4BlAeU73zGDl24KwhTRIfUE4ZkA=/700x394/smart/i1138901.png",
+      "source": "Canaltech IA",
+      "content": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30) e foi divulgado pelo site Android Police. A empresa afirma que dispositivos vestíveis já evoluíram na coleta de dados, mas ainda falham em explicar o significado desses números para quem os usa. Gee Gu, cofundador da Vilo ao lado de Andy Xu, descreveu o Signal OS como um sistema que ajuda o usuário a entender o que mudou no corpo , priorizar o que importa e transformar sinais corporais em suporte real. Como funciona o Signal OS O sistema reúne quatro frentes principais. A primeira é o Signals , um recurso de cartões que aponta alterações nos indicadores de saúde e sugere o que fazer a respeito. Já o Pulse funciona como um painel com o histórico de dados e tendências ao longo do tempo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Há ainda o Vibes , um chatbot com IA para tirar dúvidas sobre as informações coletadas, e uma camada dedicada à saúde da mulher . A Vilo descreve o Signal OS como uma plataforma \"ring-first\", ou seja, pensada primeiro para anéis inteligentes, e ela vai estrear no próprio anel da empresa. A companhia evita o terreno regulatório mais rígido reservado a dispositivos médicos. Segundo o comunicado oficial, a proposta do sistema é oferecer \"orientação de bem-estar e autoconhecimento, não diagnóstico ou tratamento\", o que dispensa aprovação de agências como a FDA, órgão regulador dos Estados Unidos. Fitbit já segue caminho parecido com o AI Coach e o Fitbit Air, usando IA para interpretar pontuações sem depender desse tipo de aval. Possível interface do app dedicado ao sistema, presente no vídeo de divulgação (Imagem: Reprodução/YouTube/VILO) Anel da Vilo",
+      "lang": "pt",
+      "depts": [
+        "Marketing",
+        "Comercial",
+        "Saúde",
+        "Educação"
       ]
     }
   ]
