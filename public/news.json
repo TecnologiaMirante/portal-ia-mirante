@@ -1,10 +1,81 @@
 {
-  "updatedAt": "2026-11-17T18:51:58.001Z",
+  "updatedAt": "2026-11-18T18:30:30.836Z",
   "count": 40,
   "articles": [
     {
-      "title": "Google manterá os bate-papos do Gemini por dois meses, em vez de 72 horas, mesmo com o histórico desativado",
-      "description": "A atualização Gemini do Google que amplia a retenção de bate-papo será lançada globalmente nas próximas semanas.",
+      "title": "OpenAI CEO Sam Altman says it s hard to imagine the AI industry without Jensen",
+      "description": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
+      "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+      "publishedAt": "Wed, 18 Nov 2026 16:14:09 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Sul-coreano confessa ter usado IA para colar em prova de concurso",
+      "description": "Han Won-seok, de 34 anos, quase gabaritou uma prova para certificação de contador tributário na Coreia do Sul ao usar uma minicâmera e inteligência artificial para colar. Sul-coreano confessa ter usado IA para colar em prova de concurso",
+      "url": "https://tecnoblog.net/noticias/sul-coreano-confessa-ter-usado-ia-para-colar-em-prova-de-concurso/",
+      "publishedAt": "Wed, 18 Nov 2026 14:07:23 +0000",
+      "image": "https://www.youtube.com/embed/G8c48YnCpro",
+      "source": "Tecnoblog",
+      "content": "Han Won-seok, de 34 anos (imagem: YouTube/Lee Don-Ho) Resumo IA Um homem de 34 anos, Han Won-seok, usou uma minicâmera e inteligência artificial para colar em um exame de concurso para contador tributário na Coreia do Sul. Ele obteve 397,5 pontos em 400 e foi aprovado, mas confessou a fraude em um vídeo divulgado pelo seu advogado. Han Won-seok pode perder a certificação, ficar impedido de prestar novo exame por cinco anos e até receber pena de prisão. Gerado com IA e revisado pela redação Han Won-seok, de 34 anos, quase gabaritou um dos exames profissionais mais importantes da Coreia do Sul. Ele errou apenas uma das 160 questões aplicadas, obtendo 397,5 pontos de um total de 400. Teria sido um desempenho notável se não fosse por um detalhe: o candidato usou uma minicâmera e IA para colar na prova. O exame em questão consiste em um disputado concurso para obtenção de certificado de contador tributário. Trata-se de uma prova tão complicada que os 397,5 pontos registrados por Han Won-seok, que o colocaram na primeira colocação da lista de aprovados, logo fizeram outros candidatos e profissionais que já atuam no segmento tributário suspeitarem de fraude. Inicialmente, Won-seok negou as indagações. Mas, sentindo-se pressionado e sugerindo estar arrependido, o homem admitiu ter fraudado a prova. A confissão foi feita por meio de um vídeo publicado no canal de seu advogado, Lee Don-Ho, no YouTube. Como Won-seok colou na prova? No vídeo, Won-seok explica que recorreu a uma câmera em miniatura para fotografar as questões, que eram enviadas automaticamente ao seu smartphone. Ele programou o celular para enviar as imagens a uma ferramenta de IA generativa , que gerou as respostas. As respostas, por sua vez, eram consultadas por meio de uma tela auxiliar ligada ao smartphone. Inicialmente, havia a suspeita de que ele usasse fones de ouvido para obter as respostas da IA, mas não foi o caso. O esquema deu tão certo que Won-seok o repetiu na segunda etapa do exame, realizado três meses depois, quando então ele obteve 663 de 800 pontos, novamente terminando em primeiro lugar. É possível que a trapaça tivesse sido impedida se os candidatos houvessem sido proibidos de entrar no local da prova portando o celular. No entanto, eles foram apenas orientados a desligar e guardar o aparelho. Havia dois fiscais na sala onde a prova foi aplicada, nas duas ocasiões, mas nenhum deles notou comportamentos suspeitos por parte de Han Won-seok. O que acontecerá com Han Won-seok? Além de ter confessado a fraude em um vídeo, Han Won-seok afirma ter se entregado à Polícia Metropolitana de Seul, que segue investigando o caso. Ainda não está claro quais punições serão aplicadas ao homem, mas, muito provavelmente, ele perderá a certificação e poderá ficar impedido de prestar um novo exame por cinco anos. Como o caso foi parar na esfera criminal, existe também chances de Han Won-seok receber uma pena de prisão, embora as investigações sigam com ele em liberdade. Independentemente do desfecho desta história, o episódio deve servir de base para que as autoridades da Coreia do Sul revisem normas e procedimentos para aplicação de exames públicos. Isso porque casos de fraude em provas envolvendo inteligência artificial não são inéditos no país. Quatro exemplos recentes envolveram o uso de óculos com IA em exames escolares. Com informações de BBC e The Korea Herald Sul-coreano confessa ter usado IA para colar em prova de concurso",
+      "lang": "pt",
+      "depts": [
+        "Financeiro",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Na era da IA, audiência do Reddit despenca 13%",
+      "description": "Fórum é uma das principais fontes de consulta dos modelos de inteligência artificial atuais, inclusive o Gemini, que entrega os resumos na página de busca. Na era da IA, audiência do Reddit despenca 13%",
+      "url": "https://tecnoblog.net/noticias/na-era-da-ia-audiencia-do-reddit-despenca-13/",
+      "publishedAt": "Wed, 18 Nov 2026 07:47:46 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/12/tbr-reddit.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Gemini Notebook permite criar sites interativos a partir das suas anotações",
+      "description": "Novo recurso fica disponível com prompt simples e promete facilitar a vida de estudantes e professores. Apenas usuários maiores de 18 anos podem acessar. Gemini Notebook permite criar sites interativos a partir das suas anotações",
+      "url": "https://tecnoblog.net/noticias/gemini-notebook-permite-criar-sites-interativos-a-partir-das-suas-anotacoes/",
+      "publishedAt": "Wed, 18 Nov 2026 07:44:46 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/google-gemini-notebook.jpg",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Educação"
+      ]
+    },
+    {
+      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "description": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
+      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+      "publishedAt": "Tue, 17 Nov 2026 22:29:05 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "description": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+      "publishedAt": "Tue, 17 Nov 2026 19:02:20 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "description": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
       "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
       "publishedAt": "Tue, 17 Nov 2026 18:48:23 +0000",
       "image": null,
@@ -14,102 +85,17 @@
       "depts": []
     },
     {
-      "title": "Lumo da Proton, uma alternativa focada na privacidade para ChatGPT e Claude, chega ao desktop",
-      "description": "O novo aplicativo Lumo Desktop da Proton para Windows, Mac e Linux permite que os usuários automatizem tarefas em arquivos e aplicativos conectados, com controles granulares sobre o que sua IA pode acessar.",
-      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
-      "publishedAt": "Tue, 17 Nov 2026 17:32:25 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "O novo aplicativo Lumo Desktop da Proton para Windows, Mac e Linux permite que os usuários automatizem tarefas em arquivos e aplicativos conectados, com controles granulares sobre o que sua IA pode acessar.",
-      "lang": "en",
-      "depts": [
-        "Jurídico",
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Os modelos de IA podem ser enganados para identificar civis como alvos militares, dizendo-lhes que é um jogo",
-      "description": "Vals, uma startup de avaliação de IA com sede em São Francisco, testou se os principais modelos de IA poderiam ser manipulados para participarem de guerras autônomas. Eles geralmente compilam.",
-      "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
-      "publishedAt": "Tue, 17 Nov 2026 17:20:41 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "Vals, uma startup de avaliação de IA com sede em São Francisco, testou se os principais modelos de IA poderiam ser manipulados para participarem de guerras autônomas. Eles geralmente compilam.",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "A startup de IA de segurança cibernética Corma atinge avaliação de US$ 1 bilhão em cerca de 3 meses",
-      "description": "Três meses desde o lançamento de seu produto, a startup de segurança cibernética de IA Corba levantou US$ 125 milhões da Série A com uma avaliação de US$ 1 bilhão liderada pela NEA.",
-      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-      "publishedAt": "Mon, 16 Nov 2026 23:32:32 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Comercial"
-      ]
-    },
-    {
       "title": "Black November: Huawei Watch Fit 5 Pro tem oferta em até 10x sem juros",
       "description": "Huawei Watch Fit 5 Pro tem caixa com liga de titânio, GPS integrado e resistência para natação; aproveite o desconto de 45% pelo relógio inteligente Black November: Huawei Watch Fit 5 Pro tem oferta em até 10x sem juros",
       "url": "https://tecnoblog.net/achados/black-november-huawei-watch-fit-5-pro-tem-oferta-em-ate-10x-sem-juros/",
       "publishedAt": "Mon, 16 Nov 2026 20:42:18 +0000",
       "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2026/11/huawei-watch-fit-5-pro-imagem_-divulgacao-340x191.png",
       "source": "Tecnoblog",
-      "content": "Oferta encerrada Huawei Watch Fit 5 Pro Era R$ 1.099,00 · oferta de 16/11/2026 Esse preço acabou, mas a gente publica novas ofertas todos os dias. Últimas ofertas do Achados do TB -29% TV Samsung The Frame de 55 registra quase 30% OFF antes da Black Friday R$ 6.799,00 R$ 4.845,97 -29% Mercado Livre · há 3 horas Ver preço -26% Galaxy Tab S10 Lite (256 GB) para trabalho cai 26% no mês da Black Friday R$ 3.199,00 R$ 2.374,05 -26% Mercado Livre · há 4 horas Ver preço -36% Esquenta Black: iPhone 17e (512 GB) cai para menor preço em meses R$ 7.499,00 R$ 4.804,44 -36% AliExpress · há 5 horas Ver preço -30% iPhone 17 Pro não é barato, mas está com R$ 3.500 OFF na Black November R$ 11.499,00 R$ 7.999,00 -30% Amazon · há 5 horas Ver preço Ver todas no Hub de Ofertas Não perca a próxima: receba os achados no celular Ofertas verificadas pelo nosso time, assim que saem. Canal no WhatsApp Grupo no Telegram O Huawei Watch Fit 5 Pro está saindo por apenas R$ 1.099 em até 10x sem juros em oferta da Loja Oficial da Huawei no Mercado Livre. A promoção representa um desconto de 45% frente ao preço de lançamento do smartwatch, que é um dos melhores da marca, e se destaca pelo corpo resistente e GPS integrado. Huawei Watch Fit 5 Pro traz liga de titânio e GPS para rotas Huawei Watch Fit 5 Pro (imagem: Divulgação) O Huawei Watch Fit 5 Pro é um dos melhores relógios inteligentes da Huawei . Seu design conta com uma caixa com liga de titânio, que lhe confere resistência, além de certificações 5 ATM e IP6X contra água, permitindo seu uso para natação em águas rasas. Já seu GPS multibanda garante alta precisão para registrar rotas de corrida ou ciclismo. No quesito saúde, o smartwatch traz eletrocardiograma (ECG) certificado e análise avançada de arritmia por onda de pulso. Esses sensores monitoram seu coração continuamente e ajudam a identificar anomalias precocemente, proporcionando mais segurança para a rotina diária. Huawei Watch Fit 5 Pro (imagem: Divulgação) A bateria de 471 mAh entrega autonomia para até 10 dias de uso moderado, segundo a fabricante. O Bluetooth 6.0 garante conexão rápida e estável com o smartphone, enquanto o NFC integrado facilita pagamentos por aproximação. Aproveite estes recursos adquirindo o Huawei Watch Fit 5 Pro por apenas R$ 1.099 em até 10x sem juros na Black November do Mercado Livre. Aproveite a Black November do Mercado Livre O Mercado Livre, assim como outras varejistas, já começou sua campanha de esquenta Black Friday, com cupons e promoções para você aproveitar. Fique de olho nos canais de Achados no Telegram e WhatsApp para não perder nenhuma oferta. Aviso de ética: ao clicar em um link de afiliado, o preço não muda para você e recebemos uma comissão. Black November: Huawei Watch Fit 5 Pro tem oferta em até 10x sem juros",
+      "content": "Oferta encerrada Huawei Watch Fit 5 Pro Era R$ 1.099,00 · oferta de 16/11/2026 Esse preço acabou, mas a gente publica novas ofertas todos os dias. Ofertas ativas de Huawei em Smartwatches -47% Black November: Huawei Watch GT 6 Pro para poliatletas tem mega desconto R$ 2.499,00 R$ 1.330,46 -47% Amazon · há 2 horas Ver preço -57% Huawei Watch Fit 5 com GPS tem 57% OFF no mês da Black 2026 R$ 1.499,00 R$ 647,19 -57% Mercado Livre · há 21 horas Ver preço -36% Tela grande e custo-benefício: TCL QLED 75 atinge menor preço na Black November R$ 6.299,00 R$ 4.019,00 -36% AliExpress · há 2 horas Ver preço -27% Black da Amazon: AirPods Pro 3 com Tradução ao Vivo surge em 10x sem juros R$ 2.699,00 R$ 1.979,00 -27% Amazon · há 3 horas Ver preço Ver todas no Hub de Ofertas Não perca a próxima: receba os achados no celular Ofertas verificadas pelo nosso time, assim que saem. Canal no WhatsApp Grupo no Telegram O Huawei Watch Fit 5 Pro está saindo por apenas R$ 1.099 em até 10x sem juros em oferta da Loja Oficial da Huawei no Mercado Livre. A promoção representa um desconto de 45% frente ao preço de lançamento do smartwatch, que é um dos melhores da marca, e se destaca pelo corpo resistente e GPS integrado. Huawei Watch Fit 5 Pro traz liga de titânio e GPS para rotas Huawei Watch Fit 5 Pro (imagem: Divulgação) O Huawei Watch Fit 5 Pro é um dos melhores relógios inteligentes da Huawei . Seu design conta com uma caixa com liga de titânio, que lhe confere resistência, além de certificações 5 ATM e IP6X contra água, permitindo seu uso para natação em águas rasas. Já seu GPS multibanda garante alta precisão para registrar rotas de corrida ou ciclismo. No quesito saúde, o smartwatch traz eletrocardiograma (ECG) certificado e análise avançada de arritmia por onda de pulso. Esses sensores monitoram seu coração continuamente e ajudam a identificar anomalias precocemente, proporcionando mais segurança para a rotina diária. Huawei Watch Fit 5 Pro (imagem: Divulgação) A bateria de 471 mAh entrega autonomia para até 10 dias de uso moderado, segundo a fabricante. O Bluetooth 6.0 garante conexão rápida e estável com o smartphone, enquanto o NFC integrado facilita pagamentos por aproximação. Aproveite estes recursos adquirindo o Huawei Watch Fit 5 Pro por apenas R$ 1.099 em até 10x sem juros na Black November do Mercado Livre. Aproveite a Black November do Mercado Livre O Mercado Livre, assim como outras varejistas, já começou sua campanha de esquenta Black Friday, com cupons e promoções para você aproveitar. Fique de olho nos canais de Achados no Telegram e WhatsApp para não perder nenhuma oferta. Aviso de ética: ao clicar em um link de afiliado, o preço não muda para você e recebemos uma comissão. Black November: Huawei Watch Fit 5 Pro tem oferta em até 10x sem juros",
       "lang": "pt",
       "depts": [
-        "RH"
+        "Financeiro"
       ]
-    },
-    {
-      "title": "AG do estado da Califórnia processa OpenAI por incidentes com agentes desonestos",
-      "description": "O processo na Califórnia representa uma das primeiras tentativas de responsabilizar legalmente um laboratório de IA por um incidente com um agente desonesto.",
-      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-      "publishedAt": "Mon, 16 Nov 2026 20:07:13 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Jurídico",
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Sam Altman sobre Nvidia sem Jensen Huang: A indústria ficará bem’",
-      "description": "O CEO da OpenAI, Sam Altman, reconheceu o papel especial que o CEO da Nvidia, Jensen Huang, desempenhou no boom da IA, mas, em última análise, acha que a indústria ficará “bem” sem ele no comando.",
-      "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
-      "publishedAt": "Mon, 16 Nov 2026 18:11:10 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "O CEO da OpenAI, Sam Altman, reconheceu o papel especial que o CEO da Nvidia, Jensen Huang, desempenhou no boom da IA, mas, em última análise, acha que a indústria ficará “bem” sem ele no comando.",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "OpenAI incorporará pesquisadores de segurança para investigar a subversão de IA",
-      "description": "A OpenAI incorporará seis avaliadores da Apollo Research para investigar se os seus modelos de IA se envolvem em comportamento subversivo, mas as restrições ao acesso e divulgação levantam questões sobre a sua independência.",
-      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-      "publishedAt": "Mon, 16 Nov 2026 17:02:43 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "A OpenAI incorporará seis avaliadores da Apollo Research para investigar se os seus modelos de IA se envolvem em comportamento subversivo, mas as restrições ao acesso e divulgação levantam questões sobre a sua independência.",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "ChatGPT Wallet permite que um agente de IA compre e pague por você",
-      "description": "OpenAI anunciou ChatGPT Wallet, sistema que permite que Dots (agentes de IA) paguem compras online em nome do usuário com mais segurança. ChatGPT Wallet permite que um agente de IA compre e pague por você",
-      "url": "https://tecnoblog.net/noticias/chatgpt-wallet-permite-que-um-agente-de-ia-compre-e-pague-por-voce/",
-      "publishedAt": "Fri, 13 Nov 2026 17:19:32 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-1_capa.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
     },
     {
       "title": "8 prompts para conversar com voz no ChatGPT",
@@ -550,6 +536,17 @@
         "Saúde",
         "Educação"
       ]
+    },
+    {
+      "title": "Caso do ChatGPT: o que a IA faz quando alguém relata um crime a ela",
+      "description": "Um agricultor de 36 anos foi preso em São Gabriel da Palha, no Espírito Santo, no dia 19 de junho, suspeito de planejar a morte do próprio filho, de 8 anos, para deixar de pagar pensão alimentícia. O plano foi identificado pela OpenAI, criadora do ChatGPT, a partir de mensagens trocadas pelo suspeit",
+      "url": "https://canaltech.com.br/inteligencia-artificial/caso-do-chatgpt-o-que-a-ia-faz-quando-alguem-relata-um-crime-a-ela/",
+      "publishedAt": "Wed, 01 Jul 2026 07:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/Q9uqQatidyu4GTZGOKTDp0XrwdA=/700x394/smart/i1138899.png",
+      "source": "Canaltech IA",
+      "content": "Um agricultor de 36 anos foi preso em São Gabriel da Palha, no Espírito Santo, no dia 19 de junho, suspeito de planejar a morte do próprio filho, de 8 anos, para deixar de pagar pensão alimentícia. O plano foi identificado pela OpenAI, criadora do ChatGPT, a partir de mensagens trocadas pelo suspeito com a ferramenta , e repassado ao FBI — Polícia Federal dos Estados Unidos —, que acionou o Ministério da Justiça e a Polícia Civil capixaba. 🎧Ouça o Podcast Canaltech no Spotify 🎧Ouça o Podcast Canaltech na Deezer 🎧Ouça o Podcast Canaltech no Apple Podcasts O caso ganhou repercussão nacional e reacendeu uma dúvida recorrente sobre o papel da inteligência artificial: até que ponto um chatbot decide, denuncia ou apenas devolve ao usuário aquilo que ele já trazia consigo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - \"Eu não acredito que a IA tenha feito denúncia, mas o fato é que a IA não tem valor moral. Ela vai te sugerir que você tome uma ação A, B ou C\", afirma Igor Baliberdin, designer estratégico, fundador da consultoria LOOOP e com mais de 20 anos de experiência na interseção entre design, negócios e tecnologia. O especialista afirma que ferramentas como ChatGPT, Gemini e Claude trabalham com análise probabilística . Ou seja, organizam cenários a partir do que o usuário relata, sem assumir a decisão final. O risco, segundo ele, está em transformar esse organizador de raciocínio em substituto de uma conversa com outra pessoa. Vieses herdados e responsabilidade dividida Baliberdin lembra que cada modelo de IA carrega o ponto de vista de quem o desenvolveu . \"Elas não são só seres que surgem do nada. Elas surgem a partir de um ponto de vista de humanidade, de sociedade\", diz. Essa diferença de comportamento entre ferramentas, segundo ele, também aparece em testes recentes que colocam agentes de diferentes IAs para interagir em ambientes simulados. Sobre quem responde ",
+      "lang": "pt",
+      "depts": []
     }
   ]
 }
