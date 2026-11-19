@@ -1,17 +1,128 @@
 {
-  "updatedAt": "2026-11-18T18:30:30.836Z",
+  "updatedAt": "2026-11-19T18:44:09.691Z",
   "count": 40,
   "articles": [
     {
-      "title": "OpenAI CEO Sam Altman says it s hard to imagine the AI industry without Jensen",
-      "description": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
-      "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
-      "publishedAt": "Wed, 18 Nov 2026 16:14:09 +0000",
+      "title": "Google lança Gemini 4 Neon, nova IA para tarefas complexas",
+      "description": "Modelo substitui Gemini 4 Argon e está disponível para assinantes dos planos AI Pro e Ultra do Google. Google lança Gemini 4 Neon, nova IA para tarefas complexas",
+      "url": "https://tecnoblog.net/noticias/google-lanca-gemini-4-neon-nova-ia-para-tarefas-complexas/",
+      "publishedAt": "Thu, 19 Nov 2026 18:14:37 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/11/gemini-4-neon__blog-header__sm-width-1200-format-webp.jpg",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Gestão"
+      ]
+    },
+    {
+      "title": "Google gives Gemini the ability to use your Mac for you",
+      "description": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "publishedAt": "Thu, 19 Nov 2026 18:09:11 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "Gestão"
+      ]
+    },
+    {
+      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+      "description": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+      "publishedAt": "Thu, 19 Nov 2026 16:59:23 +0000",
       "image": null,
       "source": "TechCrunch AI",
       "content": null,
       "lang": "en",
       "depts": []
+    },
+    {
+      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+      "description": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
+      "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+      "publishedAt": "Thu, 19 Nov 2026 16:19:41 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Anthropic s IPO puts AI s circular financing boom to the test",
+      "description": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+      "publishedAt": "Thu, 19 Nov 2026 14:54:39 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+      "lang": "en",
+      "depts": [
+        "Comercial"
+      ]
+    },
+    {
+      "title": "Anthropic: dona do Claude estreia na bolsa valendo US$ 1,5 trilhão",
+      "description": "Famosa pelo Claude, empresa de inteligência artificial chega à bolsa dos EUA com ações cotadas a US$ 83, um valor notável. Anthropic: dona do Claude estreia na bolsa valendo US$ 1,5 trilhão",
+      "url": "https://tecnoblog.net/noticias/anthropic-dona-do-claude-estreia-na-bolsa-valendo-us-15-trilhao/",
+      "publishedAt": "Thu, 19 Nov 2026 13:35:06 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-3.jpg",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Financeiro"
+      ]
+    },
+    {
+      "title": "Desativou o histórico do Gemini? O Google salva mesmo assim",
+      "description": "Empresa atualizou tempo que suas conversas na IA ficam registradas de três dias para dois meses, independente da configuração de histórico. Desativou o histórico do Gemini? O Google salva mesmo assim",
+      "url": "https://tecnoblog.net/noticias/desativou-o-historico-do-gemini-o-google-salva-mesmo-assim/",
+      "publishedAt": "Thu, 19 Nov 2026 11:40:54 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/09/capa-google-gemini.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Anthropic prices IPO at $83 a share, above projected range",
+      "description": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "publishedAt": "Wed, 18 Nov 2026 22:11:15 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+      "description": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
+      "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+      "publishedAt": "Wed, 18 Nov 2026 19:56:39 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "Educação"
+      ]
+    },
+    {
+      "title": "App do Gemini agora funciona até em celulares Android com pouca RAM",
+      "description": "Google otimizou aplicativo do Gemini para funcionar em celulares Android básicos com pelo menos 2 GB de RAM. App do Gemini agora funciona até em celulares Android com pouca RAM",
+      "url": "https://tecnoblog.net/noticias/app-do-gemini-agora-funciona-ate-em-celulares-android-com-pouca-ram/",
+      "publishedAt": "Wed, 18 Nov 2026 19:37:50 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/11/android-app-gemini.jpg",
+      "source": "Tecnoblog",
+      "content": "App do Gemini agora funciona até em celulares Android com pouca RAM (imagem: reprodução/Google) Resumo IA O aplicativo do Gemini foi otimizado para funcionar em celulares Android com pouca memória RAM (a partir de 2 GB). A otimização permite que o aplicativo ofereça funcionalidades como conversas em voz alta, tradução de textos e criação de imagens personalizadas. O aplicativo renovado já está disponível para download e pode ser usado em dispositivos que rodam o Android Go, uma versão enxuta do sistema operacional. Gerado com IA e revisado pela redação O aplicativo oficial do Gemini para Android foi lançado no começo de 2024, logo após o serviço deixar de se chamar Bard (lembra disso?). Mas usuários de celulares Android mais simples ficavam restritos ao Google Assistente Go, com comandos básicos. Bom, não mais: o Google tratou de otimizar a ferramenta para que ela funcione até com aparelhos Android básicos, com 2 GB de RAM ou mais. É importante deixar claro desde já que não estamos falando de um aplicativo alternativo do Gemini voltado especificamente a dispositivos de entrada. O que o Google fez foi tornar o aplicativo oficial do serviço capaz de funcionar a contento mesmo quando houver capacidade reduzida de memória RAM ou armazenamento. O Google explica que, até recentemente, as limitações de hardware impediam que esses dispositivos rodassem o app do Gemini, deixando o usuário acessar, no máximo, comandos básicos de voz no antigo assistente. Com a otimização do aplicativo, o Gemini passa a atender os usuários desses aparelhos com funcionalidades que já são conhecidas por quem usa celulares Android mais avançados: Em vez de digitar frases longas, você pode conversar ou praticar para uma entrevista em voz alta em mais de 45 idiomas com o Gemini Live, apontar a câmera para anotações ou formulários para aprender e traduzir, ou criar imagens personalizadas com o Nano Banana — como um folheto para a venda de uma padaria no fim de semana. Google Quais celulares Android serão atendidos pelo novo app do Gemini? O Google não divulgou uma lista de celulares que serão beneficiados com a novidade. A companhia revelou, porém, que o app reformulado visa atender especialmente dispositivos que rodam o Android Go, uma versão enxuta do sistema operacional criada para dispositivos de entrada. App do Gemini no Android (animação: Google) Também é preciso que o aparelho tenha pelo menos 2 GB de RAM, como já informado, bem como que o usuário acesse o Gemini com sua Conta Google. A novidade é universal, valendo para todos os países onde o serviço de IA está disponível. Para o Brasil, podemos presumir que usuários de aparelhos como Motorola Moto E14 e Samsung Galaxy A03 serão beneficiados. Ainda há algumas limitações. Por exemplo, a ativação por voz ( ok, Google ) e a leitura contextual da tela podem não funcionar em dispositivos Android básicos. Neste caso, o usuário tem a opção de acionar o Gemini pressionando o botão Inicial (Home) ou a tecla Liga/Desliga. O aplicativo do Google Gemini pode ser baixado aqui . App do Gemini agora funciona até em celulares Android com pouca RAM",
+      "lang": "pt",
+      "depts": [
+        "Comercial"
+      ]
     },
     {
       "title": "Sul-coreano confessa ter usado IA para colar em prova de concurso",
@@ -49,52 +160,6 @@
       "lang": "pt",
       "depts": [
         "Educação"
-      ]
-    },
-    {
-      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
-      "description": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
-      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
-      "publishedAt": "Tue, 17 Nov 2026 22:29:05 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
-      "description": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
-      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
-      "publishedAt": "Tue, 17 Nov 2026 19:02:20 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
-      "description": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
-      "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
-      "publishedAt": "Tue, 17 Nov 2026 18:48:23 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Black November: Huawei Watch Fit 5 Pro tem oferta em até 10x sem juros",
-      "description": "Huawei Watch Fit 5 Pro tem caixa com liga de titânio, GPS integrado e resistência para natação; aproveite o desconto de 45% pelo relógio inteligente Black November: Huawei Watch Fit 5 Pro tem oferta em até 10x sem juros",
-      "url": "https://tecnoblog.net/achados/black-november-huawei-watch-fit-5-pro-tem-oferta-em-ate-10x-sem-juros/",
-      "publishedAt": "Mon, 16 Nov 2026 20:42:18 +0000",
-      "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2026/11/huawei-watch-fit-5-pro-imagem_-divulgacao-340x191.png",
-      "source": "Tecnoblog",
-      "content": "Oferta encerrada Huawei Watch Fit 5 Pro Era R$ 1.099,00 · oferta de 16/11/2026 Esse preço acabou, mas a gente publica novas ofertas todos os dias. Ofertas ativas de Huawei em Smartwatches -47% Black November: Huawei Watch GT 6 Pro para poliatletas tem mega desconto R$ 2.499,00 R$ 1.330,46 -47% Amazon · há 2 horas Ver preço -57% Huawei Watch Fit 5 com GPS tem 57% OFF no mês da Black 2026 R$ 1.499,00 R$ 647,19 -57% Mercado Livre · há 21 horas Ver preço -36% Tela grande e custo-benefício: TCL QLED 75 atinge menor preço na Black November R$ 6.299,00 R$ 4.019,00 -36% AliExpress · há 2 horas Ver preço -27% Black da Amazon: AirPods Pro 3 com Tradução ao Vivo surge em 10x sem juros R$ 2.699,00 R$ 1.979,00 -27% Amazon · há 3 horas Ver preço Ver todas no Hub de Ofertas Não perca a próxima: receba os achados no celular Ofertas verificadas pelo nosso time, assim que saem. Canal no WhatsApp Grupo no Telegram O Huawei Watch Fit 5 Pro está saindo por apenas R$ 1.099 em até 10x sem juros em oferta da Loja Oficial da Huawei no Mercado Livre. A promoção representa um desconto de 45% frente ao preço de lançamento do smartwatch, que é um dos melhores da marca, e se destaca pelo corpo resistente e GPS integrado. Huawei Watch Fit 5 Pro traz liga de titânio e GPS para rotas Huawei Watch Fit 5 Pro (imagem: Divulgação) O Huawei Watch Fit 5 Pro é um dos melhores relógios inteligentes da Huawei . Seu design conta com uma caixa com liga de titânio, que lhe confere resistência, além de certificações 5 ATM e IP6X contra água, permitindo seu uso para natação em águas rasas. Já seu GPS multibanda garante alta precisão para registrar rotas de corrida ou ciclismo. No quesito saúde, o smartwatch traz eletrocardiograma (ECG) certificado e análise avançada de arritmia por onda de pulso. Esses sensores monitoram seu coração continuamente e ajudam a identificar anomalias precocemente, proporcionando mais segurança para a rotina diária. Huawei Watch Fit 5 Pro (imagem: Divulgação) A bateria de 471 mAh entrega autonomia para até 10 dias de uso moderado, segundo a fabricante. O Bluetooth 6.0 garante conexão rápida e estável com o smartphone, enquanto o NFC integrado facilita pagamentos por aproximação. Aproveite estes recursos adquirindo o Huawei Watch Fit 5 Pro por apenas R$ 1.099 em até 10x sem juros na Black November do Mercado Livre. Aproveite a Black November do Mercado Livre O Mercado Livre, assim como outras varejistas, já começou sua campanha de esquenta Black Friday, com cupons e promoções para você aproveitar. Fique de olho nos canais de Achados no Telegram e WhatsApp para não perder nenhuma oferta. Aviso de ética: ao clicar em um link de afiliado, o preço não muda para você e recebemos uma comissão. Black November: Huawei Watch Fit 5 Pro tem oferta em até 10x sem juros",
-      "lang": "pt",
-      "depts": [
-        "Financeiro"
       ]
     },
     {
@@ -481,72 +546,6 @@
         "Marketing",
         "Comercial"
       ]
-    },
-    {
-      "title": "Por que o próximo ciclo computacional precisa ser construído para todos",
-      "description": "Nos últimos três anos, a capacidade computacional global dedicada à inteligência artificial cresceu aproximadamente 100 vezes . É uma das revoluções tecnológicas mais impactantes das últimas décadas. A IA já chegou indiscutivelmente. Mas a questão que surge agora é: ela está acessível a todos? De um",
-      "url": "https://canaltech.com.br/colunas/por-que-o-proximo-ciclo-computacional-precisa-ser-construido-para-todos/",
-      "publishedAt": "Thu, 02 Jul 2026 10:43:03 -0300",
-      "image": "https://t.ctcdn.com.br/nZ6sNq7PsgAB4H-oy5G3Tk3upoA=/700x394/smart/i1003705.png",
-      "source": "Canaltech IA",
-      "content": "Nos últimos três anos, a capacidade computacional global dedicada à inteligência artificial cresceu aproximadamente 100 vezes . É uma das revoluções tecnológicas mais impactantes das últimas décadas. A IA já chegou indiscutivelmente. Mas a questão que surge agora é: ela está acessível a todos? De um lado, temos modelos cada vez mais capazes, infraestruturas de bilhões de dólares, parcerias entre algumas das maiores empresas do planeta. De outro, desenvolvedores independentes, pesquisadores em países emergentes, startups sem acesso a crédito cloud e laboratórios universitários com acesso limitado. O próximo ciclo computacional pode encontrar caminhos para solucionar essa assimetria. O problema não é só hardware Quando falamos em democratizar a IA, GPUs e custos de treinamento são pontos importantes, mas há um gargalo além do hardware: a dependência de ecossistemas fechados que prendem desenvolvedores a plataformas específicas e concentram o poder de inovação nas mãos de poucos. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A analogia com o software é útil aqui. O movimento open source levou décadas para amadurecer, mas hoje a infraestrutura que sustenta a internet é majoritariamente aberta . Isso porque a inovação aberta com frequência se mostrou altamente resiliente e amplamente adotada em comparação com alternativas proprietárias. A IA está no começo do mesmo caminho. Plataformas abertas saltaram de nichos experimentais para infraestrutura de produção em escala global. Um pesquisador no Brasil, na Índia ou na Nigéria pode acessar hoje muitas das mesmas ferramentas utilizadas por grandes centros de tecnologia — desde que disponha de recursos de hardware adequados . A IA que mora no seu dispositivo Outra transformação relevante: a migração da IA da nuvem para o dispositivo. Processadores modernos com NPUs integradas permitem rodar inteligência artificial localmente , sem",
-      "lang": "pt",
-      "depts": [
-        "Financeiro",
-        "Comercial",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Fable e Mythos 5: governo Trump libera IAs mais perigosas da Anthropic",
-      "description": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três s",
-      "url": "https://canaltech.com.br/inteligencia-artificial/fable-e-mythos-5-governo-trump-libera-ias-mais-perigosas-da-anthropic/",
-      "publishedAt": "Wed, 01 Jul 2026 12:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/Am6VaUx8jmQtCNJCxA_znmbrltc=/700x394/smart/i1107289.png",
-      "source": "Canaltech IA",
-      "content": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três semanas depois de o governo ter suspendido o acesso aos dois sistemas por risco à segurança nacional. Segundo a Reuters, o acesso ao Fable 5 será restaurado a partir desta quarta-feira (1º) , ficando disponível ao público em geral. Já o Mythos 5, direcionado à detecção de vulnerabilidades de cibersegurança, será liberado para um grupo maior de parceiros domésticos e internacionais do programa Glasswing, da Anthropic. Como começou a restrição Em 12 de junho, o governo americano incluiu os dois modelos em sua lista de tecnologias sob controle de exportação , impedindo o acesso de estrangeiros sem aprovação especial . Como a Anthropic não tinha como verificar a nacionalidade dos usuários em tempo real, a companhia optou por suspender o Fable 5 e o Mythos 5 para todo mundo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A decisão, segundo a Reuters, partiu de uma denúncia de pesquisadores da Amazon , que encontraram uma forma de contornar as proteções do Fable 5. Com essa brecha, o modelo passou a identificar falhas de software e, em um dos casos registrados, chegou a gerar código demonstrando como explorar uma vulnerabilidade. No último domingo (28), o governo abriu uma primeira exceção , permitindo o uso do Mythos 5 por organizações selecionadas e por funcionários da própria Anthropic, incluindo estrangeiros vinculados a esses grupos. O Fable 5 seguia fora do ar até esta terça. O Claude é, atualmente, a terceira IA mais utilizada no mundo (Imagem: Marcelo Fischer/Canaltech) Por que são modelos tão perigosos O Mythos 5 concentra as capacidades que mais preocupam o governo american",
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "Português é o 3º idioma mais usado no ChatGPT",
-      "description": "O português é agora o terceiro idioma mais usado no ChatGPT , segundo dados da OpenAI divulgados no relatório OpenAI Signals. Ele fica atrás apenas do inglês e do espanhol. O levantamento também mostra que, pela primeira vez, mais da metade dos usuários ativos usa o ChatGPT principalmente em idiomas",
-      "url": "https://canaltech.com.br/inteligencia-artificial/portugues-e-o-3o-idioma-mais-usado-no-chatgpt/",
-      "publishedAt": "Wed, 01 Jul 2026 09:27:36 -0300",
-      "image": "https://t.ctcdn.com.br/elWRGd7DozFcUzbnLeKmr45Ecyw=/700x394/smart/i1137007.png",
-      "source": "Canaltech IA",
-      "content": "O português é agora o terceiro idioma mais usado no ChatGPT , segundo dados da OpenAI divulgados no relatório OpenAI Signals. Ele fica atrás apenas do inglês e do espanhol. O levantamento também mostra que, pela primeira vez, mais da metade dos usuários ativos usa o ChatGPT principalmente em idiomas diferentes do inglês. Em quarto, quinto e sexto lugar aparecem, respectivamente, o francês, o indonésio e o árabe. A análise mede as interações de usuários nos planos individuais do ChatGPT , incluindo as assinaturas Free (gratuito), Go, Plus e Pro. Além disso, os idiomas uzbeque, cazaque e birmanês foram os que mais cresceram em participação desde julho de 2023. O relatório também mostra que usuários mais antigos usam o ChatGPT com mais frequência. Após seis meses na plataforma, eles enviam, em média, 50% mais mensagens por dia e realizam o dobro de tarefas diferentes em relação ao início do uso. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Português é o terceiro idioma mais usado no ChatGPT. (Imagem: Divulgação/OpenAI) Adoção do ChatGPT cresceu em todas as regiões O relatório também mostra que o uso do ChatGPT cresceu em todos os continentes desde julho de 2023, deixando a base de usuários mais global e diversa. O crescimento foi mais rápido na África, seguida pela Ásia, América do Sul, Europa, América do Norte e Oceania. Segundo a OpenAI, o crescimento foi mais rápido em países com menor Índice de Desenvolvimento Humano (IDH) , que registraram o maior aumento no número de usuários ativos por semana. O levantamento também aponta mudanças no perfil dos usuários. Pessoas com nomes tipicamente femininos representam a maior parte do uso global do ChatGPT. O Brasil, Colômbia, Polônia e Namíbia estão entre os países onde esse grupo supera os usuários com nomes tipicamente masculinos. Já Paquistão, Bangladesh, Angola, República Democrática do Congo e Mali têm a maior presença de",
-      "lang": "pt",
-      "depts": [
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Novo sistema usará IA para \"traduzir\" o que o seu corpo realmente precisa",
-      "description": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30",
-      "url": "https://canaltech.com.br/inteligencia-artificial/novo-sistema-usara-ia-para-traduzir-o-que-o-seu-corpo-realmente-precisa/",
-      "publishedAt": "Wed, 01 Jul 2026 08:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/4BlAeU73zGDl24KwhTRIfUE4ZkA=/700x394/smart/i1138901.png",
-      "source": "Canaltech IA",
-      "content": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30) e foi divulgado pelo site Android Police. A empresa afirma que dispositivos vestíveis já evoluíram na coleta de dados, mas ainda falham em explicar o significado desses números para quem os usa. Gee Gu, cofundador da Vilo ao lado de Andy Xu, descreveu o Signal OS como um sistema que ajuda o usuário a entender o que mudou no corpo , priorizar o que importa e transformar sinais corporais em suporte real. Como funciona o Signal OS O sistema reúne quatro frentes principais. A primeira é o Signals , um recurso de cartões que aponta alterações nos indicadores de saúde e sugere o que fazer a respeito. Já o Pulse funciona como um painel com o histórico de dados e tendências ao longo do tempo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Há ainda o Vibes , um chatbot com IA para tirar dúvidas sobre as informações coletadas, e uma camada dedicada à saúde da mulher . A Vilo descreve o Signal OS como uma plataforma \"ring-first\", ou seja, pensada primeiro para anéis inteligentes, e ela vai estrear no próprio anel da empresa. A companhia evita o terreno regulatório mais rígido reservado a dispositivos médicos. Segundo o comunicado oficial, a proposta do sistema é oferecer \"orientação de bem-estar e autoconhecimento, não diagnóstico ou tratamento\", o que dispensa aprovação de agências como a FDA, órgão regulador dos Estados Unidos. Fitbit já segue caminho parecido com o AI Coach e o Fitbit Air, usando IA para interpretar pontuações sem depender desse tipo de aval. Possível interface do app dedicado ao sistema, presente no vídeo de divulgação (Imagem: Reprodução/YouTube/VILO) Anel da Vilo",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Comercial",
-        "Saúde",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Caso do ChatGPT: o que a IA faz quando alguém relata um crime a ela",
-      "description": "Um agricultor de 36 anos foi preso em São Gabriel da Palha, no Espírito Santo, no dia 19 de junho, suspeito de planejar a morte do próprio filho, de 8 anos, para deixar de pagar pensão alimentícia. O plano foi identificado pela OpenAI, criadora do ChatGPT, a partir de mensagens trocadas pelo suspeit",
-      "url": "https://canaltech.com.br/inteligencia-artificial/caso-do-chatgpt-o-que-a-ia-faz-quando-alguem-relata-um-crime-a-ela/",
-      "publishedAt": "Wed, 01 Jul 2026 07:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/Q9uqQatidyu4GTZGOKTDp0XrwdA=/700x394/smart/i1138899.png",
-      "source": "Canaltech IA",
-      "content": "Um agricultor de 36 anos foi preso em São Gabriel da Palha, no Espírito Santo, no dia 19 de junho, suspeito de planejar a morte do próprio filho, de 8 anos, para deixar de pagar pensão alimentícia. O plano foi identificado pela OpenAI, criadora do ChatGPT, a partir de mensagens trocadas pelo suspeito com a ferramenta , e repassado ao FBI — Polícia Federal dos Estados Unidos —, que acionou o Ministério da Justiça e a Polícia Civil capixaba. 🎧Ouça o Podcast Canaltech no Spotify 🎧Ouça o Podcast Canaltech na Deezer 🎧Ouça o Podcast Canaltech no Apple Podcasts O caso ganhou repercussão nacional e reacendeu uma dúvida recorrente sobre o papel da inteligência artificial: até que ponto um chatbot decide, denuncia ou apenas devolve ao usuário aquilo que ele já trazia consigo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - \"Eu não acredito que a IA tenha feito denúncia, mas o fato é que a IA não tem valor moral. Ela vai te sugerir que você tome uma ação A, B ou C\", afirma Igor Baliberdin, designer estratégico, fundador da consultoria LOOOP e com mais de 20 anos de experiência na interseção entre design, negócios e tecnologia. O especialista afirma que ferramentas como ChatGPT, Gemini e Claude trabalham com análise probabilística . Ou seja, organizam cenários a partir do que o usuário relata, sem assumir a decisão final. O risco, segundo ele, está em transformar esse organizador de raciocínio em substituto de uma conversa com outra pessoa. Vieses herdados e responsabilidade dividida Baliberdin lembra que cada modelo de IA carrega o ponto de vista de quem o desenvolveu . \"Elas não são só seres que surgem do nada. Elas surgem a partir de um ponto de vista de humanidade, de sociedade\", diz. Essa diferença de comportamento entre ferramentas, segundo ele, também aparece em testes recentes que colocam agentes de diferentes IAs para interagir em ambientes simulados. Sobre quem responde ",
-      "lang": "pt",
-      "depts": []
     }
   ]
 }
