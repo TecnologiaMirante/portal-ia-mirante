@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-11-19T18:44:09.691Z",
+  "updatedAt": "2026-11-20T18:06:23.642Z",
   "count": 40,
   "articles": [
+    {
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "description": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "publishedAt": "Fri, 20 Nov 2026 00:56:01 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Anthropic s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "description": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "publishedAt": "Fri, 20 Nov 2026 00:43:50 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Anthropic s IPO could deliver $156B to charity",
+      "description": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+      "publishedAt": "Thu, 19 Nov 2026 19:10:45 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": [
+        "RH"
+      ]
+    },
     {
       "title": "Google lança Gemini 4 Neon, nova IA para tarefas complexas",
       "description": "Modelo substitui Gemini 4 Argon e está disponível para assinantes dos planos AI Pro e Ultra do Google. Google lança Gemini 4 Neon, nova IA para tarefas complexas",
@@ -88,30 +123,6 @@
       "depts": []
     },
     {
-      "title": "Anthropic prices IPO at $83 a share, above projected range",
-      "description": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
-      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-      "publishedAt": "Wed, 18 Nov 2026 22:11:15 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
-      "description": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
-      "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
-      "publishedAt": "Wed, 18 Nov 2026 19:56:39 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Educação"
-      ]
-    },
-    {
       "title": "App do Gemini agora funciona até em celulares Android com pouca RAM",
       "description": "Google otimizou aplicativo do Gemini para funcionar em celulares Android básicos com pelo menos 2 GB de RAM. App do Gemini agora funciona até em celulares Android com pouca RAM",
       "url": "https://tecnoblog.net/noticias/app-do-gemini-agora-funciona-ate-em-celulares-android-com-pouca-ram/",
@@ -135,30 +146,6 @@
       "lang": "pt",
       "depts": [
         "Financeiro",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Na era da IA, audiência do Reddit despenca 13%",
-      "description": "Fórum é uma das principais fontes de consulta dos modelos de inteligência artificial atuais, inclusive o Gemini, que entrega os resumos na página de busca. Na era da IA, audiência do Reddit despenca 13%",
-      "url": "https://tecnoblog.net/noticias/na-era-da-ia-audiencia-do-reddit-despenca-13/",
-      "publishedAt": "Wed, 18 Nov 2026 07:47:46 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/12/tbr-reddit.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "Gemini Notebook permite criar sites interativos a partir das suas anotações",
-      "description": "Novo recurso fica disponível com prompt simples e promete facilitar a vida de estudantes e professores. Apenas usuários maiores de 18 anos podem acessar. Gemini Notebook permite criar sites interativos a partir das suas anotações",
-      "url": "https://tecnoblog.net/noticias/gemini-notebook-permite-criar-sites-interativos-a-partir-das-suas-anotacoes/",
-      "publishedAt": "Wed, 18 Nov 2026 07:44:46 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/google-gemini-notebook.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
         "Educação"
       ]
     },
@@ -545,6 +532,21 @@
       "depts": [
         "Marketing",
         "Comercial"
+      ]
+    },
+    {
+      "title": "Por que o próximo ciclo computacional precisa ser construído para todos",
+      "description": "Nos últimos três anos, a capacidade computacional global dedicada à inteligência artificial cresceu aproximadamente 100 vezes . É uma das revoluções tecnológicas mais impactantes das últimas décadas. A IA já chegou indiscutivelmente. Mas a questão que surge agora é: ela está acessível a todos? De um",
+      "url": "https://canaltech.com.br/colunas/por-que-o-proximo-ciclo-computacional-precisa-ser-construido-para-todos/",
+      "publishedAt": "Thu, 02 Jul 2026 10:43:03 -0300",
+      "image": "https://t.ctcdn.com.br/nZ6sNq7PsgAB4H-oy5G3Tk3upoA=/700x394/smart/i1003705.png",
+      "source": "Canaltech IA",
+      "content": "Nos últimos três anos, a capacidade computacional global dedicada à inteligência artificial cresceu aproximadamente 100 vezes . É uma das revoluções tecnológicas mais impactantes das últimas décadas. A IA já chegou indiscutivelmente. Mas a questão que surge agora é: ela está acessível a todos? De um lado, temos modelos cada vez mais capazes, infraestruturas de bilhões de dólares, parcerias entre algumas das maiores empresas do planeta. De outro, desenvolvedores independentes, pesquisadores em países emergentes, startups sem acesso a crédito cloud e laboratórios universitários com acesso limitado. O próximo ciclo computacional pode encontrar caminhos para solucionar essa assimetria. O problema não é só hardware Quando falamos em democratizar a IA, GPUs e custos de treinamento são pontos importantes, mas há um gargalo além do hardware: a dependência de ecossistemas fechados que prendem desenvolvedores a plataformas específicas e concentram o poder de inovação nas mãos de poucos. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A analogia com o software é útil aqui. O movimento open source levou décadas para amadurecer, mas hoje a infraestrutura que sustenta a internet é majoritariamente aberta . Isso porque a inovação aberta com frequência se mostrou altamente resiliente e amplamente adotada em comparação com alternativas proprietárias. A IA está no começo do mesmo caminho. Plataformas abertas saltaram de nichos experimentais para infraestrutura de produção em escala global. Um pesquisador no Brasil, na Índia ou na Nigéria pode acessar hoje muitas das mesmas ferramentas utilizadas por grandes centros de tecnologia — desde que disponha de recursos de hardware adequados . A IA que mora no seu dispositivo Outra transformação relevante: a migração da IA da nuvem para o dispositivo. Processadores modernos com NPUs integradas permitem rodar inteligência artificial localmente , sem",
+      "lang": "pt",
+      "depts": [
+        "Financeiro",
+        "Comercial",
+        "Educação"
       ]
     }
   ]
