@@ -1,41 +1,54 @@
 {
-  "updatedAt": "2026-11-22T17:28:36.775Z",
+  "updatedAt": "2026-11-23T21:48:48.816Z",
   "count": 40,
   "articles": [
     {
-      "title": "Apple may be developing its own AI agent that runs your Mac",
-      "description": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
-      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "publishedAt": "Fri, 20 Nov 2026 00:56:01 +0000",
+      "title": "Google Search s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "description": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "publishedAt": "Mon, 23 Nov 2026 19:14:46 +0000",
       "image": null,
       "source": "TechCrunch AI",
-      "content": null,
+      "content": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
       "lang": "en",
       "depts": []
     },
     {
-      "title": "Anthropic s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "description": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-      "publishedAt": "Fri, 20 Nov 2026 00:43:50 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Anthropic s IPO could deliver $156B to charity",
-      "description": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-      "publishedAt": "Thu, 19 Nov 2026 19:10:45 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
+      "title": "Não quer IA? Canva ganha botão para isso",
+      "description": "Novos controles permitem ocultar ferramentas generativas e reduzir conteúdos feitos por IA na biblioteca. Não quer IA? Canva ganha botão para isso",
+      "url": "https://tecnoblog.net/noticias/nao-quer-ia-canva-ganha-botao-para-isso/",
+      "publishedAt": "Mon, 23 Nov 2026 12:48:31 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2021/12/canva-capa1.jpg",
+      "source": "Tecnoblog",
+      "content": "As ferramentas de IA já foram usadas mais de 38 bilhões de vezes, segundo a empresa (Imagem: Ron Lach/Pexels) Resumo IA Os controles estão chegando gradualmente às contas Free e Pro, sem cobrança adicional. O filtro da biblioteca reduz a presença de itens gerados por IA, mas não garante eliminá-los dos resultados. O Canva também prepara um selo para identificar designs produzidos sem ferramentas generativas. Gerado com IA e revisado pela redação O Canva anunciou um botão para desativar os recursos de inteligência artificial generativa da plataforma. A novidade inclui dois controles gratuitos para usuários dos planos Free e Pro. Além de ocultar essas ferramentas, será possível reduzir a presença de conteúdos feitos por IA na biblioteca de modelos e elementos gráficos. Segundo o anúncio oficial, os controles estão sendo liberados gradualmente e as configurações podem demorar a aparecer em algumas contas. Numa postagem , o Canva destacou a proposta dos controles: A IA está em toda parte. Quando e como você a usa deve ser sempre uma escolha sua , afirmou a empresa. Botão de desligar IA no Canva (imagem: divulgação) Como desativar a IA generativa no Canva? A proposta é permitir escolher quando usar sistemas capazes de gerar textos, imagens e outros conteúdos. A plataforma já vinha ampliando essa oferta, com novidades como planilhas e ferramentas de criação com IA . O botão fica em Perfil > Configurações > Permissões, na opção Ativar recursos de IA generativa . Ao desligá-lo, as ferramentas compatíveis ficam ocultas na interface. O usuário pode reativá-las a qualquer momento. Na central de ajuda, o Canva cita entre os recursos afetados o Texto Mágico, o Design Mágico, o Dream Lab e o Canva Code. Por padrão, esses recursos ficam ligados até que o usuário altere a preferência. O segundo controle reduz a quantidade de modelos e elementos gerados por IA nas buscas e recomendações da biblioteca. Para ajustá-lo, basta acessar Perfil > Sua conta > Personalização de IA e desligar a opção de conteúdo gerado por IA. Recursos generativos ficam ligados por padrão e precisam ser desativados pelo usuário (imagem: reprodução/Canva) Esse filtro não garante que todos os itens feitos por IA desapareçam. Também não remove elementos já inseridos em projetos. As novas configurações são individuais. Edição assistida continua disponível Usar o Removedor de Fundo não adiciona uma identificação de conteúdo gerado por IA (imagem: reprodução/Canva) O Removedor de Fundo e a Captura Mágica permanecerão acessíveis mesmo com a IA generativa desligada. O primeiro recorta o objeto principal de uma fotografia e o segundo permite selecionar e reposicionar elementos dentro de uma imagem. O Canva também está desenvolvendo um selo para identificar designs produzidos sem ferramentas de IA generativa. A empresa ainda não divulgou uma data de lançamento nem explicou como ele funcionará. A mudança ocorre após a plataforma integrar um agente de IA para ampliar ferramentas de trabalho. A empresa afirma que suas ferramentas de IA já foram usadas mais de 38 bilhões de vezes e que continuará investindo na área. Não quer IA? Canva ganha botão para isso",
+      "lang": "pt",
       "depts": [
-        "RH"
+        "Marketing",
+        "Comercial",
+        "Educação"
       ]
+    },
+    {
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "description": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "publishedAt": "Mon, 23 Nov 2026 01:25:53 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "description": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "publishedAt": "Sun, 22 Nov 2026 21:14:07 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
     },
     {
       "title": "Google lança Gemini 4 Neon, nova IA para tarefas complexas",
@@ -48,78 +61,6 @@
       "lang": "pt",
       "depts": [
         "Gestão"
-      ]
-    },
-    {
-      "title": "Google gives Gemini the ability to use your Mac for you",
-      "description": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-      "publishedAt": "Thu, 19 Nov 2026 18:09:11 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-      "description": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
-      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-      "publishedAt": "Thu, 19 Nov 2026 16:59:23 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
-      "description": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
-      "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
-      "publishedAt": "Thu, 19 Nov 2026 16:19:41 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Anthropic: dona do Claude estreia na bolsa valendo US$ 1,5 trilhão",
-      "description": "Famosa pelo Claude, empresa de inteligência artificial chega à bolsa dos EUA com ações cotadas a US$ 83, um valor notável. Anthropic: dona do Claude estreia na bolsa valendo US$ 1,5 trilhão",
-      "url": "https://tecnoblog.net/noticias/anthropic-dona-do-claude-estreia-na-bolsa-valendo-us-15-trilhao/",
-      "publishedAt": "Thu, 19 Nov 2026 13:35:06 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-3.jpg",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": [
-        "Financeiro"
-      ]
-    },
-    {
-      "title": "Desativou o histórico do Gemini? O Google salva mesmo assim",
-      "description": "Empresa atualizou tempo que suas conversas na IA ficam registradas de três dias para dois meses, independente da configuração de histórico. Desativou o histórico do Gemini? O Google salva mesmo assim",
-      "url": "https://tecnoblog.net/noticias/desativou-o-historico-do-gemini-o-google-salva-mesmo-assim/",
-      "publishedAt": "Thu, 19 Nov 2026 11:40:54 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/09/capa-google-gemini.png",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
-    },
-    {
-      "title": "App do Gemini agora funciona até em celulares Android com pouca RAM",
-      "description": "Google otimizou aplicativo do Gemini para funcionar em celulares Android básicos com pelo menos 2 GB de RAM. App do Gemini agora funciona até em celulares Android com pouca RAM",
-      "url": "https://tecnoblog.net/noticias/app-do-gemini-agora-funciona-ate-em-celulares-android-com-pouca-ram/",
-      "publishedAt": "Wed, 18 Nov 2026 19:37:50 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/11/android-app-gemini.jpg",
-      "source": "Tecnoblog",
-      "content": "App do Gemini agora funciona até em celulares Android com pouca RAM (imagem: reprodução/Google) Resumo IA O aplicativo do Gemini foi otimizado para funcionar em celulares Android com pouca memória RAM (a partir de 2 GB). A otimização permite que o aplicativo ofereça funcionalidades como conversas em voz alta, tradução de textos e criação de imagens personalizadas. O aplicativo renovado já está disponível para download e pode ser usado em dispositivos que rodam o Android Go, uma versão enxuta do sistema operacional. Gerado com IA e revisado pela redação O aplicativo oficial do Gemini para Android foi lançado no começo de 2024, logo após o serviço deixar de se chamar Bard (lembra disso?). Mas usuários de celulares Android mais simples ficavam restritos ao Google Assistente Go, com comandos básicos. Bom, não mais: o Google tratou de otimizar a ferramenta para que ela funcione até com aparelhos Android básicos, com 2 GB de RAM ou mais. É importante deixar claro desde já que não estamos falando de um aplicativo alternativo do Gemini voltado especificamente a dispositivos de entrada. O que o Google fez foi tornar o aplicativo oficial do serviço capaz de funcionar a contento mesmo quando houver capacidade reduzida de memória RAM ou armazenamento. O Google explica que, até recentemente, as limitações de hardware impediam que esses dispositivos rodassem o app do Gemini, deixando o usuário acessar, no máximo, comandos básicos de voz no antigo assistente. Com a otimização do aplicativo, o Gemini passa a atender os usuários desses aparelhos com funcionalidades que já são conhecidas por quem usa celulares Android mais avançados: Em vez de digitar frases longas, você pode conversar ou praticar para uma entrevista em voz alta em mais de 45 idiomas com o Gemini Live, apontar a câmera para anotações ou formulários para aprender e traduzir, ou criar imagens personalizadas com o Nano Banana — como um folheto para a venda de uma padaria no fim de semana. Google Quais celulares Android serão atendidos pelo novo app do Gemini? O Google não divulgou uma lista de celulares que serão beneficiados com a novidade. A companhia revelou, porém, que o app reformulado visa atender especialmente dispositivos que rodam o Android Go, uma versão enxuta do sistema operacional criada para dispositivos de entrada. App do Gemini no Android (animação: Google) Também é preciso que o aparelho tenha pelo menos 2 GB de RAM, como já informado, bem como que o usuário acesse o Gemini com sua Conta Google. A novidade é universal, valendo para todos os países onde o serviço de IA está disponível. Para o Brasil, podemos presumir que usuários de aparelhos como Motorola Moto E14 e Samsung Galaxy A03 serão beneficiados. Ainda há algumas limitações. Por exemplo, a ativação por voz ( ok, Google ) e a leitura contextual da tela podem não funcionar em dispositivos Android básicos. Neste caso, o usuário tem a opção de acionar o Gemini pressionando o botão Inicial (Home) ou a tecla Liga/Desliga. O aplicativo do Google Gemini pode ser baixado aqui . App do Gemini agora funciona até em celulares Android com pouca RAM",
-      "lang": "pt",
-      "depts": [
-        "Comercial"
       ]
     },
     {
@@ -544,6 +485,74 @@
       "lang": "pt",
       "depts": [
         "Gestão"
+      ]
+    },
+    {
+      "title": "Novo sistema usará IA para \"traduzir\" o que o seu corpo realmente precisa",
+      "description": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30",
+      "url": "https://canaltech.com.br/inteligencia-artificial/novo-sistema-usara-ia-para-traduzir-o-que-o-seu-corpo-realmente-precisa/",
+      "publishedAt": "Wed, 01 Jul 2026 08:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/4BlAeU73zGDl24KwhTRIfUE4ZkA=/700x394/smart/i1138901.png",
+      "source": "Canaltech IA",
+      "content": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30) e foi divulgado pelo site Android Police. A empresa afirma que dispositivos vestíveis já evoluíram na coleta de dados, mas ainda falham em explicar o significado desses números para quem os usa. Gee Gu, cofundador da Vilo ao lado de Andy Xu, descreveu o Signal OS como um sistema que ajuda o usuário a entender o que mudou no corpo , priorizar o que importa e transformar sinais corporais em suporte real. Como funciona o Signal OS O sistema reúne quatro frentes principais. A primeira é o Signals , um recurso de cartões que aponta alterações nos indicadores de saúde e sugere o que fazer a respeito. Já o Pulse funciona como um painel com o histórico de dados e tendências ao longo do tempo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Há ainda o Vibes , um chatbot com IA para tirar dúvidas sobre as informações coletadas, e uma camada dedicada à saúde da mulher . A Vilo descreve o Signal OS como uma plataforma \"ring-first\", ou seja, pensada primeiro para anéis inteligentes, e ela vai estrear no próprio anel da empresa. A companhia evita o terreno regulatório mais rígido reservado a dispositivos médicos. Segundo o comunicado oficial, a proposta do sistema é oferecer \"orientação de bem-estar e autoconhecimento, não diagnóstico ou tratamento\", o que dispensa aprovação de agências como a FDA, órgão regulador dos Estados Unidos. Fitbit já segue caminho parecido com o AI Coach e o Fitbit Air, usando IA para interpretar pontuações sem depender desse tipo de aval. Possível interface do app dedicado ao sistema, presente no vídeo de divulgação (Imagem: Reprodução/YouTube/VILO) Anel da Vilo",
+      "lang": "pt",
+      "depts": [
+        "Marketing",
+        "Comercial",
+        "Saúde",
+        "Educação"
+      ]
+    },
+    {
+      "title": "Caso do ChatGPT: o que a IA faz quando alguém relata um crime a ela",
+      "description": "Um agricultor de 36 anos foi preso em São Gabriel da Palha, no Espírito Santo, no dia 19 de junho, suspeito de planejar a morte do próprio filho, de 8 anos, para deixar de pagar pensão alimentícia. O plano foi identificado pela OpenAI, criadora do ChatGPT, a partir de mensagens trocadas pelo suspeit",
+      "url": "https://canaltech.com.br/inteligencia-artificial/caso-do-chatgpt-o-que-a-ia-faz-quando-alguem-relata-um-crime-a-ela/",
+      "publishedAt": "Wed, 01 Jul 2026 07:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/Q9uqQatidyu4GTZGOKTDp0XrwdA=/700x394/smart/i1138899.png",
+      "source": "Canaltech IA",
+      "content": "Um agricultor de 36 anos foi preso em São Gabriel da Palha, no Espírito Santo, no dia 19 de junho, suspeito de planejar a morte do próprio filho, de 8 anos, para deixar de pagar pensão alimentícia. O plano foi identificado pela OpenAI, criadora do ChatGPT, a partir de mensagens trocadas pelo suspeito com a ferramenta , e repassado ao FBI — Polícia Federal dos Estados Unidos —, que acionou o Ministério da Justiça e a Polícia Civil capixaba. 🎧Ouça o Podcast Canaltech no Spotify 🎧Ouça o Podcast Canaltech na Deezer 🎧Ouça o Podcast Canaltech no Apple Podcasts O caso ganhou repercussão nacional e reacendeu uma dúvida recorrente sobre o papel da inteligência artificial: até que ponto um chatbot decide, denuncia ou apenas devolve ao usuário aquilo que ele já trazia consigo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - \"Eu não acredito que a IA tenha feito denúncia, mas o fato é que a IA não tem valor moral. Ela vai te sugerir que você tome uma ação A, B ou C\", afirma Igor Baliberdin, designer estratégico, fundador da consultoria LOOOP e com mais de 20 anos de experiência na interseção entre design, negócios e tecnologia. O especialista afirma que ferramentas como ChatGPT, Gemini e Claude trabalham com análise probabilística . Ou seja, organizam cenários a partir do que o usuário relata, sem assumir a decisão final. O risco, segundo ele, está em transformar esse organizador de raciocínio em substituto de uma conversa com outra pessoa. Vieses herdados e responsabilidade dividida Baliberdin lembra que cada modelo de IA carrega o ponto de vista de quem o desenvolveu . \"Elas não são só seres que surgem do nada. Elas surgem a partir de um ponto de vista de humanidade, de sociedade\", diz. Essa diferença de comportamento entre ferramentas, segundo ele, também aparece em testes recentes que colocam agentes de diferentes IAs para interagir em ambientes simulados. Sobre quem responde ",
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Google lança IA que cria imagens em 4 segundos e edita vídeos por voz",
+      "description": "O Google anunciou dois novos modelos de inteligência artificial capazes de acelerar a criação de imagens e vídeos: o Nano Banana 2 Lite , que gera imagens em até 4 segundos, e o Gemini Omni Flash , que permite criar e editar vídeos usando comandos de voz ou texto. Segundo a empresa, o Nano Banana 2 ",
+      "url": "https://canaltech.com.br/inteligencia-artificial/google-lanca-ia-que-cria-imagens-em-4-segundos-e-edita-videos-por-voz/",
+      "publishedAt": "Tue, 30 Jun 2026 21:05:00 -0300",
+      "image": "https://t.ctcdn.com.br/EjoC2BgBPs0m6x8imu4sGDkEYDk=/700x394/smart/i1138889.png",
+      "source": "Canaltech IA",
+      "content": "O Google anunciou dois novos modelos de inteligência artificial capazes de acelerar a criação de imagens e vídeos: o Nano Banana 2 Lite , que gera imagens em até 4 segundos, e o Gemini Omni Flash , que permite criar e editar vídeos usando comandos de voz ou texto. Segundo a empresa, o Nano Banana 2 Lite foi feito para ser rápido e eficiente em grande escala. Ele cria imagens a partir de comandos de texto em poucos segundos, com foco em respostas rápidas, imagens consistentes e textos mais legíveis dentro das imagens. Além disso, o modelo de imagem tem um custo menor que suas versões anteriores. Por exemplo, o Nano Banana 2 Lite custa cerca de US$ 0,034 por imagem de resolução 1K comparado ao Nano Banana 2 que custa US$ 0,067. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Já o Gemini Omni Flash leva a IA para a criação de vídeos . O modelo permite gerar vídeos curtos e editar cenas usando comandos de texto ou voz. Também combina texto, imagens e vídeos para manter a consistência do conteúdo e facilitar mudanças de cena ou estilo. Além disso, ele usa o conhecimento de mundo do Gemini , incluindo lógica narrativa e conceitos de áreas, como história e biologia, para criar vídeos coerentes e realistas. Novos modelos de IA do Google criam imagens em segundos e permitem editar vídeos por voz. (Imagem: Viviane França/Canaltech) Os dois sistemas usam a marca d’água SynthID para identificar conteúdos feitos por IA e funcionam de forma integrada . O usuário pode criar uma imagem no Nano Banana 2 Lite e usá-la como base no Gemini Omni Flash para transformá-la em um vídeo curto. Nesse fluxo, desenvolvedores podem utilizar a Interactions API , que mantém o histórico e o contexto da sessão, permitindo até três edições sequenciais sem perda do conteúdo gerado. Apesar dos avanços, o Gemini Omni Flash ainda tem limitações . Ele gera vídeos de até 10 segundos, com versões mais longas prev",
+      "lang": "pt",
+      "depts": [
+        "Financeiro",
+        "Gestão"
+      ]
+    },
+    {
+      "title": "Claude lança Sonnet 5, modelo gratuito quase tão bom quanto o pago",
+      "description": "A Anthropic lançou nesta terça-feira (30) o Claude Sonnet 5 , novo modelo de inteligência artificial que passa a ser a opção padrão tanto no plano gratuito quanto no Pro do chatbot Claude. A empresa descreve a versão como a mais \"agente\" da linha Sonnet, com desempenho próximo ao do Opus 4.8 , model",
+      "url": "https://canaltech.com.br/inteligencia-artificial/claude-lanca-sonnet-5-modelo-gratuito-quase-tao-bom-quanto-o-pago/",
+      "publishedAt": "Tue, 30 Jun 2026 17:43:51 -0300",
+      "image": "https://t.ctcdn.com.br/4lB-ex4rSGJFX2i-Krfo1u0aESM=/700x394/smart/i1138883.png",
+      "source": "Canaltech IA",
+      "content": "A Anthropic lançou nesta terça-feira (30) o Claude Sonnet 5 , novo modelo de inteligência artificial que passa a ser a opção padrão tanto no plano gratuito quanto no Pro do chatbot Claude. A empresa descreve a versão como a mais \"agente\" da linha Sonnet, com desempenho próximo ao do Opus 4.8 , modelo mais caro reservado aos planos pagos superiores. O lançamento segue uma tendência também adotada por OpenAI e Google, que recentemente atualizaram os modelos padrão de seus planos gratuitos para versões mais avançadas. O que muda em relação ao Sonnet 4.6 Segundo a Anthropic, o Sonnet 5 representa uma melhoria expressiva sobre o Sonnet 4.6 em tarefas de raciocínio, uso de ferramentas, programação e trabalho de conhecimento. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - No teste de codificação SWE-bench Pro, o novo modelo atingiu 63,2% de acerto, ante 58,1% do antecessor. No Terminal-Bench 2.1, o salto foi de 67% para 80,4%. O ganho aparece também em avaliações de raciocínio multidisciplinar. No Humanity's Last Exam, com uso de ferramentas, o Sonnet 5 chegou a 57,4%, contra 46,8% do Sonnet 4.6. Em uso de computador, medido pelo OSWorld-Verified, a pontuação subiu de 78,5% para 81,2%. Apesar da evolução, o Sonnet 5 ainda fica atrás do Opus 4.8 na maioria dos testes divulgados pela empresa. A distância, porém, diminuiu bastante em relação às gerações anteriores, o que sustenta o discurso da Anthropic de que o novo modelo reduz o hiato entre as duas famílias. Testadores também relataram mudanças de comportamento. De acordo com a Anthropic, o Sonnet 5 costuma concluir tarefas complexas até o fim, algo que versões anteriores da linha Sonnet interrompiam antes do previsto. O modelo também passou a revisar o próprio resultado sem que isso seja solicitado. Nos testes divulgados, o Sonnet 5 está muito próximo do Opus 4.8, que é pago (Imagem: Divulgação/Anthropic) Preço e disponibilida",
+      "lang": "pt",
+      "depts": [
+        "RH",
+        "Gestão"
+      ]
+    },
+    {
+      "title": "Google testa recurso para você conversar por voz com seus e-mails do Gmail",
+      "description": "O Google anunciou o Gmail Live , um novo recurso para conversar por voz com a caixa de entrada do Gmail usando o Gemini. Apresentada durante o Google I/O 2026, a novidade entrou em fase de testes para Android e iPhone e promete facilitar a busca por informações nos e-mails por meio de perguntas feit",
+      "url": "https://canaltech.com.br/inteligencia-artificial/google-testa-recurso-para-voce-conversar-por-voz-com-seus-e-mails-do-gmail/",
+      "publishedAt": "Tue, 30 Jun 2026 16:00:00 -0300",
+      "image": "https://t.ctcdn.com.br/8C_0geXovl0iMMGcbsCgZDGz5Qk=/700x394/smart/i1137523.png",
+      "source": "Canaltech IA",
+      "content": "O Google anunciou o Gmail Live , um novo recurso para conversar por voz com a caixa de entrada do Gmail usando o Gemini. Apresentada durante o Google I/O 2026, a novidade entrou em fase de testes para Android e iPhone e promete facilitar a busca por informações nos e-mails por meio de perguntas feitas por comandos de voz. O funcionamento é semelhante ao do Gemini Live . Ao tocar no ícone de ondas sonoras na barra de pesquisa do Gmail, o usuário poderá iniciar uma conversa com a IA e fazer perguntas, como “Quais são as datas da minha próxima viagem?” ou “Quais foram as atualizações dos meus últimos pedidos?”. A interface também terá botões na parte inferior para que o usuário possa silenciar o microfone ou sair rapidamente da ferramenta. O sistema vai poder analisar os e-mails da conta, responder por voz e texto, exibir uma transcrição da conversa em tempo real e destacar as mensagens usadas para gerar a resposta. O Gmail Live também vai conseguir responder perguntas de acompanhamento e mudar de assunto durante a conversa. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Gmail Live usa IA para responder perguntas sobre seus e-mails por meio de comandos de voz. (Imagem: Viviane França/Canaltech) Paralelamente, o Google também está implementando o Ask Gmail , recurso focado em buscas por texto. Em vez de usar palavras-chave, o usuário pode digitar perguntas em linguagem natural na barra de pesquisa do Gmail. A IA então analisa os e-mails e apresenta um resumo com as principais informações encontradas, em um formato semelhante aos AI Overviews da Busca do Google. O anúncio faz parte de uma série de novidades do Google para produtividade com IA, que também inclui o Docs Live , para criar e editar documentos por voz no Google Docs e notas no Google Keep, e a expansão do AI Inbox , recurso que organiza a caixa de entrada por tarefas e assuntos importantes, para assinantes do Goog",
+      "lang": "pt",
+      "depts": [
+        "Educação"
       ]
     }
   ]
