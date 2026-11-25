@@ -1,7 +1,56 @@
 {
-  "updatedAt": "2026-11-24T20:25:53.698Z",
+  "updatedAt": "2026-11-25T19:39:52.995Z",
   "count": 40,
   "articles": [
+    {
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "description": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "publishedAt": "Wed, 25 Nov 2026 18:11:46 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+      "lang": "en",
+      "depts": [
+        "Marketing"
+      ]
+    },
+    {
+      "title": "Nova York bane brinquedos com chatbots de IA",
+      "description": "Lei começa a valer em fevereiro de 2027 e busca proteger crianças de conversas inadequadas. Califórnia já adotou restrição semelhante. Nova York bane brinquedos com chatbots de IA",
+      "url": "https://tecnoblog.net/noticias/nova-york-bane-brinquedos-com-chatbots-de-ia/",
+      "publishedAt": "Wed, 25 Nov 2026 13:06:06 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/11/bonecos-de-ia.jpg",
+      "source": "Tecnoblog",
+      "content": "Testes identificaram falhas nos filtros de segurança de brinquedos com IA (imagem: reprodução/TPIN) Resumo IA Proibição alcança fabricação, distribuição e venda de brinquedos com chatbots de companhia. Infrações poderão gerar multas de até US$ 15 mil por dia (cerca de R$ 90 mil. Medidas estaduais ampliam a pressão sobre a segurança desses produtos. Gerado com IA e revisado pela redação O estado de Nova York proibirá por cinco anos a fabricação, distribuição e venda de brinquedos infantis com chatbots de companhia baseados em inteligência artificial. A governadora Kathy Hochul sancionou a lei nesta terça-feira (24/11), citando riscos de conversas inadequadas, manipulação emocional e coleta de dados das crianças. A restrição começa a valer em 22 de fevereiro de 2027, 90 dias após a assinatura. Portanto, esses produtos ainda poderão ser vendidos livremente durante as compras de fim de ano. Quais brinquedos serão proibidos? A lei mira brinquedos destinados a crianças de até 12 anos que tenham um companheiro de IA integrado. Entram nessa categoria bonecos, robôs e bichos de pelúcia capazes de manter conversas personalizadas. O alvo são sistemas que simulam relações com o usuário, incluindo memória de interações e diálogos pessoais. O texto proíbe também trocar ou manter esses produtos à venda. A fiscalização caberá à Procuradoria-Geral do estado americano, que poderá buscar multas de até US$ 15 mil por dia e por infração (quase R$ 90 mil em conversão direta). A suspensão termina cinco anos após a entrada em vigor. No anúncio, o governo citou testes em que brinquedos discutiram temas sexualmente explícitos, indicaram onde encontrar fósforos e demonstraram tristeza quando a criança encerrava a conversa. Segundo o comunicado, alguns produtos ofereciam poucos controles parentais e podiam gravar voz ou escanear rostos. Em testes, a organização de defesa do consumidor PIRG (Public Interest Research Groups) identificou falhas nos filtros de segurança desses brinquedos. Restrições avançam em outros estados A Califórnia também sancionou uma medida parecida em setembro, mostrando que o movimento já ultrapassou Nova York. No estado, a duração da suspensão será de quatro anos e também mira chatbots de companhia. As medidas ampliam a pressão sobre os fabricantes diante dos riscos relacionados ao conteúdo das conversas, à privacidade e aos vínculos emocionais com crianças. No Brasil, o Ministério da Justiça já apontou riscos em 13 plataformas de companheiros de IA , incluindo conteúdo sexualizado e coleta de informações pessoais. A análise foi encaminhada à ANPD e à Senacon. O levantamento trata de serviços digitais e ainda não representa uma proibição de brinquedos com IA no mercado nacional. Nova York bane brinquedos com chatbots de IA",
+      "lang": "pt",
+      "depts": [
+        "Comercial",
+        "Jurídico"
+      ]
+    },
+    {
+      "title": "É difícil imaginar que humanidade manterá o controle, diz Meta sobre IA",
+      "description": "Em post, diretor de inteligência artificial da big tech destaca a chegada iminente da chamada superinteligência. É difícil imaginar que humanidade manterá o controle, diz Meta sobre IA",
+      "url": "https://tecnoblog.net/noticias/e-dificil-imaginar-que-humanidade-mantera-o-controle-diz-meta-sobre-ia/",
+      "publishedAt": "Wed, 25 Nov 2026 11:52:34 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/11/meta-capa-3-nov-2022.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": []
+    },
+    {
+      "title": "Even the best AI agents struggle with everyday life",
+      "description": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "publishedAt": "Tue, 24 Nov 2026 21:33:29 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+      "lang": "en",
+      "depts": []
+    },
     {
       "title": "Chrome “bebe” até 700 MB de RAM mesmo quando Gemini está fechado",
       "description": "Usuário relatou consumo de RAM no Windows; configuração controla o acesso ao assistente pela bandeja do sistema e por atalho. Chrome “bebe” até 700 MB de RAM mesmo quando Gemini está fechado",
@@ -71,32 +120,6 @@
       "content": null,
       "lang": "en",
       "depts": []
-    },
-    {
-      "title": "Google Search s AI Mode can now tap into Drive and Wallet for more personalized responses",
-      "description": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
-      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-      "publishedAt": "Mon, 23 Nov 2026 19:14:46 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
-      "lang": "en",
-      "depts": []
-    },
-    {
-      "title": "Não quer IA? Canva ganha botão para isso",
-      "description": "Novos controles permitem ocultar ferramentas generativas e reduzir conteúdos feitos por IA na biblioteca. Não quer IA? Canva ganha botão para isso",
-      "url": "https://tecnoblog.net/noticias/nao-quer-ia-canva-ganha-botao-para-isso/",
-      "publishedAt": "Mon, 23 Nov 2026 12:48:31 +0000",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2021/12/canva-capa1.jpg",
-      "source": "Tecnoblog",
-      "content": "As ferramentas de IA já foram usadas mais de 38 bilhões de vezes, segundo a empresa (Imagem: Ron Lach/Pexels) Resumo IA Os controles estão chegando gradualmente às contas Free e Pro, sem cobrança adicional. O filtro da biblioteca reduz a presença de itens gerados por IA, mas não garante eliminá-los dos resultados. O Canva também prepara um selo para identificar designs produzidos sem ferramentas generativas. Gerado com IA e revisado pela redação O Canva anunciou um botão para desativar os recursos de inteligência artificial generativa da plataforma. A novidade inclui dois controles gratuitos para usuários dos planos Free e Pro. Além de ocultar essas ferramentas, será possível reduzir a presença de conteúdos feitos por IA na biblioteca de modelos e elementos gráficos. Segundo o anúncio oficial, os controles estão sendo liberados gradualmente e as configurações podem demorar a aparecer em algumas contas. Numa postagem , o Canva destacou a proposta dos controles: A IA está em toda parte. Quando e como você a usa deve ser sempre uma escolha sua , afirmou a empresa. Botão de desligar IA no Canva (imagem: divulgação) Como desativar a IA generativa no Canva? A proposta é permitir escolher quando usar sistemas capazes de gerar textos, imagens e outros conteúdos. A plataforma já vinha ampliando essa oferta, com novidades como planilhas e ferramentas de criação com IA . O botão fica em Perfil > Configurações > Permissões, na opção Ativar recursos de IA generativa . Ao desligá-lo, as ferramentas compatíveis ficam ocultas na interface. O usuário pode reativá-las a qualquer momento. Na central de ajuda, o Canva cita entre os recursos afetados o Texto Mágico, o Design Mágico, o Dream Lab e o Canva Code. Por padrão, esses recursos ficam ligados até que o usuário altere a preferência. O segundo controle reduz a quantidade de modelos e elementos gerados por IA nas buscas e recomendações da biblioteca. Para ajustá-lo, basta acessar Perfil > Sua conta > Personalização de IA e desligar a opção de conteúdo gerado por IA. Recursos generativos ficam ligados por padrão e precisam ser desativados pelo usuário (imagem: reprodução/Canva) Esse filtro não garante que todos os itens feitos por IA desapareçam. Também não remove elementos já inseridos em projetos. As novas configurações são individuais. Edição assistida continua disponível Usar o Removedor de Fundo não adiciona uma identificação de conteúdo gerado por IA (imagem: reprodução/Canva) O Removedor de Fundo e a Captura Mágica permanecerão acessíveis mesmo com a IA generativa desligada. O primeiro recorta o objeto principal de uma fotografia e o segundo permite selecionar e reposicionar elementos dentro de uma imagem. O Canva também está desenvolvendo um selo para identificar designs produzidos sem ferramentas de IA generativa. A empresa ainda não divulgou uma data de lançamento nem explicou como ele funcionará. A mudança ocorre após a plataforma integrar um agente de IA para ampliar ferramentas de trabalho. A empresa afirma que suas ferramentas de IA já foram usadas mais de 38 bilhões de vezes e que continuará investindo na área. Não quer IA? Canva ganha botão para isso",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Comercial",
-        "Educação"
-      ]
     },
     {
       "title": "8 prompts para conversar com voz no ChatGPT",
@@ -521,33 +544,6 @@
       "depts": [
         "Gestão"
       ]
-    },
-    {
-      "title": "Novo sistema usará IA para \"traduzir\" o que o seu corpo realmente precisa",
-      "description": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30",
-      "url": "https://canaltech.com.br/inteligencia-artificial/novo-sistema-usara-ia-para-traduzir-o-que-o-seu-corpo-realmente-precisa/",
-      "publishedAt": "Wed, 01 Jul 2026 08:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/4BlAeU73zGDl24KwhTRIfUE4ZkA=/700x394/smart/i1138901.png",
-      "source": "Canaltech IA",
-      "content": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30) e foi divulgado pelo site Android Police. A empresa afirma que dispositivos vestíveis já evoluíram na coleta de dados, mas ainda falham em explicar o significado desses números para quem os usa. Gee Gu, cofundador da Vilo ao lado de Andy Xu, descreveu o Signal OS como um sistema que ajuda o usuário a entender o que mudou no corpo , priorizar o que importa e transformar sinais corporais em suporte real. Como funciona o Signal OS O sistema reúne quatro frentes principais. A primeira é o Signals , um recurso de cartões que aponta alterações nos indicadores de saúde e sugere o que fazer a respeito. Já o Pulse funciona como um painel com o histórico de dados e tendências ao longo do tempo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Há ainda o Vibes , um chatbot com IA para tirar dúvidas sobre as informações coletadas, e uma camada dedicada à saúde da mulher . A Vilo descreve o Signal OS como uma plataforma \"ring-first\", ou seja, pensada primeiro para anéis inteligentes, e ela vai estrear no próprio anel da empresa. A companhia evita o terreno regulatório mais rígido reservado a dispositivos médicos. Segundo o comunicado oficial, a proposta do sistema é oferecer \"orientação de bem-estar e autoconhecimento, não diagnóstico ou tratamento\", o que dispensa aprovação de agências como a FDA, órgão regulador dos Estados Unidos. Fitbit já segue caminho parecido com o AI Coach e o Fitbit Air, usando IA para interpretar pontuações sem depender desse tipo de aval. Possível interface do app dedicado ao sistema, presente no vídeo de divulgação (Imagem: Reprodução/YouTube/VILO) Anel da Vilo",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Comercial",
-        "Saúde",
-        "Educação"
-      ]
-    },
-    {
-      "title": "Caso do ChatGPT: o que a IA faz quando alguém relata um crime a ela",
-      "description": "Um agricultor de 36 anos foi preso em São Gabriel da Palha, no Espírito Santo, no dia 19 de junho, suspeito de planejar a morte do próprio filho, de 8 anos, para deixar de pagar pensão alimentícia. O plano foi identificado pela OpenAI, criadora do ChatGPT, a partir de mensagens trocadas pelo suspeit",
-      "url": "https://canaltech.com.br/inteligencia-artificial/caso-do-chatgpt-o-que-a-ia-faz-quando-alguem-relata-um-crime-a-ela/",
-      "publishedAt": "Wed, 01 Jul 2026 07:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/Q9uqQatidyu4GTZGOKTDp0XrwdA=/700x394/smart/i1138899.png",
-      "source": "Canaltech IA",
-      "content": "Um agricultor de 36 anos foi preso em São Gabriel da Palha, no Espírito Santo, no dia 19 de junho, suspeito de planejar a morte do próprio filho, de 8 anos, para deixar de pagar pensão alimentícia. O plano foi identificado pela OpenAI, criadora do ChatGPT, a partir de mensagens trocadas pelo suspeito com a ferramenta , e repassado ao FBI — Polícia Federal dos Estados Unidos —, que acionou o Ministério da Justiça e a Polícia Civil capixaba. 🎧Ouça o Podcast Canaltech no Spotify 🎧Ouça o Podcast Canaltech na Deezer 🎧Ouça o Podcast Canaltech no Apple Podcasts O caso ganhou repercussão nacional e reacendeu uma dúvida recorrente sobre o papel da inteligência artificial: até que ponto um chatbot decide, denuncia ou apenas devolve ao usuário aquilo que ele já trazia consigo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - \"Eu não acredito que a IA tenha feito denúncia, mas o fato é que a IA não tem valor moral. Ela vai te sugerir que você tome uma ação A, B ou C\", afirma Igor Baliberdin, designer estratégico, fundador da consultoria LOOOP e com mais de 20 anos de experiência na interseção entre design, negócios e tecnologia. O especialista afirma que ferramentas como ChatGPT, Gemini e Claude trabalham com análise probabilística . Ou seja, organizam cenários a partir do que o usuário relata, sem assumir a decisão final. O risco, segundo ele, está em transformar esse organizador de raciocínio em substituto de uma conversa com outra pessoa. Vieses herdados e responsabilidade dividida Baliberdin lembra que cada modelo de IA carrega o ponto de vista de quem o desenvolveu . \"Elas não são só seres que surgem do nada. Elas surgem a partir de um ponto de vista de humanidade, de sociedade\", diz. Essa diferença de comportamento entre ferramentas, segundo ele, também aparece em testes recentes que colocam agentes de diferentes IAs para interagir em ambientes simulados. Sobre quem responde ",
-      "lang": "pt",
-      "depts": []
     }
   ]
 }
