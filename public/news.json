@@ -1,7 +1,56 @@
 {
-  "updatedAt": "2026-11-27T19:14:51.127Z",
+  "updatedAt": "2026-11-28T17:52:07.977Z",
   "count": 40,
   "articles": [
+    {
+      "title": "OpenAI’s new countersuit accuses Apple of ‘unlawfully pressuring vendors’",
+      "description": "After Apple sued OpenAI this summer, OpenAI has fired back with a countersuit of its own.",
+      "url": "https://techcrunch.com/2026/11/28/openais-new-countersuit-accuses-apple-of-unlawfully-pressuring-vendors/",
+      "publishedAt": "Sat, 28 Nov 2026 17:46:47 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "Sakana AI s CEO says its homegrown models are about more than Japan s national security",
+      "description": "Sakana AI aims to strengthen Japan’s industrial competitiveness with homegrown AI models.",
+      "url": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/",
+      "publishedAt": "Sat, 28 Nov 2026 14:00:00 +0000",
+      "image": null,
+      "source": "TechCrunch AI",
+      "content": null,
+      "lang": "en",
+      "depts": []
+    },
+    {
+      "title": "O que é MCP? Saiba para que serve o padrão de inteligência artificial",
+      "description": "O protocolo MCP ajuda a automatizar tarefas em programações financeiras, gestão de nuvem e produtividade em tempo real O que é MCP? Saiba para que serve o padrão de inteligência artificial",
+      "url": "https://tecnoblog.net/responde/o-que-e-mcp-saiba-para-que-serve-o-padrao-de-inteligencia-artificial/",
+      "publishedAt": "Fri, 27 Nov 2026 20:39:16 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/11/mcp-00.png",
+      "source": "Tecnoblog",
+      "content": "Entenda como o protocolo MCP é importante para a IA (imagem: reprodução) O MCP (Model Context Protocol) é um protocolo aberto criado pela Anthropic para conectar assistentes e modelos de IA a arquivos, bancos de dados e APIs de forma padronizada. Em vez de criar integrações do zero para cada fonte, ele oferece uma linguagem comum para buscar contexto e executar ações em tempo real. Aplicar o MCP em inteligência artificial é essencial porque tira os modelos do isolamento e amplia a precisão das respostas com dados atualizados. Isso destrava automações úteis no dia a dia, permitindo que agentes consultem sistemas externos e operem ferramentas com mais confiabilidade. A seguir, o Tecnoblog te explica detalhadamente o que é o protocolo MCP e suas aplicações. Índice O que é MCP ou Model Context Protocol? Para que serve o MCP? O que é possível fazer com o MCP? Onde é possível usar o MCP? Exemplos de uso para o MCP? Qual é a diferença entre MCP e API? O que é MCP ou Model Context Protocol? O Model Context Protocol (MCP) é um protocolo aberto lançado pela Anthropic em novembro de 2024, atuando como uma camada universal de “plug-ins” para ferramentas de inteligência artificial . Ele elimina integrações individuais complexas ao conectar assistentes diretamente a arquivos, bancos de dados e APIs por meio de um padrão único. Para que serve o MCP? O MCP em inteligência artificial transforma assistentes virtuais em sistemas capazes de consultar dados externos e executar tarefas práticas em tempo real. Na prática, o protocolo permite que LLMs leiam arquivos, busquem documentos e acionem ferramentas externas, superando o limite do treinamento original do modelo. A grande vantagem dessa tecnologia é a interoperabilidade: basta criar uma única conexão padronizada para que diferentes plataformas de IA a utilizem. Isso elimina o retrabalho de programar conectores exclusivos e isolados para cada software ou banco de dados. O MCP atua como uma ponte entre diferentes serviços e inteligências artificiais (imagem: Reprodução/Descope) O que é possível fazer com o MCP? O uso de MPC em IA permite que assistentes consultem arquivos locais, bancos de dados e ferramentas de trabalho para executar tarefas práticas. O protocolo também possibilita encadear ações entre diferentes serviços e utilizar comandos prontos (prompts reutilizáveis) para acelerar rotinas operacionais. Contudo, o MPC funciona apenas como uma ponte padronizada, não sendo um modelo de inteligência artificial nem uma API universal. O alcance das ações depende exclusivamente dos recursos liberados pelo servidor conectado, das regras do aplicativo cliente e das permissões de segurança autorizadas pelo usuário. Onde é possível usar o MCP? O protocolo aberto MCP pode ser aplicado sempre que aplicações baseadas em LLMs precisam consultar dados externos ou operar ferramentas de terceiros. Diversas plataformas e gigantes da tecnologia já adotam o padrão em seus produtos: Assistentes de IA populares: plataformas como Anthropic, Claude e OpenAI ChatGPT atuam como clientes compatíveis, conectando-se diretamente a fontes de dados e fluxos de trabalho externos; Ambientes de programação: ferramentas como GitHub Copilot, Visual Studio Code, JetBrains IDEs, Xcode e Eclipse utilizam servidores MCP para automatizar tarefas no código e na linha de comando (CLI); Infraestrutura em nuvem: serviços da Microsoft e do Google Cloud, incluindo Apigee, Kubernetes Engine e Knowledge Catalog, integram o padrão para agentes gerenciarem rede e catálogos de dados; Gestão empresarial e e-commerce: plataformas como Zoho e BigCommerce permitem que assistentes consultem estoques, atualizem cadastros e emitam faturas de forma automatizada; Engenharia e plataformas corporativas: o protocolo também marca presença no software industrial Autodesk Fusion, para projetos CAD/CAM, e em sistemas avançados, como Harvey AI, AutoGen Studio e Agentverse. MCP conecta-se a diferentes serviços essenciais no dia a dia (imagem: Reprodução/Encore) Exemplos de uso para o MCP? Na prática, o MCP conecta servidores de serviços diretamente a assistentes ou agentes de IA compatíveis, permitindo executar tarefas de ponta a ponta. Essa ponte transforma conversas comuns em ações reais em diferentes rotinas: Busca e análise de dados: consulta arquivos locais, lê documentos e cruza informações de múltiplos bancos de dados para responder perguntas em linguagem natural; Desenvolvimento de software: assistentes inspecionam repositórios no GitHub, revisam alterações (pull requests), editam arquivos locais, convertem layouts em código e rastreiam falhas para abrir chamados já com sugestões de correção; Operações corporativas e financeiras: agentes consultam bancos de dados, sistemas ERP e plataformas de CRM para analisar vendas, gerar relatórios, emitir faturas, cobrar pagamentos atrasados e auditar contratos; Acionamento de utilitários: opera navegadores web, calculadoras, buscadores e ambientes de execução de código para resolver etapas intermediárias de uma tarefa; Organização pessoal e de equipes: conecta-se a agendas e blocos de notas, como Google Calendar e Notion, para marcar reuniões e centralizar informações; Atendimento ao cliente e eventos: robôs de suporte acessam históricos de pedidos para resolver dúvidas na hora, classificam chamados automaticamente e acompanham inscrição em eventos para gerar balanços finais; Gestão de conteúdo e design industrial : realiza publicações e edições em massa em plataformas de conteúdo (CMS), além de apoiar projetos de engenharia e manufatura (CAD/CAM); Nuvem e operações de TI: aplicações gerenciam recursos no Google Cloud e ambientes Kubernetes, organizam catálogos de dados, administram APIs (Apigee) e automatizam rotinas de entrega contínua (CI/CD); Comércio e produtividade diárias: usuários montam carrinhos de compra, geram links de pagamento, organizam pastas locais ou na nuvem e enviam resumos de notícias por SMS; Aplicações visuais no chat: servidores exibem interfaces HTML interativas (MCP Apps) na própria conversa, como painéis, formulários e mapas de calor, além de ferramentas para manipular PDFs, áudios e QR codes. Qual é a diferença entre MCP e API? O MCP é um protocolo que padroniza como aplicações de IA descobrem e acionam ferramentas, dados e prompts em tempo real. Nele, um servidor descreve os recursos disponíveis para que o modelo de IA escolha autonomamente qual usar, sem que o programador precise codificar cada interação previamente. A API (Application Programming Interface, ou Interface de Programação de Aplicativos) funciona como um contrato rígido que permite a um software solicitar dados ou ações por meio de rotas (endpoints), métodos e parâmetros específicos. Diferente do MPC, ela exige que o desenvolvedor escreva o código com antecedência para executar operações fixas e já previstas no sistema. O que é MCP? Saiba para que serve o padrão de inteligência artificial",
+      "lang": "pt",
+      "depts": [
+        "Financeiro",
+        "Gestão"
+      ]
+    },
+    {
+      "title": "ChatGPT quer assumir ligações e outras funções básicas no Android",
+      "description": "Código do app indica testes para fazer chamadas, ler e enviar SMS, controlar mídia e interpretar o que aparece na tela do celular. ChatGPT quer assumir ligações e outras funções básicas no Android",
+      "url": "https://tecnoblog.net/noticias/chatgpt-quer-assumir-ligacoes-e-outras-funcoes-basicas-no-android/",
+      "publishedAt": "Fri, 27 Nov 2026 19:36:27 +0000",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/08/openai-4_capa-edited.png",
+      "source": "Tecnoblog",
+      "content": null,
+      "lang": "pt",
+      "depts": [
+        "Marketing"
+      ]
+    },
     {
       "title": "Galaxy Watch 8 tem oferta agressiva e cai para menos de R$ 1 mil na Black Week",
       "description": "Galaxy Watch 8 de 44 mm com tela AMOLED e Google Gemini recebe excelente desconto com cupom e pagamento via Pix na Amazon Galaxy Watch 8 tem oferta agressiva e cai para menos de R$ 1 mil na Black Week",
@@ -27,17 +76,6 @@
       "depts": [
         "Gestão"
       ]
-    },
-    {
-      "title": "“Óculos de pervertido” se torna a palavra do ano",
-      "description": "Macquarie Dictionary, da Austrália, escolheu expressão crítica aos óculos inteligentes. “Óculos de pervertido” se torna a palavra do ano",
-      "url": "https://tecnoblog.net/noticias/oculos-de-pervertido-se-torna-a-palavra-do-ano/",
-      "publishedAt": "Thu, 26 Nov 2026 15:46:35 +0000",
-      "image": "https://www.youtube.com/embed/M6uA1QQ5290",
-      "source": "Tecnoblog",
-      "content": null,
-      "lang": "pt",
-      "depts": []
     },
     {
       "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
@@ -97,19 +135,6 @@
       "content": null,
       "lang": "en",
       "depts": []
-    },
-    {
-      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
-      "description": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
-      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
-      "publishedAt": "Tue, 24 Nov 2026 17:00:00 +0000",
-      "image": null,
-      "source": "TechCrunch AI",
-      "content": null,
-      "lang": "en",
-      "depts": [
-        "Marketing"
-      ]
     },
     {
       "title": "8 prompts para conversar com voz no ChatGPT",
@@ -521,35 +546,6 @@
       "content": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência artificial mais avançados da Anthropic, dona do Claude. A liberação foi confirmada pela própria empresa e ocorre quase três semanas depois de o governo ter suspendido o acesso aos dois sistemas por risco à segurança nacional. Segundo a Reuters, o acesso ao Fable 5 será restaurado a partir desta quarta-feira (1º) , ficando disponível ao público em geral. Já o Mythos 5, direcionado à detecção de vulnerabilidades de cibersegurança, será liberado para um grupo maior de parceiros domésticos e internacionais do programa Glasswing, da Anthropic. Como começou a restrição Em 12 de junho, o governo americano incluiu os dois modelos em sua lista de tecnologias sob controle de exportação , impedindo o acesso de estrangeiros sem aprovação especial . Como a Anthropic não tinha como verificar a nacionalidade dos usuários em tempo real, a companhia optou por suspender o Fable 5 e o Mythos 5 para todo mundo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - A decisão, segundo a Reuters, partiu de uma denúncia de pesquisadores da Amazon , que encontraram uma forma de contornar as proteções do Fable 5. Com essa brecha, o modelo passou a identificar falhas de software e, em um dos casos registrados, chegou a gerar código demonstrando como explorar uma vulnerabilidade. No último domingo (28), o governo abriu uma primeira exceção , permitindo o uso do Mythos 5 por organizações selecionadas e por funcionários da própria Anthropic, incluindo estrangeiros vinculados a esses grupos. O Fable 5 seguia fora do ar até esta terça. O Claude é, atualmente, a terceira IA mais utilizada no mundo (Imagem: Marcelo Fischer/Canaltech) Por que são modelos tão perigosos O Mythos 5 concentra as capacidades que mais preocupam o governo american",
       "lang": "pt",
       "depts": []
-    },
-    {
-      "title": "Português é o 3º idioma mais usado no ChatGPT",
-      "description": "O português é agora o terceiro idioma mais usado no ChatGPT , segundo dados da OpenAI divulgados no relatório OpenAI Signals. Ele fica atrás apenas do inglês e do espanhol. O levantamento também mostra que, pela primeira vez, mais da metade dos usuários ativos usa o ChatGPT principalmente em idiomas",
-      "url": "https://canaltech.com.br/inteligencia-artificial/portugues-e-o-3o-idioma-mais-usado-no-chatgpt/",
-      "publishedAt": "Wed, 01 Jul 2026 09:27:36 -0300",
-      "image": "https://t.ctcdn.com.br/elWRGd7DozFcUzbnLeKmr45Ecyw=/700x394/smart/i1137007.png",
-      "source": "Canaltech IA",
-      "content": "O português é agora o terceiro idioma mais usado no ChatGPT , segundo dados da OpenAI divulgados no relatório OpenAI Signals. Ele fica atrás apenas do inglês e do espanhol. O levantamento também mostra que, pela primeira vez, mais da metade dos usuários ativos usa o ChatGPT principalmente em idiomas diferentes do inglês. Em quarto, quinto e sexto lugar aparecem, respectivamente, o francês, o indonésio e o árabe. A análise mede as interações de usuários nos planos individuais do ChatGPT , incluindo as assinaturas Free (gratuito), Go, Plus e Pro. Além disso, os idiomas uzbeque, cazaque e birmanês foram os que mais cresceram em participação desde julho de 2023. O relatório também mostra que usuários mais antigos usam o ChatGPT com mais frequência. Após seis meses na plataforma, eles enviam, em média, 50% mais mensagens por dia e realizam o dobro de tarefas diferentes em relação ao início do uso. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Português é o terceiro idioma mais usado no ChatGPT. (Imagem: Divulgação/OpenAI) Adoção do ChatGPT cresceu em todas as regiões O relatório também mostra que o uso do ChatGPT cresceu em todos os continentes desde julho de 2023, deixando a base de usuários mais global e diversa. O crescimento foi mais rápido na África, seguida pela Ásia, América do Sul, Europa, América do Norte e Oceania. Segundo a OpenAI, o crescimento foi mais rápido em países com menor Índice de Desenvolvimento Humano (IDH) , que registraram o maior aumento no número de usuários ativos por semana. O levantamento também aponta mudanças no perfil dos usuários. Pessoas com nomes tipicamente femininos representam a maior parte do uso global do ChatGPT. O Brasil, Colômbia, Polônia e Namíbia estão entre os países onde esse grupo supera os usuários com nomes tipicamente masculinos. Já Paquistão, Bangladesh, Angola, República Democrática do Congo e Mali têm a maior presença de",
-      "lang": "pt",
-      "depts": [
-        "Gestão"
-      ]
-    },
-    {
-      "title": "Novo sistema usará IA para \"traduzir\" o que o seu corpo realmente precisa",
-      "description": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30",
-      "url": "https://canaltech.com.br/inteligencia-artificial/novo-sistema-usara-ia-para-traduzir-o-que-o-seu-corpo-realmente-precisa/",
-      "publishedAt": "Wed, 01 Jul 2026 08:00:00 -0300",
-      "image": "https://t.ctcdn.com.br/4BlAeU73zGDl24KwhTRIfUE4ZkA=/700x394/smart/i1138901.png",
-      "source": "Canaltech IA",
-      "content": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência cardíaca, sono e outros indicadores em orientações práticas sobre o que fazer com eles. O anúncio foi feito nesta terça-feira (30) e foi divulgado pelo site Android Police. A empresa afirma que dispositivos vestíveis já evoluíram na coleta de dados, mas ainda falham em explicar o significado desses números para quem os usa. Gee Gu, cofundador da Vilo ao lado de Andy Xu, descreveu o Signal OS como um sistema que ajuda o usuário a entender o que mudou no corpo , priorizar o que importa e transformar sinais corporais em suporte real. Como funciona o Signal OS O sistema reúne quatro frentes principais. A primeira é o Signals , um recurso de cartões que aponta alterações nos indicadores de saúde e sugere o que fazer a respeito. Já o Pulse funciona como um painel com o histórico de dados e tendências ao longo do tempo. - Entre no Canal do WhatsApp do Canaltech e fique por dentro das últimas notícias sobre tecnologia, lançamentos, dicas e tutoriais incríveis. - Há ainda o Vibes , um chatbot com IA para tirar dúvidas sobre as informações coletadas, e uma camada dedicada à saúde da mulher . A Vilo descreve o Signal OS como uma plataforma \"ring-first\", ou seja, pensada primeiro para anéis inteligentes, e ela vai estrear no próprio anel da empresa. A companhia evita o terreno regulatório mais rígido reservado a dispositivos médicos. Segundo o comunicado oficial, a proposta do sistema é oferecer \"orientação de bem-estar e autoconhecimento, não diagnóstico ou tratamento\", o que dispensa aprovação de agências como a FDA, órgão regulador dos Estados Unidos. Fitbit já segue caminho parecido com o AI Coach e o Fitbit Air, usando IA para interpretar pontuações sem depender desse tipo de aval. Possível interface do app dedicado ao sistema, presente no vídeo de divulgação (Imagem: Reprodução/YouTube/VILO) Anel da Vilo",
-      "lang": "pt",
-      "depts": [
-        "Marketing",
-        "Comercial",
-        "Saúde",
-        "Educação"
-      ]
     }
   ]
 }
